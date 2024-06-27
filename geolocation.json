@@ -441,6 +441,7 @@
             "as": "AS33765 TANZANIA TELECOMMUNICATIONS CO. LTD",
             "as": "AS33915 Vodafone Libertel B.V.",
             "as": "AS34241 New Communication Technologies LLC",
+            "as": "AS34456 Rial Com JSC",
             "as": "AS34569 Vivacom Bulgaria EAD",
             "as": "AS3462 Data Communication Business Group",
             "as": "AS34636 Laser Company Ltd",
@@ -544,6 +545,7 @@
             "as": "AS47692 Nessus GmbH",
             "as": "AS4775 Globe Telecoms",
             "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+            "as": "AS47881 One Crna Gora DOO",
             "as": "AS4808 China Unicom Beijing Province Network",
             "as": "AS4812 China Telecom (Group)",
             "as": "AS48293 Uniontel Ltd",
@@ -700,6 +702,7 @@
             "city": "Asientos",
             "city": "Asunci\u00f3n",
             "city": "Attica",
+            "city": "Azle",
             "city": "B\u0101bolsar",
             "city": "B\u0101nka",
             "city": "Bac Ninh",
@@ -747,6 +750,7 @@
             "city": "Brits",
             "city": "Bucaramanga",
             "city": "Budapest",
+            "city": "Budva",
             "city": "Buenos Aires",
             "city": "Buffalo",
             "city": "Buin",
@@ -1120,6 +1124,7 @@
             "city": "Salamanca",
             "city": "Salerno",
             "city": "Salvador",
+            "city": "Sam Phran",
             "city": "Samarinda",
             "city": "Samphanthawong",
             "city": "San Borja",
@@ -1315,6 +1320,7 @@
             "country": "Malaysia",
             "country": "Mexico",
             "country": "Moldova",
+            "country": "Montenegro",
             "country": "Netherlands",
             "country": "Nigeria",
             "country": "Norway",
@@ -1396,6 +1402,7 @@
             "countryCode": "LT",
             "countryCode": "LY",
             "countryCode": "MD",
+            "countryCode": "ME",
             "countryCode": "MX",
             "countryCode": "MY",
             "countryCode": "NG",
@@ -1870,6 +1877,7 @@
             "isp": "Office of Info.Tech. Admin. for Educational Development",
             "isp": "Om Jay Infotech",
             "isp": "OnNet Telecomunica\u00e7\u00f5es LTDA",
+            "isp": "One Crna Gora DOO",
             "isp": "One Eight Technologies Private Limited",
             "isp": "Online S.A.S.",
             "isp": "Ooredoo-MBB",
@@ -1998,6 +2006,7 @@
             "isp": "ReliableSite.Net LLC",
             "isp": "Reliance Jio Infocomm Limited",
             "isp": "Respina Networks & Beyond PJSC",
+            "isp": "Rial Com JSC",
             "isp": "Royalnet",
             "isp": "Rpnet Informatica Ltda - ME",
             "isp": "Ruiz Sebastian Alejandro",
@@ -2411,6 +2420,7 @@
             "lat": 13.6984,
             "lat": 13.7063,
             "lat": 13.7159,
+            "lat": 13.7243,
             "lat": 13.7262,
             "lat": 13.7267,
             "lat": 13.7366,
@@ -2634,6 +2644,7 @@
             "lat": 32.8743,
             "lat": 32.8877,
             "lat": 32.9001,
+            "lat": 32.9074,
             "lat": 32.9812,
             "lat": 33.4484,
             "lat": 33.6054,
@@ -2767,6 +2778,7 @@
             "lat": 41.9913,
             "lat": 42.1513,
             "lat": 42.2684,
+            "lat": 42.2864,
             "lat": 42.2994,
             "lat": 42.4963,
             "lat": 42.6951,
@@ -3194,6 +3206,7 @@
             "lon": -96.7005,
             "lon": -96.854,
             "lon": -96.8784,
+            "lon": -97.5322,
             "lon": -97.6858,
             "lon": -97.7825,
             "lon": -98.3509,
@@ -3206,6 +3219,7 @@
             "lon": 10.1717,
             "lon": 10.7343,
             "lon": 10.9876,
+            "lon": 100.213,
             "lon": 100.417,
             "lon": 100.4366,
             "lon": 100.4597,
@@ -3427,6 +3441,7 @@
             "lon": 18.4991,
             "lon": 18.6314,
             "lon": 18.6435,
+            "lon": 18.84,
             "lon": 19.0947,
             "lon": 19.0974,
             "lon": 19.4083,
@@ -4285,6 +4300,7 @@
             "org": "Telefonica Empresas Chile SA",
             "org": "Telefonica del Sur S.A",
             "org": "Telekomunikasi Indonesia",
+            "org": "Telenor d.o.o. Podgorica",
             "org": "Telia Lietuva, AB",
             "org": "Telium Telecomunica\u00e7\u00f5es Ltda",
             "org": "Telmex Colombia S.A.",
@@ -4598,6 +4614,7 @@
             "query": "103.83.80.67"
             "query": "103.83.97.46"
             "query": "103.84.176.44"
+            "query": "103.87.169.145"
             "query": "103.87.169.199"
             "query": "103.87.169.203"
             "query": "103.87.212.140"
@@ -5433,6 +5450,7 @@
             "query": "37.204.157.91"
             "query": "37.204.209.198"
             "query": "37.26.86.206"
+            "query": "38.10.69.106"
             "query": "38.10.69.110"
             "query": "38.123.79.3"
             "query": "38.156.233.132"
@@ -5592,6 +5610,7 @@
             "query": "61.9.32.194"
             "query": "61.9.34.118"
             "query": "61.9.34.82"
+            "query": "62.176.12.111"
             "query": "62.201.251.217"
             "query": "62.236.76.83"
             "query": "62.3.30.120"
@@ -5722,6 +5741,7 @@
             "query": "93.157.196.58"
             "query": "93.177.126.101"
             "query": "94.101.185.188"
+            "query": "94.102.228.1"
             "query": "94.228.194.18"
             "query": "94.43.164.242"
             "query": "94.45.223.222"
@@ -5787,6 +5807,7 @@
             "region": "70",
             "region": "71",
             "region": "72",
+            "region": "73",
             "region": "75",
             "region": "79",
             "region": "81",
@@ -6041,6 +6062,7 @@
             "regionName": "Blagoevgrad",
             "regionName": "Bogota D.C.",
             "regionName": "Budapest",
+            "regionName": "Budva",
             "regionName": "Buenos Aires F.D.",
             "regionName": "Buenos Aires",
             "regionName": "Burgas",
@@ -6213,6 +6235,7 @@
             "regionName": "Mymensingh Division",
             "regionName": "Nacional",
             "regionName": "Nairobi County",
+            "regionName": "Nakhon Pathom",
             "regionName": "Nakhon Ratchasima",
             "regionName": "Nakhon Sawan",
             "regionName": "National Capital Territory of Delhi",
@@ -6468,6 +6491,7 @@
             "timezone": "Europe/Moscow",
             "timezone": "Europe/Oslo",
             "timezone": "Europe/Paris",
+            "timezone": "Europe/Podgorica",
             "timezone": "Europe/Prague",
             "timezone": "Europe/Rome",
             "timezone": "Europe/Sarajevo",
@@ -6898,6 +6922,7 @@
             "zip": "730001",
             "zip": "730006",
             "zip": "731040",
+            "zip": "73110",
             "zip": "7441",
             "zip": "744101",
             "zip": "75001",
@@ -6913,6 +6938,7 @@
             "zip": "760001",
             "zip": "760002",
             "zip": "760035",
+            "zip": "76020",
             "zip": "76087",
             "zip": "761026",
             "zip": "763560",
@@ -7233,6 +7259,7 @@
         "ip": "103.83.80.67",
         "ip": "103.83.97.46",
         "ip": "103.84.176.44",
+        "ip": "103.87.169.145",
         "ip": "103.87.169.199",
         "ip": "103.87.169.203",
         "ip": "103.87.212.140",
@@ -8068,6 +8095,7 @@
         "ip": "37.204.157.91",
         "ip": "37.204.209.198",
         "ip": "37.26.86.206",
+        "ip": "38.10.69.106",
         "ip": "38.10.69.110",
         "ip": "38.123.79.3",
         "ip": "38.156.233.132",
@@ -8227,6 +8255,7 @@
         "ip": "61.9.32.194",
         "ip": "61.9.34.118",
         "ip": "61.9.34.82",
+        "ip": "62.176.12.111",
         "ip": "62.201.251.217",
         "ip": "62.236.76.83",
         "ip": "62.3.30.120",
@@ -8357,6 +8386,7 @@
         "ip": "93.157.196.58",
         "ip": "93.177.126.101",
         "ip": "94.101.185.188",
+        "ip": "94.102.228.1",
         "ip": "94.228.194.18",
         "ip": "94.43.164.242",
         "ip": "94.45.223.222",
@@ -8650,6 +8680,7 @@
         "port": 2861,
         "port": 28625,
         "port": 28679,
+        "port": 28681,
         "port": 28685,
         "port": 28721,
         "port": 28739,
