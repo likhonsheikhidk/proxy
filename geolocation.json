@@ -577,6 +577,7 @@
             "as": "AS8334 LLC SETEL",
             "as": "AS8452 TE-AS",
             "as": "AS8560 IONOS SE",
+            "as": "AS8612 Tiscali Italia S.P.A.",
             "as": "AS8717 A1 Bulgaria EAD",
             "as": "AS8764 Telia Lietuva, AB",
             "as": "AS8781 Ooredoo Q.S.C.",
@@ -996,6 +997,7 @@
             "city": "Sai Mai",
             "city": "Saint-Denis",
             "city": "Salamanca",
+            "city": "Salerno",
             "city": "Salvador",
             "city": "Samarinda",
             "city": "Samphanthawong",
@@ -1863,6 +1865,7 @@
             "isp": "Teraline Telecom Ltd",
             "isp": "The Constant Company, LLC",
             "isp": "TimeWeb Ltd.",
+            "isp": "Tiscali Italia SpA",
             "isp": "Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS",
             "isp": "Total Play Telecomunicaciones SA De CV",
             "isp": "Toya sp. z o.o.",
@@ -2446,6 +2449,7 @@
             "lat": 40.507,
             "lat": 40.5377,
             "lat": 40.5511,
+            "lat": 40.6574,
             "lat": 40.7123,
             "lat": 40.7127,
             "lat": 40.7537,
@@ -3036,6 +3040,7 @@
             "lon": 139.9955,
             "lon": 14.4124,
             "lon": 14.7278,
+            "lon": 14.8031,
             "lon": 140.1803,
             "lon": 16.2324,
             "lon": 16.9225,
@@ -3812,6 +3817,7 @@
             "org": "Tencent cloud computing (Beijing) Co., Ltd.",
             "org": "Teraline Telecom Svyaz LLC",
             "org": "TimeWeb Ltd",
+            "org": "Tnd S.r.l.",
             "org": "Total Play Telecomunicaciones SA De CV",
             "org": "Toya:net",
             "org": "Tracered SA De CV",
@@ -4051,6 +4057,7 @@
             "query": "103.57.39.54"
             "query": "103.57.80.51"
             "query": "103.58.95.5"
+            "query": "103.59.44.42"
             "query": "103.59.44.75"
             "query": "103.6.177.174"
             "query": "103.69.151.189"
@@ -4739,6 +4746,7 @@
             "query": "213.91.232.94"
             "query": "216.87.69.230"
             "query": "217.100.239.117"
+            "query": "217.133.225.139"
             "query": "217.197.237.74"
             "query": "218.145.131.182"
             "query": "220.247.162.70"
@@ -5100,6 +5108,7 @@
             "region": "68",
             "region": "70",
             "region": "71",
+            "region": "72",
             "region": "75",
             "region": "79",
             "region": "81",
@@ -5347,6 +5356,7 @@
             "regionName": "Calabarzon",
             "regionName": "Caldas Department",
             "regionName": "California",
+            "regionName": "Campania",
             "regionName": "Casanare Department",
             "regionName": "Cauca Department",
             "regionName": "Cear\u00e1",
@@ -6149,6 +6159,7 @@
             "zip": "83200",
             "zip": "83340",
             "zip": "83700",
+            "zip": "84131",
             "zip": "84900",
             "zip": "85001",
             "zip": "851050",
@@ -6378,6 +6389,7 @@
         "ip": "103.57.39.54",
         "ip": "103.57.80.51",
         "ip": "103.58.95.5",
+        "ip": "103.59.44.42",
         "ip": "103.59.44.75",
         "ip": "103.6.177.174",
         "ip": "103.69.151.189",
@@ -7066,6 +7078,7 @@
         "ip": "213.91.232.94",
         "ip": "216.87.69.230",
         "ip": "217.100.239.117",
+        "ip": "217.133.225.139",
         "ip": "217.197.237.74",
         "ip": "218.145.131.182",
         "ip": "220.247.162.70",
@@ -7482,6 +7495,7 @@
         "port": 18287,
         "port": 1833,
         "port": 18499,
+        "port": 1869,
         "port": 18715,
         "port": 18775,
         "port": 1881,
@@ -7566,6 +7580,7 @@
         "port": 26045,
         "port": 26377,
         "port": 26421,
+        "port": 2647,
         "port": 26499,
         "port": 26577,
         "port": 26679,
@@ -7577,6 +7592,7 @@
         "port": 27111,
         "port": 27234,
         "port": 27285,
+        "port": 27353,
         "port": 27481,
         "port": 27559,
         "port": 2777,
