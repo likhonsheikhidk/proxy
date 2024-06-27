@@ -47,4 +47,4 @@ jobs:
         git config --global user.email 'likhonsheikhbd@outlook.com'
         git add http.txt https.txt socks4.txt socks5.txt connect.txt data.txt geolocation.json
         git commit -m "Update proxy lists" -a || echo "No changes to commit"
-        git push
+        git -c http.extraHeader="AUTHORIZATION: bearer ${{ secrets.GH_PAT }}" push
