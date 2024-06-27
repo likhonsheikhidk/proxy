@@ -2,7 +2,7 @@ name: Advanced Continuous Proxy Checking
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Runs every 10 minutes
+    - cron: '*/10 * * * *'  # Runs every 10 minutes
   push:
     branches: [ "main" ]
   pull_request:
@@ -31,6 +31,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests beautifulsoup4 lxml pysocks
 
+    - name: Debug PROXY_SOURCES
+      run: |
+        echo "PROXY_SOURCES length: ${#PROXY_SOURCES}"
+        echo "PROXY_SOURCES first 10 characters: ${PROXY_SOURCES:0:10}..."
+
     - name: Process Proxy Lists
       run: |
         python -c "
@@ -40,7 +45,24 @@ jobs:
         from bs4 import BeautifulSoup
         
         def download_and_process_proxies():
-            proxy_sources = json.loads(os.environ['PROXY_SOURCES'])
+            proxy_sources_str = os.environ.get('PROXY_SOURCES', '{}')
+            print(f'PROXY_SOURCES: {proxy_sources_str[:50]}...')  # Print first 50 chars for debugging
+            
+            try:
+                proxy_sources = json.loads(proxy_sources_str)
+            except json.JSONDecodeError as e:
+                print(f'Error decoding PROXY_SOURCES: {str(e)}')
+                proxy_sources = {}
+            
+            if not proxy_sources:
+                print('PROXY_SOURCES is empty or invalid. Using default sources.')
+                proxy_sources = {
+                    'http': ['https://raw.githubusercontent.com/zloi-user/hideip.me/main/http.txt'],
+                    'https': ['https://raw.githubusercontent.com/zloi-user/hideip.me/main/https.txt'],
+                    'socks4': ['https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks4.txt'],
+                    'socks5': ['https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks5.txt']
+                }
+            
             all_proxies = {
                 'http': set(),
                 'https': set(),
@@ -52,13 +74,9 @@ jobs:
                 for url in urls:
                     try:
                         response = requests.get(url, timeout=10)
-                        if url.endswith('.json'):
-                            data = response.json()
-                            # Process JSON data accordingly
-                            # Example: all_proxies[proxy_type].update(data['proxies'])
-                        else:
-                            proxies = set(response.text.strip().split('\n'))
-                            all_proxies[proxy_type].update(proxies)
+                        proxies = set(response.text.strip().split('\n'))
+                        all_proxies[proxy_type].update(proxies)
+                        print(f'Successfully processed {url}')
                     except Exception as e:
                         print(f'Error processing {url}: {str(e)}')
             
@@ -66,6 +84,7 @@ jobs:
                 with open(f'{proxy_type}.txt', 'w') as f:
                     for proxy in sorted(proxies):
                         f.write(f'{proxy}\n')
+                print(f'Wrote {len(proxies)} {proxy_type} proxies to file')
         
         download_and_process_proxies()
         "
@@ -93,15 +112,21 @@ jobs:
             working_proxies = {pt: [] for pt in proxy_types}
             
             for proxy_type in proxy_types:
-                with open(f'{proxy_type}.txt', 'r') as f:
-                    proxies = f.read().splitlines()
-                
-                with concurrent.futures.ThreadPoolExecutor(max_workers=50) as executor:
-                    future_to_proxy = {executor.submit(check_proxy, proxy, proxy_type): proxy for proxy in proxies}
-                    for future in concurrent.futures.as_completed(future_to_proxy):
-                        proxy, is_working = future.result()
-                        if is_working:
-                            working_proxies[proxy_type].append(proxy)
+                try:
+                    with open(f'{proxy_type}.txt', 'r') as f:
+                        proxies = f.read().splitlines()
+                    print(f'Loaded {len(proxies)} {proxy_type} proxies')
+                    
+                    with concurrent.futures.ThreadPoolExecutor(max_workers=50) as executor:
+                        future_to_proxy = {executor.submit(check_proxy, proxy, proxy_type): proxy for proxy in proxies}
+                        for future in concurrent.futures.as_completed(future_to_proxy):
+                            proxy, is_working = future.result()
+                            if is_working:
+                                working_proxies[proxy_type].append(proxy)
+                    
+                    print(f'Found {len(working_proxies[proxy_type])} working {proxy_type} proxies')
+                except Exception as e:
+                    print(f'Error processing {proxy_type} proxies: {str(e)}')
             
             for proxy_type in proxy_types:
                 with open(f'{proxy_type}_working.txt', 'w') as f:
@@ -110,6 +135,7 @@ jobs:
             
             with open('proxy_stats.json', 'w') as f:
                 json.dump({pt: len(proxies) for pt, proxies in working_proxies.items()}, f)
+            print('Wrote proxy stats to proxy_stats.json')
         
         main()
         "
@@ -121,8 +147,12 @@ jobs:
         from datetime import datetime
         
         def update_readme():
-            with open('proxy_stats.json', 'r') as f:
-                stats = json.load(f)
+            try:
+                with open('proxy_stats.json', 'r') as f:
+                    stats = json.load(f)
+            except FileNotFoundError:
+                print('proxy_stats.json not found. Using empty stats.')
+                stats = {'http': 0, 'https': 0, 'socks4': 0, 'socks5': 0}
             
             update_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')
             
@@ -151,6 +181,7 @@ jobs:
             
             with open('README.md', 'w') as f:
                 f.write(new_content)
+            print('Updated README.md')
         
         update_readme()
         "
