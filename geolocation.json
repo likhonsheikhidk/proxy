@@ -1499,6 +1499,7 @@
             "isp": "EAST-NET Ltd",
             "isp": "EASTMEDIA",
             "isp": "ELEMENTMEDIA GmbH",
+            "isp": "EPM Telecomunicaciones S.A. E.S.P",
             "isp": "EPM Telecomunicaciones S.A. E.S.P.",
             "isp": "ETB - Colombia",
             "isp": "Eastern Telecommunications Philippines, Inc.",
@@ -3837,6 +3838,7 @@
             "org": "Public Telecommunication Corporation",
             "org": "R & B Servi\u00e7os de Telecomunica\u00e7\u00f5es Ltda",
             "org": "RED SERVITEL, CA",
+            "org": "RIDUCO SA",
             "org": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
             "org": "Ramnet",
             "org": "Ranks ITT Ltd.",
@@ -4105,6 +4107,7 @@
             "query": "103.176.96.134"
             "query": "103.177.8.48"
             "query": "103.177.9.104"
+            "query": "103.178.194.122"
             "query": "103.178.42.241"
             "query": "103.178.42.29"
             "query": "103.179.182.155"
@@ -4782,6 +4785,7 @@
             "query": "200.108.190.42"
             "query": "200.110.104.13"
             "query": "200.111.249.197"
+            "query": "200.116.198.222"
             "query": "200.174.198.86"
             "query": "200.24.131.125"
             "query": "200.24.131.126"
@@ -5955,6 +5959,7 @@
             "zip": "048582",
             "zip": "050001",
             "zip": "050021",
+            "zip": "050023",
             "zip": "050032",
             "zip": "0571",
             "zip": "065",
@@ -6514,6 +6519,7 @@
         "ip": "103.176.96.134",
         "ip": "103.177.8.48",
         "ip": "103.177.9.104",
+        "ip": "103.178.194.122",
         "ip": "103.178.42.241",
         "ip": "103.178.42.29",
         "ip": "103.179.182.155",
@@ -7191,6 +7197,7 @@
         "ip": "200.108.190.42",
         "ip": "200.110.104.13",
         "ip": "200.111.249.197",
+        "ip": "200.116.198.222",
         "ip": "200.174.198.86",
         "ip": "200.24.131.125",
         "ip": "200.24.131.126",
@@ -7668,6 +7675,7 @@
         "port": 11491,
         "port": 11505,
         "port": 11563,
+        "port": 11689,
         "port": 11763,
         "port": 1193,
         "port": 1200,
@@ -7929,6 +7937,7 @@
         "port": 3165,
         "port": 3177,
         "port": 3197,
+        "port": 31973,
         "port": 31993,
         "port": 3212,
         "port": 32304,
@@ -8080,6 +8089,7 @@
         "port": 7371,
         "port": 7631,
         "port": 7654,
+        "port": 7655,
         "port": 7735,
         "port": 7777,
         "port": 7831,
