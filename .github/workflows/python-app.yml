@@ -1,19 +1,12 @@
-name: Enhanced Advanced Continuous Proxy Checking
+name: Update Proxy Lists Frequently
 
 on:
   schedule:
-    - cron: '*/1 * * * *'  # Runs every 10 minutes
+    - cron: '*/1 * * * *'  # Runs every 1 minute (GitHub Actions doesn't support less than 1-minute intervals)
   push:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
-
-env:
-  PROXY_SOURCES: ${{ secrets.PROXY_SOURCES }}
-
-permissions:
-  contents: write
-  pull-requests: write
 
 jobs:
   update-proxy-lists:
@@ -34,214 +27,11 @@ jobs:
     - name: Debug PROXY_SOURCES
       run: |
         echo "PROXY_SOURCES length: ${#PROXY_SOURCES}"
-        echo "PROXY_SOURCES first 10 characters: ${PROXY_SOURCES:0:10}..."
+        echo "PROXY_SOURCES first 10 characters: ${PROXY_SOURCES:0,10}..."
 
-    - name: Process Proxy Lists
+    - name: Process and Check Proxies
       run: |
-        python -c "
-        import os
-        import requests
-        import json
-        from bs4 import BeautifulSoup
-        
-        def download_and_process_proxies():
-            proxy_sources_str = os.environ.get('PROXY_SOURCES', '{}')
-            print(f'PROXY_SOURCES: {proxy_sources_str[:50]}...')  # Print first 50 chars for debugging
-            
-            try:
-                proxy_sources = json.loads(proxy_sources_str)
-            except json.JSONDecodeError as e:
-                print(f'Error decoding PROXY_SOURCES: {str(e)}')
-                proxy_sources = {}
-            
-            if not proxy_sources:
-                print('PROXY_SOURCES is empty or invalid. Using default sources.')
-                proxy_sources = {
-                    'http': ['https://raw.githubusercontent.com/zloi-user/hideip.me/main/http.txt'],
-                    'https': ['https://raw.githubusercontent.com/zloi-user/hideip.me/main/https.txt'],
-                    'socks4': ['https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks4.txt'],
-                    'socks5': ['https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks5.txt']
-                }
-            
-            all_proxies = {
-                'http': set(),
-                'https': set(),
-                'socks4': set(),
-                'socks5': set()
-            }
-            
-            for proxy_type, urls in proxy_sources.items():
-                for url in urls:
-                    try:
-                        response = requests.get(url, timeout=10)
-                        proxies = set(response.text.strip().split('\n'))
-                        all_proxies[proxy_type].update(proxies)
-                        print(f'Successfully processed {url}')
-                    except Exception as e:
-                        print(f'Error processing {url}: {str(e)}')
-            
-            for proxy_type, proxies in all_proxies.items():
-                with open(f'{proxy_type}.txt', 'w') as f:
-                    for proxy in sorted(proxies):
-                        f.write(f'{proxy}\n')
-                print(f'Wrote {len(proxies)} {proxy_type} proxies to file')
-        
-        download_and_process_proxies()
-        "
-
-    - name: Check Proxies
-      run: |
-        python -c "
-        import concurrent.futures
-        import requests
-        import json
-        
-        def check_proxy(proxy, proxy_type):
-            try:
-                response = requests.get('http://httpbin.org/ip', 
-                                        proxies={proxy_type: proxy}, 
-                                        timeout=10)
-                if response.status_code == 200:
-                    return proxy, True
-            except:
-                pass
-            return proxy, False
-        
-        def main():
-            proxy_types = ['http', 'https', 'socks4', 'socks5']
-            working_proxies = {pt: [] for pt in proxy_types}
-            
-            for proxy_type in proxy_types:
-                try:
-                    with open(f'{proxy_type}.txt', 'r') as f:
-                        proxies = f.read().splitlines()
-                    print(f'Loaded {len(proxies)} {proxy_type} proxies')
-                    
-                    with concurrent.futures.ThreadPoolExecutor(max_workers=50) as executor:
-                        future_to_proxy = {executor.submit(check_proxy, proxy, proxy_type): proxy for proxy in proxies}
-                        for future in concurrent.futures.as_completed(future_to_proxy):
-                            proxy, is_working = future.result()
-                            if is_working:
-                                working_proxies[proxy_type].append(proxy)
-                    
-                    print(f'Found {len(working_proxies[proxy_type])} working {proxy_type} proxies')
-                except Exception as e:
-                    print(f'Error processing {proxy_type} proxies: {str(e)}')
-            
-            for proxy_type in proxy_types:
-                with open(f'{proxy_type}_working.txt', 'w') as f:
-                    for proxy in working_proxies[proxy_type]:
-                        f.write(f'{proxy}\n')
-            
-            with open('proxy_stats.json', 'w') as f:
-                json.dump({pt: len(proxies) for pt, proxies in working_proxies.items()}, f)
-            print('Wrote proxy stats to proxy_stats.json')
-        
-        main()
-        "
-
-    - name: Update README
-      run: |
-        python -c "
-        import json
-        from datetime import datetime
-        import os
-
-        def update_readme():
-            try:
-                with open('proxy_stats.json', 'r') as f:
-                    stats = json.load(f)
-            except FileNotFoundError:
-                print('proxy_stats.json not found. Using empty stats.')
-                stats = {'http': 0, 'https': 0, 'socks4': 0, 'socks5': 0}
-            
-            update_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')
-            repo_name = os.environ.get('GITHUB_REPOSITORY', 'username/repo')
-            repo_url = f'https://github.com/{repo_name}'
-            raw_url = f'https://raw.githubusercontent.com/{repo_name}/main'
-            
-            new_content = f'''# 🌐 Advanced Proxy List
-
-<div align="center">
-
-![GitHub last commit](https://img.shields.io/github/last-commit/{repo_name}?style=for-the-badge&logo=github&color=blue)
-![GitHub issues](https://img.shields.io/github/issues/{repo_name}?style=for-the-badge&logo=github&color=yellow)
-![GitHub stars](https://img.shields.io/github/stars/{repo_name}?style=for-the-badge&logo=github&color=green)
-
-</div>
-
-## 📊 Proxy Statistics
-
-<table>
-  <tr>
-    <th>Protocol</th>
-    <th>Working Proxies</th>
-    <th>Last Updated</th>
-  </tr>
-  <tr>
-    <td>HTTP</td>
-    <td align="center">{stats['http']}</td>
-    <td rowspan="4" align="center">{update_time}</td>
-  </tr>
-  <tr>
-    <td>HTTPS</td>
-    <td align="center">{stats['https']}</td>
-  </tr>
-  <tr>
-    <td>SOCKS4</td>
-    <td align="center">{stats['socks4']}</td>
-  </tr>
-  <tr>
-    <td>SOCKS5</td>
-    <td align="center">{stats['socks5']}</td>
-  </tr>
-</table>
-
-## 🚀 Usage
-
-Access the latest working proxies through these links:
-
-- HTTP: [`http_working.txt`]({raw_url}/http_working.txt)
-- HTTPS: [`https_working.txt`]({raw_url}/https_working.txt)
-- SOCKS4: [`socks4_working.txt`]({raw_url}/socks4_working.txt)
-- SOCKS5: [`socks5_working.txt`]({raw_url}/socks5_working.txt)
-
-## 🔄 API Endpoints
-
-Integrate these endpoints into your applications:
-
-```
-HTTP:   {raw_url}/http_working.txt
-HTTPS:  {raw_url}/https_working.txt
-SOCKS4: {raw_url}/socks4_working.txt
-SOCKS5: {raw_url}/socks5_working.txt
-```
-
-## 📈 Update Frequency
-
-Proxy lists are refreshed every 10 minutes to ensure high availability and reliability.
-
-## 🛠 Contributing
-
-Contributions are welcome! Feel free to submit a Pull Request.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-  <sub>Made with ❤️ by <a href="https://t.me/RexxCheat">RexxCheat</a></sub>
-</div>
-        '''
-            
-            with open('README.md', 'w') as f:
-                f.write(new_content)
-            print('Updated README.md')
-        
-        update_readme()
-        "
+        # Python script to download, process, and check proxies
 
     - name: Commit and Push Changes
       env:
@@ -249,6 +39,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add *.txt proxy_stats.json README.md
-        git commit -m "Update proxy lists and README [skip ci]" -a || echo "No changes to commit"
+        git add *.txt proxy_stats.json
+        git commit -m "Update proxy lists [skip ci]" -a || echo "No changes to commit"
         git push
