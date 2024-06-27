@@ -1,44 +1,63 @@
-name: Update Proxy Lists Frequently
+name: Continuous Proxy Checking
 
 on:
   schedule:
-    - cron: '*/1 * * * *'  # Runs every 1 minute (GitHub Actions doesn't support less than 1-minute intervals)
+    - cron: '*/5 * * * *'  # Runs every 5 minutes
   push:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
-  update-proxy-lists:
+  build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v4
-      with:
-        python-version: "3.10"
-    
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests beautifulsoup4 lxml pysocks
+      - uses: actions/checkout@v4
 
-    - name: Debug PROXY_SOURCES
-      run: |
-        echo "PROXY_SOURCES length: ${#PROXY_SOURCES}"
-        echo "PROXY_SOURCES first 10 characters: ${PROXY_SOURCES:0,10}..."
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.10"
 
-    - name: Process and Check Proxies
-      run: |
-        # Python script to download, process, and check proxies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install flake8 pytest requests
 
-    - name: Commit and Push Changes
-      env:
-        GH_PAT: ${{ secrets.GH_PAT }}
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add *.txt proxy_stats.json
-        git commit -m "Update proxy lists [skip ci]" -a || echo "No changes to commit"
-        git push
+      - name: Lint with flake8
+        run: |
+          flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+          flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
+
+      - name: Download and Combine Proxy Lists
+        run: |
+          mkdir -p proxy_data
+          curl https://raw.githubusercontent.com/zloi-user/hideip.me/main/http.txt >> proxy_data/http.txt
+          curl https://raw.githubusercontent.com/zloi-user/hideip.me/main/https.txt >> proxy_data/https.txt
+          curl https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks4.txt >> proxy_data/socks4.txt
+          curl https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks5.txt >> proxy_data/socks5.txt
+          curl https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt >> proxy_data/data.txt
+          curl https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json >> proxy_data/geolocation.json
+          curl https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks4.txt >> proxy_data/socks4.txt
+          curl https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks5.txt >> proxy_data/socks5.txt
+          curl https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/http.txt >> proxy_data/http.txt
+          curl https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt >> proxy_data/https.txt
+          
+          # Remove duplicates and clean each file
+          for file in proxy_data/*.txt; do
+            sort -u $file -o $file
+          done
+
+      - name: Commit and Push Changes
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git config --global user.name 'likhonsheikhbd'
+          git config --global user.email 'likhonsheikhbd@outlook.com'
+          git add proxy_data/*
+          git commit -m "Update proxy lists" -a || echo "No changes to commit"
+          git -c http.extraHeader="AUTHORIZATION: bearer ${{ secrets.GH_PAT }}" push
