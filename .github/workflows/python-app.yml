@@ -1,6 +1,8 @@
 name: Continuous Proxy Checking
 
 on:
+  schedule:
+    - cron: '*/5 * * * *'  # Runs every 5 minutes
   push:
     branches: [ "main" ]
   pull_request:
@@ -9,7 +11,6 @@ on:
 permissions:
   contents: write
   pull-requests: write
-
 
 jobs:
   build:
@@ -35,15 +36,21 @@ jobs:
     
     - name: Download Proxy Lists
       run: |
-        curl https://raw.githubusercontent.com/zloi-user/hideip.me/main/http.txt > http.txt
-        curl https://raw.githubusercontent.com/zloi-user/hideip.me/main/https.txt > https.txt
-        curl https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks4.txt > socks4.txt
-        curl https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks5.txt > socks5.txt
-        curl https://raw.githubusercontent.com/zloi-user/hideip.me/main/connect.txt > connect.txt
-        curl https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt > data.txt
-        curl https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json > geolocation.json
+        curl https://raw.githubusercontent.com/zloi-user/hideip.me/main/http.txt -o http.txt
+        curl https://raw.githubusercontent.com/zloi-user/hideip.me/main/https.txt -o https.txt
+        curl https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks4.txt -o socks4.txt
+        curl https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks5.txt -o socks5.txt
+        curl https://raw.githubusercontent.com/zloi-user/hideip.me/main/connect.txt -o connect.txt
+        curl https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt -o data.txt
+        curl https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json -o geolocation.json
+        curl https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks4.txt -o socks4.txt
+        curl https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks5.txt -o socks5.txt
+        curl https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/http.txt -o http.txt
+        curl https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt -o https.txt
 
     - name: Commit and Push Changes
+      env:
+        GH_PAT: ${{ secrets.GH_PAT }}
       run: |
         git config --global user.name 'likhonsheikhbd'
         git config --global user.email 'likhonsheikhbd@outlook.com'
