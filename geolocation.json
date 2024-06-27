@@ -95,6 +95,7 @@
             "as": "AS139180 Shandong eshinton Network Technology Co., Ltd.",
             "as": "AS139326 Digital One Broadband Internet Service",
             "as": "AS139490 Aspt Networks Pvt Ltd",
+            "as": "AS139501 National Crime Records Bureau",
             "as": "AS139941 RIYAD NETWORK",
             "as": "AS139962 PT.Bestcamp Prima Data",
             "as": "AS139972 PT. Putra Lebak Banten",
@@ -327,6 +328,7 @@
             "as": "AS270062 FIBERNET TV SAS",
             "as": "AS270073 IGUANA NETWORK SERVICES C.A.",
             "as": "AS270075 SUPER REDES S.A.S",
+            "as": "AS270114 SERVICIOS DE INFRAESTRUCTURA DE RADIOCOMUNICACION Y REDES PRIVADAS DE DATOS HYPERNET, SC DE RL DE CV",
             "as": "AS270143 MAYSNET SA DE CV",
             "as": "AS270187 2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES",
             "as": "AS270716 GOVISTA TELECOMUNICAO IMPORTACAO LTDA",
@@ -951,6 +953,7 @@
             "city": "Paracatu",
             "city": "Paranagu\u00e1",
             "city": "Paris",
+            "city": "Parral",
             "city": "Pasadena",
             "city": "Pasarkemis",
             "city": "Pasig",
@@ -1124,6 +1127,7 @@
             "city": "Valpara\u00edso",
             "city": "Van Nuys",
             "city": "Vancouver",
+            "city": "Veliko Tarnovo",
             "city": "Ventanas",
             "city": "Vientiane",
             "city": "Vijayawada",
@@ -1309,6 +1313,7 @@
             "isp": "1telecom Servicos De Tecnologia EM Internet Ltda",
             "isp": "2COM",
             "isp": "2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES",
+            "isp": "A1 Bulgaria EAD",
             "isp": "A2 TELECOM PROVEDOR DE INTERNET LTDA",
             "isp": "AGIS",
             "isp": "AKNET Ltd.",
@@ -1677,6 +1682,7 @@
             "isp": "NTT SmartConnect Corporation",
             "isp": "Namecheap, Inc.",
             "isp": "Nandbalaji Connecting Zone Pvt. Ltd",
+            "isp": "National Crime Records Bureau",
             "isp": "Nayatel (Pvt) Ltd",
             "isp": "Negocios Y Telefonia Nedetel S.A",
             "isp": "NetActuate, Inc",
@@ -1838,6 +1844,7 @@
             "isp": "Sajid Trading Limited",
             "isp": "Screen Saver Inform\u00e1tica LTDA",
             "isp": "Sepanta Internet and MPLS Service Provider",
+            "isp": "Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype",
             "isp": "Shandong eshinton Network Technology Co., Ltd.",
             "isp": "Sharktech",
             "isp": "Shenzhen Tencent Computer Systems Company Limited",
@@ -2352,6 +2359,7 @@
             "lat": 26.4837,
             "lat": 26.5531,
             "lat": 26.58,
+            "lat": 26.9524,
             "lat": 26.9525,
             "lat": 26.9912,
             "lat": 27.2032,
@@ -2360,6 +2368,7 @@
             "lat": 28.0002,
             "lat": 28.2014,
             "lat": 28.4634,
+            "lat": 28.5473,
             "lat": 28.6364,
             "lat": 28.8395,
             "lat": 28.8417,
@@ -2529,6 +2538,7 @@
             "lat": 42.6951,
             "lat": 42.8696,
             "lat": 42.8856,
+            "lat": 43.0848,
             "lat": 43.2612,
             "lat": 43.2712,
             "lat": 43.5997,
@@ -2684,6 +2694,7 @@
             "lon": -104.8569,
             "lon": -104.9038,
             "lon": -105.0546,
+            "lon": -105.6662,
             "lon": -107.2555,
             "lon": -111.5139,
             "lon": -112.074,
@@ -3142,6 +3153,7 @@
             "lon": 24.7518,
             "lon": 24.9347,
             "lon": 25.5947,
+            "lon": 25.6606,
             "lon": 25.9077,
             "lon": 25.9112,
             "lon": 26.163,
@@ -3278,6 +3290,7 @@
             "lon": 76.2752,
             "lon": 76.9669,
             "lon": 77.021,
+            "lon": 77.1257,
             "lon": 77.1839,
             "lon": 77.3422,
             "lon": 77.4744,
@@ -3355,6 +3368,7 @@
             "org": "1blu AG",
             "org": "1telecom Servicos De Tecnologia EM Internet Ltda",
             "org": "2COM Co ltd.",
+            "org": "A1 Bulgaria EAD",
             "org": "A2 TELECOM PROVEDOR DE INTERNET LTDA",
             "org": "AGIS",
             "org": "ALICLOUD-HK",
@@ -3822,6 +3836,7 @@
             "org": "Rupali Bank Limited",
             "org": "S3 Company Ltd",
             "org": "SERCOM de Honduras",
+            "org": "SERVICIOS DE INFRAESTRUCTURA DE RADIOCOMUNICACION Y REDES PRIVADAS DE DATOS HYPERNET, SC DE RL DE CV",
             "org": "SISTEMAS, AS",
             "org": "SLT Network Co., LTD",
             "org": "SOLUCIONES INSTALRED CH&C C.A",
@@ -4306,6 +4321,7 @@
             "query": "139.162.224.37"
             "query": "139.167.54.114"
             "query": "139.255.33.242"
+            "query": "139.5.64.108"
             "query": "14.115.105.66"
             "query": "14.143.130.210"
             "query": "14.143.172.238"
@@ -4547,6 +4563,7 @@
             "query": "182.160.105.46"
             "query": "182.160.109.162"
             "query": "182.160.124.214"
+            "query": "182.253.172.86"
             "query": "182.52.229.165"
             "query": "182.53.143.200"
             "query": "182.53.50.2"
@@ -4586,6 +4603,7 @@
             "query": "186.86.143.161"
             "query": "187.102.217.25"
             "query": "187.102.217.4"
+            "query": "187.102.236.209"
             "query": "187.188.101.205"
             "query": "187.19.200.217"
             "query": "187.190.0.240"
@@ -5056,6 +5074,7 @@
             "query": "66.151.40.252"
             "query": "66.210.33.34"
             "query": "66.23.195.93"
+            "query": "67.213.210.167"
             "query": "67.213.210.62"
             "query": "67.213.212.49"
             "query": "67.213.212.58"
@@ -5159,6 +5178,7 @@
             "query": "91.214.31.234"
             "query": "91.228.53.239"
             "query": "92.207.253.226"
+            "query": "92.247.2.26"
             "query": "93.157.196.58"
             "query": "93.177.126.101"
             "query": "94.101.185.188"
@@ -5744,6 +5764,7 @@
             "regionName": "Valle del Cauca Department",
             "regionName": "Valverde Province",
             "regionName": "Vargas",
+            "regionName": "Veliko Tarnovo",
             "regionName": "Veracruz",
             "regionName": "Vientiane Prefecture",
             "regionName": "Virginia",
@@ -6084,6 +6105,7 @@
             "zip": "33178",
             "zip": "33781",
             "zip": "3380",
+            "zip": "33815",
             "zip": "3384",
             "zip": "33980",
             "zip": "34015",
@@ -6160,6 +6182,7 @@
             "zip": "49000",
             "zip": "492015",
             "zip": "49680",
+            "zip": "5000",
             "zip": "500002",
             "zip": "500007",
             "zip": "500008",
@@ -6691,6 +6714,7 @@
         "ip": "139.162.224.37",
         "ip": "139.167.54.114",
         "ip": "139.255.33.242",
+        "ip": "139.5.64.108",
         "ip": "14.115.105.66",
         "ip": "14.143.130.210",
         "ip": "14.143.172.238",
@@ -6932,6 +6956,7 @@
         "ip": "182.160.105.46",
         "ip": "182.160.109.162",
         "ip": "182.160.124.214",
+        "ip": "182.253.172.86",
         "ip": "182.52.229.165",
         "ip": "182.53.143.200",
         "ip": "182.53.50.2",
@@ -6971,6 +6996,7 @@
         "ip": "186.86.143.161",
         "ip": "187.102.217.25",
         "ip": "187.102.217.4",
+        "ip": "187.102.236.209",
         "ip": "187.188.101.205",
         "ip": "187.19.200.217",
         "ip": "187.190.0.240",
@@ -7441,6 +7467,7 @@
         "ip": "66.151.40.252",
         "ip": "66.210.33.34",
         "ip": "66.23.195.93",
+        "ip": "67.213.210.167",
         "ip": "67.213.210.62",
         "ip": "67.213.212.49",
         "ip": "67.213.212.58",
@@ -7544,6 +7571,7 @@
         "ip": "91.214.31.234",
         "ip": "91.228.53.239",
         "ip": "92.207.253.226",
+        "ip": "92.247.2.26",
         "ip": "93.157.196.58",
         "ip": "93.177.126.101",
         "ip": "94.101.185.188",
@@ -7698,6 +7726,7 @@
         "port": 20149,
         "port": 20185,
         "port": 2020,
+        "port": 20261,
         "port": 2028,
         "port": 20311,
         "port": 20317,
@@ -7714,6 +7743,7 @@
         "port": 20971,
         "port": 20985,
         "port": 21151,
+        "port": 21231,
         "port": 2145,
         "port": 21491,
         "port": 21687,
@@ -7778,6 +7808,7 @@
         "port": 27353,
         "port": 27481,
         "port": 27559,
+        "port": 27745,
         "port": 2777,
         "port": 27817,
         "port": 27869,
@@ -7788,6 +7819,7 @@
         "port": 28051,
         "port": 2815,
         "port": 2821,
+        "port": 28221,
         "port": 2835,
         "port": 28359,
         "port": 28489,
@@ -7967,6 +7999,7 @@
         "port": 60808,
         "port": 6107,
         "port": 6115,
+        "port": 6175,
         "port": 62500,
         "port": 63123,
         "port": 6409,
@@ -7995,6 +8028,7 @@
         "port": 7070,
         "port": 7109,
         "port": 7171,
+        "port": 7247,
         "port": 7371,
         "port": 7631,
         "port": 7654,
