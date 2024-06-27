@@ -340,6 +340,7 @@
             "as": "AS27715 Locaweb Servi\u00e7os de Internet S/A",
             "as": "AS27763 ANDITEL S.A.S.",
             "as": "AS27831 Colombia M\u00f3vil",
+            "as": "AS27843 WIN EMPRESAS S.A.C.",
             "as": "AS27947 Telconet S.A",
             "as": "AS28065 CITARELLA S.A.",
             "as": "AS28118 ALTICE DOMINICANA S.A.",
@@ -464,6 +465,7 @@
             "as": "AS4621 UNINET-TH",
             "as": "AS46844 Sharktech",
             "as": "AS47118 MAN net Ltd.",
+            "as": "AS4713 NTT Communications Corporation",
             "as": "AS47232 ISP Alliance a.s.",
             "as": "AS47335 ABN LTD",
             "as": "AS47438 Pskovline Ltd.",
@@ -496,6 +498,7 @@
             "as": "AS52904 Multpontos Telecomunica\u00e7\u00f5es Ltda - ME",
             "as": "AS52965 1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA",
             "as": "AS53013 W I X NET DO BRASIL LTDA - ME",
+            "as": "AS53813 ZSCALER, INC.",
             "as": "AS53989 Swayzee Telephone Company, Inc.",
             "as": "AS54290 Hostwinds LLC.",
             "as": "AS55507 Tejays Dynamic Limited",
@@ -662,6 +665,7 @@
             "city": "Buritama",
             "city": "Buriti",
             "city": "C\u00facuta",
+            "city": "Cabanatuan City",
             "city": "Cabimas",
             "city": "Cairo",
             "city": "Cape Town",
@@ -875,6 +879,7 @@
             "city": "Mymensingh",
             "city": "N\u00e1mestovo",
             "city": "N\u0101r\u0101yanganj",
+            "city": "Naha",
             "city": "Nairobi",
             "city": "Nakhon Ratchasima",
             "city": "Nanjing",
@@ -1306,6 +1311,7 @@
             "isp": "Aspt Networks Pvt Ltd",
             "isp": "Avato Tecnologia S.A",
             "isp": "AzerSat",
+            "isp": "BBTS Network",
             "isp": "BBTS-NEW",
             "isp": "BCMEDIA",
             "isp": "BITNET DOMINICANA, S.R.L.",
@@ -1603,6 +1609,7 @@
             "isp": "NET&COM LTDA.",
             "isp": "NEW UNIVERSAL WORLD PRIVATE LIMITED",
             "isp": "NPK Home-Net Ltd.",
+            "isp": "NTT Communications Corporation",
             "isp": "NTT PC Communications, Inc.",
             "isp": "NTT SmartConnect Corporation",
             "isp": "Namecheap, Inc.",
@@ -1873,6 +1880,7 @@
             "isp": "Vox Telecom Ltd",
             "isp": "W I X NET DO BRASIL LTDA - ME",
             "isp": "WICORP SA",
+            "isp": "WIN EMPRESAS S.A.C.",
             "isp": "WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
             "isp": "Weblink Communications Ltd",
             "isp": "WiCAM Corporation Ltd",
@@ -2141,6 +2149,7 @@
             "lat": 15.2607,
             "lat": 15.3492,
             "lat": 15.3522,
+            "lat": 15.4908,
             "lat": 15.5647,
             "lat": 16.2447,
             "lat": 16.5033,
@@ -2193,6 +2202,7 @@
             "lat": 22.3193,
             "lat": 22.3229,
             "lat": 22.3234,
+            "lat": 22.3384,
             "lat": 22.3618,
             "lat": 22.3693,
             "lat": 22.3702,
@@ -2246,6 +2256,7 @@
             "lat": 25.7732,
             "lat": 25.7933,
             "lat": 26.0255,
+            "lat": 26.2124,
             "lat": 26.4837,
             "lat": 26.5531,
             "lat": 26.58,
@@ -2913,6 +2924,7 @@
             "lon": 120.155,
             "lon": 120.6228,
             "lon": 120.6547,
+            "lon": 120.9693,
             "lon": 120.999,
             "lon": 121.018,
             "lon": 121.039,
@@ -2936,6 +2948,7 @@
             "lon": 126.978,
             "lon": 126.9858,
             "lon": 127.115,
+            "lon": 127.6757,
             "lon": 127.9544,
             "lon": 128.2116,
             "lon": 129.0779,
@@ -3184,6 +3197,7 @@
             "lon": 91.8116,
             "lon": 91.8117,
             "lon": 91.8206,
+            "lon": 91.8317,
             "lon": 92.7494,
             "lon": 92.8993,
             "lon": 98.3074,
@@ -3568,6 +3582,7 @@
             "org": "Office of Info.Tech. Admin. Educational Development",
             "org": "Ondas Telecomunicacoes Ltda",
             "org": "Onet",
+            "org": "Open Computer Network",
             "org": "Opto Communications Private Limited",
             "org": "Oracle Cloud Infrastructure (ap-mumbai-1)",
             "org": "Oracle Cloud Infrastructure (ap-tokyo-1)",
@@ -3631,6 +3646,7 @@
             "org": "Rawafed Libya",
             "org": "Rawafed",
             "org": "RazaoInfo Internet Ltda",
+            "org": "Red Cientifica Peruana",
             "org": "Redes y Comunicaciones de Michoacan S.A. de C.V",
             "org": "Refah Bank",
             "org": "Reisnet Broadband Private Limited",
@@ -3763,6 +3779,7 @@
             "org": "YemenNet",
             "org": "ZAP BL TELECOMUNICACOES LTDA",
             "org": "ZTV Corp",
+            "org": "Zscaler Softech India Private Limited",
             "org": "Zscaler, Inc.",
             "org": "anyNode",
             "org": "bracNet",
@@ -3909,6 +3926,7 @@
             "query": "103.228.246.151"
             "query": "103.229.185.154"
             "query": "103.231.238.234"
+            "query": "103.231.239.126"
             "query": "103.231.239.137"
             "query": "103.231.239.166"
             "query": "103.231.239.18"
@@ -3934,6 +3952,7 @@
             "query": "103.48.68.218"
             "query": "103.48.69.225"
             "query": "103.48.71.126"
+            "query": "103.48.71.2"
             "query": "103.48.71.46"
             "query": "103.48.71.50"
             "query": "103.48.71.70"
@@ -4013,6 +4032,7 @@
             "query": "114.132.202.78"
             "query": "114.132.202.80"
             "query": "114.141.51.51"
+            "query": "114.156.77.107"
             "query": "114.239.144.191"
             "query": "115.127.114.209"
             "query": "115.127.22.211"
@@ -4038,6 +4058,7 @@
             "query": "119.110.69.182"
             "query": "119.148.54.78"
             "query": "119.148.55.89"
+            "query": "119.18.146.114"
             "query": "119.39.109.233"
             "query": "119.76.142.154"
             "query": "119.93.148.191"
@@ -4089,6 +4110,7 @@
             "query": "134.35.251.9"
             "query": "135.125.225.75"
             "query": "136.226.0.100"
+            "query": "136.226.232.125"
             "query": "138.118.106.237"
             "query": "138.118.200.49"
             "query": "138.121.161.86"
@@ -4175,6 +4197,7 @@
             "query": "160.248.92.13"
             "query": "160.248.93.84"
             "query": "160.3.168.70"
+            "query": "161.132.125.244"
             "query": "161.34.35.226"
             "query": "161.34.37.88"
             "query": "161.34.37.89"
@@ -4294,6 +4317,7 @@
             "query": "18.169.83.87"
             "query": "180.148.4.74"
             "query": "180.190.200.24"
+            "query": "180.191.23.149"
             "query": "180.211.186.158"
             "query": "181.115.66.234"
             "query": "181.119.106.85"
@@ -5201,6 +5225,7 @@
             "regionName": "Cauca Department",
             "regionName": "Cear\u00e1",
             "regionName": "Central Java",
+            "regionName": "Central Luzon",
             "regionName": "Central Region",
             "regionName": "Central Singapore",
             "regionName": "Central Visayas",
@@ -5365,6 +5390,7 @@
             "regionName": "Oaxaca",
             "regionName": "Odessa",
             "regionName": "Odisha",
+            "regionName": "Okinawa",
             "regionName": "Oran",
             "regionName": "Orange Free State",
             "regionName": "Oregon",
@@ -5782,6 +5808,7 @@
             "zip": "302002",
             "zip": "302012",
             "zip": "302022",
+            "zip": "3100",
             "zip": "31000",
             "zip": "310000",
             "zip": "31030",
@@ -5996,6 +6023,7 @@
             "zip": "88715",
             "zip": "89000",
             "zip": "8957",
+            "zip": "900-0021",
             "zip": "9000",
             "zip": "90014",
             "zip": "90189",
@@ -6171,6 +6199,7 @@
         "ip": "103.228.246.151",
         "ip": "103.229.185.154",
         "ip": "103.231.238.234",
+        "ip": "103.231.239.126",
         "ip": "103.231.239.137",
         "ip": "103.231.239.166",
         "ip": "103.231.239.18",
@@ -6196,6 +6225,7 @@
         "ip": "103.48.68.218",
         "ip": "103.48.69.225",
         "ip": "103.48.71.126",
+        "ip": "103.48.71.2",
         "ip": "103.48.71.46",
         "ip": "103.48.71.50",
         "ip": "103.48.71.70",
@@ -6275,6 +6305,7 @@
         "ip": "114.132.202.78",
         "ip": "114.132.202.80",
         "ip": "114.141.51.51",
+        "ip": "114.156.77.107",
         "ip": "114.239.144.191",
         "ip": "115.127.114.209",
         "ip": "115.127.22.211",
@@ -6300,6 +6331,7 @@
         "ip": "119.110.69.182",
         "ip": "119.148.54.78",
         "ip": "119.148.55.89",
+        "ip": "119.18.146.114",
         "ip": "119.39.109.233",
         "ip": "119.76.142.154",
         "ip": "119.93.148.191",
@@ -6351,6 +6383,7 @@
         "ip": "134.35.251.9",
         "ip": "135.125.225.75",
         "ip": "136.226.0.100",
+        "ip": "136.226.232.125",
         "ip": "138.118.106.237",
         "ip": "138.118.200.49",
         "ip": "138.121.161.86",
@@ -6437,6 +6470,7 @@
         "ip": "160.248.92.13",
         "ip": "160.248.93.84",
         "ip": "160.3.168.70",
+        "ip": "161.132.125.244",
         "ip": "161.34.35.226",
         "ip": "161.34.37.88",
         "ip": "161.34.37.89",
@@ -6556,6 +6590,7 @@
         "ip": "18.169.83.87",
         "ip": "180.148.4.74",
         "ip": "180.190.200.24",
+        "ip": "180.191.23.149",
         "ip": "180.211.186.158",
         "ip": "181.115.66.234",
         "ip": "181.119.106.85",
@@ -7188,6 +7223,7 @@
         "port": 10897,
         "port": 11000,
         "port": 11049,
+        "port": 11066,
         "port": 1111,
         "port": 11191,
         "port": 11201,
@@ -7239,6 +7275,7 @@
         "port": 16231,
         "port": 1625,
         "port": 16435,
+        "port": 16641,
         "port": 16667,
         "port": 16843,
         "port": 16995,
@@ -7346,6 +7383,7 @@
         "port": 26895,
         "port": 26911,
         "port": 26953,
+        "port": 2699,
         "port": 27111,
         "port": 27234,
         "port": 27285,
@@ -7373,6 +7411,7 @@
         "port": 29141,
         "port": 29173,
         "port": 29200,
+        "port": 29667,
         "port": 29709,
         "port": 29953,
         "port": 30061,
@@ -7410,6 +7449,7 @@
         "port": 31481,
         "port": 31537,
         "port": 31591,
+        "port": 31597,
         "port": 3165,
         "port": 3177,
         "port": 3197,
