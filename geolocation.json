@@ -163,6 +163,7 @@
             "as": "AS262402 ZAP BL TELECOMUNICACOES LTDA",
             "as": "AS262430 DIGITAL DESIGN SERVI\u00c7OS DE TELECOMUNICA\u00c7\u00d5ES EIRELI",
             "as": "AS262589 INTERNEXA Brasil Operadora de Telecomunica\u00e7\u00f5es S.A",
+            "as": "AS262687 Screen Saver Inform\u00e1tica LTDA",
             "as": "AS262934 IP\u00b7RED",
             "as": "AS263127 Redes y Comunicaciones de Michoacan S.A. de C.V.",
             "as": "AS263238 Eliana Vanessa Morocho O\u00f1a",
@@ -658,6 +659,7 @@
             "city": "S\u00e3o Paulo",
             "city": "Sai Mai",
             "city": "Saint-Denis",
+            "city": "Salvador",
             "city": "Samarinda",
             "city": "Samphanthawong",
             "city": "San Carlos del Zulia",
@@ -1211,6 +1213,7 @@
             "isp": "SOLUSINET",
             "isp": "SVYAZ-ENERGO telecommunications company",
             "isp": "Sajid Trading Limited",
+            "isp": "Screen Saver Inform\u00e1tica LTDA",
             "isp": "Sepanta Internet and MPLS Service Provider",
             "isp": "Shandong eshinton Network Technology Co., Ltd.",
             "isp": "Sharktech",
@@ -1312,6 +1315,7 @@
             "lat": -11.7605,
             "lat": -12.0432,
             "lat": -12.0891,
+            "lat": -12.9756,
             "lat": -14.9216,
             "lat": -15.4183,
             "lat": -16.2278,
@@ -1756,6 +1760,7 @@
             "lon": -37.9287,
             "lon": -38.4607,
             "lon": -38.4621,
+            "lon": -38.491,
             "lon": -40.1296,
             "lon": -41.4789,
             "lon": -43.4434,
@@ -2450,6 +2455,7 @@
             "org": "SISTEMAS, AS",
             "org": "SOLUCIONES INSTALRED CH&C C.A",
             "org": "Sajid Trading Limited",
+            "org": "Screen Saver Inform\u00e1tica LTDA",
             "org": "Shandong eshinton Network Technology Co., Ltd.",
             "org": "Sharif University of Technology-International Campus",
             "org": "Sharktech",
@@ -2637,6 +2643,7 @@
             "query": "103.47.175.161"
             "query": "103.48.68.218"
             "query": "103.48.69.225"
+            "query": "103.48.71.46"
             "query": "103.48.71.70"
             "query": "103.5.232.148"
             "query": "103.53.78.26"
@@ -2921,6 +2928,7 @@
             "query": "187.102.217.4"
             "query": "187.188.101.205"
             "query": "187.190.0.240"
+            "query": "187.87.206.97"
             "query": "188.125.169.10"
             "query": "188.125.169.11"
             "query": "188.132.221.170"
@@ -3203,6 +3211,7 @@
             "query": "72.10.160.91"
             "query": "72.10.160.92"
             "query": "72.10.160.93"
+            "query": "72.10.160.94"
             "query": "72.10.164.178"
             "query": "75.84.199.80"
             "query": "77.238.79.111"
@@ -3467,6 +3476,7 @@
             "regionName": "Atl\u00e1ntico",
             "regionName": "B\u00e1cs-Kiskun",
             "regionName": "B\u1eafc Ninh Province",
+            "regionName": "Bahia",
             "regionName": "Baku City",
             "regionName": "Bali",
             "regionName": "Bangkok",
@@ -3703,6 +3713,7 @@
             "timezone": "America/Argentina/Buenos_Aires",
             "timezone": "America/Argentina/Cordoba",
             "timezone": "America/Argentina/Salta",
+            "timezone": "America/Bahia",
             "timezone": "America/Belem",
             "timezone": "America/Bogota",
             "timezone": "America/Caracas",
@@ -3946,6 +3957,7 @@
             "zip": "4214",
             "zip": "422528",
             "zip": "4231",
+            "zip": "42700",
             "zip": "43645",
             "zip": "442",
             "zip": "4427",
@@ -4170,6 +4182,7 @@
         "ip": "103.47.175.161",
         "ip": "103.48.68.218",
         "ip": "103.48.69.225",
+        "ip": "103.48.71.46",
         "ip": "103.48.71.70",
         "ip": "103.5.232.148",
         "ip": "103.53.78.26",
@@ -4454,6 +4467,7 @@
         "ip": "187.102.217.4",
         "ip": "187.188.101.205",
         "ip": "187.190.0.240",
+        "ip": "187.87.206.97",
         "ip": "188.125.169.10",
         "ip": "188.125.169.11",
         "ip": "188.132.221.170",
@@ -4736,6 +4750,7 @@
         "ip": "72.10.160.91",
         "ip": "72.10.160.92",
         "ip": "72.10.160.93",
+        "ip": "72.10.160.94",
         "ip": "72.10.164.178",
         "ip": "75.84.199.80",
         "ip": "77.238.79.111",
@@ -4812,6 +4827,7 @@
         "port": 1212,
         "port": 12167,
         "port": 12917,
+        "port": 13107,
         "port": 1313,
         "port": 13163,
         "port": 1337,
@@ -4866,6 +4882,7 @@
         "port": 22077,
         "port": 22163,
         "port": 22749,
+        "port": 23461,
         "port": 23500,
         "port": 23505,
         "port": 23661,
@@ -4882,6 +4899,7 @@
         "port": 26499,
         "port": 26577,
         "port": 26679,
+        "port": 27111,
         "port": 27234,
         "port": 27481,
         "port": 27869,
@@ -4921,6 +4939,7 @@
         "port": 32693,
         "port": 32927,
         "port": 33087,
+        "port": 33267,
         "port": 3333,
         "port": 33333,
         "port": 3361,
