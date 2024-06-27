@@ -681,6 +681,7 @@
             "city": "Changwat Sara Buri",
             "city": "Chaowai",
             "city": "Chapadao Do Sul",
+            "city": "Charlottesville",
             "city": "Chelyabinsk",
             "city": "Cheney",
             "city": "Chennai",
@@ -1333,6 +1334,7 @@
             "isp": "Belcloud LTD",
             "isp": "Bharti Airtel Limited",
             "isp": "Biznet Metronet",
+            "isp": "Biznet Networks",
             "isp": "Boomerang",
             "isp": "Brisanet Prestacao De Servicos De Internet Ltda",
             "isp": "Brisanet Servicos De Telecomunicacoes Ltda",
@@ -2368,6 +2370,7 @@
             "lat": 37.353,
             "lat": 37.3588,
             "lat": 37.3965,
+            "lat": 37.4316,
             "lat": 37.4834,
             "lat": 37.5093,
             "lat": 37.63,
@@ -2743,6 +2746,7 @@
             "lon": -77.6528,
             "lon": -78.37471,
             "lon": -78.5211,
+            "lon": -78.6569,
             "lon": -78.85,
             "lon": -78.8736,
             "lon": -78.9225,
@@ -3530,6 +3534,7 @@
             "org": "Md Fardus Hossen",
             "org": "Md Mokbul Hossain",
             "org": "Metaphor Digital Media",
+            "org": "Metronet",
             "org": "Microsoft Azure Cloud (centralindia)",
             "org": "Microsoft Azure Cloud (eastasia)",
             "org": "Microsoft Azure Cloud (eastus)",
@@ -4029,6 +4034,7 @@
             "query": "112.198.129.234"
             "query": "112.198.131.71"
             "query": "112.198.179.57"
+            "query": "112.78.162.108"
             "query": "112.78.47.187"
             "query": "113.125.82.11"
             "query": "113.160.132.156"
@@ -4790,8 +4796,10 @@
             "query": "47.251.43.115"
             "query": "47.251.70.179"
             "query": "47.251.85.12"
+            "query": "47.90.205.231"
             "query": "47.90.82.199"
             "query": "49.157.62.202"
+            "query": "49.81.246.212"
             "query": "5.160.32.35"
             "query": "5.189.184.6"
             "query": "5.196.111.29"
@@ -5801,6 +5809,7 @@
             "zip": "220004",
             "zip": "22640-101",
             "zip": "22664",
+            "zip": "22902",
             "zip": "23917",
             "zip": "240-0051",
             "zip": "24000",
@@ -6311,6 +6320,7 @@
         "ip": "112.198.129.234",
         "ip": "112.198.131.71",
         "ip": "112.198.179.57",
+        "ip": "112.78.162.108",
         "ip": "112.78.47.187",
         "ip": "113.125.82.11",
         "ip": "113.160.132.156",
@@ -7072,8 +7082,10 @@
         "ip": "47.251.43.115",
         "ip": "47.251.70.179",
         "ip": "47.251.85.12",
+        "ip": "47.90.205.231",
         "ip": "47.90.82.199",
         "ip": "49.157.62.202",
+        "ip": "49.81.246.212",
         "ip": "5.160.32.35",
         "ip": "5.189.184.6",
         "ip": "5.196.111.29",
@@ -7439,6 +7451,7 @@
         "port": 28679,
         "port": 28685,
         "port": 28721,
+        "port": 28739,
         "port": 28867,
         "port": 2895,
         "port": 29141,
