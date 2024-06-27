@@ -101,6 +101,7 @@
             "as": "AS150279 PT Lintas Network Solusi",
             "as": "AS150880 FAST BYTE FAST DATA COMPANY LIMITED",
             "as": "AS151508 PT Terabyte Network Indonesia",
+            "as": "AS151512 PT Jenius Lintas Nusantara",
             "as": "AS151993 PT Wifian Global Nusantara",
             "as": "AS152384 PT Digitama Network Indonesia",
             "as": "AS152494 SHRIKSHETRA NETWORKS PRIVATE LIMITED",
@@ -140,6 +141,7 @@
             "as": "AS20473 The Constant Company, LLC",
             "as": "AS206065 Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS",
             "as": "AS206854 Lesun communication furtherance engineers Co, (Ltd.)",
+            "as": "AS20771 Caucasus Online Ltd.",
             "as": "AS207957 Sevasteev Artem Nikolaevich",
             "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
             "as": "AS208949 HBING LIMITED",
@@ -230,6 +232,7 @@
             "as": "AS269928 TELECOMUNICACIONES RHJ, C. A.",
             "as": "AS269931 WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
             "as": "AS270004 CRETTON LISANDRO MAXIMILIANO (MISIOTECH)",
+            "as": "AS270026 RED SERVITEL, CA",
             "as": "AS270062 FIBERNET TV SAS",
             "as": "AS270073 IGUANA NETWORK SERVICES C.A.",
             "as": "AS270143 MAYSNET SA DE CV",
@@ -341,6 +344,7 @@
             "as": "AS43754 Asiatech Data Transmission company",
             "as": "AS44495 Palvi Telecom Ltd",
             "as": "AS44724 Octopusnet LTD",
+            "as": "AS44943 Ramtel Ltd.",
             "as": "AS45090 Shenzhen Tencent Computer Systems Company Limited",
             "as": "AS45102 Alibaba (US) Technology Co., Ltd.",
             "as": "AS45117 Ishan's Network",
@@ -451,6 +455,7 @@
             "as": "AS9269 Hong Kong Broadband Network Ltd.",
             "as": "AS9299 Philippine Long Distance Telephone Company",
             "as": "AS9335 CAT Telecom Public Company Limited",
+            "as": "AS9341 PT Indonesia Comnets Plus",
             "as": "AS9381 HKBN Enterprise Solutions HK Limited",
             "as": "AS9498 BHARTI Airtel Ltd.",
             "as": "AS9657 Melsa-i-net AS",
@@ -828,6 +833,7 @@
             "city": "Tanga",
             "city": "Tangerang",
             "city": "Tasikmalaya",
+            "city": "Tbilisi",
             "city": "Teapa",
             "city": "Tehran",
             "city": "Temanggung",
@@ -1098,6 +1104,7 @@
             "isp": "CTL Colombia",
             "isp": "CUSTOMPUBLISHCOLO",
             "isp": "Carnival Internet",
+            "isp": "Caucasus Online Ltd.",
             "isp": "CenterTelecom Voronezh ISP",
             "isp": "China Mobile Communications Corporation",
             "isp": "China Mobile communications corporation",
@@ -1335,12 +1342,14 @@
             "isp": "PT Global Erasiber Teknologi",
             "isp": "PT Global Media Data Prima",
             "isp": "PT Helium Sinergi Telekomunikasi",
+            "isp": "PT INDONESIA COMNETS PLUS",
             "isp": "PT Ilham Wifi Solution",
             "isp": "PT Indo Access Semesta",
             "isp": "PT Indo Telemedia Solusi",
             "isp": "PT Jaring Lintas Utara",
             "isp": "PT Jaring Solusi Persada",
             "isp": "PT Jaringan Keluarga Bersama",
+            "isp": "PT Jenius Lintas Nusantara",
             "isp": "PT Kataji Nukami Indonesia",
             "isp": "PT Lintas Jaringan Nusantara",
             "isp": "PT Lintas Network Solusi",
@@ -1386,9 +1395,11 @@
             "isp": "Psychz Networks",
             "isp": "Public Telecommunication Corporation",
             "isp": "Quantum Dist POP GC",
+            "isp": "RED SERVITEL, CA",
             "isp": "RIYADNETWORK",
             "isp": "RSPN",
             "isp": "Rackspace Hosting",
+            "isp": "Ramtel Ltd.",
             "isp": "Ranks ITT",
             "isp": "Rapeedo Telecom",
             "isp": "Rawafed",
@@ -1593,11 +1604,13 @@
             "lat": -6.2114,
             "lat": -6.22558,
             "lat": -6.2352,
+            "lat": -6.23812,
             "lat": -6.25603,
             "lat": -6.27868,
             "lat": -6.2928,
             "lat": -6.3088,
             "lat": -6.3277,
+            "lat": -6.33734,
             "lat": -6.3885,
             "lat": -6.5585,
             "lat": -6.5945,
@@ -1911,6 +1924,7 @@
             "lat": 41.113,
             "lat": 41.3253,
             "lat": 41.6473,
+            "lat": 41.6959,
             "lat": 41.8434,
             "lat": 41.8819,
             "lat": 41.9913,
@@ -2017,6 +2031,7 @@
             "lat": 8.12713,
             "lat": 8.6311,
             "lat": 9.00189,
+            "lat": 9.008,
             "lat": 9.9185,
             "lat": 9.9327,
             "lat": 9.9346,
@@ -2117,6 +2132,7 @@
             "lon": -71.432,
             "lon": -71.621,
             "lon": -71.9105,
+            "lon": -71.923,
             "lon": -72.238,
             "lon": -72.5018,
             "lon": -73.573,
@@ -2231,6 +2247,7 @@
             "lon": 106.788,
             "lon": 106.789,
             "lon": 106.7926,
+            "lon": 106.796,
             "lon": 106.822,
             "lon": 106.824,
             "lon": 106.826,
@@ -2424,6 +2441,7 @@
             "lon": 44.0281,
             "lon": 44.2095,
             "lon": 44.4249,
+            "lon": 44.832,
             "lon": 46.012,
             "lon": 49.1178,
             "lon": 49.8875,
@@ -2609,6 +2627,7 @@
             "org": "CV. CAHAYA WIJAYA LESTARI",
             "org": "Canal Antigua S.A",
             "org": "Carnival Care Limited",
+            "org": "Caucasus",
             "org": "Cdn77 PRG POP",
             "org": "China Mobile Communications Corporation",
             "org": "China Mobile",
@@ -2840,6 +2859,7 @@
             "org": "PT Indo Telemedia Solusi",
             "org": "PT Jaring Solusi Persada",
             "org": "PT Jaringan Keluarga Bersama",
+            "org": "PT Jenius Lintas Nusantara",
             "org": "PT Kataji Nukami Indonesia",
             "org": "PT Lintas Network Solusi",
             "org": "PT MITRA VISIONER PRATAMA",
@@ -2863,6 +2883,8 @@
             "org": "Prisac Aviation Technologies Private Limited",
             "org": "Pskovline Ltd",
             "org": "Psychz Networks",
+            "org": "RED SERVITEL, CA",
+            "org": "Ramnet",
             "org": "Ranks ITT Ltd.",
             "org": "Rapeedo LTDA",
             "org": "Rawafed",
@@ -3079,10 +3101,12 @@
             "query": "103.214.219.23"
             "query": "103.218.25.169"
             "query": "103.221.254.102"
+            "query": "103.229.185.154"
             "query": "103.231.239.166"
             "query": "103.231.239.18"
             "query": "103.232.20.166"
             "query": "103.234.27.78"
+            "query": "103.234.31.59"
             "query": "103.239.175.90"
             "query": "103.239.252.214"
             "query": "103.24.213.200"
@@ -3233,6 +3257,7 @@
             "query": "14.34.180.21"
             "query": "140.227.228.202"
             "query": "140.99.122.244"
+            "query": "141.136.56.16"
             "query": "141.145.204.7"
             "query": "142.11.195.185"
             "query": "142.93.142.36"
@@ -3374,6 +3399,7 @@
             "query": "177.39.139.14"
             "query": "177.87.15.141"
             "query": "177.93.45.225"
+            "query": "178.22.52.21"
             "query": "178.254.31.232"
             "query": "178.46.163.102"
             "query": "178.48.68.61"
@@ -3407,6 +3433,7 @@
             "query": "181.48.155.78"
             "query": "181.49.100.190"
             "query": "181.78.94.169"
+            "query": "181.78.94.238"
             "query": "182.160.100.156"
             "query": "182.160.103.220"
             "query": "182.160.105.46"
@@ -3812,6 +3839,7 @@
             "query": "83.143.24.66"
             "query": "83.242.120.190"
             "query": "84.247.141.245"
+            "query": "85.117.56.151"
             "query": "85.132.37.9"
             "query": "85.133.130.18"
             "query": "85.232.243.235"
@@ -4307,6 +4335,7 @@
             "regionName": "Tanga",
             "regionName": "Taoyuan",
             "regionName": "Tatarstan Republic",
+            "regionName": "Tbilisi",
             "regionName": "Tehran",
             "regionName": "Telangana",
             "regionName": "Texas",
@@ -4895,10 +4924,12 @@
         "ip": "103.214.219.23",
         "ip": "103.218.25.169",
         "ip": "103.221.254.102",
+        "ip": "103.229.185.154",
         "ip": "103.231.239.166",
         "ip": "103.231.239.18",
         "ip": "103.232.20.166",
         "ip": "103.234.27.78",
+        "ip": "103.234.31.59",
         "ip": "103.239.175.90",
         "ip": "103.239.252.214",
         "ip": "103.24.213.200",
@@ -5049,6 +5080,7 @@
         "ip": "14.34.180.21",
         "ip": "140.227.228.202",
         "ip": "140.99.122.244",
+        "ip": "141.136.56.16",
         "ip": "141.145.204.7",
         "ip": "142.11.195.185",
         "ip": "142.93.142.36",
@@ -5190,6 +5222,7 @@
         "ip": "177.39.139.14",
         "ip": "177.87.15.141",
         "ip": "177.93.45.225",
+        "ip": "178.22.52.21",
         "ip": "178.254.31.232",
         "ip": "178.46.163.102",
         "ip": "178.48.68.61",
@@ -5223,6 +5256,7 @@
         "ip": "181.48.155.78",
         "ip": "181.49.100.190",
         "ip": "181.78.94.169",
+        "ip": "181.78.94.238",
         "ip": "182.160.100.156",
         "ip": "182.160.103.220",
         "ip": "182.160.105.46",
@@ -5628,6 +5662,7 @@
         "ip": "83.143.24.66",
         "ip": "83.242.120.190",
         "ip": "84.247.141.245",
+        "ip": "85.117.56.151",
         "ip": "85.132.37.9",
         "ip": "85.133.130.18",
         "ip": "85.232.243.235",
