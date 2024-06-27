@@ -1,4 +1,4 @@
-name: Advanced Continuous Proxy Checking
+name: Enhanced Advanced Continuous Proxy Checking
 
 on:
   schedule:
@@ -145,7 +145,8 @@ jobs:
         python -c "
         import json
         from datetime import datetime
-        
+        import os
+
         def update_readme():
             try:
                 with open('proxy_stats.json', 'r') as f:
@@ -155,28 +156,84 @@ jobs:
                 stats = {'http': 0, 'https': 0, 'socks4': 0, 'socks5': 0}
             
             update_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')
+            repo_name = os.environ.get('GITHUB_REPOSITORY', 'username/repo')
+            repo_url = f'https://github.com/{repo_name}'
+            raw_url = f'https://raw.githubusercontent.com/{repo_name}/main'
             
-            new_content = f'''# Proxy List
+            new_content = f'''# 🌐 Advanced Proxy List
 
-        Last updated: {update_time}
+<div align="center">
 
-        ## Statistics
+![GitHub last commit](https://img.shields.io/github/last-commit/{repo_name}?style=for-the-badge&logo=github&color=blue)
+![GitHub issues](https://img.shields.io/github/issues/{repo_name}?style=for-the-badge&logo=github&color=yellow)
+![GitHub stars](https://img.shields.io/github/stars/{repo_name}?style=for-the-badge&logo=github&color=green)
 
-        - HTTP: {stats['http']} working proxies
-        - HTTPS: {stats['https']} working proxies
-        - SOCKS4: {stats['socks4']} working proxies
-        - SOCKS5: {stats['socks5']} working proxies
+</div>
 
-        ## Usage
+## 📊 Proxy Statistics
 
-        You can find the working proxies in the following files:
+<table>
+  <tr>
+    <th>Protocol</th>
+    <th>Working Proxies</th>
+    <th>Last Updated</th>
+  </tr>
+  <tr>
+    <td>HTTP</td>
+    <td align="center">{stats['http']}</td>
+    <td rowspan="4" align="center">{update_time}</td>
+  </tr>
+  <tr>
+    <td>HTTPS</td>
+    <td align="center">{stats['https']}</td>
+  </tr>
+  <tr>
+    <td>SOCKS4</td>
+    <td align="center">{stats['socks4']}</td>
+  </tr>
+  <tr>
+    <td>SOCKS5</td>
+    <td align="center">{stats['socks5']}</td>
+  </tr>
+</table>
 
-        - HTTP: [http_working.txt](http_working.txt)
-        - HTTPS: [https_working.txt](https_working.txt)
-        - SOCKS4: [socks4_working.txt](socks4_working.txt)
-        - SOCKS5: [socks5_working.txt](socks5_working.txt)
+## 🚀 Usage
 
-        These lists are updated every 10 minutes.
+Access the latest working proxies through these links:
+
+- HTTP: [`http_working.txt`]({raw_url}/http_working.txt)
+- HTTPS: [`https_working.txt`]({raw_url}/https_working.txt)
+- SOCKS4: [`socks4_working.txt`]({raw_url}/socks4_working.txt)
+- SOCKS5: [`socks5_working.txt`]({raw_url}/socks5_working.txt)
+
+## 🔄 API Endpoints
+
+Integrate these endpoints into your applications:
+
+```
+HTTP:   {raw_url}/http_working.txt
+HTTPS:  {raw_url}/https_working.txt
+SOCKS4: {raw_url}/socks4_working.txt
+SOCKS5: {raw_url}/socks5_working.txt
+```
+
+## 📈 Update Frequency
+
+Proxy lists are refreshed every 10 minutes to ensure high availability and reliability.
+
+## 🛠 Contributing
+
+Contributions are welcome! Feel free to submit a Pull Request.
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+  <sub>Made with ❤️ by <a href="https://t.me/RexxCheat">RexxCheat</a></sub>
+</div>
         '''
             
             with open('README.md', 'w') as f:
