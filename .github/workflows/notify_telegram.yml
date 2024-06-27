@@ -11,30 +11,24 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
       - name: Calculate proxy metrics
         id: metrics
         run: |
-          # Calculate fetch time and ping (simulated as example)
-          start_time=$SECONDS
-          total_proxies=$(wc -l < https.txt)
-          ping_time=$(ping -c 4 example.com | tail -1| awk -F '/' '{print $5}')  # Ping example.com for simplicity
-          elapsed_time=$(($SECONDS - start_time))
-
-          echo "Total proxies: $total_proxies"
-          echo "Fetch time: $elapsed_time seconds"
-          echo "Average ping: $ping_time ms"
-
-          # Set outputs for later steps
-          echo "::set-output name=total_proxies::$total_proxies"
-          echo "::set-output name=fetch_time::$elapsed_time"
-          echo "::set-output name=ping::$ping_time"
+          echo "TOTAL_PROXIES=$(wc -l < https.txt)" >> $GITHUB_ENV
+          echo "FETCH_TIME=$(($SECONDS - START_TIME))" >> $GITHUB_ENV
+          PING_TIME=$(ping -c 4 example.com | tail -1| awk -F '/' '{print $5}')
+          echo "AVERAGE_PING=$PING_TIME" >> $GITHUB_ENV
 
       - name: Send update notification to Telegram
-        run: |
-          curl -X POST \
-            https://api.telegram.org/bot${{ secrets.BOT_TOKEN }}/sendMessage \
-            -d chat_id=-1002161984488 \
-            -d text="🔄 *Updated HTTPS Proxies! 📡*\n\n*Fetch Time:* ${{ steps.metrics.outputs.fetch_time }} seconds\n*Total Proxies:* ${{ steps.metrics.outputs.total_proxies }}\n*Average Ping:* ${{ steps.metrics.outputs.ping }} ms\n\nCheck out the new list! #proxies" \
-            -d parse_mode=Markdown
+        run: node sendNotification.js
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: '@FreshProxyLists'  # Or use -1002161984488 for a group ID
+          FETCH_TIME: ${{ env.FETCH_TIME }}
+          TOTAL_PROXIES: ${{ env.TOTAL_PROXIES }}
+          AVERAGE_PING: ${{ env.AVERAGE_PING }}
