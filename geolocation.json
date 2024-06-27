@@ -202,6 +202,7 @@
             "as": "AS206854 Lesun communication furtherance engineers Co, (Ltd.)",
             "as": "AS20771 Caucasus Online Ltd.",
             "as": "AS207957 Sevasteev Artem Nikolaevich",
+            "as": "AS208320 AIRMAX LLC",
             "as": "AS20845 DIGI Tavkozlesi es Szolgaltato Kft.",
             "as": "AS208949 HBING LIMITED",
             "as": "AS208972 GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI",
@@ -431,6 +432,7 @@
             "as": "AS38592 Chittagong Online Limited AS38592 AP",
             "as": "AS38731 Vietel - CHT Compamy Ltd",
             "as": "AS38750 Telemedia Dinamika Sarana, PT",
+            "as": "AS38758 PT. HIPERNET INDODATA",
             "as": "AS38771 PT Cyberplus Media Pratama",
             "as": "AS39074 Sepanta Communication Development Co. Ltd",
             "as": "AS39135 Fiber 1 Ltd.",
@@ -1330,6 +1332,7 @@
             "isp": "Aftab IT Limited",
             "isp": "Agni Systems Limited",
             "isp": "AirLink Broadband Limited",
+            "isp": "Airmax LLC",
             "isp": "Airtek Solutions C.A.",
             "isp": "Airtime Technology SRL",
             "isp": "Akamai Technologies",
@@ -1773,6 +1776,7 @@
             "isp": "PT. Fiber Networks Indonesia",
             "isp": "PT. First Media, Tbk",
             "isp": "PT. Foxline Mediadata Indonusa",
+            "isp": "PT. HIPERNET INDODATA",
             "isp": "PT. JAYA LINTAS INDONESIA",
             "isp": "PT. Java Digital Nusantara",
             "isp": "PT. LINKNET",
@@ -3576,6 +3580,7 @@
             "org": "High Speed Telekomunikasyon ve Haberlesme Hizmetleri Ltd Sti",
             "org": "Highspeed VAE",
             "org": "Highspeed",
+            "org": "Hipernet Indodata PT",
             "org": "HomeNet LTDA",
             "org": "Hong Kong Broadband Network Ltd",
             "org": "Hong Kong Communications International Co., limited",
@@ -4162,6 +4167,7 @@
             "query": "103.87.212.140"
             "query": "103.88.236.113"
             "query": "103.88.238.225"
+            "query": "103.88.239.118"
             "query": "103.88.239.178"
             "query": "103.99.27.234"
             "query": "103.99.27.3"
@@ -4302,6 +4308,7 @@
             "query": "139.255.33.242"
             "query": "14.115.105.66"
             "query": "14.143.130.210"
+            "query": "14.143.172.238"
             "query": "14.170.154.193"
             "query": "14.34.180.21"
             "query": "140.227.228.202"
@@ -4761,6 +4768,7 @@
             "query": "202.173.217.4"
             "query": "202.179.184.66"
             "query": "202.179.90.217"
+            "query": "202.180.20.11"
             "query": "202.182.55.42"
             "query": "202.189.11.149"
             "query": "202.29.215.78"
@@ -4937,6 +4945,8 @@
             "query": "45.125.222.81"
             "query": "45.127.56.194"
             "query": "45.133.107.64"
+            "query": "45.143.108.11"
+            "query": "45.143.108.114"
             "query": "45.170.102.225"
             "query": "45.170.102.89"
             "query": "45.171.109.1"
@@ -6233,6 +6243,7 @@
             "zip": "69900",
             "zip": "69930",
             "zip": "70000",
+            "zip": "700014",
             "zip": "700063",
             "zip": "70023",
             "zip": "70423",
@@ -6541,6 +6552,7 @@
         "ip": "103.87.212.140",
         "ip": "103.88.236.113",
         "ip": "103.88.238.225",
+        "ip": "103.88.239.118",
         "ip": "103.88.239.178",
         "ip": "103.99.27.234",
         "ip": "103.99.27.3",
@@ -6681,6 +6693,7 @@
         "ip": "139.255.33.242",
         "ip": "14.115.105.66",
         "ip": "14.143.130.210",
+        "ip": "14.143.172.238",
         "ip": "14.170.154.193",
         "ip": "14.34.180.21",
         "ip": "140.227.228.202",
@@ -7140,6 +7153,7 @@
         "ip": "202.173.217.4",
         "ip": "202.179.184.66",
         "ip": "202.179.90.217",
+        "ip": "202.180.20.11",
         "ip": "202.182.55.42",
         "ip": "202.189.11.149",
         "ip": "202.29.215.78",
@@ -7316,6 +7330,8 @@
         "ip": "45.125.222.81",
         "ip": "45.127.56.194",
         "ip": "45.133.107.64",
+        "ip": "45.143.108.11",
+        "ip": "45.143.108.114",
         "ip": "45.170.102.225",
         "ip": "45.170.102.89",
         "ip": "45.171.109.1",
@@ -7558,6 +7574,7 @@
         "port": 10299,
         "port": 10331,
         "port": 10377,
+        "port": 10515,
         "port": 10555,
         "port": 10617,
         "port": 10653,
@@ -7664,6 +7681,7 @@
         "port": 1901,
         "port": 19017,
         "port": 19132,
+        "port": 19179,
         "port": 19327,
         "port": 1947,
         "port": 19475,
