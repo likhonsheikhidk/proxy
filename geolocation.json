@@ -325,6 +325,7 @@
             "as": "AS270888 V8 Telecom LTDA",
             "as": "AS271779 FULLNET SOLUTIONS S.A.S.",
             "as": "AS271784 ACCESS AIR SOCIEDAD SIMPLE",
+            "as": "AS271819 RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
             "as": "AS271899 GIGAPOP, C.A.",
             "as": "AS271907 COLNETWORK C.A.",
             "as": "AS271932 FUN TECHNOLOGY S.R.L",
@@ -1661,6 +1662,7 @@
             "isp": "Novotelecom Ltd.",
             "isp": "Noyan Abr Arvan Co. ( Private Joint Stock)",
             "isp": "Nt Cybronet Pvt Ltd",
+            "isp": "OJSC Vimpelcom HQ",
             "isp": "OJSC uralsvyazinform",
             "isp": "ONE ALBANIA SH.A.",
             "isp": "ONNO NETWORKS, SOCIEDAD AN\u00d3NIMA",
@@ -1767,6 +1769,7 @@
             "isp": "RED SERVITEL, CA",
             "isp": "RIYADNETWORK",
             "isp": "RSPN",
+            "isp": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
             "isp": "Rackspace Hosting",
             "isp": "Ramtel Ltd.",
             "isp": "Ranks ITT",
@@ -2570,6 +2573,7 @@
             "lat": 55.7421,
             "lat": 55.7483,
             "lat": 55.7558,
+            "lat": 55.7569,
             "lat": 55.7636,
             "lat": 55.785,
             "lat": 55.7912,
@@ -3115,6 +3119,7 @@
             "lon": 37.6171,
             "lon": 37.6173,
             "lon": 37.697,
+            "lon": 37.7007,
             "lon": 37.8028,
             "lon": 37.8887,
             "lon": 37.9693,
@@ -3705,6 +3710,7 @@
             "org": "Psychz Networks",
             "org": "Public Telecommunication Corporation",
             "org": "RED SERVITEL, CA",
+            "org": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
             "org": "Ramnet",
             "org": "Ranks ITT Ltd.",
             "org": "Rapeedo LTDA",
@@ -4326,6 +4332,7 @@
             "query": "170.238.112.71"
             "query": "170.239.205.10"
             "query": "170.78.61.26"
+            "query": "170.80.203.46"
             "query": "170.81.131.70"
             "query": "170.83.76.22"
             "query": "171.102.10.74"
@@ -4465,6 +4472,7 @@
             "query": "186.215.87.194"
             "query": "186.24.9.116"
             "query": "186.86.143.161"
+            "query": "187.102.217.25"
             "query": "187.102.217.4"
             "query": "187.188.101.205"
             "query": "187.19.200.217"
@@ -4534,6 +4542,7 @@
             "query": "190.94.212.197"
             "query": "190.94.212.216"
             "query": "190.94.212.221"
+            "query": "190.94.212.222"
             "query": "190.94.212.240"
             "query": "190.94.213.14"
             "query": "190.94.213.4"
@@ -4942,6 +4951,7 @@
             "query": "77.237.28.191"
             "query": "77.238.79.111"
             "query": "77.242.16.30"
+            "query": "77.41.146.26"
             "query": "77.52.187.199"
             "query": "78.130.246.65"
             "query": "78.38.100.50"
@@ -6645,6 +6655,7 @@
         "ip": "170.238.112.71",
         "ip": "170.239.205.10",
         "ip": "170.78.61.26",
+        "ip": "170.80.203.46",
         "ip": "170.81.131.70",
         "ip": "170.83.76.22",
         "ip": "171.102.10.74",
@@ -6784,6 +6795,7 @@
         "ip": "186.215.87.194",
         "ip": "186.24.9.116",
         "ip": "186.86.143.161",
+        "ip": "187.102.217.25",
         "ip": "187.102.217.4",
         "ip": "187.188.101.205",
         "ip": "187.19.200.217",
@@ -6853,6 +6865,7 @@
         "ip": "190.94.212.197",
         "ip": "190.94.212.216",
         "ip": "190.94.212.221",
+        "ip": "190.94.212.222",
         "ip": "190.94.212.240",
         "ip": "190.94.213.14",
         "ip": "190.94.213.4",
@@ -7261,6 +7274,7 @@
         "ip": "77.237.28.191",
         "ip": "77.238.79.111",
         "ip": "77.242.16.30",
+        "ip": "77.41.146.26",
         "ip": "77.52.187.199",
         "ip": "78.130.246.65",
         "ip": "78.38.100.50",
@@ -7413,6 +7427,7 @@
         "port": 14469,
         "port": 14505,
         "port": 14585,
+        "port": 14655,
         "port": 14815,
         "port": 14851,
         "port": 15693,
@@ -7428,6 +7443,7 @@
         "port": 16995,
         "port": 17041,
         "port": 17085,
+        "port": 17123,
         "port": 17135,
         "port": 17171,
         "port": 17227,
@@ -7495,6 +7511,7 @@
         "port": 22163,
         "port": 222,
         "port": 22335,
+        "port": 22467,
         "port": 2251,
         "port": 22521,
         "port": 22669,
@@ -7719,6 +7736,7 @@
         "port": 6060,
         "port": 60808,
         "port": 6107,
+        "port": 6115,
         "port": 63123,
         "port": 6409,
         "port": 65056,
