@@ -349,6 +349,7 @@
             "as": "AS28144 G3 TELECOM",
             "as": "AS28178 Networld Provedor e Servicos de Internet Ltda",
             "as": "AS28287 FIT Telecom Eireli",
+            "as": "AS28330 IFTNET Telecomunicacoes Ltda",
             "as": "AS28343 UNIFIQUE TELECOMUNICACOES S/A",
             "as": "AS28424 DISTROKOM S DE RL DE CV",
             "as": "AS28539 JOSE MIGUEL MACIAS CONTRERAS",
@@ -992,6 +993,7 @@
             "city": "Sanliurfa",
             "city": "Santa Ana",
             "city": "Santa Barbara",
+            "city": "Santa Clara",
             "city": "Santa Cruz",
             "city": "Santa Rosa de Cop\u00e1n",
             "city": "Santa Rosa del Sur",
@@ -1506,6 +1508,7 @@
             "isp": "Hostwinds LLC.",
             "isp": "Hulum Almustakbal Company for Communication Engineering and Services Ltd",
             "isp": "ICONPLN",
+            "isp": "IFTNET Telecomunicacoes Ltda",
             "isp": "IFX NETWORKS COLOMBIA",
             "isp": "IFX Networks Venezuela C.A.",
             "isp": "INTERNEXA Brasil Operadora de Telecomunica\u00d4\u00d4es S.A",
@@ -2362,6 +2365,7 @@
             "lat": 36.9914,
             "lat": 37.1672,
             "lat": 37.3513,
+            "lat": 37.353,
             "lat": 37.3588,
             "lat": 37.3965,
             "lat": 37.4834,
@@ -2589,6 +2593,7 @@
             "lon": -118.4313,
             "lon": -119.418,
             "lon": -121.1786,
+            "lon": -121.9543,
             "lon": -122.294,
             "lon": -122.2999,
             "lon": -122.5239,
@@ -3443,6 +3448,7 @@
             "org": "Hostaxis Network Private Limited",
             "org": "Hosting Services, Inc.",
             "org": "Hostwinds LLC",
+            "org": "IFTNET Telecomunicacoes Ltda",
             "org": "IFX Networks Argentina S.R.L",
             "org": "IFX Networks Venezuela C.A",
             "org": "INEXT Broadband Company Limited",
@@ -4257,6 +4263,7 @@
             "query": "170.238.112.71"
             "query": "170.239.205.10"
             "query": "170.78.61.26"
+            "query": "170.81.131.70"
             "query": "170.83.76.22"
             "query": "171.102.10.74"
             "query": "171.227.248.125"
@@ -4462,6 +4469,7 @@
             "query": "190.94.212.216"
             "query": "190.94.212.221"
             "query": "190.94.212.240"
+            "query": "190.94.213.14"
             "query": "190.94.213.4"
             "query": "190.94.213.8"
             "query": "190.95.202.210"
@@ -4606,6 +4614,7 @@
             "query": "206.42.28.150"
             "query": "206.42.56.195"
             "query": "206.62.161.35"
+            "query": "206.62.161.5"
             "query": "206.84.104.126"
             "query": "206.84.40.62"
             "query": "207.230.8.74"
@@ -4778,6 +4787,7 @@
             "query": "46.32.25.18"
             "query": "47.238.192.169"
             "query": "47.238.210.31"
+            "query": "47.251.43.115"
             "query": "47.251.70.179"
             "query": "47.251.85.12"
             "query": "47.90.82.199"
@@ -4794,6 +4804,7 @@
             "query": "50.236.203.15"
             "query": "51.210.107.197"
             "query": "52.13.248.29"
+            "query": "52.26.114.229"
             "query": "52.35.240.119"
             "query": "54.212.22.168"
             "query": "57.181.42.83"
@@ -6049,6 +6060,7 @@
             "zip": "93200",
             "zip": "94-109",
             "zip": "94007",
+            "zip": "95052",
             "zip": "95270",
             "zip": "96521",
             "zip": "9700",
@@ -6533,6 +6545,7 @@
         "ip": "170.238.112.71",
         "ip": "170.239.205.10",
         "ip": "170.78.61.26",
+        "ip": "170.81.131.70",
         "ip": "170.83.76.22",
         "ip": "171.102.10.74",
         "ip": "171.227.248.125",
@@ -6738,6 +6751,7 @@
         "ip": "190.94.212.216",
         "ip": "190.94.212.221",
         "ip": "190.94.212.240",
+        "ip": "190.94.213.14",
         "ip": "190.94.213.4",
         "ip": "190.94.213.8",
         "ip": "190.95.202.210",
@@ -6882,6 +6896,7 @@
         "ip": "206.42.28.150",
         "ip": "206.42.56.195",
         "ip": "206.62.161.35",
+        "ip": "206.62.161.5",
         "ip": "206.84.104.126",
         "ip": "206.84.40.62",
         "ip": "207.230.8.74",
@@ -7054,6 +7069,7 @@
         "ip": "46.32.25.18",
         "ip": "47.238.192.169",
         "ip": "47.238.210.31",
+        "ip": "47.251.43.115",
         "ip": "47.251.70.179",
         "ip": "47.251.85.12",
         "ip": "47.90.82.199",
@@ -7070,6 +7086,7 @@
         "ip": "50.236.203.15",
         "ip": "51.210.107.197",
         "ip": "52.13.248.29",
+        "ip": "52.26.114.229",
         "ip": "52.35.240.119",
         "ip": "54.212.22.168",
         "ip": "57.181.42.83",
@@ -7282,6 +7299,7 @@
         "port": 14469,
         "port": 14505,
         "port": 14585,
+        "port": 14851,
         "port": 15771,
         "port": 15779,
         "port": 15879,
@@ -7385,6 +7403,7 @@
         "port": 2549,
         "port": 25757,
         "port": 25833,
+        "port": 25863,
         "port": 25989,
         "port": 26045,
         "port": 26377,
@@ -7420,6 +7439,7 @@
         "port": 28679,
         "port": 28685,
         "port": 28721,
+        "port": 28867,
         "port": 2895,
         "port": 29141,
         "port": 29173,
@@ -7476,6 +7496,7 @@
         "port": 32999,
         "port": 33009,
         "port": 33087,
+        "port": 33141,
         "port": 33265,
         "port": 33267,
         "port": 3333,
