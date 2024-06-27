@@ -149,6 +149,7 @@
             "as": "AS150880 FAST BYTE FAST DATA COMPANY LIMITED",
             "as": "AS151508 PT Terabyte Network Indonesia",
             "as": "AS151512 PT Jenius Lintas Nusantara",
+            "as": "AS151555 PT Jawara Lintas Data Nusantara",
             "as": "AS151993 PT Wifian Global Nusantara",
             "as": "AS152384 PT Digitama Network Indonesia",
             "as": "AS152494 SHRIKSHETRA NETWORKS PRIVATE LIMITED",
@@ -992,6 +993,7 @@
             "city": "Prague",
             "city": "Presidente Bernardes",
             "city": "Presidente Prudente",
+            "city": "Probolinggo",
             "city": "Pskov",
             "city": "Puducherry",
             "city": "Puerto Eldorado",
@@ -1762,6 +1764,7 @@
             "isp": "PT Jaring Solusi Persada",
             "isp": "PT Jaringan Cepat Indonesia",
             "isp": "PT Jaringan Keluarga Bersama",
+            "isp": "PT Jawara Lintas Data Nusantara",
             "isp": "PT Jenius Lintas Nusantara",
             "isp": "PT Kataji Nukami Indonesia",
             "isp": "PT Lintas Jaringan Nusantara",
@@ -2158,6 +2161,7 @@
             "lat": -7.57409,
             "lat": -7.6459,
             "lat": -7.75025,
+            "lat": -7.7505,
             "lat": -7.76493,
             "lat": -7.8035,
             "lat": -7.8711,
@@ -3057,6 +3061,7 @@
             "lon": 112.831,
             "lon": 112.9074,
             "lon": 112.9611,
+            "lon": 113.2163,
             "lon": 113.2539,
             "lon": 113.3646,
             "lon": 113.7052,
@@ -3688,6 +3693,7 @@
             "org": "Link Barato.com Telecomunicacoes Eireli",
             "org": "Linode",
             "org": "Linode, LLC",
+            "org": "Lintasdaya",
             "org": "Liquid Telecommunications Operations Limited",
             "org": "Locaweb Servi\u00e7os de Internet S/A",
             "org": "Lois-net LLC",
@@ -4156,6 +4162,7 @@
             "query": "103.247.22.237"
             "query": "103.247.23.201"
             "query": "103.248.120.5"
+            "query": "103.250.130.106"
             "query": "103.255.147.102"
             "query": "103.26.108.118"
             "query": "103.30.30.73"
@@ -6568,6 +6575,7 @@
         "ip": "103.247.22.237",
         "ip": "103.247.23.201",
         "ip": "103.248.120.5",
+        "ip": "103.250.130.106",
         "ip": "103.255.147.102",
         "ip": "103.26.108.118",
         "ip": "103.30.30.73",
@@ -7847,6 +7855,7 @@
         "port": 25863,
         "port": 25989,
         "port": 26045,
+        "port": 26191,
         "port": 26377,
         "port": 26421,
         "port": 2647,
@@ -7987,6 +7996,7 @@
         "port": 41209,
         "port": 4122,
         "port": 4128,
+        "port": 4173,
         "port": 41878,
         "port": 41890,
         "port": 4269,
