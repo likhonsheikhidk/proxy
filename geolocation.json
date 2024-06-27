@@ -54,6 +54,7 @@
             "as": "AS136969 KK Networks (Pvt) Ltd.",
             "as": "AS137059 Easy Net",
             "as": "AS137362 Pemerintah Kota Surakarta",
+            "as": "AS137541 Royalnet",
             "as": "AS13760 Uniti Fiber Holdings Inc.",
             "as": "AS138089 PT.Global Media Data Prima",
             "as": "AS138225 One Eight Technologies Private Limited",
@@ -221,6 +222,7 @@
             "as": "AS263077 RazaoInfo Internet Ltda",
             "as": "AS263127 Redes y Comunicaciones de Michoacan S.A. de C.V.",
             "as": "AS263238 Eliana Vanessa Morocho O\u00f1a",
+            "as": "AS263346 Fonte Informatica ltda",
             "as": "AS263349 Rapeedo Ltda",
             "as": "AS263383 L GONZAGA JUNIOR SERVICOS DE INTERNET - ME",
             "as": "AS263494 MICROTURBO TELECOMUNICACOES LTDA-ME",
@@ -582,11 +584,13 @@
             "city": "Buk-gu",
             "city": "Bulakan",
             "city": "Burgas",
+            "city": "Buriti",
             "city": "C\u00facuta",
             "city": "Cabimas",
             "city": "Cairo",
             "city": "Cape Town",
             "city": "Caracas",
+            "city": "Cariamanga",
             "city": "Carlos Spegazzini",
             "city": "Carmona",
             "city": "Cascavel",
@@ -1288,6 +1292,7 @@
             "isp": "Fast Byte Fast Data Company Limited",
             "isp": "Fibernet SPA",
             "isp": "Fibernet TV SAS",
+            "isp": "Fonte Informatica ltda",
             "isp": "Foxtel Telecommunications Pvt. Ltd.",
             "isp": "FreeBit Co., Ltd.",
             "isp": "Fullnet Solutions S.A.S.",
@@ -1546,6 +1551,7 @@
             "isp": "Reis Network Solutions",
             "isp": "Reliance Jio Infocomm Limited",
             "isp": "Respina Networks & Beyond PJSC",
+            "isp": "Royalnet",
             "isp": "Rpnet Informatica Ltda - ME",
             "isp": "Ruiz Sebastian Alejandro",
             "isp": "Rupali Bank Limited",
@@ -1735,6 +1741,7 @@
             "lat": -29.1252,
             "lat": -3.7139,
             "lat": -3.9342,
+            "lat": -3.9475,
             "lat": -31.7795,
             "lat": -32.9518,
             "lat": -33.0156,
@@ -1753,6 +1760,7 @@
             "lat": -35.114,
             "lat": -4.2776,
             "lat": -4.2934,
+            "lat": -4.3338,
             "lat": -40.5756,
             "lat": -5.06893,
             "lat": -5.4291,
@@ -1947,6 +1955,7 @@
             "lat": 22.5326,
             "lat": 22.5429,
             "lat": 22.7423,
+            "lat": 22.8376,
             "lat": 22.9505,
             "lat": 23.3522,
             "lat": 23.4619,
@@ -2287,6 +2296,7 @@
             "lon": -40.1296,
             "lon": -40.2641,
             "lon": -41.4789,
+            "lon": -42.8601,
             "lon": -43.1054,
             "lon": -43.1591,
             "lon": -43.1729,
@@ -2400,6 +2410,7 @@
             "lon": -78.8736,
             "lon": -78.9225,
             "lon": -79.4769,
+            "lon": -79.5462,
             "lon": -79.8764,
             "lon": -79.8911,
             "lon": -80.0966,
@@ -2775,6 +2786,7 @@
             "lon": 88.1101,
             "lon": 88.2744,
             "lon": 89.4109,
+            "lon": 89.5416,
             "lon": 90.349,
             "lon": 90.3526,
             "lon": 90.3657,
@@ -2975,6 +2987,7 @@
             "org": "FiberComm",
             "org": "Fibercli",
             "org": "First Root Vps2",
+            "org": "Fonte Informatica ltda",
             "org": "Foxtel Telecommunications Pvt. Ltd.",
             "org": "FreeBit Co., Ltd.",
             "org": "Friendhosting LTD",
@@ -3198,6 +3211,7 @@
             "org": "Reliance Jio Infocomm Limited",
             "org": "Respina",
             "org": "Road Runner",
+            "org": "Royalnet",
             "org": "Rpnet Informatica Ltda - ME",
             "org": "Ruiz Sebastian Alejandro",
             "org": "Rupali Bank Limited",
@@ -3342,6 +3356,7 @@
             "query": "103.105.76.214"
             "query": "103.105.76.65"
             "query": "103.107.84.177"
+            "query": "103.112.149.41"
             "query": "103.112.54.21"
             "query": "103.115.227.198"
             "query": "103.115.44.126"
@@ -3631,6 +3646,7 @@
             "query": "156.200.116.69"
             "query": "156.200.116.72"
             "query": "156.240.111.197"
+            "query": "157.100.56.40"
             "query": "157.100.60.170"
             "query": "157.100.60.244"
             "query": "157.100.69.36"
@@ -3791,6 +3807,7 @@
             "query": "181.39.24.155"
             "query": "181.48.155.78"
             "query": "181.49.100.190"
+            "query": "181.57.131.122"
             "query": "181.78.94.169"
             "query": "181.78.94.238"
             "query": "182.160.100.156"
@@ -3905,6 +3922,7 @@
             "query": "191.241.184.61"
             "query": "191.243.46.30"
             "query": "191.252.219.48"
+            "query": "191.37.4.218"
             "query": "191.97.15.94"
             "query": "191.97.16.19"
             "query": "191.97.16.2"
@@ -4446,6 +4464,7 @@
             "region": "LL",
             "region": "LMA",
             "region": "M",
+            "region": "MA",
             "region": "MD",
             "region": "MG",
             "region": "MH",
@@ -4677,6 +4696,7 @@
             "regionName": "Land Berlin",
             "regionName": "Leinster",
             "regionName": "Lima Province",
+            "regionName": "Loja",
             "regionName": "Los Lagos Region",
             "regionName": "Los R\u00edos",
             "regionName": "Lusaka Province",
@@ -4685,6 +4705,7 @@
             "regionName": "Madrid",
             "regionName": "Maharashtra",
             "regionName": "Manab\u00ed",
+            "regionName": "Maranh\u00e3o",
             "regionName": "Mato Grosso do Sul",
             "regionName": "Mato Grosso",
             "regionName": "Maule Region",
@@ -5232,6 +5253,7 @@
             "zip": "63460-000",
             "zip": "641687",
             "zip": "6541",
+            "zip": "65515",
             "zip": "65550",
             "zip": "66000",
             "zip": "660000",
@@ -5292,6 +5314,7 @@
             "zip": "88715",
             "zip": "89000",
             "zip": "8957",
+            "zip": "9000",
             "zip": "90014",
             "zip": "90189",
             "zip": "90431",
@@ -5351,6 +5374,7 @@
         "ip": "103.105.76.214",
         "ip": "103.105.76.65",
         "ip": "103.107.84.177",
+        "ip": "103.112.149.41",
         "ip": "103.112.54.21",
         "ip": "103.115.227.198",
         "ip": "103.115.44.126",
@@ -5640,6 +5664,7 @@
         "ip": "156.200.116.69",
         "ip": "156.200.116.72",
         "ip": "156.240.111.197",
+        "ip": "157.100.56.40",
         "ip": "157.100.60.170",
         "ip": "157.100.60.244",
         "ip": "157.100.69.36",
@@ -5800,6 +5825,7 @@
         "ip": "181.39.24.155",
         "ip": "181.48.155.78",
         "ip": "181.49.100.190",
+        "ip": "181.57.131.122",
         "ip": "181.78.94.169",
         "ip": "181.78.94.238",
         "ip": "182.160.100.156",
@@ -5914,6 +5940,7 @@
         "ip": "191.241.184.61",
         "ip": "191.243.46.30",
         "ip": "191.252.219.48",
+        "ip": "191.37.4.218",
         "ip": "191.97.15.94",
         "ip": "191.97.16.19",
         "ip": "191.97.16.2",
@@ -6328,6 +6355,7 @@
         "port": 10555,
         "port": 10653,
         "port": 10703,
+        "port": 10729,
         "port": 1080,
         "port": 11000,
         "port": 11049,
@@ -6343,6 +6371,7 @@
         "port": 12119,
         "port": 1212,
         "port": 12167,
+        "port": 12409,
         "port": 12917,
         "port": 13087,
         "port": 13107,
@@ -6474,6 +6503,7 @@
         "port": 28679,
         "port": 28721,
         "port": 2895,
+        "port": 29173,
         "port": 29709,
         "port": 29953,
         "port": 30079,
