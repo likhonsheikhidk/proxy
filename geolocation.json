@@ -429,6 +429,7 @@
             "as": "AS29076 Citytelecom LLC",
             "as": "AS29084 Comnet Bulgaria Holding Ltd.",
             "as": "AS29465 MTN NIGERIA Communication limited",
+            "as": "AS29571 Orange C\u00f4te d'Ivoire",
             "as": "AS29580 A1 Bulgaria EAD",
             "as": "AS30083 GoDaddy.com, LLC",
             "as": "AS30822 Dubrovskaya Nataliya Vladislavovna",
@@ -541,6 +542,7 @@
             "as": "AS45326 Broad Band Telecom Services Ltd",
             "as": "AS45458 SBN-ISP/AWN-ISP and SBN-NIX/AWN-NIX",
             "as": "AS45557 Vietnam Technology and Telecommunication JSC",
+            "as": "AS45582 VAINAVI INDUSTIES LTD, INTERNET SERVICE PROVIDER, INDIA",
             "as": "AS45588 Bangladesh Telecommunications Company Limited (BTCL), Nationwide PSTN Operator and Data and Internet Service Provider.",
             "as": "AS45706 Tele Globe Global, PT",
             "as": "AS45758 Triple T Broadband Public Company Limited",
@@ -702,6 +704,7 @@
             "as": "AS9905 Linknet ASN",
             "as": "AS9931 The Communication Authoity of Thailand, CAT",
             "city": "",
+            "city": "Abidjan",
             "city": "Adana",
             "city": "Affing",
             "city": "Aguazul",
@@ -1119,6 +1122,7 @@
             "city": "Puducherry",
             "city": "Puerto As\u00eds",
             "city": "Puerto Eldorado",
+            "city": "Puerto Vallarta",
             "city": "Pune",
             "city": "Purbalingga",
             "city": "Puru\u00e1ndiro",
@@ -1341,6 +1345,7 @@
             "country": "Iraq",
             "country": "Ireland",
             "country": "Italy",
+            "country": "Ivory Coast",
             "country": "Japan",
             "country": "Kazakhstan",
             "country": "Kenya",
@@ -1397,6 +1402,7 @@
             "countryCode": "BW",
             "countryCode": "CA",
             "countryCode": "CH",
+            "countryCode": "CI",
             "countryCode": "CL",
             "countryCode": "CN",
             "countryCode": "CO",
@@ -1910,6 +1916,7 @@
             "isp": "ONNO NETWORKS, SOCIEDAD AN\u00d3NIMA",
             "isp": "ONT NETWORKS SA de CV",
             "isp": "OOO \"Network of data-centers \"Selectel\"",
+            "isp": "ORANGE COTE D'IVOIRE",
             "isp": "OSNET Wireless",
             "isp": "OTK LLC",
             "isp": "OVH SAS",
@@ -2170,6 +2177,7 @@
             "isp": "University of Washington",
             "isp": "V tal",
             "isp": "V8 Telecom LTDA",
+            "isp": "VAINAVIINDUSTRIESLTD",
             "isp": "VCIC",
             "isp": "VIA ONDAS TELECOMUNICACOES LTDA",
             "isp": "VIETEL",
@@ -2571,6 +2579,7 @@
             "lat": 20.4745,
             "lat": 20.609,
             "lat": 20.6129,
+            "lat": 20.6707,
             "lat": 21.0215,
             "lat": 21.0278,
             "lat": 21.0292,
@@ -2621,6 +2630,7 @@
             "lat": 23.7534,
             "lat": 23.7571,
             "lat": 23.7731,
+            "lat": 23.7804,
             "lat": 23.7821,
             "lat": 23.7882,
             "lat": 23.7908,
@@ -2913,6 +2923,7 @@
             "lat": 5.1618,
             "lat": 5.17282,
             "lat": 5.33957,
+            "lat": 5.3536,
             "lat": 5.6924,
             "lat": 5.8321,
             "lat": 5.93168,
@@ -3037,6 +3048,7 @@
             "lon": -104.8569,
             "lon": -104.9038,
             "lon": -105.0546,
+            "lon": -105.216,
             "lon": -105.6662,
             "lon": -107.2555,
             "lon": -111.5139,
@@ -3074,6 +3086,7 @@
             "lon": -38.5409,
             "lon": -39.2503,
             "lon": -39.4514,
+            "lon": -4.0012,
             "lon": -40.1296,
             "lon": -40.2641,
             "lon": -41.4789,
@@ -3767,6 +3780,7 @@
             "lon": 90.3927,
             "lon": 90.4017,
             "lon": 90.404,
+            "lon": 90.406,
             "lon": 90.4074,
             "lon": 90.4079,
             "lon": 90.4082,
@@ -3878,6 +3892,7 @@
             "org": "Bcxt CO",
             "org": "Bdcnet Telecom",
             "org": "Bharti Airtel Limited",
+            "org": "Bijoy",
             "org": "Boomerang Rayaneh",
             "org": "Borusan Telekom",
             "org": "Brisanet Servicos De Telecomunicacoes S.A",
@@ -4017,6 +4032,7 @@
             "org": "Foxtel Telecommunications Pvt. Ltd.",
             "org": "FreeBit Co., Ltd.",
             "org": "Friendhosting LTD",
+            "org": "Fttx Service",
             "org": "Fullerton",
             "org": "Fullnet Solutions",
             "org": "Fuse Telecom LLC",
@@ -4037,6 +4053,7 @@
             "org": "Global Village Telecom",
             "org": "Globaltelehost Corp",
             "org": "GoDaddy.com, LLC",
+            "org": "Google Cloud (asia-east2)",
             "org": "Google Cloud (us-central1)",
             "org": "Google Cloud (us-west1)",
             "org": "Gostaresh Ertebat Azin Kia Company PJSC",
@@ -4105,6 +4122,7 @@
             "org": "JSC \"ER-Telecom Holding\" Yekaterinburg Branch",
             "org": "Javadigital",
             "org": "Jenny BW V",
+            "org": "Jesmi Online PVT LTD",
             "org": "Jose Miguel Macias Contreras",
             "org": "Jyxcem Cia.ltda",
             "org": "KDATA Company Limited",
@@ -4704,6 +4722,7 @@
             "query": "103.48.71.70"
             "query": "103.5.232.148"
             "query": "103.51.21.250"
+            "query": "103.52.36.49"
             "query": "103.53.170.199"
             "query": "103.53.78.26"
             "query": "103.57.39.54"
@@ -4899,6 +4918,7 @@
             "query": "135.125.225.75"
             "query": "136.226.0.100"
             "query": "136.226.232.125"
+            "query": "137.59.48.226"
             "query": "138.118.106.237"
             "query": "138.118.200.49"
             "query": "138.121.161.86"
@@ -4977,6 +4997,7 @@
             "query": "159.192.139.178"
             "query": "159.224.243.185"
             "query": "159.69.203.183"
+            "query": "160.154.163.18"
             "query": "160.248.184.170"
             "query": "160.248.185.11"
             "query": "160.248.185.13"
@@ -5088,6 +5109,7 @@
             "query": "172.245.10.132"
             "query": "172.245.12.53"
             "query": "172.245.12.55"
+            "query": "172.245.12.57"
             "query": "172.245.12.59"
             "query": "172.247.84.10"
             "query": "172.247.84.11"
@@ -5184,6 +5206,7 @@
             "query": "181.57.131.122"
             "query": "181.65.169.37"
             "query": "181.78.85.45"
+            "query": "181.78.94.158"
             "query": "181.78.94.169"
             "query": "181.78.94.238"
             "query": "182.160.100.156"
@@ -5277,6 +5300,7 @@
             "query": "188.93.247.27"
             "query": "189.124.91.145"
             "query": "189.127.190.109"
+            "query": "189.177.3.115"
             "query": "189.203.191.137"
             "query": "189.22.142.29"
             "query": "189.240.60.163"
@@ -5581,6 +5605,7 @@
             "query": "31.45.237.146"
             "query": "34.172.92.211"
             "query": "34.215.74.117"
+            "query": "34.92.88.81"
             "query": "35.154.71.72"
             "query": "35.154.78.253"
             "query": "35.161.172.205"
@@ -5976,6 +6001,7 @@
             "region": "82",
             "region": "83",
             "region": "A",
+            "region": "AB",
             "region": "AC",
             "region": "AG",
             "region": "AGU",
@@ -6190,6 +6216,7 @@
             "region": "ZJ",
             "regionName": "",
             "regionName": "Aargau",
+            "regionName": "Abidjan",
             "regionName": "Acre",
             "regionName": "Adana",
             "regionName": "Adjara",
@@ -6558,6 +6585,7 @@
             "regionName": "\u015eanl\u0131urfa",
             "regionName": "\u017dilina Region",
             "status": "success",
+            "timezone": "Africa/Abidjan",
             "timezone": "Africa/Algiers",
             "timezone": "Africa/Cairo",
             "timezone": "Africa/Dar_es_Salaam",
@@ -6983,6 +7011,7 @@
             "zip": "47803",
             "zip": "47910",
             "zip": "47918",
+            "zip": "48290",
             "zip": "486035",
             "zip": "48870",
             "zip": "49000",
@@ -7000,6 +7029,7 @@
             "zip": "500083",
             "zip": "5002",
             "zip": "501301",
+            "zip": "501401",
             "zip": "50200",
             "zip": "50220",
             "zip": "5071",
@@ -7069,6 +7099,7 @@
             "zip": "641402",
             "zip": "641687",
             "zip": "65000",
+            "zip": "65037",
             "zip": "6541",
             "zip": "65515",
             "zip": "65550",
@@ -7420,6 +7451,7 @@
         "ip": "103.48.71.70",
         "ip": "103.5.232.148",
         "ip": "103.51.21.250",
+        "ip": "103.52.36.49",
         "ip": "103.53.170.199",
         "ip": "103.53.78.26",
         "ip": "103.57.39.54",
@@ -7615,6 +7647,7 @@
         "ip": "135.125.225.75",
         "ip": "136.226.0.100",
         "ip": "136.226.232.125",
+        "ip": "137.59.48.226",
         "ip": "138.118.106.237",
         "ip": "138.118.200.49",
         "ip": "138.121.161.86",
@@ -7693,6 +7726,7 @@
         "ip": "159.192.139.178",
         "ip": "159.224.243.185",
         "ip": "159.69.203.183",
+        "ip": "160.154.163.18",
         "ip": "160.248.184.170",
         "ip": "160.248.185.11",
         "ip": "160.248.185.13",
@@ -7804,6 +7838,7 @@
         "ip": "172.245.10.132",
         "ip": "172.245.12.53",
         "ip": "172.245.12.55",
+        "ip": "172.245.12.57",
         "ip": "172.245.12.59",
         "ip": "172.247.84.10",
         "ip": "172.247.84.11",
@@ -7900,6 +7935,7 @@
         "ip": "181.57.131.122",
         "ip": "181.65.169.37",
         "ip": "181.78.85.45",
+        "ip": "181.78.94.158",
         "ip": "181.78.94.169",
         "ip": "181.78.94.238",
         "ip": "182.160.100.156",
@@ -7993,6 +8029,7 @@
         "ip": "188.93.247.27",
         "ip": "189.124.91.145",
         "ip": "189.127.190.109",
+        "ip": "189.177.3.115",
         "ip": "189.203.191.137",
         "ip": "189.22.142.29",
         "ip": "189.240.60.163",
@@ -8297,6 +8334,7 @@
         "ip": "31.45.237.146",
         "ip": "34.172.92.211",
         "ip": "34.215.74.117",
+        "ip": "34.92.88.81",
         "ip": "35.154.71.72",
         "ip": "35.154.78.253",
         "ip": "35.161.172.205",
@@ -8682,6 +8720,7 @@
         "port": 12405,
         "port": 12409,
         "port": 12689,
+        "port": 12741,
         "port": 1281,
         "port": 12917,
         "port": 12988,
