@@ -268,6 +268,7 @@
             "as": "AS263677 Netgl\u00f3ria Servi\u00e7os de Internet Ltda",
             "as": "AS263693 WICORP SA",
             "as": "AS263703 VIGINET C.A",
+            "as": "AS263725 MULTICABLE DE HONDURAS",
             "as": "AS263781 ONNO NETWORKS, SOCIEDAD AN\u00d3NIMA",
             "as": "AS264628 CORPORACION FIBEX TELECOM, C.A.",
             "as": "AS264780 HomeNet LTDA",
@@ -479,6 +480,7 @@
             "as": "AS47335 ABN LTD",
             "as": "AS47438 Pskovline Ltd.",
             "as": "AS4755 TATA Communications formerly VSNL is Leading ISP",
+            "as": "AS47586 Business Svyaz",
             "as": "AS4766 Korea Telecom",
             "as": "AS47692 Nessus GmbH",
             "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
@@ -1003,6 +1005,7 @@
             "city": "San Gil",
             "city": "San Jos\u00e9",
             "city": "San Luis Potos\u00ed City",
+            "city": "San Pedro Sula",
             "city": "Sanaa Governorate",
             "city": "Sanaa",
             "city": "Sanliurfa",
@@ -1040,6 +1043,7 @@
             "city": "Slavutych",
             "city": "Sleman",
             "city": "Smolensk",
+            "city": "Sochi",
             "city": "Sofia",
             "city": "Son\u012bpat",
             "city": "Spreitenbach",
@@ -1447,6 +1451,7 @@
             "isp": "Discovery Internet/ Madhabdi",
             "isp": "Diskominfo DIY",
             "isp": "Distrokom S De RL De CV",
+            "isp": "Dmitriy V. Kozmenko",
             "isp": "Dot-Tech LLC",
             "isp": "Dream Cables",
             "isp": "Dubrovskaya Nataliya Vladislavovna",
@@ -1628,6 +1633,7 @@
             "isp": "Modus-Global LLC",
             "isp": "Moradabad Internet Services Private Limited",
             "isp": "Mrkr Communications Private Limited",
+            "isp": "Multicable De Honduras",
             "isp": "Multinet 125-88/24",
             "isp": "Multpontos Telecomunica\u00d4\u00d4es Ltda - ME",
             "isp": "N3 SOLUCOES TECNOLOGICAS LTDA",
@@ -1742,6 +1748,7 @@
             "isp": "PT. Foxline Mediadata Indonusa",
             "isp": "PT. JAYA LINTAS INDONESIA",
             "isp": "PT. Java Digital Nusantara",
+            "isp": "PT. LINKNET",
             "isp": "PT. MITRACOM SOLUSI TEKNOLOGI",
             "isp": "PT. Media Antar Nusa",
             "isp": "PT. Media Jaringan Indonesia",
@@ -2186,6 +2193,7 @@
             "lat": 15.3492,
             "lat": 15.3522,
             "lat": 15.4908,
+            "lat": 15.4967,
             "lat": 15.5647,
             "lat": 16.2447,
             "lat": 16.5033,
@@ -2471,6 +2479,7 @@
             "lat": 42.8856,
             "lat": 43.2612,
             "lat": 43.2712,
+            "lat": 43.5997,
             "lat": 43.8378,
             "lat": 43.975,
             "lat": 44.1183,
@@ -2812,6 +2821,7 @@
             "lon": -87.3524,
             "lon": -87.6278,
             "lon": -87.7968,
+            "lon": -88.0338,
             "lon": -88.7846,
             "lon": -89.1649,
             "lon": -89.9889,
@@ -3130,6 +3140,7 @@
             "lon": 39.0988,
             "lon": 39.2089,
             "lon": 39.2241,
+            "lon": 39.7293,
             "lon": 4.6688,
             "lon": 4.89454,
             "lon": 4.8975,
@@ -3341,6 +3352,7 @@
             "org": "Brisanet Servicos De Telecomunicacoes S.A",
             "org": "Btscombd",
             "org": "Bulgarian Telecommunications Company Plc.",
+            "org": "Business-Svyaz LTD",
             "org": "Bytemark Computer Consulting Ltd",
             "org": "C-ComTelecom Servios Ltda-ME",
             "org": "CANTV Servicios, Venezuela",
@@ -3577,6 +3589,7 @@
             "org": "MCNC",
             "org": "MOVCORP",
             "org": "MTD Viet NAM Investment Company Limited",
+            "org": "MULTICABLE S DE RL - de Honduras",
             "org": "Maiqvox Telecom",
             "org": "Mango Teleservices Limited",
             "org": "Marcatel Com, S.A. de C.V",
@@ -4080,6 +4093,7 @@
             "query": "109.120.246.80"
             "query": "109.230.89.126"
             "query": "109.230.92.50"
+            "query": "109.235.189.207"
             "query": "110.232.67.44"
             "query": "110.238.59.220"
             "query": "110.49.110.45"
@@ -4201,6 +4215,7 @@
             "query": "139.0.6.12"
             "query": "139.162.224.37"
             "query": "139.167.54.114"
+            "query": "139.255.33.242"
             "query": "14.115.105.66"
             "query": "14.143.130.210"
             "query": "14.170.154.193"
@@ -4795,6 +4810,7 @@
             "query": "38.60.196.242"
             "query": "38.7.1.233"
             "query": "38.7.131.33"
+            "query": "38.7.30.129"
             "query": "38.9.113.164"
             "query": "38.91.101.96"
             "query": "39.129.73.6"
@@ -5951,6 +5967,7 @@
             "zip": "352800",
             "zip": "353500",
             "zip": "3540",
+            "zip": "354033",
             "zip": "35960",
             "zip": "36460",
             "zip": "369",
@@ -6403,6 +6420,7 @@
         "ip": "109.120.246.80",
         "ip": "109.230.89.126",
         "ip": "109.230.92.50",
+        "ip": "109.235.189.207",
         "ip": "110.232.67.44",
         "ip": "110.238.59.220",
         "ip": "110.49.110.45",
@@ -6524,6 +6542,7 @@
         "ip": "139.0.6.12",
         "ip": "139.162.224.37",
         "ip": "139.167.54.114",
+        "ip": "139.255.33.242",
         "ip": "14.115.105.66",
         "ip": "14.143.130.210",
         "ip": "14.170.154.193",
@@ -7118,6 +7137,7 @@
         "ip": "38.60.196.242",
         "ip": "38.7.1.233",
         "ip": "38.7.131.33",
+        "ip": "38.7.30.129",
         "ip": "38.9.113.164",
         "ip": "38.91.101.96",
         "ip": "39.129.73.6",
@@ -7408,6 +7428,7 @@
         "port": 13131,
         "port": 13159,
         "port": 13163,
+        "port": 13199,
         "port": 1327,
         "port": 1333,
         "port": 1337,
@@ -7571,6 +7592,7 @@
         "port": 2835,
         "port": 28359,
         "port": 28489,
+        "port": 28573,
         "port": 28605,
         "port": 28625,
         "port": 28679,
