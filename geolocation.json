@@ -259,6 +259,7 @@
             "as": "AS2280 Orange S.A.",
             "as": "AS22869 CABLECOLOR S.A.",
             "as": "AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV",
+            "as": "AS23201 Telecel S.A.",
             "as": "AS23470 ReliableSite.Net LLC",
             "as": "AS23520 Columbus Networks USA, Inc.",
             "as": "AS23671 PT. Sarana InsanMuda Selaras",
@@ -351,6 +352,7 @@
             "as": "AS267749 INVERSIONES TELCOTEL SAC",
             "as": "AS267758 FIBERNET CHILE TELECOMUNICACIONES SpA",
             "as": "AS267778 LAGONET-TV CIA. LTDA.",
+            "as": "AS267823 ATENEA TELECOMUNICACIONES S.A.S",
             "as": "AS267919 NET&COM LTDA.",
             "as": "AS268229 VIA ONDAS TELECOMUNICACOES LTDA",
             "as": "AS268323 AZZA TELECOM SERVI\u00c7OS EM TELECOMUNICA\u00c7\u00d5ES LTDA",
@@ -592,6 +594,7 @@
             "as": "AS53989 Swayzee Telephone Company, Inc.",
             "as": "AS54290 Hostwinds LLC.",
             "as": "AS54825 Packet Host, Inc.",
+            "as": "AS5484 Shabakeh Gostar Shahriyar Co. (Ltd.)",
             "as": "AS55020 Aodao Inc",
             "as": "AS55507 Tejays Dynamic Limited",
             "as": "AS55652 Sumidhaz Permata Bunda, PT",
@@ -675,6 +678,7 @@
             "as": "AS8926 Moldtelecom SA",
             "as": "AS8967 Internet Service Ltd.",
             "as": "AS9009 M247 Europe SRL",
+            "as": "AS9028 OHOST LLC",
             "as": "AS9070 Cooolbox AD",
             "as": "AS9121 Turk Telekomunikasyon Anonim Sirketi",
             "as": "AS9123 TimeWeb Ltd.",
@@ -1526,6 +1530,7 @@
             "isp": "Asiatech Data Transmission company",
             "isp": "Asociacion De Servicio De Internet S. De RL.",
             "isp": "Aspt Networks Pvt Ltd",
+            "isp": "Atenea Telecomunicaciones S.A.S",
             "isp": "Avato Tecnologia S.A",
             "isp": "AzerSat",
             "isp": "BBTS Network",
@@ -1910,6 +1915,7 @@
             "isp": "OVH SAS",
             "isp": "Octopusnet LTD",
             "isp": "Office of Info.Tech. Admin. for Educational Development",
+            "isp": "Ohost LLC",
             "isp": "Om Jay Infotech",
             "isp": "OnNet Telecomunica\u00e7\u00f5es LTDA",
             "isp": "One Crna Gora DOO",
@@ -2066,6 +2072,7 @@
             "isp": "Screen Saver Inform\u00e1tica LTDA",
             "isp": "Sepanta Internet and MPLS Service Provider",
             "isp": "Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype",
+            "isp": "Shabakeh Gostar Shahriyar Co. (Ltd.)",
             "isp": "Shandong eshinton Network Technology Co., Ltd.",
             "isp": "Sharktech",
             "isp": "Shenzhen Tencent Computer Systems Company Limited",
@@ -2113,6 +2120,7 @@
             "isp": "Tejays Industries Pvt Ltd",
             "isp": "TelNet Krzysztof Drozd",
             "isp": "Telconet S.A",
+            "isp": "Telecel S.A.",
             "isp": "Telecom Argentina S.A.",
             "isp": "Telecomunicaciones Del Catatumbo S.A.S",
             "isp": "Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.",
@@ -3881,6 +3889,7 @@
             "org": "CANTV Servicios, Venezuela",
             "org": "CAT Telecom public company Ltd",
             "org": "CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+            "org": "CIS IT Group",
             "org": "CJSC \"ER-Telecom Holding\" Saratov Branch",
             "org": "CJSC \"ER-Telecom Holding\" Voronezh Branch",
             "org": "CMCTELECOM",
@@ -4227,6 +4236,7 @@
             "org": "OVH",
             "org": "Octopusnet",
             "org": "Office of Info.Tech. Admin. Educational Development",
+            "org": "Ohost LLC",
             "org": "OnNet Telecomunicacoes LTDA",
             "org": "Ondas Telecomunicacoes Ltda",
             "org": "Onet",
@@ -4392,6 +4402,7 @@
             "org": "Tejays Dynamic Ltd",
             "org": "Tejays Industries Pvt Ltd",
             "org": "Telcotech LTD",
+            "org": "Telecel S.A",
             "org": "Telecom Argentina S.A",
             "org": "Telecommunication Company of Khorasan Jonoubi",
             "org": "Telecommunication Company",
@@ -5194,6 +5205,7 @@
             "query": "183.89.205.173"
             "query": "185.108.141.114"
             "query": "185.110.246.94"
+            "query": "185.128.153.10"
             "query": "185.128.240.77"
             "query": "185.141.213.130"
             "query": "185.172.212.233"
@@ -5222,6 +5234,7 @@
             "query": "186.190.225.152"
             "query": "186.208.81.214"
             "query": "186.215.87.194"
+            "query": "186.24.9.114"
             "query": "186.24.9.116"
             "query": "186.24.9.117"
             "query": "186.3.97.77"
@@ -5280,6 +5293,7 @@
             "query": "190.120.249.180"
             "query": "190.121.207.58"
             "query": "190.121.4.157"
+            "query": "190.128.195.58"
             "query": "190.14.249.174"
             "query": "190.144.238.66"
             "query": "190.145.227.114"
@@ -5648,6 +5662,7 @@
             "query": "45.170.102.89"
             "query": "45.171.109.1"
             "query": "45.171.146.183"
+            "query": "45.173.12.141"
             "query": "45.173.231.221"
             "query": "45.174.57.22"
             "query": "45.179.200.129"
@@ -5659,6 +5674,7 @@
             "query": "45.185.163.111"
             "query": "45.186.8.10"
             "query": "45.188.164.47"
+            "query": "45.188.164.48"
             "query": "45.188.167.25"
             "query": "45.188.76.236"
             "query": "45.189.117.198"
@@ -5883,6 +5899,7 @@
             "query": "91.228.53.239"
             "query": "92.207.253.226"
             "query": "92.247.2.26"
+            "query": "93.123.16.188"
             "query": "93.157.196.58"
             "query": "93.177.126.101"
             "query": "94.101.185.188"
@@ -6793,6 +6810,7 @@
             "zip": "1500",
             "zip": "15001",
             "zip": "151-0071",
+            "zip": "1510",
             "zip": "152-8503",
             "zip": "15290",
             "zip": "160",
@@ -7903,6 +7921,7 @@
         "ip": "183.89.205.173",
         "ip": "185.108.141.114",
         "ip": "185.110.246.94",
+        "ip": "185.128.153.10",
         "ip": "185.128.240.77",
         "ip": "185.141.213.130",
         "ip": "185.172.212.233",
@@ -7931,6 +7950,7 @@
         "ip": "186.190.225.152",
         "ip": "186.208.81.214",
         "ip": "186.215.87.194",
+        "ip": "186.24.9.114",
         "ip": "186.24.9.116",
         "ip": "186.24.9.117",
         "ip": "186.3.97.77",
@@ -7989,6 +8009,7 @@
         "ip": "190.120.249.180",
         "ip": "190.121.207.58",
         "ip": "190.121.4.157",
+        "ip": "190.128.195.58",
         "ip": "190.14.249.174",
         "ip": "190.144.238.66",
         "ip": "190.145.227.114",
@@ -8357,6 +8378,7 @@
         "ip": "45.170.102.89",
         "ip": "45.171.109.1",
         "ip": "45.171.146.183",
+        "ip": "45.173.12.141",
         "ip": "45.173.231.221",
         "ip": "45.174.57.22",
         "ip": "45.179.200.129",
@@ -8368,6 +8390,7 @@
         "ip": "45.185.163.111",
         "ip": "45.186.8.10",
         "ip": "45.188.164.47",
+        "ip": "45.188.164.48",
         "ip": "45.188.167.25",
         "ip": "45.188.76.236",
         "ip": "45.189.117.198",
@@ -8592,6 +8615,7 @@
         "ip": "91.228.53.239",
         "ip": "92.207.253.226",
         "ip": "92.247.2.26",
+        "ip": "93.123.16.188",
         "ip": "93.157.196.58",
         "ip": "93.177.126.101",
         "ip": "94.101.185.188",
@@ -8612,6 +8636,7 @@
         "port": 1,
         "port": 10000,
         "port": 10002,
+        "port": 10003,
         "port": 1001,
         "port": 10037,
         "port": 10039,
@@ -8766,6 +8791,7 @@
         "port": 1981,
         "port": 1982,
         "port": 1989,
+        "port": 1994,
         "port": 19999,
         "port": 20,
         "port": 20025,
@@ -8933,6 +8959,7 @@
         "port": 29709,
         "port": 29777,
         "port": 29801,
+        "port": 29819,
         "port": 29953,
         "port": 30025,
         "port": 30041,
@@ -9230,6 +9257,7 @@
         "port": 8889,
         "port": 8890,
         "port": 8899,
+        "port": 8921,
         "port": 8985,
         "port": 8989,
         "port": 8999,
