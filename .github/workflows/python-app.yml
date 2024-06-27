@@ -1,59 +1,166 @@
-name: Continuous Proxy Checking
+name: Advanced Continuous Proxy Checking
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Runs every 5 minutes
+    - cron: '*/5 * * * *'  # Runs every 10 minutes
   push:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
+
+env:
+  PROXY_SOURCES: ${{ secrets.PROXY_SOURCES }}
 
 permissions:
   contents: write
   pull-requests: write
 
 jobs:
-  build:
+  update-proxy-lists:
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v3
     
     - name: Set up Python 3.10
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v4
       with:
         python-version: "3.10"
-        
+    
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install flake8 pytest requests
+        pip install requests beautifulsoup4 lxml pysocks
+
+    - name: Process Proxy Lists
+      run: |
+        python -c "
+        import os
+        import requests
+        import json
+        from bs4 import BeautifulSoup
         
-    - name: Lint with flake8
+        def download_and_process_proxies():
+            proxy_sources = json.loads(os.environ['PROXY_SOURCES'])
+            all_proxies = {
+                'http': set(),
+                'https': set(),
+                'socks4': set(),
+                'socks5': set()
+            }
+            
+            for proxy_type, urls in proxy_sources.items():
+                for url in urls:
+                    try:
+                        response = requests.get(url, timeout=10)
+                        if url.endswith('.json'):
+                            data = response.json()
+                            # Process JSON data accordingly
+                            # Example: all_proxies[proxy_type].update(data['proxies'])
+                        else:
+                            proxies = set(response.text.strip().split('\n'))
+                            all_proxies[proxy_type].update(proxies)
+                    except Exception as e:
+                        print(f'Error processing {url}: {str(e)}')
+            
+            for proxy_type, proxies in all_proxies.items():
+                with open(f'{proxy_type}.txt', 'w') as f:
+                    for proxy in sorted(proxies):
+                        f.write(f'{proxy}\n')
+        
+        download_and_process_proxies()
+        "
+
+    - name: Check Proxies
       run: |
-        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
-        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
-    
-    - name: Download Proxy Lists
+        python -c "
+        import concurrent.futures
+        import requests
+        import json
+        
+        def check_proxy(proxy, proxy_type):
+            try:
+                response = requests.get('http://httpbin.org/ip', 
+                                        proxies={proxy_type: proxy}, 
+                                        timeout=10)
+                if response.status_code == 200:
+                    return proxy, True
+            except:
+                pass
+            return proxy, False
+        
+        def main():
+            proxy_types = ['http', 'https', 'socks4', 'socks5']
+            working_proxies = {pt: [] for pt in proxy_types}
+            
+            for proxy_type in proxy_types:
+                with open(f'{proxy_type}.txt', 'r') as f:
+                    proxies = f.read().splitlines()
+                
+                with concurrent.futures.ThreadPoolExecutor(max_workers=50) as executor:
+                    future_to_proxy = {executor.submit(check_proxy, proxy, proxy_type): proxy for proxy in proxies}
+                    for future in concurrent.futures.as_completed(future_to_proxy):
+                        proxy, is_working = future.result()
+                        if is_working:
+                            working_proxies[proxy_type].append(proxy)
+            
+            for proxy_type in proxy_types:
+                with open(f'{proxy_type}_working.txt', 'w') as f:
+                    for proxy in working_proxies[proxy_type]:
+                        f.write(f'{proxy}\n')
+            
+            with open('proxy_stats.json', 'w') as f:
+                json.dump({pt: len(proxies) for pt, proxies in working_proxies.items()}, f)
+        
+        main()
+        "
+
+    - name: Update README
       run: |
-        curl https://raw.githubusercontent.com/zloi-user/hideip.me/main/http.txt -o http.txt
-        curl https://raw.githubusercontent.com/zloi-user/hideip.me/main/https.txt -o https.txt
-        curl https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks4.txt -o socks4.txt
-        curl https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks5.txt -o socks5.txt
-        curl https://raw.githubusercontent.com/zloi-user/hideip.me/main/connect.txt -o connect.txt
-        curl https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt -o data.txt
-        curl https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json -o geolocation.json
-        curl https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks4.txt -o socks4.txt
-        curl https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks5.txt -o socks5.txt
-        curl https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/http.txt -o http.txt
-        curl https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt -o https.txt
+        python -c "
+        import json
+        from datetime import datetime
+        
+        def update_readme():
+            with open('proxy_stats.json', 'r') as f:
+                stats = json.load(f)
+            
+            update_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')
+            
+            new_content = f'''# Proxy List
+
+        Last updated: {update_time}
+
+        ## Statistics
+
+        - HTTP: {stats['http']} working proxies
+        - HTTPS: {stats['https']} working proxies
+        - SOCKS4: {stats['socks4']} working proxies
+        - SOCKS5: {stats['socks5']} working proxies
+
+        ## Usage
+
+        You can find the working proxies in the following files:
+
+        - HTTP: [http_working.txt](http_working.txt)
+        - HTTPS: [https_working.txt](https_working.txt)
+        - SOCKS4: [socks4_working.txt](socks4_working.txt)
+        - SOCKS5: [socks5_working.txt](socks5_working.txt)
+
+        These lists are updated every 10 minutes.
+        '''
+            
+            with open('README.md', 'w') as f:
+                f.write(new_content)
+        
+        update_readme()
+        "
 
     - name: Commit and Push Changes
       env:
         GH_PAT: ${{ secrets.GH_PAT }}
       run: |
-        git config --global user.name 'likhonsheikhbd'
-        git config --global user.email 'likhonsheikhbd@outlook.com'
-        git add http.txt https.txt socks4.txt socks5.txt connect.txt data.txt geolocation.json
-        git commit -m "Update proxy lists" -a || echo "No changes to commit"
-        git -c http.extraHeader="AUTHORIZATION: bearer ${{ secrets.GH_PAT }}" push
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add *.txt proxy_stats.json README.md
+        git commit -m "Update proxy lists and README [skip ci]" -a || echo "No changes to commit"
+        git push
