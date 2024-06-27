@@ -103,6 +103,7 @@
             "as": "AS14061 DigitalOcean, LLC",
             "as": "AS14080 Telmex Colombia S.A.",
             "as": "AS141067 PT Trisula Media Data",
+            "as": "AS141071 PT Jembatan Data Pangrango",
             "as": "AS141081 PT Indo Access Semesta",
             "as": "AS141114 PT Super Media Indonesia",
             "as": "AS14117 Telefonica del Sur S.A.",
@@ -1029,6 +1030,7 @@
             "city": "St Louis",
             "city": "St Petersburg",
             "city": "Subang",
+            "city": "Sukabumi",
             "city": "Sumberjo",
             "city": "Sun\u0101mganj",
             "city": "Surabaya",
@@ -1531,6 +1533,7 @@
             "isp": "Iqtera Communication Pvt Ltd",
             "isp": "Iran Telecommunication Company PJS",
             "isp": "Ishan Netsol Pvt Ltd",
+            "isp": "JEMBATANDATA",
             "isp": "JENNY INTERNET (PTY) LTD",
             "isp": "JPR Digital Pvt Ltd",
             "isp": "JSC Advanced Business Network",
@@ -1555,6 +1558,7 @@
             "isp": "L GONZAGA JUNIOR SERVICOS DE INTERNET - ME",
             "isp": "LLC \"Multiservice\"",
             "isp": "LTT Autonomous System, Tripoli Libya",
+            "isp": "LTT Network Backbone and POPs",
             "isp": "Lagonet-tv Cia. Ltda.",
             "isp": "Lanet Network",
             "isp": "Lao Telecommunication Co Ltd",
@@ -2036,6 +2040,7 @@
             "lat": -6.8352,
             "lat": -6.8388,
             "lat": -6.8906,
+            "lat": -6.9214,
             "lat": -6.9217,
             "lat": -6.9932,
             "lat": -7.00515,
@@ -2852,6 +2857,7 @@
             "lon": 106.833,
             "lon": 106.8446,
             "lon": 106.861,
+            "lon": 106.9259,
             "lon": 106.9922,
             "lon": 107.316,
             "lon": 107.429,
@@ -3493,6 +3499,7 @@
             "org": "Lay",
             "org": "Level 3, LLC",
             "org": "Liberty Networks De Colombia",
+            "org": "Libyan Telecom and Technology",
             "org": "LightNode-UK",
             "org": "Lightwave USA LLC",
             "org": "Link Barato.com Telecomunicacoes Eireli",
@@ -3860,6 +3867,7 @@
             "query": "103.154.230.130"
             "query": "103.154.77.204"
             "query": "103.155.191.60"
+            "query": "103.155.196.65"
             "query": "103.155.54.26"
             "query": "103.155.62.163"
             "query": "103.156.201.170"
@@ -4318,6 +4326,7 @@
             "query": "180.148.4.74"
             "query": "180.190.200.24"
             "query": "180.191.23.149"
+            "query": "180.191.23.221"
             "query": "180.211.186.158"
             "query": "181.115.66.234"
             "query": "181.119.106.85"
@@ -4706,6 +4715,7 @@
             "query": "41.193.81.7"
             "query": "41.216.186.32"
             "query": "41.231.37.76"
+            "query": "41.254.56.34"
             "query": "41.59.210.2"
             "query": "41.65.0.195"
             "query": "41.65.163.67"
@@ -6133,6 +6143,7 @@
         "ip": "103.154.230.130",
         "ip": "103.154.77.204",
         "ip": "103.155.191.60",
+        "ip": "103.155.196.65",
         "ip": "103.155.54.26",
         "ip": "103.155.62.163",
         "ip": "103.156.201.170",
@@ -6591,6 +6602,7 @@
         "ip": "180.148.4.74",
         "ip": "180.190.200.24",
         "ip": "180.191.23.149",
+        "ip": "180.191.23.221",
         "ip": "180.211.186.158",
         "ip": "181.115.66.234",
         "ip": "181.119.106.85",
@@ -6979,6 +6991,7 @@
         "ip": "41.193.81.7",
         "ip": "41.216.186.32",
         "ip": "41.231.37.76",
+        "ip": "41.254.56.34",
         "ip": "41.59.210.2",
         "ip": "41.65.0.195",
         "ip": "41.65.163.67",
