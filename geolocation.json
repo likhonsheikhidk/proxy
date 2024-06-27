@@ -328,6 +328,7 @@
             "as": "AS266337 MARLON LIMA GOMES ME",
             "as": "AS266475 SEM FRONTEIRAS TELECOMUNICACOES LTDA",
             "as": "AS266672 SYSNOVELLTEL S.A",
+            "as": "AS266730 CENTRAL SOLUTIONS TECHNOLOGY S.R.L.",
             "as": "AS266766 SOLUCIONES INSTALRED CH&C C.A.",
             "as": "AS266802 CODGREC S.A.",
             "as": "AS266834 INSTALACION DE SISTEMAS EN REDES INSYSRED S.A.",
@@ -801,6 +802,7 @@
             "city": "Cogua",
             "city": "Comilla",
             "city": "Comit\u00e1n",
+            "city": "Concepci\u00f3n de la Vega",
             "city": "Concord",
             "city": "Corozal",
             "city": "Council Bluffs",
@@ -1554,6 +1556,7 @@
             "isp": "Carnival Internet",
             "isp": "Caucasus Online Ltd.",
             "isp": "CenterTelecom Voronezh ISP",
+            "isp": "Central Solutions Technology S.R.L.",
             "isp": "Charter Communications",
             "isp": "China Mobile Communications Corporation",
             "isp": "China Mobile communications corporation",
@@ -2486,6 +2489,7 @@
             "lat": 19.076,
             "lat": 19.1139,
             "lat": 19.1205,
+            "lat": 19.2281,
             "lat": 19.3079,
             "lat": 19.413,
             "lat": 19.4196,
@@ -2782,6 +2786,7 @@
             "lat": 42.2994,
             "lat": 42.4963,
             "lat": 42.6951,
+            "lat": 42.6977,
             "lat": 42.8696,
             "lat": 42.8856,
             "lat": 42.9643,
@@ -3075,6 +3080,7 @@
             "lon": -69.8865,
             "lon": -70.2079,
             "lon": -70.2489,
+            "lon": -70.5135,
             "lon": -70.5702,
             "lon": -70.6313,
             "lon": -70.6536,
@@ -3465,6 +3471,7 @@
             "lon": 21.996,
             "lon": 22.6703,
             "lon": 23.1157,
+            "lon": 23.3219,
             "lon": 23.325,
             "lon": 23.5001,
             "lon": 23.5185,
@@ -3817,6 +3824,7 @@
             "org": "Caucasus",
             "org": "Cdn77 PRG POP",
             "org": "Central De Redes Y Comunicaciones De Guatemala S.A",
+            "org": "Central Solutions Technology S.R.L. (Heriberto Medrano holding group)",
             "org": "CenturyLink Communications",
             "org": "China Mobile Communications Corporation",
             "org": "China Mobile",
@@ -3880,6 +3888,7 @@
             "org": "EMCALI - RANGOS FIJOS PPPoE",
             "org": "EMPRESA BRASILEIRA DE TELECOMUNICA\u00c7\u00d5ES SA-EMBRATEL",
             "org": "EPM Telecomunicaciones S.A. E.S.P",
+            "org": "ESRI BULGARIA Network",
             "org": "EarthLink Ltd. Communications&Internet Services",
             "org": "Ebone Network (Pvt) Ltd.",
             "org": "Ecom Chaco S.A",
@@ -5012,6 +5021,7 @@
             "query": "18.135.211.182"
             "query": "18.169.83.87"
             "query": "180.148.4.74"
+            "query": "180.180.218.250"
             "query": "180.190.200.24"
             "query": "180.191.23.149"
             "query": "180.191.23.221"
@@ -5382,6 +5392,7 @@
             "query": "212.83.142.145"
             "query": "212.98.224.249"
             "query": "213.133.98.201"
+            "query": "213.169.33.7"
             "query": "213.226.11.149"
             "query": "213.250.198.146"
             "query": "213.3.34.39"
@@ -5471,6 +5482,7 @@
             "query": "38.41.5.85"
             "query": "38.45.33.130"
             "query": "38.50.165.50"
+            "query": "38.51.60.133"
             "query": "38.52.208.4"
             "query": "38.56.70.81"
             "query": "38.60.196.242"
@@ -5626,6 +5638,7 @@
             "query": "66.151.40.252"
             "query": "66.210.33.34"
             "query": "66.23.195.93"
+            "query": "66.29.128.241"
             "query": "66.96.232.247"
             "query": "67.213.210.167"
             "query": "67.213.210.62"
@@ -6568,6 +6581,7 @@
             "zip": "10260",
             "zip": "103",
             "zip": "10305",
+            "zip": "10310",
             "zip": "10330",
             "zip": "10400",
             "zip": "10402",
@@ -6774,6 +6788,7 @@
             "zip": "400701",
             "zip": "40213",
             "zip": "40599",
+            "zip": "41000",
             "zip": "410001",
             "zip": "410960",
             "zip": "411001",
@@ -7657,6 +7672,7 @@
         "ip": "18.135.211.182",
         "ip": "18.169.83.87",
         "ip": "180.148.4.74",
+        "ip": "180.180.218.250",
         "ip": "180.190.200.24",
         "ip": "180.191.23.149",
         "ip": "180.191.23.221",
@@ -8027,6 +8043,7 @@
         "ip": "212.83.142.145",
         "ip": "212.98.224.249",
         "ip": "213.133.98.201",
+        "ip": "213.169.33.7",
         "ip": "213.226.11.149",
         "ip": "213.250.198.146",
         "ip": "213.3.34.39",
@@ -8116,6 +8133,7 @@
         "ip": "38.41.5.85",
         "ip": "38.45.33.130",
         "ip": "38.50.165.50",
+        "ip": "38.51.60.133",
         "ip": "38.52.208.4",
         "ip": "38.56.70.81",
         "ip": "38.60.196.242",
@@ -8271,6 +8289,7 @@
         "ip": "66.151.40.252",
         "ip": "66.210.33.34",
         "ip": "66.23.195.93",
+        "ip": "66.29.128.241",
         "ip": "66.96.232.247",
         "ip": "67.213.210.167",
         "ip": "67.213.210.62",
@@ -8519,6 +8538,7 @@
         "port": 17721,
         "port": 17739,
         "port": 17755,
+        "port": 17947,
         "port": 1795,
         "port": 18027,
         "port": 18080,
@@ -8800,6 +8820,7 @@
         "port": 40667,
         "port": 40754,
         "port": 4077,
+        "port": 41200,
         "port": 41209,
         "port": 4122,
         "port": 4128,
