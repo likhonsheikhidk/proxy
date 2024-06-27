@@ -4,6 +4,7 @@
             "as": "AS10835 Visionary Communications LLC",
             "as": "AS11014 CPS",
             "as": "AS11172 Alestra, S. de R.L. de C.V.",
+            "as": "AS11232 Midcontinent Communications",
             "as": "AS11426 Charter Communications Inc",
             "as": "AS11492 CABLE ONE, INC.",
             "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
@@ -565,6 +566,7 @@
             "as": "AS64315 PT MITRA VISIONER PRATAMA",
             "as": "AS6830 Liberty Global B.V.",
             "as": "AS6876 TENET Scientific Production Enterprise LLC",
+            "as": "AS7018 AT&T Services, Inc.",
             "as": "AS7049 Silica Networks Argentina S.A.",
             "as": "AS73 University of Washington",
             "as": "AS7303 Telecom Argentina S.A.",
@@ -717,6 +719,7 @@
             "city": "Ciputat",
             "city": "Cirebon",
             "city": "City of Westminster",
+            "city": "Clear Lake",
             "city": "Clifton",
             "city": "Cogua",
             "city": "Comilla",
@@ -772,6 +775,7 @@
             "city": "Goyang-si",
             "city": "Grada\u010dac",
             "city": "Gravelines",
+            "city": "Guangzhou",
             "city": "Guarenas",
             "city": "Guatemala City",
             "city": "Guayaquil",
@@ -1311,6 +1315,7 @@
             "isp": "ARTERIA Networks Corporation",
             "isp": "AS Consulting Sp. z o. o.",
             "isp": "ASTER Sp. z o.o",
+            "isp": "AT&T Services, Inc.",
             "isp": "ATMAN",
             "isp": "ATU",
             "isp": "AXS Bolivia S. A.",
@@ -1647,6 +1652,7 @@
             "isp": "Microsoft Corporation",
             "isp": "Microsoft",
             "isp": "Microturbo Telecomunicacoes Ltda-me",
+            "isp": "Midcontinent Communications",
             "isp": "Mis70 LTD",
             "isp": "Mobiltel BNG",
             "isp": "Mobiltel EAD",
@@ -2291,6 +2297,7 @@
             "lat": 22.7423,
             "lat": 22.8376,
             "lat": 22.9505,
+            "lat": 23.1181,
             "lat": 23.3522,
             "lat": 23.4619,
             "lat": 23.6533,
@@ -2335,6 +2342,7 @@
             "lat": 25.7616,
             "lat": 25.7732,
             "lat": 25.7933,
+            "lat": 25.8153,
             "lat": 26.0255,
             "lat": 26.2124,
             "lat": 26.4837,
@@ -2529,6 +2537,7 @@
             "lat": 45.2757,
             "lat": 45.3151,
             "lat": 45.3618,
+            "lat": 45.4825,
             "lat": 45.5049,
             "lat": 45.5235,
             "lat": 45.5945,
@@ -2851,6 +2860,7 @@
             "lon": -80.162,
             "lon": -80.1899,
             "lon": -80.1917,
+            "lon": -80.3577,
             "lon": -80.3833,
             "lon": -80.4477,
             "lon": -80.7108,
@@ -2877,6 +2887,7 @@
             "lon": -92.1498,
             "lon": -92.5153,
             "lon": -92.9205,
+            "lon": -93.9675,
             "lon": -95.3657,
             "lon": -95.785,
             "lon": -95.8608,
@@ -3012,6 +3023,7 @@
             "lon": 112.831,
             "lon": 112.9074,
             "lon": 112.9611,
+            "lon": 113.2539,
             "lon": 113.3646,
             "lon": 113.7052,
             "lon": 114.06,
@@ -3665,6 +3677,7 @@
             "org": "Microsoft Azure Cloud (northeurope)",
             "org": "Microsoft Azure Cloud (southindia)",
             "org": "Microturbo Telecomunicacoes Ltda-me",
+            "org": "Midcontinent Communications",
             "org": "Mitra JDN",
             "org": "Modus ISP",
             "org": "Moratelindo",
@@ -3778,6 +3791,7 @@
             "org": "Pioneer Elabs Ltd",
             "org": "Pirmam Information Technology Ltd",
             "org": "Prisac Aviation Technologies Private Limited",
+            "org": "Private Customer - AT&T Internet Services",
             "org": "Pskovline Ltd",
             "org": "Psychz Networks",
             "org": "Public Telecommunication Corporation",
@@ -4228,6 +4242,7 @@
             "query": "120.89.94.118"
             "query": "121.126.128.100"
             "query": "121.151.223.163"
+            "query": "121.8.215.106"
             "query": "122.136.212.132"
             "query": "122.152.4.131"
             "query": "122.155.165.191"
@@ -4246,6 +4261,7 @@
             "query": "124.105.180.29"
             "query": "124.105.186.206"
             "query": "124.105.24.80"
+            "query": "124.156.100.83"
             "query": "124.156.172.181"
             "query": "124.158.182.34"
             "query": "124.217.97.131"
@@ -4827,7 +4843,9 @@
             "query": "223.205.72.24"
             "query": "223.25.110.227"
             "query": "223.27.144.34"
+            "query": "23.122.184.9"
             "query": "23.237.145.36"
+            "query": "24.124.46.18"
             "query": "24.152.50.130"
             "query": "24.172.82.94"
             "query": "27.121.82.54"
@@ -5309,6 +5327,7 @@
             "region": "MH",
             "region": "MIC",
             "region": "ML",
+            "region": "MN",
             "region": "MO",
             "region": "MOS",
             "region": "MOW",
@@ -5584,6 +5603,7 @@
             "regionName": "Mexico City",
             "regionName": "Michoac\u00e1n",
             "regionName": "Minas Gerais",
+            "regionName": "Minnesota",
             "regionName": "Miranda",
             "regionName": "Misiones",
             "regionName": "Mississippi",
@@ -6051,6 +6071,7 @@
             "zip": "330-0061",
             "zip": "330-9301",
             "zip": "33131",
+            "zip": "33178",
             "zip": "33781",
             "zip": "3380",
             "zip": "3384",
@@ -6153,6 +6174,7 @@
             "zip": "540001",
             "zip": "540005",
             "zip": "54030",
+            "zip": "55319",
             "zip": "560002",
             "zip": "560006",
             "zip": "560008",
@@ -6599,6 +6621,7 @@
         "ip": "120.89.94.118",
         "ip": "121.126.128.100",
         "ip": "121.151.223.163",
+        "ip": "121.8.215.106",
         "ip": "122.136.212.132",
         "ip": "122.152.4.131",
         "ip": "122.155.165.191",
@@ -6617,6 +6640,7 @@
         "ip": "124.105.180.29",
         "ip": "124.105.186.206",
         "ip": "124.105.24.80",
+        "ip": "124.156.100.83",
         "ip": "124.156.172.181",
         "ip": "124.158.182.34",
         "ip": "124.217.97.131",
@@ -7198,7 +7222,9 @@
         "ip": "223.205.72.24",
         "ip": "223.25.110.227",
         "ip": "223.27.144.34",
+        "ip": "23.122.184.9",
         "ip": "23.237.145.36",
+        "ip": "24.124.46.18",
         "ip": "24.152.50.130",
         "ip": "24.172.82.94",
         "ip": "27.121.82.54",
@@ -7587,6 +7613,7 @@
         "port": 1413,
         "port": 14157,
         "port": 1419,
+        "port": 14197,
         "port": 14469,
         "port": 14505,
         "port": 14585,
@@ -7609,6 +7636,7 @@
         "port": 17123,
         "port": 17133,
         "port": 17135,
+        "port": 17137,
         "port": 17171,
         "port": 17227,
         "port": 17423,
@@ -7667,6 +7695,7 @@
         "port": 20941,
         "port": 20971,
         "port": 20985,
+        "port": 21151,
         "port": 2145,
         "port": 21491,
         "port": 21687,
@@ -7809,6 +7838,7 @@
         "port": 32650,
         "port": 32693,
         "port": 32737,
+        "port": 3279,
         "port": 32927,
         "port": 32943,
         "port": 32999,
@@ -7943,6 +7973,7 @@
         "port": 6937,
         "port": 6969,
         "port": 6983,
+        "port": 7007,
         "port": 7070,
         "port": 7109,
         "port": 7171,
@@ -7955,6 +7986,7 @@
         "port": 7878,
         "port": 7999,
         "port": 80,
+        "port": 800,
         "port": 8000,
         "port": 8002,
         "port": 8003,
@@ -8026,8 +8058,10 @@
         "port": 9437,
         "port": 9443,
         "port": 9491,
+        "port": 9649,
         "port": 9765,
         "port": 9793,
+        "port": 9797,
         "port": 9812,
         "port": 9898,
         "port": 9947,
