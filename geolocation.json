@@ -167,6 +167,7 @@
             "as": "AS21334 Vodafone Hungary Ltd.",
             "as": "AS21497 PrJSC VF UKRAINE",
             "as": "AS22612 Namecheap, Inc.",
+            "as": "AS22616 ZSCALER, INC.",
             "as": "AS22773 Cox Communications Inc.",
             "as": "AS2280 Orange S.A.",
             "as": "AS22869 CABLECOLOR S.A.",
@@ -404,6 +405,7 @@
             "as": "AS52609 AVATO TECNOLOGIA S.A",
             "as": "AS52747 Wsp Servi\u00e7os de Telecomunica\u00e7\u00f5es Ltda",
             "as": "AS52965 1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA",
+            "as": "AS53013 W I X NET DO BRASIL LTDA - ME",
             "as": "AS53989 Swayzee Telephone Company, Inc.",
             "as": "AS54290 Hostwinds LLC.",
             "as": "AS55507 Tejays Dynamic Limited",
@@ -1211,6 +1213,7 @@
             "isp": "Etisalat Fixed BB",
             "isp": "Etisalat Misr Mobile BB",
             "isp": "Evolucao Telecom Ltda",
+            "isp": "FANAPTELECOM",
             "isp": "FDCservers.net",
             "isp": "FIBER1",
             "isp": "FIBERNET",
@@ -1564,6 +1567,7 @@
             "isp": "Vodafone Libertel B.V.",
             "isp": "Vodafone NET Iletisim Hizmetleri Anonim Sirketi",
             "isp": "Vox Telecom Ltd",
+            "isp": "W I X NET DO BRASIL LTDA - ME",
             "isp": "WICORP SA",
             "isp": "WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
             "isp": "WiCAM Corporation Ltd",
@@ -1571,6 +1575,7 @@
             "isp": "Wsp Servi\u00e7os de Telecomunica\u00e7\u00f5es Ltda",
             "isp": "X-press Technologies Limited",
             "isp": "ZAP BL TELECOMUNICACOES LTDA",
+            "isp": "ZSCALER, INC.",
             "isp": "ZTV CORP LLC",
             "isp": "\"Cooolbox\" AD",
             "isp": "abuse-mailbox: (abuse@pegasuswave.com)",
@@ -1802,6 +1807,7 @@
             "lat": 19.3079,
             "lat": 19.413,
             "lat": 19.4196,
+            "lat": 19.4203,
             "lat": 19.447,
             "lat": 19.4512,
             "lat": 19.5758,
@@ -1938,6 +1944,7 @@
             "lat": 35.7337,
             "lat": 35.7373,
             "lat": 35.7446,
+            "lat": 35.7603,
             "lat": 35.768,
             "lat": 35.7887,
             "lat": 35.798,
@@ -2287,6 +2294,7 @@
             "lon": -98.3509,
             "lon": -98.3953,
             "lon": -99.0682,
+            "lon": -99.1193,
             "lon": -99.1428,
             "lon": 10.1717,
             "lon": 10.7343,
@@ -2557,6 +2565,7 @@
             "lon": 51.4158,
             "lon": 51.4203,
             "lon": 51.4291,
+            "lon": 51.4316,
             "lon": 52.5836,
             "lon": 52.6501,
             "lon": 54.0192,
@@ -3103,6 +3112,7 @@
             "org": "Virgo Communication Ltd",
             "org": "Vodafone Hungary Ltd",
             "org": "Vox Telecom",
+            "org": "W I X NET DO BRASIL LTDA - ME",
             "org": "WICORP SA",
             "org": "WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
             "org": "WM-data Novo Oyj",
@@ -3114,6 +3124,7 @@
             "org": "YemenNet",
             "org": "ZAP BL TELECOMUNICACOES LTDA",
             "org": "ZTV Corp",
+            "org": "Zscaler, Inc.",
             "org": "anyNode",
             "org": "bracNet",
             "org": "dogado GmbH",
@@ -3380,6 +3391,7 @@
             "query": "134.35.213.197"
             "query": "134.35.251.9"
             "query": "135.125.225.75"
+            "query": "136.226.0.100"
             "query": "138.118.106.237"
             "query": "138.118.200.49"
             "query": "138.121.161.86"
@@ -3533,6 +3545,7 @@
             "query": "177.37.217.45"
             "query": "177.38.83.242"
             "query": "177.39.139.14"
+            "query": "177.67.86.96"
             "query": "177.87.15.141"
             "query": "177.93.45.225"
             "query": "178.22.52.21"
@@ -3841,6 +3854,7 @@
             "query": "36.93.130.218"
             "query": "36.93.8.34"
             "query": "36.95.102.111"
+            "query": "37.114.204.14"
             "query": "37.120.192.154"
             "query": "37.187.109.70"
             "query": "37.195.166.140"
@@ -3921,6 +3935,7 @@
             "query": "5.189.184.6"
             "query": "5.196.111.29"
             "query": "5.202.149.187"
+            "query": "5.202.191.225"
             "query": "5.56.124.176"
             "query": "5.9.148.144"
             "query": "50.205.202.249"
@@ -4664,6 +4679,7 @@
             "zip": "01135",
             "zip": "0250",
             "zip": "029 01",
+            "zip": "03020",
             "zip": "03026",
             "zip": "048582",
             "zip": "050001",
@@ -5276,6 +5292,7 @@
         "ip": "134.35.213.197",
         "ip": "134.35.251.9",
         "ip": "135.125.225.75",
+        "ip": "136.226.0.100",
         "ip": "138.118.106.237",
         "ip": "138.118.200.49",
         "ip": "138.121.161.86",
@@ -5429,6 +5446,7 @@
         "ip": "177.37.217.45",
         "ip": "177.38.83.242",
         "ip": "177.39.139.14",
+        "ip": "177.67.86.96",
         "ip": "177.87.15.141",
         "ip": "177.93.45.225",
         "ip": "178.22.52.21",
@@ -5737,6 +5755,7 @@
         "ip": "36.93.130.218",
         "ip": "36.93.8.34",
         "ip": "36.95.102.111",
+        "ip": "37.114.204.14",
         "ip": "37.120.192.154",
         "ip": "37.187.109.70",
         "ip": "37.195.166.140",
@@ -5817,6 +5836,7 @@
         "ip": "5.189.184.6",
         "ip": "5.196.111.29",
         "ip": "5.202.149.187",
+        "ip": "5.202.191.225",
         "ip": "5.56.124.176",
         "ip": "5.9.148.144",
         "ip": "50.205.202.249",
@@ -6002,6 +6022,7 @@
         "port": 17533,
         "port": 17721,
         "port": 17739,
+        "port": 17755,
         "port": 1795,
         "port": 18080,
         "port": 18261,
@@ -6045,6 +6066,7 @@
         "port": 2251,
         "port": 22669,
         "port": 22749,
+        "port": 22751,
         "port": 22969,
         "port": 23253,
         "port": 23461,
@@ -6275,6 +6297,7 @@
         "port": 9191,
         "port": 9253,
         "port": 9385,
+        "port": 9401,
         "port": 9437,
         "port": 9443,
         "port": 9491,
