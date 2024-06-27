@@ -92,6 +92,7 @@
             "as": "AS150210 PT Wadma Berkah Sedaya",
             "as": "AS150259 PT Multi Guna Sinergi",
             "as": "AS150279 PT Lintas Network Solusi",
+            "as": "AS150880 FAST BYTE FAST DATA COMPANY LIMITED",
             "as": "AS151508 PT Terabyte Network Indonesia",
             "as": "AS151993 PT Wifian Global Nusantara",
             "as": "AS152384 PT Digitama Network Indonesia",
@@ -351,6 +352,7 @@
             "as": "AS55507 Tejays Dynamic Limited",
             "as": "AS55652 Sumidhaz Permata Bunda, PT",
             "as": "AS55699 PT. Cemerlang Multimedia",
+            "as": "AS55701 PT. Usaha Adisanggoro",
             "as": "AS55720 Gigabit Hosting Sdn Bhd",
             "as": "AS56041 China Mobile communications corporation",
             "as": "AS56042 China Mobile communications corporation",
@@ -427,6 +429,7 @@
             "city": "Alblasserdam",
             "city": "Alvarado",
             "city": "Amsterdam",
+            "city": "An Phu",
             "city": "Antakya",
             "city": "Ao Nang",
             "city": "Arauc\u00e1ria",
@@ -1074,6 +1077,7 @@
             "isp": "FIBERNET",
             "isp": "FIT Telecom Eireli",
             "isp": "FR OCB HONEY AS2280",
+            "isp": "Fast Byte Fast Data Company Limited",
             "isp": "Fibernet SPA",
             "isp": "Fibernet TV SAS",
             "isp": "Fullnet Solutions S.A.S.",
@@ -1182,6 +1186,7 @@
             "isp": "Mrkr Communications Private Limited",
             "isp": "Multinet 125-88/24",
             "isp": "NCNET",
+            "isp": "NET",
             "isp": "NET&COM LTDA.",
             "isp": "NEW UNIVERSAL WORLD PRIVATE LIMITED",
             "isp": "NPK Home-Net Ltd.",
@@ -1300,6 +1305,7 @@
             "isp": "Shenzhen Tencent Computer Systems Company Limited",
             "isp": "Shivansh Infotech pvt Ltd",
             "isp": "Silica Networks Argentina S.A",
+            "isp": "SinergiNet",
             "isp": "SkyNetwork Ltd.",
             "isp": "Skyware Sp. z o.o.",
             "isp": "Smart Telecom customers (former UTSYS)",
@@ -1517,6 +1523,7 @@
             "lat": 10.5998,
             "lat": 10.6039,
             "lat": 10.6658,
+            "lat": 10.7846,
             "lat": 10.822,
             "lat": 10.8221,
             "lat": 10.8289,
@@ -2045,6 +2052,7 @@
             "lon": 106.6284,
             "lon": 106.681,
             "lon": 106.7223,
+            "lon": 106.747,
             "lon": 106.789,
             "lon": 106.7926,
             "lon": 106.822,
@@ -2440,6 +2448,7 @@
             "org": "Evolucao Telecom Ltda",
             "org": "F. H. B. WERNER TELEKOM LTDA",
             "org": "FAIBA",
+            "org": "FASTBYTE",
             "org": "FDCservers.net",
             "org": "FIBERNET CHILE TELECOMUNICACIONES SpA",
             "org": "FIBERNET TV",
@@ -2816,6 +2825,7 @@
             "query": "103.191.155.70"
             "query": "103.194.172.130"
             "query": "103.194.70.102"
+            "query": "103.20.97.32"
             "query": "103.204.82.34"
             "query": "103.208.27.214"
             "query": "103.210.35.131"
@@ -2882,6 +2892,7 @@
             "query": "111.53.212.6"
             "query": "112.19.241.37"
             "query": "112.198.129.234"
+            "query": "112.198.131.71"
             "query": "112.198.179.57"
             "query": "112.78.47.187"
             "query": "113.125.82.11"
@@ -2949,6 +2960,7 @@
             "query": "13.234.24.116"
             "query": "13.40.239.130"
             "query": "131.100.48.123"
+            "query": "131.186.59.207"
             "query": "134.122.5.219"
             "query": "134.35.251.9"
             "query": "135.125.225.75"
@@ -3096,6 +3108,7 @@
             "query": "18.133.16.21"
             "query": "18.134.236.231"
             "query": "18.135.133.116"
+            "query": "18.169.83.87"
             "query": "180.190.200.24"
             "query": "180.211.186.158"
             "query": "181.119.106.85"
@@ -3187,6 +3200,7 @@
             "query": "190.61.46.178"
             "query": "190.61.61.210"
             "query": "190.61.84.166"
+            "query": "190.69.157.213"
             "query": "190.69.157.215"
             "query": "190.8.164.25"
             "query": "190.94.212.216"
@@ -3207,6 +3221,7 @@
             "query": "191.97.16.19"
             "query": "191.97.16.2"
             "query": "191.97.16.74"
+            "query": "191.97.18.161"
             "query": "192.169.179.253"
             "query": "192.99.169.19"
             "query": "193.138.178.6"
@@ -3312,6 +3327,7 @@
             "query": "221.226.75.86"
             "query": "223.135.156.183"
             "query": "223.205.72.24"
+            "query": "223.25.110.227"
             "query": "23.237.145.36"
             "query": "27.121.82.54"
             "query": "27.147.129.26"
@@ -3324,6 +3340,7 @@
             "query": "27.54.150.122"
             "query": "27.75.99.238"
             "query": "3.10.93.50"
+            "query": "3.9.71.167"
             "query": "31.3.26.51"
             "query": "34.215.74.117"
             "query": "35.154.71.72"
@@ -3359,6 +3376,7 @@
             "query": "41.65.163.67"
             "query": "41.65.55.10"
             "query": "43.132.124.11"
+            "query": "43.252.236.157"
             "query": "44.226.167.102"
             "query": "45.112.127.222"
             "query": "45.114.145.196"
@@ -4470,6 +4488,7 @@
         "ip": "103.191.155.70",
         "ip": "103.194.172.130",
         "ip": "103.194.70.102",
+        "ip": "103.20.97.32",
         "ip": "103.204.82.34",
         "ip": "103.208.27.214",
         "ip": "103.210.35.131",
@@ -4536,6 +4555,7 @@
         "ip": "111.53.212.6",
         "ip": "112.19.241.37",
         "ip": "112.198.129.234",
+        "ip": "112.198.131.71",
         "ip": "112.198.179.57",
         "ip": "112.78.47.187",
         "ip": "113.125.82.11",
@@ -4603,6 +4623,7 @@
         "ip": "13.234.24.116",
         "ip": "13.40.239.130",
         "ip": "131.100.48.123",
+        "ip": "131.186.59.207",
         "ip": "134.122.5.219",
         "ip": "134.35.251.9",
         "ip": "135.125.225.75",
@@ -4750,6 +4771,7 @@
         "ip": "18.133.16.21",
         "ip": "18.134.236.231",
         "ip": "18.135.133.116",
+        "ip": "18.169.83.87",
         "ip": "180.190.200.24",
         "ip": "180.211.186.158",
         "ip": "181.119.106.85",
@@ -4841,6 +4863,7 @@
         "ip": "190.61.46.178",
         "ip": "190.61.61.210",
         "ip": "190.61.84.166",
+        "ip": "190.69.157.213",
         "ip": "190.69.157.215",
         "ip": "190.8.164.25",
         "ip": "190.94.212.216",
@@ -4861,6 +4884,7 @@
         "ip": "191.97.16.19",
         "ip": "191.97.16.2",
         "ip": "191.97.16.74",
+        "ip": "191.97.18.161",
         "ip": "192.169.179.253",
         "ip": "192.99.169.19",
         "ip": "193.138.178.6",
@@ -4966,6 +4990,7 @@
         "ip": "221.226.75.86",
         "ip": "223.135.156.183",
         "ip": "223.205.72.24",
+        "ip": "223.25.110.227",
         "ip": "23.237.145.36",
         "ip": "27.121.82.54",
         "ip": "27.147.129.26",
@@ -4978,6 +5003,7 @@
         "ip": "27.54.150.122",
         "ip": "27.75.99.238",
         "ip": "3.10.93.50",
+        "ip": "3.9.71.167",
         "ip": "31.3.26.51",
         "ip": "34.215.74.117",
         "ip": "35.154.71.72",
@@ -5013,6 +5039,7 @@
         "ip": "41.65.163.67",
         "ip": "41.65.55.10",
         "ip": "43.132.124.11",
+        "ip": "43.252.236.157",
         "ip": "44.226.167.102",
         "ip": "45.112.127.222",
         "ip": "45.114.145.196",
@@ -5329,6 +5356,7 @@
         "port": 3361,
         "port": 34409,
         "port": 34567,
+        "port": 36666,
         "port": 3807,
         "port": 38157,
         "port": 38226,
@@ -5397,6 +5425,7 @@
         "port": 6889,
         "port": 7070,
         "port": 7171,
+        "port": 7631,
         "port": 7777,
         "port": 7878,
         "port": 7999,
