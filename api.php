@@ -1,5 +1,4 @@
 <?php
-// Set header to output JSON
 header('Content-Type: application/json');
 
 // URL of the proxy list
@@ -14,13 +13,30 @@ curl_setopt($curl, CURLOPT_FOLLOWLOCATION, true);
 // Execute cURL session
 $response = curl_exec($curl);
 
-// Check for errors
-if(curl_error($curl)){
-    echo json_encode(['error' => curl_error($curl)]);
-} else {
-    // Convert text data to JSON if necessary or simply return as string
-    echo json_encode(['data' => $response]);
+// Parse the proxies and format the data
+$proxies = explode("\n", trim($response));
+$proxy_list = array();
+
+foreach ($proxies as $proxy) {
+    $details = explode(":", $proxy);
+    $entry = array(
+        "ip" => $details[0],
+        "port" => $details[1]
+    );
+
+    // Check if country information is present
+    if (isset($details[2])) {
+        $country_parts = explode(" ", trim($details[2]), 2);
+        $entry["country"] = $country_parts[0];
+        
+        // Optionally add a flag emoji or link to a flag image
+        $entry["flag"] = "https://www.countryflags.io/" . strtolower($country_parts[0]) . "/shiny/64.png";
+    }
+
+    $proxy_list[] = $entry;
 }
+
+echo json_encode($proxy_list);
 
 // Close cURL session
 curl_close($curl);
