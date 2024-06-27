@@ -2,7 +2,7 @@ name: Enhanced Advanced Continuous Proxy Checking
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Runs every 10 minutes
+    - cron: '*/1 * * * *'  # Runs every 10 minutes
   push:
     branches: [ "main" ]
   pull_request:
