@@ -306,6 +306,7 @@
             "as": "AS19429 ETB - Colombia",
             "as": "AS197025 Lubuskie Sieci Swiatlowodowe Sp. z o. o.",
             "as": "AS197119 KRENA - Kyrgyz research and education network association",
+            "as": "AS197695 \"Domain names registrar REG.RU\", Ltd",
             "as": "AS197882 Tarin General Trading and Setting Up Internet Device LTD",
             "as": "AS198279 Albanian Telecommunications Union SH. P.K.",
             "as": "AS198380 BLUNOVA S.R.L.",
@@ -672,6 +673,7 @@
             "as": "AS37611 Afrihost (Pty) Ltd",
             "as": "AS37678 BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
             "as": "AS37721 Virtual Technologies & Solutions",
+            "as": "AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",
             "as": "AS38031 OptiMax Communication Ltd.",
             "as": "AS38071 Aftab IT Limited.",
             "as": "AS38082 True International Gateway Co., Ltd.",
@@ -2043,6 +2045,7 @@
             "isp": "Access AIR Sociedad Simple",
             "isp": "Acesse Comunica\u00d4\u00d4o Ltda",
             "isp": "Acessoline Telecom",
+            "isp": "Addresses CNNIC",
             "isp": "Advanced Solutions LLC",
             "isp": "Advanced Wireless Network Company Limited",
             "isp": "Afrihost (Pty) Ltd",
@@ -3075,6 +3078,7 @@
             "isp": "Zess Networks Private Limited",
             "isp": "Zomro B.V.",
             "isp": "\"Cooolbox\" AD",
+            "isp": "\"Domain names registrar REG.RU\", Ltd",
             "isp": "\"SCIENTIFIC-INDUSTRIAL FIRM \"VOLZ\" LIMITED LIABILITY COMPANY",
             "isp": "abuse-mailbox: (abuse@pegasuswave.com)",
             "isp": "bracNet",
@@ -3715,6 +3719,7 @@
             "lat": 26.9524,
             "lat": 26.9525,
             "lat": 26.9912,
+            "lat": 27.1832,
             "lat": 27.1865,
             "lat": 27.2032,
             "lat": 27.4924,
@@ -3924,6 +3929,7 @@
             "lat": 4.68284,
             "lat": 4.68294,
             "lat": 4.6913,
+            "lat": 4.6983,
             "lat": 4.71069,
             "lat": 4.71099,
             "lat": 4.74149,
@@ -4176,6 +4182,7 @@
             "lat": 55.7879,
             "lat": 55.7912,
             "lat": 55.8236,
+            "lat": 55.84,
             "lat": 55.8577,
             "lat": 55.9536,
             "lat": 55.9833,
@@ -4495,6 +4502,7 @@
             "lon": -74.0734,
             "lon": -74.0743,
             "lon": -74.0833,
+            "lon": -74.0972,
             "lon": -74.1211,
             "lon": -74.1403,
             "lon": -74.1534,
@@ -5092,6 +5100,7 @@
             "lon": 37.1123,
             "lon": 37.2286,
             "lon": 37.3864,
+            "lon": 37.4069,
             "lon": 37.4403,
             "lon": 37.4956,
             "lon": 37.5019,
@@ -5181,6 +5190,7 @@
             "lon": 52.6501,
             "lon": 54.0192,
             "lon": 55.9457,
+            "lon": 56.2666,
             "lon": 56.2808,
             "lon": 57.0834,
             "lon": 58.2809,
@@ -5412,6 +5422,7 @@
             "org": "Alhadatha",
             "org": "Alibaba.com LLC",
             "org": "Alibaba.com Singapore E-Commerce Private Limited",
+            "org": "Aliyun Computing Co., LTD",
             "org": "Aljeel Aljadeed Technology",
             "org": "Aljoraf area - Airport street",
             "org": "Allfiber Telecom Servi\u00e7os de Telecomunica\u00e7\u00f5es",
@@ -5779,6 +5790,7 @@
             "org": "JSC RSK Bank",
             "org": "JSC Russian Company.",
             "org": "JSC Ufanet",
+            "org": "JSC Zap-Sib TransTeleCom",
             "org": "JSC Zap-SibTranstelecom",
             "org": "JSC \"ER-Telecom Holding\" Irkutsk Branch",
             "org": "JSC \"ER-Telecom Holding\" Rostov-na-Donu Branch",
@@ -6109,6 +6121,7 @@
             "org": "Red Cientifica Peruana",
             "org": "Redes y Comunicaciones de Michoacan S.A. de C.V",
             "org": "Refah Bank",
+            "org": "Reg.Ru",
             "org": "Regional De Servicios De Telecomunicaciones Zomac",
             "org": "Reisnet Broadband Private Limited",
             "org": "ReliableSite.Net LLC",
@@ -6240,6 +6253,7 @@
             "org": "Telecom Personal Bs",
             "org": "Telecom Services",
             "org": "Telecommunication Company of Esfahan",
+            "org": "Telecommunication Company of Hormozgan",
             "org": "Telecommunication Company of Khorasan Jonoubi",
             "org": "Telecommunication Company",
             "org": "Telecomunicaciones Aut\u00f3nomas Sin L\u00edmite, S.A. de C.V",
@@ -7743,6 +7757,7 @@
             "query": "194.31.173.79"
             "query": "194.4.57.152"
             "query": "194.5.25.34"
+            "query": "194.67.104.203"
             "query": "194.87.97.50"
             "query": "194.9.80.1"
             "query": "195.128.96.213"
@@ -8011,6 +8026,7 @@
             "query": "217.182.194.108"
             "query": "217.196.50.219"
             "query": "217.197.237.74"
+            "query": "217.219.121.66"
             "query": "218.145.131.182"
             "query": "220.233.27.127"
             "query": "220.247.162.70"
@@ -8295,6 +8311,7 @@
             "query": "46.29.237.14"
             "query": "46.32.25.18"
             "query": "46.98.240.115"
+            "query": "47.100.253.10"
             "query": "47.238.192.169"
             "query": "47.238.210.31"
             "query": "47.251.43.115"
@@ -8435,6 +8452,7 @@
             "query": "77.238.79.111"
             "query": "77.242.16.30"
             "query": "77.41.146.26"
+            "query": "77.41.146.44"
             "query": "77.52.187.199"
             "query": "78.130.246.65"
             "query": "78.137.68.8"
@@ -8468,6 +8486,7 @@
             "query": "81.163.56.104"
             "query": "81.173.84.146"
             "query": "82.137.244.221"
+            "query": "82.200.106.177"
             "query": "82.200.205.126"
             "query": "82.200.80.118"
             "query": "82.65.27.56"
@@ -9600,6 +9619,7 @@
             "zip": "110121",
             "zip": "110221",
             "zip": "110811",
+            "zip": "111021",
             "zip": "111071",
             "zip": "111121",
             "zip": "111156",
@@ -9661,6 +9681,7 @@
             "zip": "142105",
             "zip": "142400",
             "zip": "142660",
+            "zip": "143441",
             "zip": "143905",
             "zip": "14400",
             "zip": "144700",
@@ -11625,6 +11646,7 @@
         "ip": "194.31.173.79",
         "ip": "194.4.57.152",
         "ip": "194.5.25.34",
+        "ip": "194.67.104.203",
         "ip": "194.87.97.50",
         "ip": "194.9.80.1",
         "ip": "195.128.96.213",
@@ -11893,6 +11915,7 @@
         "ip": "217.182.194.108",
         "ip": "217.196.50.219",
         "ip": "217.197.237.74",
+        "ip": "217.219.121.66",
         "ip": "218.145.131.182",
         "ip": "220.233.27.127",
         "ip": "220.247.162.70",
@@ -12177,6 +12200,7 @@
         "ip": "46.29.237.14",
         "ip": "46.32.25.18",
         "ip": "46.98.240.115",
+        "ip": "47.100.253.10",
         "ip": "47.238.192.169",
         "ip": "47.238.210.31",
         "ip": "47.251.43.115",
@@ -12317,6 +12341,7 @@
         "ip": "77.238.79.111",
         "ip": "77.242.16.30",
         "ip": "77.41.146.26",
+        "ip": "77.41.146.44",
         "ip": "77.52.187.199",
         "ip": "78.130.246.65",
         "ip": "78.137.68.8",
@@ -12350,6 +12375,7 @@
         "ip": "81.163.56.104",
         "ip": "81.173.84.146",
         "ip": "82.137.244.221",
+        "ip": "82.200.106.177",
         "ip": "82.200.205.126",
         "ip": "82.200.80.118",
         "ip": "82.65.27.56",
@@ -12995,6 +13021,7 @@
         "port": 24691,
         "port": 24723,
         "port": 24739,
+        "port": 24789,
         "port": 24909,
         "port": 24917,
         "port": 2493,
@@ -13296,6 +13323,7 @@
         "port": 32947,
         "port": 32999,
         "port": 33009,
+        "port": 33033,
         "port": 33087,
         "port": 33141,
         "port": 33171,
