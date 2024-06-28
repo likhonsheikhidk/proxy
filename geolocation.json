@@ -78,6 +78,7 @@
             "as": "AS136089 PT Mitra Mandiri Network",
             "as": "AS136121 PT Digital Media Telematika",
             "as": "AS136244 Panay Broadband / Buenavista Cable TV Inc.",
+            "as": "AS136255 Telecom International Myanmar Co., Ltd",
             "as": "AS136290 Country Online Services PVT LTD",
             "as": "AS136328 S S Cablenet",
             "as": "AS136393 Symphony Communication (Thailand) PCL.",
@@ -634,6 +635,7 @@
             "as": "AS41108 FirstRoot",
             "as": "AS41227 Insightometrics B.V.",
             "as": "AS4134 CHINANET-BACKBONE",
+            "as": "AS41508 IWACOM Sp. z o.o.",
             "as": "AS41585 ELEMENTMEDIA GmbH",
             "as": "AS41661 JSC \"ER-Telecom Holding\"",
             "as": "AS41727 JSC \"ER-Telecom Holding\"",
@@ -1346,6 +1348,7 @@
             "city": "Nonthaburi",
             "city": "Nordestina",
             "city": "North Bergen",
+            "city": "North Miami Beach",
             "city": "Nossa Senhora da Gloria",
             "city": "Novi Sad",
             "city": "Novosibirsk",
@@ -1626,6 +1629,7 @@
             "city": "Xebat",
             "city": "Xizhi District",
             "city": "Yacuambi",
+            "city": "Yangon",
             "city": "Yaound\u00e9",
             "city": "Yekaterinburg",
             "city": "Yogyakarta",
@@ -2004,6 +2008,7 @@
             "isp": "Colodee Digital Network CO",
             "isp": "Colombia M\u00f3vil",
             "isp": "Colombia Telecomunicaciones S.a. ESP",
+            "isp": "Columbus Networks USA, Inc.",
             "isp": "Columbus Networks de Honduras S. de R.L.",
             "isp": "Columbus",
             "isp": "ComClark Network & Technology Corp",
@@ -2199,6 +2204,7 @@
             "isp": "ISP-TARASSUL",
             "isp": "IT-EVRY-8/22",
             "isp": "ITELKOM",
+            "isp": "IWACOM Sp. z o.o.",
             "isp": "Iconex SPA",
             "isp": "Iguana Network Services C.A.",
             "isp": "In2cable",
@@ -2660,6 +2666,7 @@
             "isp": "Telconet S.A",
             "isp": "Telecel S.A.",
             "isp": "Telecom Argentina S.A.",
+            "isp": "Telecom International Myanmar Company Limited",
             "isp": "Telecomunicaciones Del Catatumbo S.A.S",
             "isp": "Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.",
             "isp": "Telefonica Del Peru",
@@ -3176,6 +3183,7 @@
             "lat": 16.5416,
             "lat": 16.7182,
             "lat": 16.7577,
+            "lat": 16.7964,
             "lat": 17.2374,
             "lat": 17.3724,
             "lat": 17.6259,
@@ -3331,6 +3339,7 @@
             "lat": 25.7807,
             "lat": 25.7933,
             "lat": 25.8153,
+            "lat": 25.9228,
             "lat": 26.0255,
             "lat": 26.2124,
             "lat": 26.4837,
@@ -3713,6 +3722,7 @@
             "lat": 51.6755,
             "lat": 51.7325,
             "lat": 51.7568,
+            "lat": 51.7629,
             "lat": 51.867,
             "lat": 51.9354,
             "lat": 52.0125,
@@ -4114,6 +4124,7 @@
             "lon": -79.8911,
             "lon": -79.8985,
             "lon": -80.0966,
+            "lon": -80.1562,
             "lon": -80.162,
             "lon": -80.167,
             "lon": -80.1899,
@@ -4467,6 +4478,7 @@
             "lon": 19.0974,
             "lon": 19.4083,
             "lon": 19.4469,
+            "lon": 19.4665,
             "lon": 19.4842,
             "lon": 19.6958,
             "lon": 19.7017,
@@ -4810,6 +4822,7 @@
             "lon": 91.8317,
             "lon": 92.7494,
             "lon": 92.8993,
+            "lon": 96.1667,
             "lon": 98.205,
             "lon": 98.3074,
             "lon": 98.3564,
@@ -4983,6 +4996,7 @@
             "org": "Colombia M\u00f3vil",
             "org": "Colombia Telecomunicaciones S.a. ESP",
             "org": "Colpar Participa\u00e7\u00f5es S/A",
+            "org": "Columbus Networks USA, Inc.",
             "org": "Columbus Networks de Honduras S. de R.L",
             "org": "Combined Soft",
             "org": "Comcast Cable Communications, LLC",
@@ -5643,6 +5657,7 @@
             "org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
             "org": "UFINET COLOMBIA, S. A",
             "org": "UFINET Guatemala S. A",
+            "org": "ULTIMAHOST.PL SZELIGA sp. j",
             "org": "UMC Turbaevskiy",
             "org": "UNIFIQUE TELECOMUNICACOES S/A",
             "org": "UNINET",
@@ -6703,6 +6718,7 @@
             "query": "185.222.115.104"
             "query": "185.222.115.105"
             "query": "185.233.247.186"
+            "query": "185.238.72.222"
             "query": "185.32.6.131"
             "query": "185.57.237.32"
             "query": "185.65.247.133"
@@ -6901,6 +6917,7 @@
             "query": "193.38.224.169"
             "query": "193.41.88.58"
             "query": "194.150.71.39"
+            "query": "194.180.176.109"
             "query": "194.186.248.97"
             "query": "194.31.108.52"
             "query": "194.31.173.79"
@@ -7209,6 +7226,7 @@
             "query": "37.32.15.125"
             "query": "38.10.69.106"
             "query": "38.10.69.107"
+            "query": "38.10.69.109"
             "query": "38.10.69.110"
             "query": "38.123.79.3"
             "query": "38.156.233.132"
@@ -7443,6 +7461,7 @@
             "query": "64.23.153.213"
             "query": "65.1.244.232"
             "query": "65.1.40.47"
+            "query": "65.18.114.254"
             "query": "65.20.189.104"
             "query": "65.21.112.150"
             "query": "65.49.38.202"
@@ -7474,6 +7493,7 @@
             "query": "67.43.236.22"
             "query": "68.183.149.126"
             "query": "69.160.223.65"
+            "query": "69.79.101.97"
             "query": "70.90.138.109"
             "query": "71.14.23.121"
             "query": "72.10.160.170"
@@ -8339,6 +8359,7 @@
             "regionName": "West Kalimantan",
             "regionName": "Western Cape",
             "regionName": "Western Visayas",
+            "regionName": "Yangon",
             "regionName": "Yaroslavl Oblast",
             "regionName": "Yogyakarta",
             "regionName": "Yunnan",
@@ -8776,6 +8797,7 @@
             "zip": "330-9301",
             "zip": "33126",
             "zip": "33131",
+            "zip": "33160",
             "zip": "33178",
             "zip": "3340",
             "zip": "33781",
@@ -9133,6 +9155,7 @@
             "zip": "89000",
             "zip": "8957",
             "zip": "89800-000",
+            "zip": "90-049",
             "zip": "90-519",
             "zip": "900-0021",
             "zip": "9000",
@@ -10167,6 +10190,7 @@
         "ip": "185.222.115.104",
         "ip": "185.222.115.105",
         "ip": "185.233.247.186",
+        "ip": "185.238.72.222",
         "ip": "185.32.6.131",
         "ip": "185.57.237.32",
         "ip": "185.65.247.133",
@@ -10365,6 +10389,7 @@
         "ip": "193.38.224.169",
         "ip": "193.41.88.58",
         "ip": "194.150.71.39",
+        "ip": "194.180.176.109",
         "ip": "194.186.248.97",
         "ip": "194.31.108.52",
         "ip": "194.31.173.79",
@@ -10673,6 +10698,7 @@
         "ip": "37.32.15.125",
         "ip": "38.10.69.106",
         "ip": "38.10.69.107",
+        "ip": "38.10.69.109",
         "ip": "38.10.69.110",
         "ip": "38.123.79.3",
         "ip": "38.156.233.132",
@@ -10907,6 +10933,7 @@
         "ip": "64.23.153.213",
         "ip": "65.1.244.232",
         "ip": "65.1.40.47",
+        "ip": "65.18.114.254",
         "ip": "65.20.189.104",
         "ip": "65.21.112.150",
         "ip": "65.49.38.202",
@@ -10938,6 +10965,7 @@
         "ip": "67.43.236.22",
         "ip": "68.183.149.126",
         "ip": "69.160.223.65",
+        "ip": "69.79.101.97",
         "ip": "70.90.138.109",
         "ip": "71.14.23.121",
         "ip": "72.10.160.170",
@@ -11163,6 +11191,7 @@
         "port": 12717,
         "port": 12741,
         "port": 1281,
+        "port": 12883,
         "port": 12917,
         "port": 12988,
         "port": 13001,
@@ -11242,6 +11271,7 @@
         "port": 15683,
         "port": 15693,
         "port": 15737,
+        "port": 1577,
         "port": 15771,
         "port": 15779,
         "port": 15879,
@@ -11353,6 +11383,7 @@
         "port": 1981,
         "port": 19811,
         "port": 1982,
+        "port": 19889,
         "port": 1989,
         "port": 1994,
         "port": 19987,
@@ -11406,6 +11437,7 @@
         "port": 21491,
         "port": 21571,
         "port": 21577,
+        "port": 21657,
         "port": 21665,
         "port": 21687,
         "port": 21701,
@@ -11495,6 +11527,7 @@
         "port": 24909,
         "port": 24917,
         "port": 2493,
+        "port": 24963,
         "port": 24989,
         "port": 25063,
         "port": 25075,
@@ -11720,6 +11753,7 @@
         "port": 32751,
         "port": 3279,
         "port": 32801,
+        "port": 32815,
         "port": 32833,
         "port": 32927,
         "port": 32943,
@@ -11858,6 +11892,7 @@
         "port": 5211,
         "port": 5247,
         "port": 5255,
+        "port": 53128,
         "port": 5313,
         "port": 53281,
         "port": 5331,
@@ -11906,6 +11941,7 @@
         "port": 6141,
         "port": 61456,
         "port": 6175,
+        "port": 6233,
         "port": 6247,
         "port": 62500,
         "port": 63123,
