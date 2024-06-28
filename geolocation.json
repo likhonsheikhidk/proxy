@@ -518,6 +518,7 @@
             "as": "AS268715 N3 SOLUCOES TECNOLOGICAS LTDA",
             "as": "AS268733 MaetingaNET Inform\u00e1tica e Telecomunica\u00e7\u00f5es",
             "as": "AS268863 M & G TELECON LTDA",
+            "as": "AS268887 DAVILSON DOS SANTOS CORREIA-ME",
             "as": "AS269250 EVOLUCAO TELECOM LTDA",
             "as": "AS269326 A2 TELECOM PROVEDOR DE INTERNET LTDA",
             "as": "AS269453 LUCIANO YAMASHIRO PINTO",
@@ -1022,6 +1023,7 @@
             "city": "Arauc\u00e1ria",
             "city": "Asansol",
             "city": "Ashburn",
+            "city": "Asheville",
             "city": "Asientos",
             "city": "Asunci\u00f3n",
             "city": "Atibaia",
@@ -1626,6 +1628,7 @@
             "city": "Reston",
             "city": "Reyhanl\u0131",
             "city": "Reynosa",
+            "city": "Riachao das Neves",
             "city": "Ribeir\u00e3o Preto",
             "city": "Richardson",
             "city": "Riga",
@@ -2287,6 +2290,7 @@
             "isp": "DataCamp Limited",
             "isp": "Dataline LLC",
             "isp": "Dataware Telecomunica\u00e7\u00f5es LTDA. - EPP",
+            "isp": "Davilson Dos Santos Correia-me",
             "isp": "Deceret Cia. Ltda.",
             "isp": "Delix Net Solutions Pvt. Ltd",
             "isp": "Delta Networks",
@@ -3174,6 +3178,7 @@
             "lat": -10.8969,
             "lat": -11.2984,
             "lat": -11.7605,
+            "lat": -11.7748,
             "lat": -12.0432,
             "lat": -12.0463,
             "lat": -12.0697,
@@ -3903,6 +3908,7 @@
             "lat": 35.4868,
             "lat": 35.4963,
             "lat": 35.5641,
+            "lat": 35.5947,
             "lat": 35.6018,
             "lat": 35.6673,
             "lat": 35.6702,
@@ -4413,6 +4419,7 @@
             "lon": -43.4434,
             "lon": -43.5257,
             "lon": -43.9,
+            "lon": -45.125,
             "lon": -45.6243,
             "lon": -46.5461,
             "lon": -46.6359,
@@ -4660,6 +4667,7 @@
             "lon": -80.8512,
             "lon": -80.8688,
             "lon": -81.0819,
+            "lon": -82.5545,
             "lon": -82.7155,
             "lon": -83.7801,
             "lon": -84.0707,
@@ -5592,6 +5600,7 @@
             "org": "CV Sinar Kencana",
             "org": "CV. CAHAYA WIJAYA LESTARI",
             "org": "CV. MEDIA COMPUTINDO",
+            "org": "CV. WIJAYA MAJU LESTARI",
             "org": "CYB",
             "org": "Cable Onda Oriental, SRL",
             "org": "Canal Antigua S.A",
@@ -5653,6 +5662,7 @@
             "org": "Confedera\u00e7\u00e3o Nacional Trabalhadores No Comercio",
             "org": "Consolidated Communications, Inc.",
             "org": "Contabo GmbH",
+            "org": "Contabo Inc",
             "org": "Contato Internet EIRELI",
             "org": "Converge ICT Solution Inc",
             "org": "Convergia Peru S.A",
@@ -5678,6 +5688,7 @@
             "org": "Dataforseo OU",
             "org": "Datamation Corp",
             "org": "Dataware Telecomunica\u00e7\u00f5es LTDA. - EPP",
+            "org": "Davilson Dos Santos Correia-me",
             "org": "Days Inn - Galleria",
             "org": "Delix Net Solution Pvt. Ltd",
             "org": "Deltanet Internet",
@@ -5831,6 +5842,7 @@
             "org": "Hostaxis Network Private Limited",
             "org": "Hosting Services, Inc.",
             "org": "Hostinger International Limited",
+            "org": "Hostinger International Ltd.",
             "org": "Hostwinds LLC",
             "org": "Huawei Cloud Service",
             "org": "IFTNET Telecomunicacoes Ltda",
@@ -6594,6 +6606,7 @@
             "query": "103.133.68.151"
             "query": "103.134.220.128"
             "query": "103.134.251.203"
+            "query": "103.135.48.30"
             "query": "103.135.5.142"
             "query": "103.137.111.231"
             "query": "103.137.218.166"
@@ -7256,6 +7269,7 @@
             "query": "152.32.67.243"
             "query": "152.32.68.171"
             "query": "152.67.9.179"
+            "query": "154.12.236.73"
             "query": "154.236.179.226"
             "query": "154.236.179.229"
             "query": "154.236.189.10"
@@ -7631,6 +7645,7 @@
             "query": "182.191.84.39"
             "query": "182.253.109.4"
             "query": "182.253.172.86"
+            "query": "182.253.176.67"
             "query": "182.253.179.238"
             "query": "182.48.72.33"
             "query": "182.52.229.165"
@@ -8241,6 +8256,7 @@
             "query": "3.9.71.167"
             "query": "31.128.69.121"
             "query": "31.129.253.30"
+            "query": "31.220.53.93"
             "query": "31.28.8.196"
             "query": "31.3.26.51"
             "query": "31.40.154.223"
@@ -8249,6 +8265,7 @@
             "query": "34.146.221.23"
             "query": "34.172.92.211"
             "query": "34.215.74.117"
+            "query": "34.84.14.127"
             "query": "34.92.250.88"
             "query": "34.92.88.81"
             "query": "35.154.71.72"
@@ -8387,6 +8404,7 @@
             "query": "45.174.191.19"
             "query": "45.174.57.22"
             "query": "45.174.77.119"
+            "query": "45.174.80.79"
             "query": "45.174.87.18"
             "query": "45.176.97.90"
             "query": "45.179.200.129"
@@ -9968,6 +9986,7 @@
             "zip": "281005",
             "zip": "28203",
             "zip": "28800",
+            "zip": "28801",
             "zip": "289-2614",
             "zip": "29000",
             "zip": "29169",
@@ -10134,6 +10153,7 @@
             "zip": "47910",
             "zip": "47918",
             "zip": "47946",
+            "zip": "47970",
             "zip": "48103",
             "zip": "48180",
             "zip": "482",
@@ -10559,6 +10579,7 @@
         "ip": "103.133.68.151",
         "ip": "103.134.220.128",
         "ip": "103.134.251.203",
+        "ip": "103.135.48.30",
         "ip": "103.135.5.142",
         "ip": "103.137.111.231",
         "ip": "103.137.218.166",
@@ -11221,6 +11242,7 @@
         "ip": "152.32.67.243",
         "ip": "152.32.68.171",
         "ip": "152.67.9.179",
+        "ip": "154.12.236.73",
         "ip": "154.236.179.226",
         "ip": "154.236.179.229",
         "ip": "154.236.189.10",
@@ -11596,6 +11618,7 @@
         "ip": "182.191.84.39",
         "ip": "182.253.109.4",
         "ip": "182.253.172.86",
+        "ip": "182.253.176.67",
         "ip": "182.253.179.238",
         "ip": "182.48.72.33",
         "ip": "182.52.229.165",
@@ -12206,6 +12229,7 @@
         "ip": "3.9.71.167",
         "ip": "31.128.69.121",
         "ip": "31.129.253.30",
+        "ip": "31.220.53.93",
         "ip": "31.28.8.196",
         "ip": "31.3.26.51",
         "ip": "31.40.154.223",
@@ -12214,6 +12238,7 @@
         "ip": "34.146.221.23",
         "ip": "34.172.92.211",
         "ip": "34.215.74.117",
+        "ip": "34.84.14.127",
         "ip": "34.92.250.88",
         "ip": "34.92.88.81",
         "ip": "35.154.71.72",
@@ -12352,6 +12377,7 @@
         "ip": "45.174.191.19",
         "ip": "45.174.57.22",
         "ip": "45.174.77.119",
+        "ip": "45.174.80.79",
         "ip": "45.174.87.18",
         "ip": "45.176.97.90",
         "ip": "45.179.200.129",
@@ -12740,6 +12766,7 @@
         "port": 1001,
         "port": 10010,
         "port": 10012,
+        "port": 10013,
         "port": 10015,
         "port": 10017,
         "port": 10037,
@@ -12842,6 +12869,7 @@
         "port": 12437,
         "port": 12555,
         "port": 12573,
+        "port": 12595,
         "port": 12657,
         "port": 12689,
         "port": 12717,
@@ -12965,6 +12993,7 @@
         "port": 15819,
         "port": 15879,
         "port": 15883,
+        "port": 15899,
         "port": 15985,
         "port": 1607,
         "port": 16231,
@@ -13411,6 +13440,7 @@
         "port": 28195,
         "port": 2821,
         "port": 28221,
+        "port": 28291,
         "port": 2835,
         "port": 28359,
         "port": 2847,
@@ -13612,6 +13642,7 @@
         "port": 32943,
         "port": 32947,
         "port": 32999,
+        "port": 33001,
         "port": 33009,
         "port": 33033,
         "port": 33087,
@@ -13790,6 +13821,7 @@
         "port": 53468,
         "port": 5347,
         "port": 53583,
+        "port": 5401,
         "port": 5409,
         "port": 5423,
         "port": 54240,
@@ -13847,6 +13879,7 @@
         "port": 6317,
         "port": 6359,
         "port": 6387,
+        "port": 63910,
         "port": 6409,
         "port": 6429,
         "port": 64351,
