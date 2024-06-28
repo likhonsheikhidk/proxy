@@ -589,6 +589,7 @@
             "as": "AS38082 True International Gateway Co., Ltd.",
             "as": "AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP",
             "as": "AS38200 BTS Communications (BD) ltd,",
+            "as": "AS38229 Lanka Education & Research Network, NREN",
             "as": "AS38320 PT Maxindo Mitra Solusi",
             "as": "AS38496 PT Cyber Network Indonesia",
             "as": "AS38511 PT Remala Abadi",
@@ -1036,6 +1037,7 @@
             "city": "Davao City",
             "city": "Davis",
             "city": "Dawei",
+            "city": "Dedunupitiya",
             "city": "Delhi",
             "city": "Demak",
             "city": "Denpasar",
@@ -1093,6 +1095,7 @@
             "city": "Geumjeong-gu",
             "city": "Gioia del Colle",
             "city": "Giza",
+            "city": "Gobernador Crespo",
             "city": "Goi\u00e2nia",
             "city": "Goiatuba",
             "city": "Goseong-gun",
@@ -1258,6 +1261,7 @@
             "city": "Maria Elena",
             "city": "Marikina City",
             "city": "Martins",
+            "city": "Mayiladuthurai",
             "city": "Maykop",
             "city": "Medan",
             "city": "Medell\u00edn",
@@ -1677,6 +1681,7 @@
             "country": "South Africa",
             "country": "South Korea",
             "country": "Spain",
+            "country": "Sri Lanka",
             "country": "Sweden",
             "country": "Switzerland",
             "country": "Syria",
@@ -1743,6 +1748,7 @@
             "countryCode": "KR",
             "countryCode": "KZ",
             "countryCode": "LA",
+            "countryCode": "LK",
             "countryCode": "LT",
             "countryCode": "LY",
             "countryCode": "MD",
@@ -2208,6 +2214,7 @@
             "isp": "LTT Network Backbone and POPs",
             "isp": "Lagonet-tv Cia. Ltda.",
             "isp": "Lanet Network",
+            "isp": "Lanka Education and Research Network",
             "isp": "Lao Telecommunication Co Ltd",
             "isp": "Laser Company Ltd",
             "isp": "Lesun communication furtherance engineers Co, Ltd.",
@@ -2839,6 +2846,7 @@
             "lat": -3.9342,
             "lat": -3.9475,
             "lat": -3.9813,
+            "lat": -30.3804,
             "lat": -31.4794,
             "lat": -31.7795,
             "lat": -32.9518,
@@ -3028,6 +3036,7 @@
             "lat": 11.0071,
             "lat": 11.0237,
             "lat": 11.0842,
+            "lat": 11.1063,
             "lat": 11.1424,
             "lat": 11.2399,
             "lat": 11.3874,
@@ -3698,6 +3707,7 @@
             "lat": 7.0671,
             "lat": 7.0712,
             "lat": 7.1224,
+            "lat": 7.3353,
             "lat": 7.8946,
             "lat": 7.95,
             "lat": 7.9622,
@@ -3864,6 +3874,7 @@
             "lon": -58.9856,
             "lon": -59.9964,
             "lon": -6.2597,
+            "lon": -60.4142,
             "lon": -60.6158,
             "lon": -60.6745,
             "lon": -60.6839,
@@ -4609,6 +4620,7 @@
             "lon": 78.4378,
             "lon": 78.7699,
             "lon": 78.7812,
+            "lon": 79.655,
             "lon": 79.8191,
             "lon": 8.0716,
             "lon": 8.07958,
@@ -4622,6 +4634,7 @@
             "lon": 80.1078,
             "lon": 80.2209,
             "lon": 80.27178,
+            "lon": 80.4313,
             "lon": 80.6465,
             "lon": 81.1041,
             "lon": 81.6328,
@@ -5110,6 +5123,7 @@
             "org": "Lagonet-tv Cia. Ltda",
             "org": "LahoreOnline SMC Pvt Ltd",
             "org": "Lanet Network Ltd",
+            "org": "Lanka Education and Research Network",
             "org": "Laotelecom",
             "org": "Lay",
             "org": "Least Cost Telecom S.l. Unipersonal",
@@ -5841,6 +5855,7 @@
             "query": "103.255.147.102"
             "query": "103.255.222.1"
             "query": "103.26.108.118"
+            "query": "103.26.110.125"
             "query": "103.30.30.73"
             "query": "103.35.108.89"
             "query": "103.35.110.94"
@@ -5853,6 +5868,7 @@
             "query": "103.47.175.161"
             "query": "103.48.68.171"
             "query": "103.48.68.218"
+            "query": "103.48.68.220"
             "query": "103.48.68.6"
             "query": "103.48.69.121"
             "query": "103.48.69.225"
@@ -6135,6 +6151,7 @@
             "query": "139.59.59.189"
             "query": "14.115.105.66"
             "query": "14.143.130.210"
+            "query": "14.143.145.35"
             "query": "14.143.145.36"
             "query": "14.143.172.238"
             "query": "14.170.154.193"
@@ -6721,6 +6738,7 @@
             "query": "192.140.42.83"
             "query": "192.141.196.129"
             "query": "192.169.179.253"
+            "query": "192.248.95.1"
             "query": "192.46.229.19"
             "query": "192.53.114.26"
             "query": "192.99.169.19"
@@ -6806,6 +6824,7 @@
             "query": "200.61.16.80"
             "query": "200.69.159.177"
             "query": "200.7.11.154"
+            "query": "200.71.237.238"
             "query": "200.76.28.202"
             "query": "200.94.102.10"
             "query": "201.144.25.10"
@@ -7451,6 +7470,7 @@
             "region": "16",
             "region": "18",
             "region": "19",
+            "region": "2",
             "region": "20",
             "region": "21",
             "region": "22",
@@ -7799,6 +7819,7 @@
             "regionName": "Cear\u00e1",
             "regionName": "Central Java",
             "regionName": "Central Luzon",
+            "regionName": "Central Province",
             "regionName": "Central Region",
             "regionName": "Central Singapore",
             "regionName": "Central Visayas",
@@ -8223,6 +8244,7 @@
             "timezone": "Asia/Bangkok",
             "timezone": "Asia/Bishkek",
             "timezone": "Asia/Chita",
+            "timezone": "Asia/Colombo",
             "timezone": "Asia/Damascus",
             "timezone": "Asia/Dhaka",
             "timezone": "Asia/Ho_Chi_Minh",
@@ -8550,6 +8572,7 @@
             "zip": "302012",
             "zip": "302022",
             "zip": "30301",
+            "zip": "3044",
             "zip": "3100",
             "zip": "31000",
             "zip": "310000",
@@ -8767,6 +8790,7 @@
             "zip": "60341",
             "zip": "605009",
             "zip": "60602",
+            "zip": "609003",
             "zip": "6100",
             "zip": "61000",
             "zip": "610000",
@@ -9223,6 +9247,7 @@
         "ip": "103.255.147.102",
         "ip": "103.255.222.1",
         "ip": "103.26.108.118",
+        "ip": "103.26.110.125",
         "ip": "103.30.30.73",
         "ip": "103.35.108.89",
         "ip": "103.35.110.94",
@@ -9235,6 +9260,7 @@
         "ip": "103.47.175.161",
         "ip": "103.48.68.171",
         "ip": "103.48.68.218",
+        "ip": "103.48.68.220",
         "ip": "103.48.68.6",
         "ip": "103.48.69.121",
         "ip": "103.48.69.225",
@@ -9517,6 +9543,7 @@
         "ip": "139.59.59.189",
         "ip": "14.115.105.66",
         "ip": "14.143.130.210",
+        "ip": "14.143.145.35",
         "ip": "14.143.145.36",
         "ip": "14.143.172.238",
         "ip": "14.170.154.193",
@@ -10103,6 +10130,7 @@
         "ip": "192.140.42.83",
         "ip": "192.141.196.129",
         "ip": "192.169.179.253",
+        "ip": "192.248.95.1",
         "ip": "192.46.229.19",
         "ip": "192.53.114.26",
         "ip": "192.99.169.19",
@@ -10188,6 +10216,7 @@
         "ip": "200.61.16.80",
         "ip": "200.69.159.177",
         "ip": "200.7.11.154",
+        "ip": "200.71.237.238",
         "ip": "200.76.28.202",
         "ip": "200.94.102.10",
         "ip": "201.144.25.10",
@@ -11183,6 +11212,7 @@
         "port": 24107,
         "port": 24129,
         "port": 24135,
+        "port": 24141,
         "port": 24151,
         "port": 24191,
         "port": 24275,
@@ -11580,6 +11610,7 @@
         "port": 59417,
         "port": 6000,
         "port": 60080,
+        "port": 6025,
         "port": 6029,
         "port": 6030,
         "port": 6057,
