@@ -321,6 +321,7 @@
             "as": "AS209059 G COM Ltd.",
             "as": "AS2094 Renater",
             "as": "AS209743 Enbinet Ltd.",
+            "as": "AS209839 Luva Group Sh.p.k.",
             "as": "AS21003 General Post and Telecommunication Company (GPTC)",
             "as": "AS21017 PJSC Rostelecom",
             "as": "AS21100 GREEN FLOID LLC",
@@ -628,6 +629,7 @@
             "as": "AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP",
             "as": "AS38200 BTS Communications (BD) ltd,",
             "as": "AS38229 Lanka Education & Research Network, NREN",
+            "as": "AS38248 VTC-VN",
             "as": "AS38320 PT Maxindo Mitra Solusi",
             "as": "AS38496 PT Cyber Network Indonesia",
             "as": "AS38511 PT Remala Abadi",
@@ -1179,6 +1181,7 @@
             "city": "Gwangmyeong",
             "city": "Habiganj",
             "city": "Hachenburg",
+            "city": "Hai B\u00e0 Tr\u01b0ng District",
             "city": "Haldia",
             "city": "Hangzhou",
             "city": "Hanoi",
@@ -2363,6 +2366,7 @@
             "isp": "Lubuskie Sieci Swiatlowodowe Sp. z o. o.",
             "isp": "Luciano Yamashiro Pinto",
             "isp": "Lukovitnet Ltd.",
+            "isp": "Luva Group Sh.p.k.",
             "isp": "M & G TELECON LTDA",
             "isp": "M247 Europe SRL",
             "isp": "MAC WIFI NETWORKS (PRIVATE) LIMITED",
@@ -2831,6 +2835,7 @@
             "isp": "VNET",
             "isp": "VNPT-VNNIC",
             "isp": "VNTT",
+            "isp": "VTC",
             "isp": "Vainavi Industries Ltd.",
             "isp": "Valin Company for General Trading and Communication LTD",
             "isp": "Varnion Technology Semesta, PT",
@@ -3348,6 +3353,7 @@
             "lat": 20.6707,
             "lat": 20.7972,
             "lat": 20.8161,
+            "lat": 21.0026,
             "lat": 21.0215,
             "lat": 21.0278,
             "lat": 21.0292,
@@ -4386,6 +4392,7 @@
             "lon": 105.825,
             "lon": 105.834,
             "lon": 105.8526,
+            "lon": 105.864,
             "lon": 105.9669,
             "lon": 106.0746,
             "lon": 106.1106,
@@ -5324,6 +5331,7 @@
             "org": "High Speed Telekomunikasyon VE Haberlesme Hizmetleri Ltd. STI",
             "org": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti",
             "org": "High Speed Telekomunikasyon ve Haberlesme Hizmetleri Ltd Sti",
+            "org": "Highspeed Fiber",
             "org": "Highspeed VAE",
             "org": "Highspeed",
             "org": "Hipernet Bilisim VE Telekomunikasyon Hizmetleri Sanayi VE Ticaret Limited",
@@ -5735,6 +5743,7 @@
             "org": "Shandong eshinton Network Technology Co., Ltd.",
             "org": "Sharif University of Technology-International Campus",
             "org": "Sharktech",
+            "org": "Shatel Group",
             "org": "Shivansh Infotech pvt Ltd",
             "org": "Shorkin RO",
             "org": "Shoro Closed Joint-Stock Company",
@@ -5873,6 +5882,7 @@
             "org": "VIETTEL PER\u00da S.A.C",
             "org": "VNET-org",
             "org": "VPS",
+            "org": "VTC - Multimedia Corporation",
             "org": "VTS",
             "org": "Valin Company General Trading and Communication LTD",
             "org": "Vasquez Burgos Livington",
@@ -6395,6 +6405,7 @@
             "query": "116.98.64.195"
             "query": "117.102.86.146"
             "query": "117.102.87.66"
+            "query": "117.103.194.90"
             "query": "117.144.175.203"
             "query": "117.68.38.159"
             "query": "117.68.38.184"
@@ -6497,6 +6508,7 @@
             "query": "134.122.5.219"
             "query": "134.209.144.177"
             "query": "134.249.185.223"
+            "query": "134.35.0.145"
             "query": "134.35.188.253"
             "query": "134.35.21.86"
             "query": "134.35.213.197"
@@ -6958,6 +6970,7 @@
             "query": "185.49.170.20"
             "query": "185.57.237.32"
             "query": "185.65.247.133"
+            "query": "185.73.0.139"
             "query": "185.85.161.214"
             "query": "185.93.204.33"
             "query": "186.103.130.91"
@@ -7866,6 +7879,7 @@
             "query": "89.135.206.242"
             "query": "89.163.157.129"
             "query": "89.187.191.111"
+            "query": "89.187.191.120"
             "query": "89.187.191.121"
             "query": "89.187.191.122"
             "query": "89.188.110.196"
@@ -7905,6 +7919,7 @@
             "query": "94.102.228.1"
             "query": "94.130.177.190"
             "query": "94.139.204.51"
+            "query": "94.154.152.4"
             "query": "94.182.146.250"
             "query": "94.198.221.222"
             "query": "94.228.194.18"
@@ -9988,6 +10003,7 @@
         "ip": "116.98.64.195",
         "ip": "117.102.86.146",
         "ip": "117.102.87.66",
+        "ip": "117.103.194.90",
         "ip": "117.144.175.203",
         "ip": "117.68.38.159",
         "ip": "117.68.38.184",
@@ -10090,6 +10106,7 @@
         "ip": "134.122.5.219",
         "ip": "134.209.144.177",
         "ip": "134.249.185.223",
+        "ip": "134.35.0.145",
         "ip": "134.35.188.253",
         "ip": "134.35.21.86",
         "ip": "134.35.213.197",
@@ -10551,6 +10568,7 @@
         "ip": "185.49.170.20",
         "ip": "185.57.237.32",
         "ip": "185.65.247.133",
+        "ip": "185.73.0.139",
         "ip": "185.85.161.214",
         "ip": "185.93.204.33",
         "ip": "186.103.130.91",
@@ -11459,6 +11477,7 @@
         "ip": "89.135.206.242",
         "ip": "89.163.157.129",
         "ip": "89.187.191.111",
+        "ip": "89.187.191.120",
         "ip": "89.187.191.121",
         "ip": "89.187.191.122",
         "ip": "89.188.110.196",
@@ -11498,6 +11517,7 @@
         "ip": "94.102.228.1",
         "ip": "94.130.177.190",
         "ip": "94.139.204.51",
+        "ip": "94.154.152.4",
         "ip": "94.182.146.250",
         "ip": "94.198.221.222",
         "ip": "94.228.194.18",
@@ -11696,6 +11716,7 @@
         "port": 15633,
         "port": 15683,
         "port": 15693,
+        "port": 15731,
         "port": 15737,
         "port": 1577,
         "port": 15771,
@@ -11803,6 +11824,7 @@
         "port": 19255,
         "port": 19265,
         "port": 1927,
+        "port": 19277,
         "port": 19327,
         "port": 19439,
         "port": 1947,
@@ -11829,6 +11851,7 @@
         "port": 2009,
         "port": 20109,
         "port": 20135,
+        "port": 20147,
         "port": 20149,
         "port": 2016,
         "port": 20183,
@@ -11864,6 +11887,7 @@
         "port": 21149,
         "port": 21151,
         "port": 21231,
+        "port": 21255,
         "port": 21277,
         "port": 21307,
         "port": 21445,
@@ -11926,6 +11950,7 @@
         "port": 23253,
         "port": 2329,
         "port": 23305,
+        "port": 2337,
         "port": 23399,
         "port": 23409,
         "port": 23429,
@@ -11960,6 +11985,7 @@
         "port": 24275,
         "port": 24279,
         "port": 24361,
+        "port": 24403,
         "port": 2457,
         "port": 24607,
         "port": 2467,
@@ -11979,6 +12005,7 @@
         "port": 2513,
         "port": 25151,
         "port": 25201,
+        "port": 25203,
         "port": 25251,
         "port": 25261,
         "port": 25405,
@@ -12058,6 +12085,7 @@
         "port": 28573,
         "port": 28601,
         "port": 28605,
+        "port": 28607,
         "port": 2861,
         "port": 28625,
         "port": 28659,
@@ -12176,6 +12204,7 @@
         "port": 31597,
         "port": 31631,
         "port": 3165,
+        "port": 31667,
         "port": 3177,
         "port": 3181,
         "port": 31823,
@@ -12483,6 +12512,7 @@
         "port": 8045,
         "port": 8070,
         "port": 8071,
+        "port": 8079,
         "port": 808,
         "port": 8080,
         "port": 8081,
