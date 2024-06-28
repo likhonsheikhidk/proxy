@@ -80,6 +80,7 @@
             "as": "AS135942 Adsota Corporation",
             "as": "AS136030 Redtone Telecommunications Pakistan (Private) Limited",
             "as": "AS136055 PT Queen Network Nusantara",
+            "as": "AS136065 PT SOLUSI TRIMEGAH PERSADA",
             "as": "AS136078 PT. FOXLINE MEDIADATA INDONUSA",
             "as": "AS136089 PT Mitra Mandiri Network",
             "as": "AS136121 PT Digital Media Telematika",
@@ -176,6 +177,7 @@
             "as": "AS141098 PT Multimedia Link Technology",
             "as": "AS141114 PT Super Media Indonesia",
             "as": "AS141127 PT Anugerah Cimanuk Raya",
+            "as": "AS141140 PT Jinde Grup Indonesia",
             "as": "AS14117 Telefonica del Sur S.A.",
             "as": "AS141262 King Netsol Private Limited",
             "as": "AS141310 Nt Cybronet Pvt Ltd",
@@ -367,6 +369,7 @@
             "as": "AS23674 Nayatel (Pvt) Ltd",
             "as": "AS23679 PT. Media Antar Nusa",
             "as": "AS23688 Link3 Technologies Ltd.",
+            "as": "AS23724 IDC, China Telecommunications Corporation",
             "as": "AS23750 GERRYS INFORMATION TECHNOLOGY PVT LTD.",
             "as": "AS23923 Agni Systems Limited",
             "as": "AS23956 AmberIT Limited",
@@ -1221,6 +1224,7 @@
             "city": "Habiganj",
             "city": "Hachenburg",
             "city": "Hai B\u00e0 Tr\u01b0ng District",
+            "city": "Haidian",
             "city": "Haldia",
             "city": "Hangzhou",
             "city": "Hanoi",
@@ -2327,6 +2331,7 @@
             "isp": "ICC COMMUNICATION",
             "isp": "ICON+",
             "isp": "ICONPLN",
+            "isp": "IDC, China Telecommunications Corporation",
             "isp": "IFTNET Telecomunicacoes Ltda",
             "isp": "IFX NETWORKS COLOMBIA",
             "isp": "IFX Networks Argentina S.R.L",
@@ -2467,6 +2472,7 @@
             "isp": "MWPL",
             "isp": "MYNET",
             "isp": "MYREPUBLIC",
+            "isp": "MYRISE",
             "isp": "MaetingaNET Inform\u00e1tica e Telecomunica\u00e7\u00f5es",
             "isp": "Maiqvox Telecom",
             "isp": "Mana Communications",
@@ -2661,6 +2667,7 @@
             "isp": "PT Remala Abadi",
             "isp": "PT Ring Media Nusantara",
             "isp": "PT SOLNET INDONESIA",
+            "isp": "PT SOLUSI TRIMEGAH PERSADA",
             "isp": "PT Sarana Intimedia Telematika",
             "isp": "PT Serayu Multi Connection",
             "isp": "PT Singki Media Telekomunikasi",
@@ -3264,6 +3271,7 @@
             "lat": -7.4604,
             "lat": -7.4702,
             "lat": -7.5123,
+            "lat": -7.54595,
             "lat": -7.56953,
             "lat": -7.57409,
             "lat": -7.64331,
@@ -3786,6 +3794,7 @@
             "lat": 39.911,
             "lat": 39.9155,
             "lat": 39.9175,
+            "lat": 39.9608,
             "lat": 39.9947,
             "lat": 4.1409,
             "lat": 4.4337,
@@ -4652,6 +4661,7 @@
             "lon": 112.019,
             "lon": 112.107,
             "lon": 112.165,
+            "lon": 112.233,
             "lon": 112.286,
             "lon": 112.295,
             "lon": 112.372,
@@ -4691,6 +4701,7 @@
             "lon": 115.132,
             "lon": 115.2124,
             "lon": 115.3296,
+            "lon": 116.289,
             "lon": 116.31,
             "lon": 116.36,
             "lon": 116.362,
@@ -5275,6 +5286,7 @@
             "org": "Bangladesh Telegraph & Telephone Board",
             "org": "Bcxt CO",
             "org": "Bdcnet Telecom",
+            "org": "Beijing capitalonline data service co., LTD",
             "org": "Best Line Ltd",
             "org": "Bharti Airtel Limited",
             "org": "Bijoy",
@@ -5860,6 +5872,7 @@
             "org": "PT Pratama Hasta Utama Solusindo",
             "org": "PT Pricom Media Solusi",
             "org": "PT Rajeg Media Telekomunikasi",
+            "org": "PT SOLUSI TRIMEGAH PERSADA",
             "org": "PT Sarana Intimedia Telematika",
             "org": "PT Serayu Multi Connection",
             "org": "PT Singki Media Telekomunikasi",
@@ -6177,6 +6190,7 @@
             "query": "101.108.18.211"
             "query": "101.109.119.24"
             "query": "101.109.143.181"
+            "query": "101.251.204.174"
             "query": "101.255.117.138"
             "query": "101.255.140.1"
             "query": "101.255.148.86"
@@ -6550,6 +6564,7 @@
             "query": "103.78.80.66"
             "query": "103.80.237.211"
             "query": "103.81.64.193"
+            "query": "103.83.178.43"
             "query": "103.83.80.67"
             "query": "103.83.97.46"
             "query": "103.84.176.44"
@@ -6566,6 +6581,7 @@
             "query": "103.88.239.178"
             "query": "103.88.239.57"
             "query": "103.9.188.228"
+            "query": "103.93.93.220"
             "query": "103.99.27.162"
             "query": "103.99.27.234"
             "query": "103.99.27.3"
@@ -6970,6 +6986,7 @@
             "query": "161.34.40.37"
             "query": "161.34.40.38"
             "query": "161.49.87.222"
+            "query": "161.97.131.23"
             "query": "161.97.132.227"
             "query": "162.0.220.217"
             "query": "162.0.220.218"
@@ -7689,6 +7706,7 @@
             "query": "210.247.253.82"
             "query": "210.61.216.63"
             "query": "210.73.75.166"
+            "query": "210.79.146.131"
             "query": "210.79.146.222"
             "query": "211.22.151.163"
             "query": "211.222.177.81"
@@ -9927,6 +9945,7 @@
         "ip": "101.108.18.211",
         "ip": "101.109.119.24",
         "ip": "101.109.143.181",
+        "ip": "101.251.204.174",
         "ip": "101.255.117.138",
         "ip": "101.255.140.1",
         "ip": "101.255.148.86",
@@ -10300,6 +10319,7 @@
         "ip": "103.78.80.66",
         "ip": "103.80.237.211",
         "ip": "103.81.64.193",
+        "ip": "103.83.178.43",
         "ip": "103.83.80.67",
         "ip": "103.83.97.46",
         "ip": "103.84.176.44",
@@ -10316,6 +10336,7 @@
         "ip": "103.88.239.178",
         "ip": "103.88.239.57",
         "ip": "103.9.188.228",
+        "ip": "103.93.93.220",
         "ip": "103.99.27.162",
         "ip": "103.99.27.234",
         "ip": "103.99.27.3",
@@ -10720,6 +10741,7 @@
         "ip": "161.34.40.37",
         "ip": "161.34.40.38",
         "ip": "161.49.87.222",
+        "ip": "161.97.131.23",
         "ip": "161.97.132.227",
         "ip": "162.0.220.217",
         "ip": "162.0.220.218",
@@ -11439,6 +11461,7 @@
         "ip": "210.247.253.82",
         "ip": "210.61.216.63",
         "ip": "210.73.75.166",
+        "ip": "210.79.146.131",
         "ip": "210.79.146.222",
         "ip": "211.22.151.163",
         "ip": "211.222.177.81",
@@ -12092,6 +12115,7 @@
         "port": 11529,
         "port": 11547,
         "port": 11563,
+        "port": 11589,
         "port": 11591,
         "port": 11689,
         "port": 11735,
@@ -12482,6 +12506,7 @@
         "port": 23543,
         "port": 23545,
         "port": 23579,
+        "port": 23591,
         "port": 23661,
         "port": 23671,
         "port": 23713,
