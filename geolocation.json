@@ -128,6 +128,7 @@
             "as": "AS139962 PT.Bestcamp Prima Data",
             "as": "AS139972 PT. Putra Lebak Banten",
             "as": "AS139981 PT. Menaksopal Link Nusantara",
+            "as": "AS139982 PT Buana Visualnet Sentra",
             "as": "AS139983 PT. Borneo Cakrawala Media",
             "as": "AS13999 Mega Cable, S.A. de C.V.",
             "as": "AS139996 DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN TABANAN",
@@ -1143,6 +1144,7 @@
             "city": "Jakarta Pusat",
             "city": "Jakarta",
             "city": "Jalapa",
+            "city": "Jambi City",
             "city": "Jarabacoa",
             "city": "Jaranwala",
             "city": "Jatibarang",
@@ -2341,6 +2343,7 @@
             "isp": "PT Anugerah Cimanuk Raya",
             "isp": "PT Asia Teknologi Solusi",
             "isp": "PT Awinet Global Mandiri",
+            "isp": "PT BUANA VISUALNET SENTRA",
             "isp": "PT Baraya Telematika Nusantara",
             "isp": "PT Bintang Teknologi Sejahtera",
             "isp": "PT Cahaya Solusindo Internusa",
@@ -2718,6 +2721,7 @@
             "lat": -1.3666,
             "lat": -1.4509,
             "lat": -1.5968,
+            "lat": -1.5985,
             "lat": -1.7984,
             "lat": -1.8055,
             "lat": -10.1925,
@@ -3681,6 +3685,7 @@
             "lat": 8.7639,
             "lat": 9.00189,
             "lat": 9.008,
+            "lat": 9.3124,
             "lat": 9.9185,
             "lat": 9.9327,
             "lat": 9.9346,
@@ -3941,6 +3946,7 @@
             "lon": -75.0623,
             "lon": -75.2374,
             "lon": -75.283,
+            "lon": -75.2972,
             "lon": -75.515,
             "lon": -75.5174,
             "lon": -75.5267,
@@ -4079,6 +4085,7 @@
             "lon": 102.5987,
             "lon": 102.602,
             "lon": 102.6513,
+            "lon": 103.6196,
             "lon": 103.695,
             "lon": 103.808,
             "lon": 103.82,
@@ -5592,6 +5599,7 @@
             "query": "103.118.46.77"
             "query": "103.120.167.109"
             "query": "103.120.44.201"
+            "query": "103.122.60.213"
             "query": "103.122.60.241"
             "query": "103.124.137.150"
             "query": "103.125.117.50"
@@ -5637,6 +5645,7 @@
             "query": "103.148.129.177"
             "query": "103.148.195.22"
             "query": "103.148.24.234"
+            "query": "103.148.44.101"
             "query": "103.148.48.97"
             "query": "103.148.49.243"
             "query": "103.149.194.222"
@@ -5863,6 +5872,7 @@
             "query": "103.87.169.160"
             "query": "103.87.169.199"
             "query": "103.87.169.203"
+            "query": "103.87.169.207"
             "query": "103.87.212.140"
             "query": "103.88.113.202"
             "query": "103.88.236.113"
@@ -6610,6 +6620,7 @@
             "query": "190.52.108.248"
             "query": "190.54.100.74"
             "query": "190.60.35.50"
+            "query": "190.60.36.78"
             "query": "190.61.43.121"
             "query": "190.61.46.178"
             "query": "190.61.61.210"
@@ -7628,6 +7639,7 @@
             "region": "SPE",
             "region": "SS",
             "region": "SU",
+            "region": "SUC",
             "region": "SVE",
             "region": "SX",
             "region": "TA",
@@ -7837,6 +7849,7 @@
             "regionName": "Jakarta",
             "regionName": "Jalapa",
             "regionName": "Jalisco",
+            "regionName": "Jambi",
             "regionName": "Jiangsu",
             "regionName": "Jilin",
             "regionName": "Kanagawa",
@@ -8019,6 +8032,7 @@
             "regionName": "Stockholm County",
             "regionName": "Stockholm",
             "regionName": "Subcarpathia",
+            "regionName": "Sucre Department",
             "regionName": "Sucumb\u00edos",
             "regionName": "Sulaymaniyah",
             "regionName": "Sverdlovsk Oblast",
@@ -8758,6 +8772,7 @@
             "zip": "700063",
             "zip": "70023",
             "zip": "70423",
+            "zip": "705030",
             "zip": "70640",
             "zip": "721602",
             "zip": "730001",
@@ -8947,6 +8962,7 @@
         "ip": "103.118.46.77",
         "ip": "103.120.167.109",
         "ip": "103.120.44.201",
+        "ip": "103.122.60.213",
         "ip": "103.122.60.241",
         "ip": "103.124.137.150",
         "ip": "103.125.117.50",
@@ -8992,6 +9008,7 @@
         "ip": "103.148.129.177",
         "ip": "103.148.195.22",
         "ip": "103.148.24.234",
+        "ip": "103.148.44.101",
         "ip": "103.148.48.97",
         "ip": "103.148.49.243",
         "ip": "103.149.194.222",
@@ -9218,6 +9235,7 @@
         "ip": "103.87.169.160",
         "ip": "103.87.169.199",
         "ip": "103.87.169.203",
+        "ip": "103.87.169.207",
         "ip": "103.87.212.140",
         "ip": "103.88.113.202",
         "ip": "103.88.236.113",
@@ -9965,6 +9983,7 @@
         "ip": "190.52.108.248",
         "ip": "190.54.100.74",
         "ip": "190.60.35.50",
+        "ip": "190.60.36.78",
         "ip": "190.61.43.121",
         "ip": "190.61.46.178",
         "ip": "190.61.61.210",
@@ -10795,6 +10814,7 @@
         "port": 1243,
         "port": 12657,
         "port": 12689,
+        "port": 12717,
         "port": 12741,
         "port": 1281,
         "port": 12917,
@@ -10846,6 +10866,7 @@
         "port": 14209,
         "port": 14359,
         "port": 14469,
+        "port": 14487,
         "port": 14505,
         "port": 14521,
         "port": 14537,
@@ -11456,6 +11477,7 @@
         "port": 55555,
         "port": 55636,
         "port": 5566,
+        "port": 5593,
         "port": 5605,
         "port": 56111,
         "port": 5621,
