@@ -585,6 +585,7 @@
             "as": "AS28263 Ensite Brasil Telecomunica\u00e7\u00f5es Ltda - ME",
             "as": "AS28270 Videomar Rede Nordeste S/A",
             "as": "AS28287 FIT Telecom Eireli",
+            "as": "AS28323 VIPRede Telecomunica\u00e7\u00f5es Ltda",
             "as": "AS28329 Megatelecom Telecomunicacoes Ltda",
             "as": "AS28330 IFTNET Telecomunicacoes Ltda",
             "as": "AS28343 UNIFIQUE TELECOMUNICACOES S/A",
@@ -1785,6 +1786,7 @@
             "city": "Vinh",
             "city": "Vinnytsia",
             "city": "Visakhapatnam",
+            "city": "Vit\u00f3ria",
             "city": "Volgograd",
             "city": "Voronezh",
             "city": "Vredenburg",
@@ -3028,6 +3030,7 @@
             "isp": "VIETELmetro",
             "isp": "VIETTEL (CAMBODIA) PTE., LTD",
             "isp": "VIETTEL PER\u00da S.A.C.",
+            "isp": "VIPRede Telecomunica\u00e7\u00f5es Ltda",
             "isp": "VNET",
             "isp": "VNPT",
             "isp": "VNPT-VNNIC",
@@ -3168,6 +3171,7 @@
             "lat": -2.9146,
             "lat": -20.0272,
             "lat": -20.1879,
+            "lat": -20.3003,
             "lat": -20.3215,
             "lat": -20.4428,
             "lat": -20.5689,
@@ -4336,6 +4340,7 @@
             "lon": -4.0012,
             "lon": -40.1296,
             "lon": -40.2641,
+            "lon": -40.3018,
             "lon": -41.4789,
             "lon": -41.7103,
             "lon": -41.84,
@@ -6340,6 +6345,7 @@
             "org": "VIETEL",
             "org": "VIETTEL PER\u00da S.A.C",
             "org": "VIETTEL",
+            "org": "VIPRede Telecomunica\u00e7\u00f5es Ltda",
             "org": "VNET-org",
             "org": "VPS",
             "org": "VTC - Multimedia Corporation",
@@ -6800,6 +6806,7 @@
             "query": "103.69.20.115"
             "query": "103.69.20.118"
             "query": "103.69.20.28"
+            "query": "103.69.20.36"
             "query": "103.69.20.41"
             "query": "103.69.20.44"
             "query": "103.69.20.51"
@@ -7670,6 +7677,7 @@
             "query": "189.240.60.168"
             "query": "189.240.60.169"
             "query": "189.240.60.171"
+            "query": "189.50.9.33"
             "query": "189.51.123.7"
             "query": "189.85.82.38"
             "query": "189.90.255.208"
@@ -9829,6 +9837,7 @@
             "zip": "28203",
             "zip": "28800",
             "zip": "289-2614",
+            "zip": "29000",
             "zip": "29169",
             "zip": "2951",
             "zip": "29560",
@@ -10708,6 +10717,7 @@
         "ip": "103.69.20.115",
         "ip": "103.69.20.118",
         "ip": "103.69.20.28",
+        "ip": "103.69.20.36",
         "ip": "103.69.20.41",
         "ip": "103.69.20.44",
         "ip": "103.69.20.51",
@@ -11578,6 +11588,7 @@
         "ip": "189.240.60.168",
         "ip": "189.240.60.169",
         "ip": "189.240.60.171",
+        "ip": "189.50.9.33",
         "ip": "189.51.123.7",
         "ip": "189.85.82.38",
         "ip": "189.90.255.208",
@@ -12563,6 +12574,7 @@
         "port": 10095,
         "port": 10101,
         "port": 10111,
+        "port": 10231,
         "port": 10257,
         "port": 10297,
         "port": 10299,
@@ -12731,6 +12743,7 @@
         "port": 14537,
         "port": 14561,
         "port": 14585,
+        "port": 14617,
         "port": 14631,
         "port": 14633,
         "port": 14645,
@@ -12770,6 +12783,7 @@
         "port": 15779,
         "port": 15819,
         "port": 15879,
+        "port": 15883,
         "port": 15985,
         "port": 1607,
         "port": 16231,
@@ -13137,6 +13151,7 @@
         "port": 25989,
         "port": 2599,
         "port": 26045,
+        "port": 26095,
         "port": 26129,
         "port": 26139,
         "port": 26143,
@@ -13280,6 +13295,7 @@
         "port": 30209,
         "port": 30215,
         "port": 30253,
+        "port": 30277,
         "port": 30279,
         "port": 30299,
         "port": 3030,
@@ -13296,6 +13312,7 @@
         "port": 30511,
         "port": 30517,
         "port": 30589,
+        "port": 30591,
         "port": 30595,
         "port": 30649,
         "port": 30667,
@@ -13376,6 +13393,7 @@
         "port": 32323,
         "port": 32335,
         "port": 32401,
+        "port": 3241,
         "port": 32505,
         "port": 32509,
         "port": 32559,
@@ -13560,6 +13578,7 @@
         "port": 5109,
         "port": 51630,
         "port": 5167,
+        "port": 5171,
         "port": 5211,
         "port": 52151,
         "port": 5225,
