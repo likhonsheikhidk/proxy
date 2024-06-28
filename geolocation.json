@@ -186,6 +186,7 @@
             "as": "AS141737 Rapid Network",
             "as": "AS141834 Neolog Online Services Private Limited",
             "as": "AS141921 PT Jaringan Keluarga Bersama",
+            "as": "AS141922 PT Agsa Global Network",
             "as": "AS141929 PT Daniswara Citra Informatika",
             "as": "AS141978 PT Akses Bersama Sedaya",
             "as": "AS141982 PT Kataji Nukami Indonesia",
@@ -588,6 +589,7 @@
             "as": "AS30992 MTN Network Solutions (Cameroon)",
             "as": "AS31148 Freenet LTD",
             "as": "AS31200 Novotelecom Ltd",
+            "as": "AS3132 Red Cientifica Peruana",
             "as": "AS31370 OOO \"Gruppa MosLine\"",
             "as": "AS31376 Smart Telecom Limited",
             "as": "AS31549 Aria Shatel Company Ltd",
@@ -1615,6 +1617,7 @@
             "city": "Shiraz",
             "city": "Shumen",
             "city": "Shymkent",
+            "city": "Siak Sri Indrapura",
             "city": "Sidoarjo",
             "city": "Singapore",
             "city": "Sinop",
@@ -2735,6 +2738,7 @@
             "isp": "Rawafed",
             "isp": "Rayaneh Gostar Farzanegan Ahvaz LTD",
             "isp": "RazaoInfo Internet Ltda",
+            "isp": "Red Cientifica Peruana",
             "isp": "RedIRIS Provider",
             "isp": "Redes y Comunicaciones de Michoacan S.A. de C.V.",
             "isp": "Regional De Servicios De Telecomunicaciones Zomac S.A.S.",
@@ -2817,6 +2821,7 @@
             "isp": "T2NET",
             "isp": "TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)",
             "isp": "TATTELECOM",
+            "isp": "TBKNET",
             "isp": "TCC Technology Co., Ltd.",
             "isp": "TE Data",
             "isp": "TE-AS",
@@ -2949,6 +2954,7 @@
             "isp": "WIN EMPRESAS S.A.C.",
             "isp": "WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
             "isp": "WMINET",
+            "isp": "WMS",
             "isp": "Weblink Communications Ltd",
             "isp": "WiCAM Corporation Ltd",
             "isp": "Windstream Communication Ltd",
@@ -3280,6 +3286,7 @@
             "lat": 0.321,
             "lat": 0.5024,
             "lat": 0.5395,
+            "lat": 0.80471,
             "lat": 0.8319,
             "lat": 0.9591,
             "lat": 1.12704,
@@ -4493,6 +4500,7 @@
             "lon": 101.4457,
             "lon": 101.666,
             "lon": 101.6965,
+            "lon": 102.046,
             "lon": 102.1034,
             "lon": 102.2215,
             "lon": 102.5987,
@@ -5835,6 +5843,7 @@
             "org": "PT Serayu Multi Connection",
             "org": "PT Singki Media Telekomunikasi",
             "org": "PT Sol One Indonesia",
+            "org": "PT Teknologi Bisnis Komunikasi",
             "org": "PT Terabyte Network Indonesia",
             "org": "PT Trika Global Media",
             "org": "PT Uliz Netmedia Solusindo",
@@ -6387,6 +6396,7 @@
             "query": "103.189.197.83"
             "query": "103.189.231.217"
             "query": "103.190.170.134"
+            "query": "103.190.171.131"
             "query": "103.191.115.238"
             "query": "103.191.155.46"
             "query": "103.191.155.70"
@@ -6901,6 +6911,7 @@
             "query": "160.86.242.23"
             "query": "161.10.245.210"
             "query": "161.132.125.244"
+            "query": "161.132.37.206"
             "query": "161.34.35.226"
             "query": "161.34.37.88"
             "query": "161.34.37.89"
@@ -7110,6 +7121,7 @@
             "query": "180.211.183.130"
             "query": "180.211.186.158"
             "query": "180.211.88.190"
+            "query": "180.94.12.137"
             "query": "181.10.123.157"
             "query": "181.115.66.234"
             "query": "181.119.106.85"
@@ -10122,6 +10134,7 @@
         "ip": "103.189.197.83",
         "ip": "103.189.231.217",
         "ip": "103.190.170.134",
+        "ip": "103.190.171.131",
         "ip": "103.191.115.238",
         "ip": "103.191.155.46",
         "ip": "103.191.155.70",
@@ -10636,6 +10649,7 @@
         "ip": "160.86.242.23",
         "ip": "161.10.245.210",
         "ip": "161.132.125.244",
+        "ip": "161.132.37.206",
         "ip": "161.34.35.226",
         "ip": "161.34.37.88",
         "ip": "161.34.37.89",
@@ -10845,6 +10859,7 @@
         "ip": "180.211.183.130",
         "ip": "180.211.186.158",
         "ip": "180.211.88.190",
+        "ip": "180.94.12.137",
         "ip": "181.10.123.157",
         "ip": "181.115.66.234",
         "ip": "181.119.106.85",
@@ -12081,6 +12096,7 @@
         "port": 1327,
         "port": 1333,
         "port": 13335,
+        "port": 13351,
         "port": 1337,
         "port": 13433,
         "port": 13441,
@@ -12504,6 +12520,7 @@
         "port": 26759,
         "port": 26765,
         "port": 26851,
+        "port": 2687,
         "port": 26895,
         "port": 26911,
         "port": 26953,
