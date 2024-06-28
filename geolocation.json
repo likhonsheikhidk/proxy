@@ -257,6 +257,7 @@
             "as": "AS201069 APEX-CRIMEA Ltd.",
             "as": "AS20115 Charter Communications",
             "as": "AS201150 Didehban Net Company PJS",
+            "as": "AS201952 LTD AtelRybinsk",
             "as": "AS202468 Noyan Abr Arvan Co. ( Private Joint Stock)",
             "as": "AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.",
             "as": "AS202602 365 Online Technology Joint Stock Company",
@@ -746,6 +747,7 @@
             "as": "AS60800 Netwise Hosting Ltd",
             "as": "AS61461 Airtek Solutions C.A.",
             "as": "AS6147 Telefonica del Peru S.A.A.",
+            "as": "AS61633 ALLREDE TELECOM (LINKWAP PROVEDOR)",
             "as": "AS61922 CNT TELECOMUNICACOES",
             "as": "AS63023 GTHost",
             "as": "AS6306 TELEFONICA VENEZOLANA, C.A.",
@@ -1186,6 +1188,7 @@
             "city": "Lyubertsy",
             "city": "M\u0101dhabdi",
             "city": "Macap\u00e1",
+            "city": "Macei\u00f3",
             "city": "Macuspana",
             "city": "Madrid",
             "city": "Madurai",
@@ -1361,6 +1364,7 @@
             "city": "Ropczyce",
             "city": "Rosario",
             "city": "Roubaix",
+            "city": "Rybinsk",
             "city": "Rzesz\u00f3w",
             "city": "S\u00e3o Paulo",
             "city": "Sai Mai",
@@ -1726,6 +1730,7 @@
             "isp": "AIRESPRING-ADT SYSTEMS, INC.",
             "isp": "AKNET Ltd.",
             "isp": "ALFATINDO",
+            "isp": "ALLREDE TELECOM (LINKWAP PROVEDOR)",
             "isp": "ALTIUS Broadband, LLC",
             "isp": "ANGKOR E & C (CAMBODIA) Co., Ltd.",
             "isp": "APEX-CRIMEA Ltd.",
@@ -2124,6 +2129,7 @@
             "isp": "LLC \"Multiservice\"",
             "isp": "LLC \"Nauka-Svyaz\"",
             "isp": "LLP \"Kompaniya Hoster.KZ\"",
+            "isp": "LTD AtelRybinsk",
             "isp": "LTT Autonomous System, Tripoli Libya",
             "isp": "LTT Network Backbone and POPs",
             "isp": "Lagonet-tv Cia. Ltda.",
@@ -2866,6 +2872,7 @@
             "lat": -8.18556,
             "lat": -8.2471,
             "lat": -8.6507,
+            "lat": -9.575,
             "lat": -9.97403,
             "lat": 0.0331,
             "lat": 0.0854,
@@ -3542,6 +3549,7 @@
             "lat": 56.8456,
             "lat": 57.1615,
             "lat": 57.8394,
+            "lat": 58.0575,
             "lat": 59.3293,
             "lat": 59.8983,
             "lat": 59.9016,
@@ -3630,6 +3638,7 @@
             "lon": -3.6934,
             "lon": -35.0145,
             "lon": -35.1995,
+            "lon": -35.6908,
             "lon": -37.5367,
             "lon": -37.9287,
             "lon": -38.3133,
@@ -4313,6 +4322,7 @@
             "lon": 37.9693,
             "lon": 38.4288,
             "lon": 38.7954,
+            "lon": 38.8117,
             "lon": 38.8475,
             "lon": 38.975,
             "lon": 39.0799,
@@ -4886,6 +4896,7 @@
             "org": "Javadigital",
             "org": "Jenny BW V",
             "org": "Jesmi Online PVT LTD",
+            "org": "Joelmir Murilo Farias De Lima - ME",
             "org": "Jose Miguel Macias Contreras",
             "org": "Jyxcem Cia.ltda",
             "org": "KDATA Company Limited",
@@ -4936,6 +4947,7 @@
             "org": "M & G TELECON LTDA",
             "org": "M/S. SK Net City",
             "org": "M247 LTD",
+            "org": "M2P SOLUCOES TECNOLOGICAS LTDA",
             "org": "MAGEAL-NET # 01",
             "org": "MAN net Ltd",
             "org": "MAXMEIO INFORMACAO, TECNOLOGIA E COMUNICACAO EIREL",
@@ -5574,6 +5586,7 @@
             "query": "103.228.246.151"
             "query": "103.229.185.154"
             "query": "103.231.238.234"
+            "query": "103.231.238.42"
             "query": "103.231.239.126"
             "query": "103.231.239.137"
             "query": "103.231.239.166"
@@ -5790,6 +5803,7 @@
             "query": "119.93.148.191"
             "query": "12.7.109.1"
             "query": "120.196.207.10"
+            "query": "120.28.196.66"
             "query": "120.28.222.2"
             "query": "120.29.124.131"
             "query": "120.89.94.118"
@@ -5845,6 +5859,7 @@
             "query": "13.234.24.116"
             "query": "13.40.239.130"
             "query": "13.80.177.101"
+            "query": "131.100.148.76"
             "query": "131.100.48.105"
             "query": "131.100.48.123"
             "query": "131.100.51.252"
@@ -6122,6 +6137,7 @@
             "query": "177.174.126.203"
             "query": "177.221.44.113"
             "query": "177.234.194.226"
+            "query": "177.36.14.137"
             "query": "177.37.217.45"
             "query": "177.38.83.242"
             "query": "177.39.139.14"
@@ -6233,6 +6249,7 @@
             "query": "182.160.103.220"
             "query": "182.160.105.46"
             "query": "182.160.109.162"
+            "query": "182.160.113.77"
             "query": "182.160.124.214"
             "query": "182.253.109.4"
             "query": "182.253.172.86"
@@ -6269,6 +6286,7 @@
             "query": "185.222.115.105"
             "query": "185.233.247.186"
             "query": "185.32.6.131"
+            "query": "185.57.237.32"
             "query": "185.65.247.133"
             "query": "185.85.161.214"
             "query": "185.93.204.33"
@@ -7005,6 +7023,7 @@
             "query": "72.10.160.94"
             "query": "72.10.164.178"
             "query": "74.85.156.82"
+            "query": "75.119.129.192"
             "query": "75.84.199.80"
             "query": "76.169.129.241"
             "query": "77.237.28.191"
@@ -7408,6 +7427,7 @@
             "region": "WB",
             "region": "WC",
             "region": "X",
+            "region": "YAR",
             "region": "YN",
             "region": "YO",
             "region": "Z",
@@ -7425,6 +7445,7 @@
             "regionName": "Aguascalientes",
             "regionName": "Al Jabal al Akhdar",
             "regionName": "Alabama",
+            "regionName": "Alagoas",
             "regionName": "Almaty",
             "regionName": "Amanat Alasimah",
             "regionName": "Amap\u00e1",
@@ -7806,6 +7827,7 @@
             "regionName": "West Kalimantan",
             "regionName": "Western Cape",
             "regionName": "Western Visayas",
+            "regionName": "Yaroslavl Oblast",
             "regionName": "Yogyakarta",
             "regionName": "Yunnan",
             "regionName": "Zacatecas",
@@ -8112,6 +8134,7 @@
             "zip": "1510",
             "zip": "152-8503",
             "zip": "15290",
+            "zip": "152905",
             "zip": "160",
             "zip": "1600",
             "zip": "1604",
@@ -8387,6 +8410,7 @@
             "zip": "560100",
             "zip": "56200",
             "zip": "570 01",
+            "zip": "57000",
             "zip": "575007",
             "zip": "575013",
             "zip": "57627",
@@ -8814,6 +8838,7 @@
         "ip": "103.228.246.151",
         "ip": "103.229.185.154",
         "ip": "103.231.238.234",
+        "ip": "103.231.238.42",
         "ip": "103.231.239.126",
         "ip": "103.231.239.137",
         "ip": "103.231.239.166",
@@ -9030,6 +9055,7 @@
         "ip": "119.93.148.191",
         "ip": "12.7.109.1",
         "ip": "120.196.207.10",
+        "ip": "120.28.196.66",
         "ip": "120.28.222.2",
         "ip": "120.29.124.131",
         "ip": "120.89.94.118",
@@ -9085,6 +9111,7 @@
         "ip": "13.234.24.116",
         "ip": "13.40.239.130",
         "ip": "13.80.177.101",
+        "ip": "131.100.148.76",
         "ip": "131.100.48.105",
         "ip": "131.100.48.123",
         "ip": "131.100.51.252",
@@ -9362,6 +9389,7 @@
         "ip": "177.174.126.203",
         "ip": "177.221.44.113",
         "ip": "177.234.194.226",
+        "ip": "177.36.14.137",
         "ip": "177.37.217.45",
         "ip": "177.38.83.242",
         "ip": "177.39.139.14",
@@ -9473,6 +9501,7 @@
         "ip": "182.160.103.220",
         "ip": "182.160.105.46",
         "ip": "182.160.109.162",
+        "ip": "182.160.113.77",
         "ip": "182.160.124.214",
         "ip": "182.253.109.4",
         "ip": "182.253.172.86",
@@ -9509,6 +9538,7 @@
         "ip": "185.222.115.105",
         "ip": "185.233.247.186",
         "ip": "185.32.6.131",
+        "ip": "185.57.237.32",
         "ip": "185.65.247.133",
         "ip": "185.85.161.214",
         "ip": "185.93.204.33",
@@ -10245,6 +10275,7 @@
         "ip": "72.10.160.94",
         "ip": "72.10.164.178",
         "ip": "74.85.156.82",
+        "ip": "75.119.129.192",
         "ip": "75.84.199.80",
         "ip": "76.169.129.241",
         "ip": "77.237.28.191",
@@ -10458,6 +10489,7 @@
         "port": 1369,
         "port": 13699,
         "port": 13731,
+        "port": 13767,
         "port": 13783,
         "port": 13843,
         "port": 13857,
@@ -10578,6 +10610,7 @@
         "port": 19017,
         "port": 1903,
         "port": 19132,
+        "port": 19171,
         "port": 19179,
         "port": 19265,
         "port": 1927,
@@ -10634,6 +10667,7 @@
         "port": 21277,
         "port": 21445,
         "port": 2145,
+        "port": 21465,
         "port": 21491,
         "port": 21571,
         "port": 21577,
@@ -10650,6 +10684,7 @@
         "port": 21901,
         "port": 22037,
         "port": 22077,
+        "port": 22135,
         "port": 22163,
         "port": 222,
         "port": 22253,
@@ -10695,6 +10730,7 @@
         "port": 2397,
         "port": 24009,
         "port": 24035,
+        "port": 24101,
         "port": 24105,
         "port": 24107,
         "port": 24129,
@@ -10723,6 +10759,7 @@
         "port": 25261,
         "port": 25405,
         "port": 25423,
+        "port": 25489,
         "port": 2549,
         "port": 25527,
         "port": 25591,
@@ -10747,6 +10784,7 @@
         "port": 26659,
         "port": 26679,
         "port": 26727,
+        "port": 26759,
         "port": 26765,
         "port": 26851,
         "port": 26895,
@@ -10989,6 +11027,7 @@
         "port": 4377,
         "port": 43801,
         "port": 4385,
+        "port": 4411,
         "port": 443,
         "port": 4443,
         "port": 44749,
@@ -11032,6 +11071,7 @@
         "port": 5057,
         "port": 5060,
         "port": 51630,
+        "port": 5167,
         "port": 5211,
         "port": 5247,
         "port": 5255,
