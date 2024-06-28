@@ -369,6 +369,7 @@
             "as": "AS262687 Screen Saver Inform\u00e1tica LTDA",
             "as": "AS262691 CONECTA LTDA.",
             "as": "AS262725 RG SILVEIRA LTDA",
+            "as": "AS262851 PLIM TELECOMUNICACOES LTDA-ME",
             "as": "AS262934 IP\u00b7RED",
             "as": "AS263077 RazaoInfo Internet Ltda",
             "as": "AS263127 Redes y Comunicaciones de Michoacan S.A. de C.V.",
@@ -2446,6 +2447,7 @@
             "isp": "Pioneer Elabs Ltd",
             "isp": "Pioneer Elabs Ltd.",
             "isp": "Pirmam For Information Technology Ltd",
+            "isp": "Plim Telecomunicacoes Ltda-me",
             "isp": "Portlane Network",
             "isp": "PrJSC \"VF UKRAINE\"",
             "isp": "Precious netcom pvt ltd",
@@ -5152,6 +5154,7 @@
             "org": "NTT SmartConnect Corporation",
             "org": "NTTPC Communications, Inc",
             "org": "N\u00facleo S.A",
+            "org": "Nahuel Osella",
             "org": "Namecheap, Inc.",
             "org": "Nandbalaji Connecting Zone Pvt. Ltd",
             "org": "National Telecom Public Company Limited",
@@ -5288,6 +5291,7 @@
             "org": "Pioneer Elabs Ltd",
             "org": "Pioneer Elabs Ltd.",
             "org": "Pirmam Information Technology Ltd",
+            "org": "Plim Telecomunicacoes Ltda-me",
             "org": "Prefeitura Municipal De Bariri",
             "org": "Prefeitura do Municipio de Diadema",
             "org": "Prisac Aviation Technologies Private Limited",
@@ -6409,6 +6413,7 @@
             "query": "181.205.28.69"
             "query": "181.205.74.98"
             "query": "181.209.102.237"
+            "query": "181.209.111.82"
             "query": "181.209.82.202"
             "query": "181.212.41.171"
             "query": "181.212.41.172"
@@ -6430,6 +6435,7 @@
             "query": "181.78.19.242"
             "query": "181.78.19.249"
             "query": "181.78.64.172"
+            "query": "181.78.73.73"
             "query": "181.78.77.229"
             "query": "181.78.8.215"
             "query": "181.78.82.211"
@@ -6642,6 +6648,7 @@
             "query": "191.102.68.178"
             "query": "191.103.219.225"
             "query": "191.241.184.61"
+            "query": "191.242.126.94"
             "query": "191.243.46.154"
             "query": "191.243.46.30"
             "query": "191.252.191.254"
@@ -7138,6 +7145,7 @@
             "query": "49.157.62.202"
             "query": "49.48.48.143"
             "query": "49.81.246.212"
+            "query": "49.89.35.237"
             "query": "5.104.174.199"
             "query": "5.160.101.237"
             "query": "5.160.32.35"
@@ -7344,6 +7352,7 @@
             "query": "93.177.126.101"
             "query": "94.101.185.188"
             "query": "94.102.228.1"
+            "query": "94.130.177.190"
             "query": "94.139.204.51"
             "query": "94.182.146.250"
             "query": "94.198.221.222"
@@ -9759,6 +9768,7 @@
         "ip": "181.205.28.69",
         "ip": "181.205.74.98",
         "ip": "181.209.102.237",
+        "ip": "181.209.111.82",
         "ip": "181.209.82.202",
         "ip": "181.212.41.171",
         "ip": "181.212.41.172",
@@ -9780,6 +9790,7 @@
         "ip": "181.78.19.242",
         "ip": "181.78.19.249",
         "ip": "181.78.64.172",
+        "ip": "181.78.73.73",
         "ip": "181.78.77.229",
         "ip": "181.78.8.215",
         "ip": "181.78.82.211",
@@ -9992,6 +10003,7 @@
         "ip": "191.102.68.178",
         "ip": "191.103.219.225",
         "ip": "191.241.184.61",
+        "ip": "191.242.126.94",
         "ip": "191.243.46.154",
         "ip": "191.243.46.30",
         "ip": "191.252.191.254",
@@ -10488,6 +10500,7 @@
         "ip": "49.157.62.202",
         "ip": "49.48.48.143",
         "ip": "49.81.246.212",
+        "ip": "49.89.35.237",
         "ip": "5.104.174.199",
         "ip": "5.160.101.237",
         "ip": "5.160.32.35",
@@ -10694,6 +10707,7 @@
         "ip": "93.177.126.101",
         "ip": "94.101.185.188",
         "ip": "94.102.228.1",
+        "ip": "94.130.177.190",
         "ip": "94.139.204.51",
         "ip": "94.182.146.250",
         "ip": "94.198.221.222",
@@ -11261,6 +11275,7 @@
         "port": 31473,
         "port": 31481,
         "port": 31511,
+        "port": 31531,
         "port": 31537,
         "port": 31561,
         "port": 31591,
@@ -11304,6 +11319,7 @@
         "port": 33087,
         "port": 33141,
         "port": 33171,
+        "port": 3319,
         "port": 33265,
         "port": 33267,
         "port": 3333,
