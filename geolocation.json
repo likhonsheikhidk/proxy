@@ -370,6 +370,7 @@
             "as": "AS216033 Ergashova Lemara Alimovna",
             "as": "AS216071 SERVERS TECH FZCO",
             "as": "AS216086 ART-NET LLC",
+            "as": "AS22355 Frogfoot Networks",
             "as": "AS22612 Namecheap, Inc.",
             "as": "AS22616 ZSCALER, INC.",
             "as": "AS22724 PUNTONET S.A.",
@@ -2333,6 +2334,7 @@
             "isp": "Fonte Informatica ltda",
             "isp": "Foxtel Telecommunications Pvt. Ltd.",
             "isp": "FreeBit Co., Ltd.",
+            "isp": "Frogfoot Networks",
             "isp": "Fullnet Solutions S.A.S.",
             "isp": "Fuse Telecom LLC",
             "isp": "G COM Ltd.",
@@ -3245,6 +3247,7 @@
             "lat": -33.91,
             "lat": -33.9221,
             "lat": -33.9249,
+            "lat": -33.9432,
             "lat": -34.0486,
             "lat": -34.2623,
             "lat": -34.3973,
@@ -4977,6 +4980,7 @@
             "lon": 18.4241,
             "lon": 18.4304,
             "lon": 18.4382,
+            "lon": 18.4709,
             "lon": 18.4811,
             "lon": 18.4991,
             "lon": 18.55,
@@ -8211,6 +8215,7 @@
             "query": "41.65.55.10"
             "query": "41.65.55.27"
             "query": "41.65.55.3"
+            "query": "41.85.8.233"
             "query": "42.112.21.207"
             "query": "42.112.97.60"
             "query": "43.132.124.11"
@@ -10173,6 +10178,7 @@
             "zip": "76137",
             "zip": "763560",
             "zip": "76360",
+            "zip": "7700",
             "zip": "77002",
             "zip": "77120",
             "zip": "77800",
@@ -12109,6 +12115,7 @@
         "ip": "41.65.55.10",
         "ip": "41.65.55.27",
         "ip": "41.65.55.3",
+        "ip": "41.85.8.233",
         "ip": "42.112.21.207",
         "ip": "42.112.97.60",
         "ip": "43.132.124.11",
@@ -12600,6 +12607,7 @@
         "port": 11933,
         "port": 11947,
         "port": 1200,
+        "port": 12001,
         "port": 12002,
         "port": 12005,
         "port": 12010,
@@ -13641,6 +13649,7 @@
         "port": 7070,
         "port": 7088,
         "port": 7109,
+        "port": 7157,
         "port": 7171,
         "port": 7183,
         "port": 7241,
