@@ -452,6 +452,7 @@
             "as": "AS268323 AZZA TELECOM SERVI\u00c7OS EM TELECOMUNICA\u00c7\u00d5ES LTDA",
             "as": "AS268331 LINK BARATO.COM TELECOMUNICACOES EIRELI",
             "as": "AS268715 N3 SOLUCOES TECNOLOGICAS LTDA",
+            "as": "AS268733 MaetingaNET Inform\u00e1tica e Telecomunica\u00e7\u00f5es",
             "as": "AS268863 M & G TELECON LTDA",
             "as": "AS269250 EVOLUCAO TELECOM LTDA",
             "as": "AS269326 A2 TELECOM PROVEDOR DE INTERNET LTDA",
@@ -487,6 +488,7 @@
             "as": "AS271932 FUN TECHNOLOGY S.R.L",
             "as": "AS271935 AIRTIME TECHNOLOGY SRL",
             "as": "AS271965 ORBITEK SRL",
+            "as": "AS271968 CENTRIC MOBILITY (CEMO), S.R.L",
             "as": "AS272015 INVERSIONES BONAFER, SRL",
             "as": "AS272027 LAUAM MEGARED TELECOM, S.R.L.",
             "as": "AS272040 SERVICIOS NU\u00d1EZ EIRL",
@@ -917,6 +919,7 @@
             "city": "Ashburn",
             "city": "Asientos",
             "city": "Asunci\u00f3n",
+            "city": "Atibaia",
             "city": "Atlanta",
             "city": "Atotonilco el Alto",
             "city": "Attica",
@@ -1412,6 +1415,7 @@
             "city": "Phnom Penh",
             "city": "Phoenix",
             "city": "Phuket",
+            "city": "Phuong Lam",
             "city": "Pinellas Park",
             "city": "Pingzhen",
             "city": "Piscataway",
@@ -1994,6 +1998,7 @@
             "isp": "Celante Servicos De Telecomunicacoes Ltda - EPP",
             "isp": "CenterTelecom Voronezh ISP",
             "isp": "Central Solutions Technology S.R.L.",
+            "isp": "Centric Mobility",
             "isp": "Champaran Internet Private Limited",
             "isp": "Charter Communications Inc",
             "isp": "Charter Communications",
@@ -2327,6 +2332,7 @@
             "isp": "MWPL",
             "isp": "MYNET",
             "isp": "MYREPUBLIC",
+            "isp": "MaetingaNET Inform\u00e1tica e Telecomunica\u00e7\u00f5es",
             "isp": "Maiqvox Telecom",
             "isp": "Mana Communications",
             "isp": "Managed by IROKO Networks",
@@ -2900,6 +2906,7 @@
             "lat": -22.8896,
             "lat": -22.9068,
             "lat": -22.9504,
+            "lat": -23.1156,
             "lat": -23.2141,
             "lat": -23.3084,
             "lat": -23.5335,
@@ -3265,6 +3272,7 @@
             "lat": 20.6129,
             "lat": 20.6707,
             "lat": 20.7972,
+            "lat": 20.8161,
             "lat": 21.0215,
             "lat": 21.0278,
             "lat": 21.0292,
@@ -3945,6 +3953,7 @@
             "lon": -43.5257,
             "lon": -43.9,
             "lon": -45.6243,
+            "lon": -46.5461,
             "lon": -46.6359,
             "lon": -46.6361,
             "lon": -46.6396,
@@ -4277,6 +4286,7 @@
             "lon": 104.918,
             "lon": 105.231,
             "lon": 105.2615,
+            "lon": 105.3441,
             "lon": 105.801,
             "lon": 105.825,
             "lon": 105.834,
@@ -4974,6 +4984,7 @@
             "org": "CANTV Servicios, Venezuela",
             "org": "CAT Telecom public company Ltd",
             "org": "CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+            "org": "CENTRIC MOBILITY, S.R.L",
             "org": "CIS IT Group",
             "org": "CJSC Company ER-Telecom Chelyabinsk",
             "org": "CJSC \"ER-Telecom Holding\" Kirov Branch",
@@ -5320,6 +5331,7 @@
             "org": "Lois-net LLC",
             "org": "Lubuskie Sieci Swiatlowodowe Sp. z o. o",
             "org": "Luciano Yamashiro Pinto",
+            "org": "Lucknet Telecom",
             "org": "Lukovit",
             "org": "M & G TELECON LTDA",
             "org": "M/S. SK Net City",
@@ -6081,6 +6093,7 @@
             "query": "103.48.68.218"
             "query": "103.48.68.220"
             "query": "103.48.68.6"
+            "query": "103.48.68.98"
             "query": "103.48.69.121"
             "query": "103.48.69.225"
             "query": "103.48.70.185"
@@ -6088,6 +6101,7 @@
             "query": "103.48.71.2"
             "query": "103.48.71.46"
             "query": "103.48.71.50"
+            "query": "103.48.71.6"
             "query": "103.48.71.70"
             "query": "103.5.232.148"
             "query": "103.51.21.250"
@@ -6564,6 +6578,7 @@
             "query": "170.83.79.206"
             "query": "171.102.10.74"
             "query": "171.227.248.125"
+            "query": "171.228.89.97"
             "query": "171.232.79.226"
             "query": "171.233.151.214"
             "query": "171.240.181.189"
@@ -6887,6 +6902,7 @@
             "query": "190.104.129.38"
             "query": "190.109.168.196"
             "query": "190.110.35.229"
+            "query": "190.110.36.184"
             "query": "190.111.209.207"
             "query": "190.12.21.146"
             "query": "190.120.249.180"
@@ -6949,6 +6965,7 @@
             "query": "191.102.254.11"
             "query": "191.102.254.12"
             "query": "191.102.254.54"
+            "query": "191.102.254.9"
             "query": "191.102.68.177"
             "query": "191.102.68.178"
             "query": "191.103.219.225"
@@ -7380,6 +7397,7 @@
             "query": "45.170.102.89"
             "query": "45.171.109.1"
             "query": "45.171.146.183"
+            "query": "45.171.242.3"
             "query": "45.173.12.141"
             "query": "45.173.230.227"
             "query": "45.173.231.220"
@@ -7506,6 +7524,7 @@
             "query": "57.128.159.224"
             "query": "57.181.42.83"
             "query": "58.147.171.109"
+            "query": "58.69.125.145"
             "query": "58.69.137.62"
             "query": "59.124.62.9"
             "query": "59.152.14.217"
@@ -8177,6 +8196,7 @@
             "regionName": "Gyeonggi-do",
             "regionName": "Gyeongsangbuk-do",
             "regionName": "Gyeongsangnam-do",
+            "regionName": "H\u00f2a B\u00ecnh Province",
             "regionName": "Hanoi",
             "regionName": "Haryana",
             "regionName": "Hatay",
@@ -8731,6 +8751,7 @@
             "zip": "125222",
             "zip": "126 30",
             "zip": "12710",
+            "zip": "12940",
             "zip": "1298",
             "zip": "130001",
             "zip": "131001",
@@ -9586,6 +9607,7 @@
         "ip": "103.48.68.218",
         "ip": "103.48.68.220",
         "ip": "103.48.68.6",
+        "ip": "103.48.68.98",
         "ip": "103.48.69.121",
         "ip": "103.48.69.225",
         "ip": "103.48.70.185",
@@ -9593,6 +9615,7 @@
         "ip": "103.48.71.2",
         "ip": "103.48.71.46",
         "ip": "103.48.71.50",
+        "ip": "103.48.71.6",
         "ip": "103.48.71.70",
         "ip": "103.5.232.148",
         "ip": "103.51.21.250",
@@ -10069,6 +10092,7 @@
         "ip": "170.83.79.206",
         "ip": "171.102.10.74",
         "ip": "171.227.248.125",
+        "ip": "171.228.89.97",
         "ip": "171.232.79.226",
         "ip": "171.233.151.214",
         "ip": "171.240.181.189",
@@ -10392,6 +10416,7 @@
         "ip": "190.104.129.38",
         "ip": "190.109.168.196",
         "ip": "190.110.35.229",
+        "ip": "190.110.36.184",
         "ip": "190.111.209.207",
         "ip": "190.12.21.146",
         "ip": "190.120.249.180",
@@ -10454,6 +10479,7 @@
         "ip": "191.102.254.11",
         "ip": "191.102.254.12",
         "ip": "191.102.254.54",
+        "ip": "191.102.254.9",
         "ip": "191.102.68.177",
         "ip": "191.102.68.178",
         "ip": "191.103.219.225",
@@ -10885,6 +10911,7 @@
         "ip": "45.170.102.89",
         "ip": "45.171.109.1",
         "ip": "45.171.146.183",
+        "ip": "45.171.242.3",
         "ip": "45.173.12.141",
         "ip": "45.173.230.227",
         "ip": "45.173.231.220",
@@ -11011,6 +11038,7 @@
         "ip": "57.128.159.224",
         "ip": "57.181.42.83",
         "ip": "58.147.171.109",
+        "ip": "58.69.125.145",
         "ip": "58.69.137.62",
         "ip": "59.124.62.9",
         "ip": "59.152.14.217",
@@ -11239,6 +11267,7 @@
         "port": 10015,
         "port": 10037,
         "port": 10039,
+        "port": 1005,
         "port": 10079,
         "port": 10089,
         "port": 10091,
