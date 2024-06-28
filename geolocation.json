@@ -15,6 +15,7 @@
             "as": "AS12322 Free SAS",
             "as": "AS12389 PJSC Rostelecom",
             "as": "AS1267 WIND TRE S.P.A.",
+            "as": "AS12714 PJSC MegaFon",
             "as": "AS12764 AKNET Ltd.",
             "as": "AS12810 A1 Hrvatska d.o.o.",
             "as": "AS12876 SCALEWAY S.A.S.",
@@ -472,6 +473,7 @@
             "as": "AS269818 RUIZ SEBASTIAN ALEJANDRO(MIWIFI)",
             "as": "AS269832 MDS TELECOM C.A.",
             "as": "AS269862 M & B Soluciones Peru S.A.C. (FASTNET)",
+            "as": "AS269907 SISTEMAS COMPUTARIZADOS DEL HUILA S.A.S.",
             "as": "AS269928 TELECOMUNICACIONES RHJ, C. A.",
             "as": "AS269931 WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
             "as": "AS269935 TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)",
@@ -979,6 +981,7 @@
             "city": "Beijing",
             "city": "Bekasi",
             "city": "Bel\u00e9m",
+            "city": "Belgorod",
             "city": "Belgrade",
             "city": "Bella Vista",
             "city": "Benav\u00eddez",
@@ -2432,6 +2435,7 @@
             "isp": "National Crime Records Bureau",
             "isp": "Nayatel (Pvt) Ltd",
             "isp": "Negocios Y Telefonia Nedetel S.A",
+            "isp": "Net By Net Holding LLC",
             "isp": "NetActuate, Inc",
             "isp": "NetGloria Telecom",
             "isp": "NetMagic Solutions Pvt Ltd",
@@ -2692,6 +2696,7 @@
             "isp": "Silica Networks Argentina S.A",
             "isp": "SinergiNet",
             "isp": "SingNet Pte Ltd",
+            "isp": "Sistemas Computarizados Del Huila S.A.S.",
             "isp": "Sistemas Telecomunicaciones Y Biomedicos De Colombia SAS",
             "isp": "Sky Cable Corporation",
             "isp": "Sky Telecom Company Limited",
@@ -3324,6 +3329,7 @@
             "lat": 19.6647,
             "lat": 19.6982,
             "lat": 19.8193,
+            "lat": 2.3952,
             "lat": 2.8236,
             "lat": 2.9208,
             "lat": 20.0362,
@@ -3818,6 +3824,7 @@
             "lat": 50.458,
             "lat": 50.4655,
             "lat": 50.475,
+            "lat": 50.6165,
             "lat": 50.6584,
             "lat": 50.6916,
             "lat": 50.9871,
@@ -4210,6 +4217,7 @@
             "lon": -75.697,
             "lon": -75.7302,
             "lon": -75.8777,
+            "lon": -75.8946,
             "lon": -76.2313,
             "lon": -76.2368,
             "lon": -76.4162,
@@ -4718,6 +4726,7 @@
             "lon": 36.2834,
             "lon": 36.4705,
             "lon": 36.5749,
+            "lon": 36.5758,
             "lon": 36.8111,
             "lon": 36.8112,
             "lon": 36.8155,
@@ -5513,6 +5522,7 @@
             "org": "Nazmul Karim Bhuiyan",
             "org": "Nedetel S.A",
             "org": "Negocios Y Telefonia Nedetel S.A",
+            "org": "Net By Net Holding LLC",
             "org": "NetActuate, Inc",
             "org": "NetEvolution Internet",
             "org": "NetMagic Solutions Pvt Ltd",
@@ -6740,6 +6750,7 @@
             "query": "172.247.84.13"
             "query": "172.247.84.14"
             "query": "174.138.176.76"
+            "query": "175.100.113.237"
             "query": "175.100.91.151"
             "query": "175.100.91.80"
             "query": "175.106.10.226"
@@ -6751,6 +6762,7 @@
             "query": "176.106.22.125"
             "query": "176.110.121.90"
             "query": "176.119.241.2"
+            "query": "176.194.189.40"
             "query": "176.213.141.107"
             "query": "176.215.1.25"
             "query": "176.236.232.50"
@@ -7210,6 +7222,7 @@
             "query": "200.24.134.53"
             "query": "200.25.254.193"
             "query": "200.252.32.40"
+            "query": "200.26.232.90"
             "query": "200.29.109.112"
             "query": "200.39.120.78"
             "query": "200.39.139.65"
@@ -9061,6 +9074,7 @@
             "zip": "302022",
             "zip": "30301",
             "zip": "3044",
+            "zip": "308000",
             "zip": "3100",
             "zip": "31000",
             "zip": "310000",
@@ -9157,6 +9171,7 @@
             "zip": "411004",
             "zip": "411033",
             "zip": "4116",
+            "zip": "415060",
             "zip": "42010",
             "zip": "420111",
             "zip": "4214",
@@ -10323,6 +10338,7 @@
         "ip": "172.247.84.13",
         "ip": "172.247.84.14",
         "ip": "174.138.176.76",
+        "ip": "175.100.113.237",
         "ip": "175.100.91.151",
         "ip": "175.100.91.80",
         "ip": "175.106.10.226",
@@ -10334,6 +10350,7 @@
         "ip": "176.106.22.125",
         "ip": "176.110.121.90",
         "ip": "176.119.241.2",
+        "ip": "176.194.189.40",
         "ip": "176.213.141.107",
         "ip": "176.215.1.25",
         "ip": "176.236.232.50",
@@ -10793,6 +10810,7 @@
         "ip": "200.24.134.53",
         "ip": "200.25.254.193",
         "ip": "200.252.32.40",
+        "ip": "200.26.232.90",
         "ip": "200.29.109.112",
         "ip": "200.39.120.78",
         "ip": "200.39.139.65",
@@ -11528,6 +11546,7 @@
         "port": 11049,
         "port": 11066,
         "port": 1111,
+        "port": 11111,
         "port": 11191,
         "port": 11194,
         "port": 11201,
