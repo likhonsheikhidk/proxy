@@ -191,6 +191,7 @@
             "as": "AS141719 Serenitas Communities Holdings Pty Ltd",
             "as": "AS141737 Rapid Network",
             "as": "AS141834 Neolog Online Services Private Limited",
+            "as": "AS141891 PT Lima Satu Tiga Global Tel-Access",
             "as": "AS141921 PT Jaringan Keluarga Bersama",
             "as": "AS141922 PT Agsa Global Network",
             "as": "AS141929 PT Daniswara Citra Informatika",
@@ -2653,6 +2654,7 @@
             "isp": "PT Jawara Lintas Data Nusantara",
             "isp": "PT Jenius Lintas Nusantara",
             "isp": "PT Kataji Nukami Indonesia",
+            "isp": "PT Lima Satu Tiga Global Tel-Access",
             "isp": "PT Lintas Jaringan Nusantara",
             "isp": "PT Lintas Network Solusi",
             "isp": "PT MITRA VISIONER PRATAMA",
@@ -3211,6 +3213,7 @@
             "lat": -6.205,
             "lat": -6.20876,
             "lat": -6.20933,
+            "lat": -6.21027,
             "lat": -6.2114,
             "lat": -6.22558,
             "lat": -6.2275,
@@ -4603,6 +4606,7 @@
             "lon": 106.7926,
             "lon": 106.796,
             "lon": 106.798,
+            "lon": 106.811,
             "lon": 106.816,
             "lon": 106.8164,
             "lon": 106.82,
@@ -5877,6 +5881,7 @@
             "org": "PT Jaringanku Sarana Nusantara Pati",
             "org": "PT Jenius Lintas Nusantara",
             "org": "PT Kataji Nukami Indonesia",
+            "org": "PT Lima Satu Tiga Global Tel-Access",
             "org": "PT Lintas Jaringan Indonesia",
             "org": "PT Lintas Jaringan Nasional",
             "org": "PT Lintas Jaringan Nusantara",
@@ -6375,6 +6380,7 @@
             "query": "103.162.154.3"
             "query": "103.162.63.121"
             "query": "103.162.63.65"
+            "query": "103.163.175.28"
             "query": "103.163.244.49"
             "query": "103.164.116.172"
             "query": "103.164.160.66"
@@ -6830,6 +6836,7 @@
             "query": "134.35.0.145"
             "query": "134.35.157.167"
             "query": "134.35.188.253"
+            "query": "134.35.190.45"
             "query": "134.35.21.86"
             "query": "134.35.213.197"
             "query": "134.35.216.169"
@@ -7308,6 +7315,7 @@
             "query": "185.49.170.20"
             "query": "185.57.237.32"
             "query": "185.64.208.108"
+            "query": "185.64.208.26"
             "query": "185.65.247.133"
             "query": "185.73.0.139"
             "query": "185.85.161.214"
@@ -10149,6 +10157,7 @@
         "ip": "103.162.154.3",
         "ip": "103.162.63.121",
         "ip": "103.162.63.65",
+        "ip": "103.163.175.28",
         "ip": "103.163.244.49",
         "ip": "103.164.116.172",
         "ip": "103.164.160.66",
@@ -10604,6 +10613,7 @@
         "ip": "134.35.0.145",
         "ip": "134.35.157.167",
         "ip": "134.35.188.253",
+        "ip": "134.35.190.45",
         "ip": "134.35.21.86",
         "ip": "134.35.213.197",
         "ip": "134.35.216.169",
@@ -11082,6 +11092,7 @@
         "ip": "185.49.170.20",
         "ip": "185.57.237.32",
         "ip": "185.64.208.108",
+        "ip": "185.64.208.26",
         "ip": "185.65.247.133",
         "ip": "185.73.0.139",
         "ip": "185.85.161.214",
@@ -12126,6 +12137,7 @@
         "port": 10095,
         "port": 10101,
         "port": 10111,
+        "port": 10297,
         "port": 10299,
         "port": 10321,
         "port": 10331,
@@ -13241,6 +13253,7 @@
         "port": 8889,
         "port": 8890,
         "port": 8899,
+        "port": 8901,
         "port": 8921,
         "port": 8985,
         "port": 8989,
