@@ -521,6 +521,7 @@
             "as": "AS29049 Delta Telecom Ltd",
             "as": "AS29076 Citytelecom LLC",
             "as": "AS29084 Comnet Bulgaria Holding Ltd.",
+            "as": "AS29107 Private \"Stock company \"Sater\"",
             "as": "AS29194 MTS PJSC",
             "as": "AS29256 Syrian Telecommunication Private Closed Joint Stock Company",
             "as": "AS29405 VNET a.s.",
@@ -532,6 +533,7 @@
             "as": "AS30822 Dubrovskaya Nataliya Vladislavovna",
             "as": "AS30844 Liquid Telecommunications Ltd",
             "as": "AS30873 Public Telecommunication Corporation",
+            "as": "AS30992 MTN Network Solutions (Cameroon)",
             "as": "AS31148 Freenet LTD",
             "as": "AS31200 Novotelecom Ltd",
             "as": "AS31370 OOO \"Gruppa MosLine\"",
@@ -969,6 +971,7 @@
             "city": "Buritama",
             "city": "Buriti",
             "city": "Buritis",
+            "city": "C\u00faa",
             "city": "C\u00facuta",
             "city": "Cabanatuan City",
             "city": "Cabimas",
@@ -1585,6 +1588,7 @@
             "city": "Xapuri",
             "city": "Xebat",
             "city": "Yacuambi",
+            "city": "Yaound\u00e9",
             "city": "Yekaterinburg",
             "city": "Yogyakarta",
             "city": "Yokohama",
@@ -1617,6 +1621,7 @@
             "country": "Bulgaria",
             "country": "Burkina Faso",
             "country": "Cambodia",
+            "country": "Cameroon",
             "country": "Canada",
             "country": "Chile",
             "country": "China",
@@ -1705,6 +1710,7 @@
             "countryCode": "CH",
             "countryCode": "CI",
             "countryCode": "CL",
+            "countryCode": "CM",
             "countryCode": "CN",
             "countryCode": "CO",
             "countryCode": "CR",
@@ -2234,6 +2240,7 @@
             "isp": "MOSLINE",
             "isp": "MTD",
             "isp": "MTN NIGERIA Communication limited",
+            "isp": "MTN Network Solutions (Cameroon)",
             "isp": "MTS PJSC",
             "isp": "MULTIMEDIALINKTECH",
             "isp": "MWPL",
@@ -2465,6 +2472,7 @@
             "isp": "PrJSC \"VF UKRAINE\"",
             "isp": "Precious netcom pvt ltd",
             "isp": "Prisac Aviation Technologies Private Limited",
+            "isp": "Private \"Stock company \"Sater\"",
             "isp": "Proxad / Free SAS",
             "isp": "Pskovline Ltd.",
             "isp": "Psychz Networks",
@@ -2994,6 +3002,7 @@
             "lat": 1.35208,
             "lat": 10.0127,
             "lat": 10.1182,
+            "lat": 10.1624,
             "lat": 10.2462,
             "lat": 10.3387,
             "lat": 10.3396,
@@ -3280,6 +3289,7 @@
             "lat": 3.3258,
             "lat": 3.4129,
             "lat": 3.5847,
+            "lat": 3.8661,
             "lat": 30.008,
             "lat": 30.0588,
             "lat": 30.16,
@@ -3873,6 +3883,7 @@
             "lon": -66.8492,
             "lon": -66.8738,
             "lon": -66.8792,
+            "lon": -66.8825,
             "lon": -66.9036,
             "lon": -66.9373,
             "lon": -66.9491,
@@ -4190,6 +4201,7 @@
             "lon": 11.0191,
             "lon": 11.0767,
             "lon": 11.1617,
+            "lon": 11.5154,
             "lon": 110.1876,
             "lon": 110.2213,
             "lon": 110.3646,
@@ -5371,6 +5383,7 @@
             "org": "SOLUCIONES INSTALRED CH&C C.A",
             "org": "SP SISTEMAS PALACIOS LTDA",
             "org": "STUDIO 6 Commerce",
+            "org": "SYNAPSE",
             "org": "Sajid Trading Limited",
             "org": "Sakura Network Limited",
             "org": "SamsungSDS Inc",
@@ -6097,6 +6110,7 @@
             "query": "134.35.213.197"
             "query": "134.35.216.169"
             "query": "134.35.251.9"
+            "query": "134.35.41.118"
             "query": "135.125.225.75"
             "query": "136.226.0.100"
             "query": "136.226.232.125"
@@ -6170,6 +6184,7 @@
             "query": "154.236.189.8"
             "query": "154.39.79.19"
             "query": "154.52.101.103"
+            "query": "154.70.115.149"
             "query": "154.73.109.201"
             "query": "154.73.28.157"
             "query": "154.73.28.89"
@@ -6336,6 +6351,7 @@
             "query": "172.247.84.12"
             "query": "172.247.84.13"
             "query": "172.247.84.14"
+            "query": "175.100.91.151"
             "query": "175.100.91.80"
             "query": "175.106.10.226"
             "query": "175.106.10.227"
@@ -6400,6 +6416,7 @@
             "query": "179.189.222.189"
             "query": "179.189.50.160"
             "query": "179.42.78.49"
+            "query": "179.42.78.68"
             "query": "179.48.11.6"
             "query": "179.49.117.19"
             "query": "179.49.117.21"
@@ -7033,6 +7050,7 @@
             "query": "38.188.249.41"
             "query": "38.253.88.242"
             "query": "38.41.27.150"
+            "query": "38.41.5.107"
             "query": "38.41.5.85"
             "query": "38.45.33.130"
             "query": "38.50.165.50"
@@ -7084,6 +7102,7 @@
             "query": "45.143.108.11"
             "query": "45.143.108.114"
             "query": "45.170.102.225"
+            "query": "45.170.102.81"
             "query": "45.170.102.89"
             "query": "45.171.109.1"
             "query": "45.171.146.183"
@@ -7249,6 +7268,7 @@
             "query": "66.29.128.241"
             "query": "66.96.232.247"
             "query": "67.213.210.167"
+            "query": "67.213.210.175"
             "query": "67.213.210.62"
             "query": "67.213.212.49"
             "query": "67.213.212.58"
@@ -7386,6 +7406,7 @@
             "query": "91.241.21.17"
             "query": "92.207.253.226"
             "query": "92.247.2.26"
+            "query": "92.249.113.194"
             "query": "92.255.232.231"
             "query": "93.123.16.188"
             "query": "93.157.196.58"
@@ -8139,6 +8160,7 @@
             "timezone": "Africa/Algiers",
             "timezone": "Africa/Cairo",
             "timezone": "Africa/Dar_es_Salaam",
+            "timezone": "Africa/Douala",
             "timezone": "Africa/Gaborone",
             "timezone": "Africa/Johannesburg",
             "timezone": "Africa/Kampala",
@@ -8286,6 +8308,7 @@
             "zip": "03020",
             "zip": "03026",
             "zip": "0368",
+            "zip": "04209",
             "zip": "048582",
             "zip": "050000",
             "zip": "050001",
@@ -9469,6 +9492,7 @@
         "ip": "134.35.213.197",
         "ip": "134.35.216.169",
         "ip": "134.35.251.9",
+        "ip": "134.35.41.118",
         "ip": "135.125.225.75",
         "ip": "136.226.0.100",
         "ip": "136.226.232.125",
@@ -9542,6 +9566,7 @@
         "ip": "154.236.189.8",
         "ip": "154.39.79.19",
         "ip": "154.52.101.103",
+        "ip": "154.70.115.149",
         "ip": "154.73.109.201",
         "ip": "154.73.28.157",
         "ip": "154.73.28.89",
@@ -9708,6 +9733,7 @@
         "ip": "172.247.84.12",
         "ip": "172.247.84.13",
         "ip": "172.247.84.14",
+        "ip": "175.100.91.151",
         "ip": "175.100.91.80",
         "ip": "175.106.10.226",
         "ip": "175.106.10.227",
@@ -9772,6 +9798,7 @@
         "ip": "179.189.222.189",
         "ip": "179.189.50.160",
         "ip": "179.42.78.49",
+        "ip": "179.42.78.68",
         "ip": "179.48.11.6",
         "ip": "179.49.117.19",
         "ip": "179.49.117.21",
@@ -10405,6 +10432,7 @@
         "ip": "38.188.249.41",
         "ip": "38.253.88.242",
         "ip": "38.41.27.150",
+        "ip": "38.41.5.107",
         "ip": "38.41.5.85",
         "ip": "38.45.33.130",
         "ip": "38.50.165.50",
@@ -10456,6 +10484,7 @@
         "ip": "45.143.108.11",
         "ip": "45.143.108.114",
         "ip": "45.170.102.225",
+        "ip": "45.170.102.81",
         "ip": "45.170.102.89",
         "ip": "45.171.109.1",
         "ip": "45.171.146.183",
@@ -10621,6 +10650,7 @@
         "ip": "66.29.128.241",
         "ip": "66.96.232.247",
         "ip": "67.213.210.167",
+        "ip": "67.213.210.175",
         "ip": "67.213.210.62",
         "ip": "67.213.212.49",
         "ip": "67.213.212.58",
@@ -10758,6 +10788,7 @@
         "ip": "91.241.21.17",
         "ip": "92.207.253.226",
         "ip": "92.247.2.26",
+        "ip": "92.249.113.194",
         "ip": "92.255.232.231",
         "ip": "93.123.16.188",
         "ip": "93.157.196.58",
@@ -10870,6 +10901,7 @@
         "port": 13199,
         "port": 13239,
         "port": 13241,
+        "port": 13267,
         "port": 1327,
         "port": 1333,
         "port": 13335,
@@ -10945,6 +10977,7 @@
         "port": 16641,
         "port": 16647,
         "port": 16667,
+        "port": 16709,
         "port": 16729,
         "port": 16779,
         "port": 16807,
@@ -11051,6 +11084,7 @@
         "port": 20317,
         "port": 20349,
         "port": 20391,
+        "port": 20397,
         "port": 20413,
         "port": 20437,
         "port": 2049,
@@ -11489,6 +11523,7 @@
         "port": 48580,
         "port": 4859,
         "port": 48612,
+        "port": 48824,
         "port": 48888,
         "port": 4925,
         "port": 49784,
@@ -11614,6 +11649,7 @@
         "port": 7815,
         "port": 7831,
         "port": 7878,
+        "port": 7893,
         "port": 7947,
         "port": 7999,
         "port": 80,
