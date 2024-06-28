@@ -173,6 +173,7 @@
             "as": "AS141642 PT Ring Media Nusantara",
             "as": "AS141719 Serenitas Communities Holdings Pty Ltd",
             "as": "AS141737 Rapid Network",
+            "as": "AS141834 Neolog Online Services Private Limited",
             "as": "AS141921 PT Jaringan Keluarga Bersama",
             "as": "AS141978 PT Akses Bersama Sedaya",
             "as": "AS141982 PT Kataji Nukami Indonesia",
@@ -2437,6 +2438,7 @@
             "isp": "National Crime Records Bureau",
             "isp": "Nayatel (Pvt) Ltd",
             "isp": "Negocios Y Telefonia Nedetel S.A",
+            "isp": "Neolog Broadband Services",
             "isp": "Net By Net Holding LLC",
             "isp": "NetActuate, Inc",
             "isp": "NetGloria Telecom",
@@ -5524,6 +5526,7 @@
             "org": "Nazmul Karim Bhuiyan",
             "org": "Nedetel S.A",
             "org": "Negocios Y Telefonia Nedetel S.A",
+            "org": "Neolog Broadband Services",
             "org": "Net By Net Holding LLC",
             "org": "NetActuate, Inc",
             "org": "NetEvolution Internet",
@@ -6148,6 +6151,7 @@
             "query": "103.184.56.125"
             "query": "103.186.254.218"
             "query": "103.186.90.49"
+            "query": "103.187.111.81"
             "query": "103.188.136.44"
             "query": "103.188.82.134"
             "query": "103.189.116.107"
@@ -6353,6 +6357,7 @@
             "query": "113.22.154.21"
             "query": "113.53.60.175"
             "query": "114.129.2.82"
+            "query": "114.130.175.18"
             "query": "114.130.86.145"
             "query": "114.132.202.125"
             "query": "114.132.202.246"
@@ -9232,6 +9237,7 @@
             "zip": "49680",
             "zip": "5000",
             "zip": "50000",
+            "zip": "500001",
             "zip": "500002",
             "zip": "500004",
             "zip": "500007",
@@ -9738,6 +9744,7 @@
         "ip": "103.184.56.125",
         "ip": "103.186.254.218",
         "ip": "103.186.90.49",
+        "ip": "103.187.111.81",
         "ip": "103.188.136.44",
         "ip": "103.188.82.134",
         "ip": "103.189.116.107",
@@ -9943,6 +9950,7 @@
         "ip": "113.22.154.21",
         "ip": "113.53.60.175",
         "ip": "114.129.2.82",
+        "ip": "114.130.175.18",
         "ip": "114.130.86.145",
         "ip": "114.132.202.125",
         "ip": "114.132.202.246",
@@ -11576,6 +11584,7 @@
         "port": 11735,
         "port": 11763,
         "port": 11785,
+        "port": 1185,
         "port": 1193,
         "port": 11933,
         "port": 1200,
@@ -12402,6 +12411,7 @@
         "port": 6317,
         "port": 6359,
         "port": 6409,
+        "port": 6489,
         "port": 6503,
         "port": 6505,
         "port": 65056,
