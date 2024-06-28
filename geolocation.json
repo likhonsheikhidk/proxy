@@ -334,6 +334,7 @@
             "as": "AS20632 PJSC MegaFon",
             "as": "AS206495 Gostaresh Ertebat Azin Kia Company PJSC",
             "as": "AS206854 Lesun communication furtherance engineers Co, (Ltd.)",
+            "as": "AS207252 Realtox Media",
             "as": "AS207676 Best Line Ltd.",
             "as": "AS20771 Caucasus Online Ltd.",
             "as": "AS207957 Sevasteev Artem Nikolaevich",
@@ -2303,6 +2304,7 @@
             "isp": "FR OCB HONEY AS2280",
             "isp": "Fanava Group",
             "isp": "Fast Byte Fast Data Company Limited",
+            "isp": "Felix Gassan",
             "isp": "Fiberlink Pvt.Ltd",
             "isp": "Fibernet SPA",
             "isp": "Fibernet TV SAS",
@@ -5610,6 +5612,7 @@
             "org": "Fanava Group",
             "org": "Fanavaran Mehr Vatan Tehran Sarvar Group LLC",
             "org": "Fast Lane Internet",
+            "org": "Felix Gassan",
             "org": "Fiber Digital S.R.L",
             "org": "FiberComm",
             "org": "Fibercli",
@@ -6454,6 +6457,7 @@
             "query": "103.147.118.237"
             "query": "103.147.134.238"
             "query": "103.147.246.184"
+            "query": "103.147.246.41"
             "query": "103.147.73.130"
             "query": "103.148.129.177"
             "query": "103.148.130.50"
@@ -7690,6 +7694,7 @@
             "query": "193.38.224.169"
             "query": "193.41.88.58"
             "query": "194.150.71.39"
+            "query": "194.163.179.146"
             "query": "194.180.176.109"
             "query": "194.186.248.97"
             "query": "194.31.108.52"
@@ -8141,6 +8146,7 @@
             "query": "45.125.222.81"
             "query": "45.127.56.194"
             "query": "45.133.107.64"
+            "query": "45.133.75.125"
             "query": "45.136.197.46"
             "query": "45.143.108.11"
             "query": "45.143.108.114"
@@ -10314,6 +10320,7 @@
         "ip": "103.147.118.237",
         "ip": "103.147.134.238",
         "ip": "103.147.246.184",
+        "ip": "103.147.246.41",
         "ip": "103.147.73.130",
         "ip": "103.148.129.177",
         "ip": "103.148.130.50",
@@ -11550,6 +11557,7 @@
         "ip": "193.38.224.169",
         "ip": "193.41.88.58",
         "ip": "194.150.71.39",
+        "ip": "194.163.179.146",
         "ip": "194.180.176.109",
         "ip": "194.186.248.97",
         "ip": "194.31.108.52",
@@ -12001,6 +12009,7 @@
         "ip": "45.125.222.81",
         "ip": "45.127.56.194",
         "ip": "45.133.107.64",
+        "ip": "45.133.75.125",
         "ip": "45.136.197.46",
         "ip": "45.143.108.11",
         "ip": "45.143.108.114",
@@ -13013,6 +13022,7 @@
         "port": 28135,
         "port": 2815,
         "port": 28161,
+        "port": 28195,
         "port": 2821,
         "port": 28221,
         "port": 2835,
@@ -13227,6 +13237,7 @@
         "port": 3533,
         "port": 3559,
         "port": 3581,
+        "port": 3583,
         "port": 3600,
         "port": 3627,
         "port": 3647,
@@ -13617,6 +13628,7 @@
         "port": 9163,
         "port": 9191,
         "port": 92,
+        "port": 9245,
         "port": 9253,
         "port": 9265,
         "port": 9292,
