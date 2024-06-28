@@ -102,6 +102,7 @@
             "as": "AS137236 TURBOTECH CO., LTD.",
             "as": "AS137329 PT. ARTHA LINTAS DATA MANDIRI",
             "as": "AS137362 Pemerintah Kota Surakarta",
+            "as": "AS137385 Saddam Hossain t/a Asian Network",
             "as": "AS137541 Royalnet",
             "as": "AS13760 Uniti Fiber Holdings Inc.",
             "as": "AS137952 ANGKOR E & C (CAMBODIA) Co.,Ltd.",
@@ -167,6 +168,7 @@
             "as": "AS141071 PT Jembatan Data Pangrango",
             "as": "AS141077 RSTNET",
             "as": "AS141081 PT Indo Access Semesta",
+            "as": "AS141082 PT Trika Global Media",
             "as": "AS141098 PT Multimedia Link Technology",
             "as": "AS141114 PT Super Media Indonesia",
             "as": "AS141127 PT Anugerah Cimanuk Raya",
@@ -1175,6 +1177,7 @@
             "city": "General Villamil",
             "city": "Getengan",
             "city": "Geumjeong-gu",
+            "city": "Gianyar",
             "city": "Gioia del Colle",
             "city": "Giv'on HaHadasha",
             "city": "Giza",
@@ -2438,6 +2441,7 @@
             "isp": "Marlon Lima Gomes - ME",
             "isp": "Maxindo",
             "isp": "Maysnet SA De CV",
+            "isp": "Md. Saddam Hossain",
             "isp": "Mechmet CHATIP MEMET trading as SpeedNet",
             "isp": "Media Commerce Partners S.A",
             "isp": "Mediatech Communication Pvt.ltd",
@@ -2627,6 +2631,7 @@
             "isp": "PT TELIO INTI NUSA",
             "isp": "PT Tele Globe Global",
             "isp": "PT Terabyte Network Indonesia",
+            "isp": "PT Trika Global Media",
             "isp": "PT Trisari Data Indonusa",
             "isp": "PT Uliz Netmedia Solusindo",
             "isp": "PT Wadma Berkah Sedaya",
@@ -3236,6 +3241,7 @@
             "lat": -8.1995,
             "lat": -8.2471,
             "lat": -8.5399,
+            "lat": -8.5425,
             "lat": -8.6507,
             "lat": -9.575,
             "lat": -9.97403,
@@ -4614,6 +4620,7 @@
             "lon": 114.886,
             "lon": 115.132,
             "lon": 115.2124,
+            "lon": 115.3296,
             "lon": 116.31,
             "lon": 116.36,
             "lon": 116.362,
@@ -5157,6 +5164,7 @@
             "org": "Akamai Technologies, Inc.",
             "org": "Aldm",
             "org": "Alestra, S. de R.L. de C.V",
+            "org": "Alhadatha",
             "org": "Alibaba.com LLC",
             "org": "Alibaba.com Singapore E-Commerce Private Limited",
             "org": "Aljeel Aljadeed Technology",
@@ -5775,6 +5783,7 @@
             "org": "PT Singki Media Telekomunikasi",
             "org": "PT Sol One Indonesia",
             "org": "PT Terabyte Network Indonesia",
+            "org": "PT Trika Global Media",
             "org": "PT Uliz Netmedia Solusindo",
             "org": "PT United Broadband Communications",
             "org": "PT Wadma Berkah Sedaya",
@@ -6120,6 +6129,7 @@
             "query": "103.105.76.65"
             "query": "103.106.193.5"
             "query": "103.106.219.132"
+            "query": "103.106.240.18"
             "query": "103.107.84.124"
             "query": "103.107.84.177"
             "query": "103.108.156.38"
@@ -6217,6 +6227,7 @@
             "query": "103.156.233.157"
             "query": "103.156.233.165"
             "query": "103.156.70.38"
+            "query": "103.156.75.40"
             "query": "103.157.59.75"
             "query": "103.157.79.82"
             "query": "103.157.79.83"
@@ -6319,6 +6330,7 @@
             "query": "103.194.70.102"
             "query": "103.195.65.209"
             "query": "103.20.97.32"
+            "query": "103.203.173.49"
             "query": "103.203.175.49"
             "query": "103.204.20.21"
             "query": "103.204.82.34"
@@ -6872,6 +6884,7 @@
             "query": "165.16.27.42"
             "query": "165.16.31.14"
             "query": "165.16.59.225"
+            "query": "165.16.67.238"
             "query": "165.16.88.170"
             "query": "165.225.106.44"
             "query": "165.225.226.76"
@@ -9807,6 +9820,7 @@
         "ip": "103.105.76.65",
         "ip": "103.106.193.5",
         "ip": "103.106.219.132",
+        "ip": "103.106.240.18",
         "ip": "103.107.84.124",
         "ip": "103.107.84.177",
         "ip": "103.108.156.38",
@@ -9904,6 +9918,7 @@
         "ip": "103.156.233.157",
         "ip": "103.156.233.165",
         "ip": "103.156.70.38",
+        "ip": "103.156.75.40",
         "ip": "103.157.59.75",
         "ip": "103.157.79.82",
         "ip": "103.157.79.83",
@@ -10006,6 +10021,7 @@
         "ip": "103.194.70.102",
         "ip": "103.195.65.209",
         "ip": "103.20.97.32",
+        "ip": "103.203.173.49",
         "ip": "103.203.175.49",
         "ip": "103.204.20.21",
         "ip": "103.204.82.34",
@@ -10559,6 +10575,7 @@
         "ip": "165.16.27.42",
         "ip": "165.16.31.14",
         "ip": "165.16.59.225",
+        "ip": "165.16.67.238",
         "ip": "165.16.88.170",
         "ip": "165.225.106.44",
         "ip": "165.225.226.76",
@@ -11916,6 +11933,7 @@
         "port": 12811,
         "port": 12883,
         "port": 12917,
+        "port": 1297,
         "port": 12988,
         "port": 13001,
         "port": 13065,
@@ -12663,6 +12681,7 @@
         "port": 47045,
         "port": 4709,
         "port": 47193,
+        "port": 4739,
         "port": 47417,
         "port": 47464,
         "port": 4787,
@@ -12933,6 +12952,7 @@
         "port": 9491,
         "port": 9510,
         "port": 9563,
+        "port": 96,
         "port": 9625,
         "port": 9649,
         "port": 9765,
