@@ -134,6 +134,7 @@
             "as": "AS139951 PT Alfatih Indo Teknologi",
             "as": "AS139952 PT Trisari Data Indonusa",
             "as": "AS139962 PT.Bestcamp Prima Data",
+            "as": "AS139967 PT. Yasmin Amanah Media",
             "as": "AS139972 PT. Putra Lebak Banten",
             "as": "AS139981 PT. Menaksopal Link Nusantara",
             "as": "AS139982 PT Buana Visualnet Sentra",
@@ -2577,6 +2578,7 @@
             "isp": "PT. PRATAMA HASTA UTAMA SOLUSINDO",
             "isp": "PT. TELKOM INDONESIA",
             "isp": "PT. Telekomunikasi Indonesia",
+            "isp": "PT. Yasmin Amanah Media",
             "isp": "PT.Bestcamp Prima Data",
             "isp": "PT.Globalnet Multi Data",
             "isp": "PTS-Network",
@@ -6034,6 +6036,7 @@
             "query": "103.165.156.171"
             "query": "103.165.157.79"
             "query": "103.165.218.234"
+            "query": "103.166.10.17"
             "query": "103.166.194.114"
             "query": "103.166.253.57"
             "query": "103.166.8.234"
@@ -6153,6 +6156,7 @@
             "query": "103.255.147.102"
             "query": "103.255.222.1"
             "query": "103.26.108.118"
+            "query": "103.26.110.110"
             "query": "103.26.110.125"
             "query": "103.30.29.179"
             "query": "103.30.30.73"
@@ -6958,6 +6962,7 @@
             "query": "188.132.222.72"
             "query": "188.132.222.8"
             "query": "188.163.170.130"
+            "query": "188.168.24.222"
             "query": "188.168.25.93"
             "query": "188.168.28.37"
             "query": "188.190.40.44"
@@ -9592,6 +9597,7 @@
         "ip": "103.165.156.171",
         "ip": "103.165.157.79",
         "ip": "103.165.218.234",
+        "ip": "103.166.10.17",
         "ip": "103.166.194.114",
         "ip": "103.166.253.57",
         "ip": "103.166.8.234",
@@ -9711,6 +9717,7 @@
         "ip": "103.255.147.102",
         "ip": "103.255.222.1",
         "ip": "103.26.108.118",
+        "ip": "103.26.110.110",
         "ip": "103.26.110.125",
         "ip": "103.30.29.179",
         "ip": "103.30.30.73",
@@ -10516,6 +10523,7 @@
         "ip": "188.132.222.72",
         "ip": "188.132.222.8",
         "ip": "188.163.170.130",
+        "ip": "188.168.24.222",
         "ip": "188.168.25.93",
         "ip": "188.168.28.37",
         "ip": "188.190.40.44",
@@ -11673,6 +11681,7 @@
         "port": 19265,
         "port": 1927,
         "port": 19327,
+        "port": 19439,
         "port": 1947,
         "port": 19475,
         "port": 19519,
