@@ -215,6 +215,7 @@
             "as": "AS152089 PT Singki Media Telekomunikasi",
             "as": "AS152384 PT Digitama Network Indonesia",
             "as": "AS152494 SHRIKSHETRA NETWORKS PRIVATE LIMITED",
+            "as": "AS152639 SPEED ONLINE",
             "as": "AS15311 TELEFONICA EMPRESAS CHILE SA",
             "as": "AS15377 TRADITIONAL LLC",
             "as": "AS15493 \"Russian company\" LLC",
@@ -1222,6 +1223,7 @@
             "city": "Lviv",
             "city": "Lyubertsy",
             "city": "M\u0101dhabdi",
+            "city": "M\u0101tuail",
             "city": "Macap\u00e1",
             "city": "Macei\u00f3",
             "city": "Macuspana",
@@ -2528,6 +2530,7 @@
             "isp": "Sotoon Cloud Infrastracuture",
             "isp": "Southen Telecommunication Maintainer",
             "isp": "Spectrum",
+            "isp": "Speed Online",
             "isp": "Sriyaan Technologies",
             "isp": "Super Redes S.A.S",
             "isp": "Superonline Iletisim Hizmetleri A.S.",
@@ -3166,6 +3169,7 @@
             "lat": 23.7004,
             "lat": 23.7086,
             "lat": 23.7104,
+            "lat": 23.7121,
             "lat": 23.7167,
             "lat": 23.7263,
             "lat": 23.7272,
@@ -4630,6 +4634,7 @@
             "lon": 90.4204,
             "lon": 90.4287,
             "lon": 90.45,
+            "lon": 90.4598,
             "lon": 90.4923,
             "lon": 90.503,
             "lon": 90.6462,
@@ -5369,6 +5374,7 @@
             "org": "Sparklight",
             "org": "Spectrum",
             "org": "Speed Infotech Solutions",
+            "org": "Speedonlinebd",
             "org": "Sreebb",
             "org": "Sriyaan technology",
             "org": "Star Industria e Com\u00e9rcio Ltda",
@@ -5719,6 +5725,7 @@
             "query": "103.181.168.202"
             "query": "103.181.168.213"
             "query": "103.181.92.250"
+            "query": "103.183.63.14"
             "query": "103.184.167.26"
             "query": "103.184.180.30"
             "query": "103.184.54.42"
@@ -6120,6 +6127,7 @@
             "query": "152.67.9.179"
             "query": "154.236.179.226"
             "query": "154.236.179.229"
+            "query": "154.236.189.10"
             "query": "154.236.189.8"
             "query": "154.39.79.19"
             "query": "154.52.101.103"
@@ -6489,6 +6497,7 @@
             "query": "186.148.183.241"
             "query": "186.150.207.207"
             "query": "186.166.138.50"
+            "query": "186.166.138.51"
             "query": "186.190.225.152"
             "query": "186.192.15.26"
             "query": "186.208.81.214"
@@ -6652,6 +6661,7 @@
             "query": "192.140.42.83"
             "query": "192.141.196.129"
             "query": "192.169.179.253"
+            "query": "192.46.229.19"
             "query": "192.53.114.26"
             "query": "192.99.169.19"
             "query": "193.122.197.154"
@@ -8346,6 +8356,7 @@
             "zip": "135001",
             "zip": "13530",
             "zip": "13606",
+            "zip": "1362",
             "zip": "13720",
             "zip": "14000",
             "zip": "140000",
@@ -9064,6 +9075,7 @@
         "ip": "103.181.168.202",
         "ip": "103.181.168.213",
         "ip": "103.181.92.250",
+        "ip": "103.183.63.14",
         "ip": "103.184.167.26",
         "ip": "103.184.180.30",
         "ip": "103.184.54.42",
@@ -9465,6 +9477,7 @@
         "ip": "152.67.9.179",
         "ip": "154.236.179.226",
         "ip": "154.236.179.229",
+        "ip": "154.236.189.10",
         "ip": "154.236.189.8",
         "ip": "154.39.79.19",
         "ip": "154.52.101.103",
@@ -9834,6 +9847,7 @@
         "ip": "186.148.183.241",
         "ip": "186.150.207.207",
         "ip": "186.166.138.50",
+        "ip": "186.166.138.51",
         "ip": "186.190.225.152",
         "ip": "186.192.15.26",
         "ip": "186.208.81.214",
@@ -9997,6 +10011,7 @@
         "ip": "192.140.42.83",
         "ip": "192.141.196.129",
         "ip": "192.169.179.253",
+        "ip": "192.46.229.19",
         "ip": "192.53.114.26",
         "ip": "192.99.169.19",
         "ip": "193.122.197.154",
@@ -11091,6 +11106,7 @@
         "port": 2595,
         "port": 25989,
         "port": 26045,
+        "port": 26129,
         "port": 26143,
         "port": 26163,
         "port": 26191,
@@ -11278,6 +11294,7 @@
         "port": 32693,
         "port": 32737,
         "port": 3279,
+        "port": 32801,
         "port": 32833,
         "port": 32927,
         "port": 32943,
