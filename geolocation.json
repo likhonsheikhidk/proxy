@@ -1157,6 +1157,7 @@
             "city": "Gandul",
             "city": "Gaosha",
             "city": "Gelora",
+            "city": "General Trias",
             "city": "General Villamil",
             "city": "Getengan",
             "city": "Geumjeong-gu",
@@ -1474,6 +1475,7 @@
             "city": "Probolinggo",
             "city": "Pskov",
             "city": "Puducherry",
+            "city": "Puente Alto",
             "city": "Puerto As\u00eds",
             "city": "Puerto Eldorado",
             "city": "Puerto Tejada",
@@ -1625,6 +1627,7 @@
             "city": "Tehran",
             "city": "Temanggung",
             "city": "Temryuk",
+            "city": "Temuco",
             "city": "Ternopil",
             "city": "Th\u00e0nh Ph\u1ed1 Tam K\u1ef3",
             "city": "Th\u0101ne",
@@ -3035,6 +3038,7 @@
             "lat": -33.4132,
             "lat": -33.4155,
             "lat": -33.4521,
+            "lat": -33.6141,
             "lat": -33.6645,
             "lat": -33.7004,
             "lat": -33.732,
@@ -3059,6 +3063,7 @@
             "lat": -36.9016,
             "lat": -37.8159,
             "lat": -38.0707,
+            "lat": -38.7315,
             "lat": -4.2776,
             "lat": -4.2934,
             "lat": -4.3338,
@@ -3269,6 +3274,7 @@
             "lat": 14.0862,
             "lat": 14.2269,
             "lat": 14.2931,
+            "lat": 14.4309,
             "lat": 14.532,
             "lat": 14.5427,
             "lat": 14.5476,
@@ -3535,6 +3541,7 @@
             "lat": 32.4282,
             "lat": 32.6211,
             "lat": 32.6533,
+            "lat": 32.6575,
             "lat": 32.7444,
             "lat": 32.7519,
             "lat": 32.767,
@@ -4150,6 +4157,7 @@
             "lon": -70.2489,
             "lon": -70.5135,
             "lon": -70.5702,
+            "lon": -70.5893,
             "lon": -70.6056,
             "lon": -70.6313,
             "lon": -70.6536,
@@ -4180,6 +4188,7 @@
             "lon": -72.238,
             "lon": -72.5018,
             "lon": -72.5471,
+            "lon": -72.5992,
             "lon": -72.8479,
             "lon": -73.1222,
             "lon": -73.1378,
@@ -4544,6 +4553,7 @@
             "lon": 120.6547,
             "lon": 120.6844,
             "lon": 120.699,
+            "lon": 120.9025,
             "lon": 120.9693,
             "lon": 120.999,
             "lon": 121.018,
@@ -4829,6 +4839,7 @@
             "lon": 51.4361,
             "lon": 51.5321,
             "lon": 51.6743,
+            "lon": 51.6775,
             "lon": 52.2841,
             "lon": 52.5836,
             "lon": 52.6501,
@@ -5188,6 +5199,7 @@
             "org": "Contato Internet EIRELI",
             "org": "Converge ICT Solution Inc",
             "org": "Convergia Peru S.A",
+            "org": "Core Network Fiber",
             "org": "Corleti Farjat Ariel Alejandro",
             "org": "Corporacion Nacional De Telecomunicaciones - CNT EP",
             "org": "Corporate Subscriber",
@@ -5825,6 +5837,7 @@
             "org": "Telecom Argentina S.A",
             "org": "Telecom Personal Bs",
             "org": "Telecom Services",
+            "org": "Telecommunication Company of Esfahan",
             "org": "Telecommunication Company of Khorasan Jonoubi",
             "org": "Telecommunication Company",
             "org": "Telecomunicaciones Aut\u00f3nomas Sin L\u00edmite, S.A. de C.V",
@@ -5832,6 +5845,7 @@
             "org": "Telecomunicaciones G-network",
             "org": "Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L",
             "org": "Telefonica Empresas Chile SA",
+            "org": "Telefonica Empresas",
             "org": "Telefonica del Peru S.A.A",
             "org": "Telefonica del Sur S.A",
             "org": "Telekomunikasi Indonesia",
@@ -6392,6 +6406,7 @@
             "query": "115.127.140.114"
             "query": "115.127.22.211"
             "query": "115.127.28.10"
+            "query": "115.127.36.190"
             "query": "115.127.5.146"
             "query": "115.166.102.238"
             "query": "115.186.185.6"
@@ -6869,6 +6884,7 @@
             "query": "180.191.16.254"
             "query": "180.191.23.149"
             "query": "180.191.23.221"
+            "query": "180.191.255.147"
             "query": "180.211.179.126"
             "query": "180.211.183.130"
             "query": "180.211.186.158"
@@ -6973,6 +6989,7 @@
             "query": "185.222.115.105"
             "query": "185.233.247.186"
             "query": "185.238.72.222"
+            "query": "185.32.5.130"
             "query": "185.32.6.131"
             "query": "185.49.170.20"
             "query": "185.57.237.32"
@@ -7117,6 +7134,7 @@
             "query": "190.7.138.78"
             "query": "190.72.102.42"
             "query": "190.8.164.25"
+            "query": "190.82.105.122"
             "query": "190.83.15.241"
             "query": "190.90.22.106"
             "query": "190.90.39.78"
@@ -7271,6 +7289,7 @@
             "query": "201.20.115.22"
             "query": "201.20.65.234"
             "query": "201.217.246.212"
+            "query": "201.220.112.98"
             "query": "201.222.83.146"
             "query": "201.49.193.249"
             "query": "201.65.173.180"
@@ -7500,6 +7519,7 @@
             "query": "37.195.166.140"
             "query": "37.204.157.91"
             "query": "37.204.209.198"
+            "query": "37.255.135.210"
             "query": "37.26.86.206"
             "query": "37.32.15.125"
             "query": "38.10.69.106"
@@ -8569,6 +8589,7 @@
             "regionName": "Ratchaburi",
             "regionName": "Red Sea",
             "regionName": "Region de Valparaiso",
+            "regionName": "Region de la Araucania",
             "regionName": "Rheinland-Pfalz",
             "regionName": "Riau",
             "regionName": "Rio Grande do Norte",
@@ -9200,6 +9221,7 @@
             "zip": "40599",
             "zip": "41000",
             "zip": "410001",
+            "zip": "4107",
             "zip": "410960",
             "zip": "411001",
             "zip": "411004",
@@ -9994,6 +10016,7 @@
         "ip": "115.127.140.114",
         "ip": "115.127.22.211",
         "ip": "115.127.28.10",
+        "ip": "115.127.36.190",
         "ip": "115.127.5.146",
         "ip": "115.166.102.238",
         "ip": "115.186.185.6",
@@ -10471,6 +10494,7 @@
         "ip": "180.191.16.254",
         "ip": "180.191.23.149",
         "ip": "180.191.23.221",
+        "ip": "180.191.255.147",
         "ip": "180.211.179.126",
         "ip": "180.211.183.130",
         "ip": "180.211.186.158",
@@ -10575,6 +10599,7 @@
         "ip": "185.222.115.105",
         "ip": "185.233.247.186",
         "ip": "185.238.72.222",
+        "ip": "185.32.5.130",
         "ip": "185.32.6.131",
         "ip": "185.49.170.20",
         "ip": "185.57.237.32",
@@ -10719,6 +10744,7 @@
         "ip": "190.7.138.78",
         "ip": "190.72.102.42",
         "ip": "190.8.164.25",
+        "ip": "190.82.105.122",
         "ip": "190.83.15.241",
         "ip": "190.90.22.106",
         "ip": "190.90.39.78",
@@ -10873,6 +10899,7 @@
         "ip": "201.20.115.22",
         "ip": "201.20.65.234",
         "ip": "201.217.246.212",
+        "ip": "201.220.112.98",
         "ip": "201.222.83.146",
         "ip": "201.49.193.249",
         "ip": "201.65.173.180",
@@ -11102,6 +11129,7 @@
         "ip": "37.195.166.140",
         "ip": "37.204.157.91",
         "ip": "37.204.209.198",
+        "ip": "37.255.135.210",
         "ip": "37.26.86.206",
         "ip": "37.32.15.125",
         "ip": "38.10.69.106",
@@ -12214,6 +12242,7 @@
         "port": 31473,
         "port": 31481,
         "port": 31511,
+        "port": 31525,
         "port": 31531,
         "port": 31537,
         "port": 31561,
@@ -12315,6 +12344,7 @@
         "port": 4015,
         "port": 4021,
         "port": 40223,
+        "port": 4027,
         "port": 4037,
         "port": 4046,
         "port": 40667,
@@ -12347,6 +12377,7 @@
         "port": 43801,
         "port": 4385,
         "port": 4389,
+        "port": 43949,
         "port": 4411,
         "port": 443,
         "port": 4443,
