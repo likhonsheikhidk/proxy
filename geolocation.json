@@ -687,6 +687,7 @@
             "as": "AS397142 City of Fort Collins",
             "as": "AS398101 GoDaddy.com, LLC",
             "as": "AS398395 Dot-Tech LLC",
+            "as": "AS40021 Nubes, LLC",
             "as": "AS40065 CNSERVERS LLC",
             "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
             "as": "AS40676 Psychz Networks",
@@ -821,6 +822,7 @@
             "as": "AS55720 Gigabit Hosting Sdn Bhd",
             "as": "AS55836 Reliance Jio Infocomm Limited",
             "as": "AS55839 Microsense Private Limited",
+            "as": "AS55990 Huawei Cloud Service data center",
             "as": "AS56041 China Mobile communications corporation",
             "as": "AS56042 China Mobile communications corporation",
             "as": "AS5617 Orange Polska Spolka Akcyjna",
@@ -1467,6 +1469,7 @@
             "city": "Odesa",
             "city": "Omsk",
             "city": "Oran",
+            "city": "Orangeburg",
             "city": "Orito",
             "city": "Ormoc City",
             "city": "Orsk",
@@ -2334,6 +2337,7 @@
             "isp": "Hosting Services, Inc.",
             "isp": "Hosting Ukraine LTD",
             "isp": "Hostwinds LLC.",
+            "isp": "Huawei Cloud Service data center",
             "isp": "Huawei International Pte. LTD",
             "isp": "Hulum Almustakbal Company for Communication Engineering and Services Ltd",
             "isp": "Hurricane Electric LLC",
@@ -2566,6 +2570,7 @@
             "isp": "Novotelecom Ltd.",
             "isp": "Noyan Abr Arvan Co. ( Private Joint Stock)",
             "isp": "Nt Cybronet Pvt Ltd",
+            "isp": "Nubes, LLC",
             "isp": "OJSC Kyrgyztelecom",
             "isp": "OJSC Vimpelcom HQ",
             "isp": "OJSC uralsvyazinform",
@@ -3867,6 +3872,7 @@
             "lat": 41.0256,
             "lat": 41.027,
             "lat": 41.03,
+            "lat": 41.0416,
             "lat": 41.0551,
             "lat": 41.1122,
             "lat": 41.113,
@@ -4370,6 +4376,7 @@
             "lon": -73.8764,
             "lon": -73.8779,
             "lon": -73.9524,
+            "lon": -73.9572,
             "lon": -73.9792,
             "lon": -74.0059,
             "lon": -74.0068,
@@ -4763,6 +4770,7 @@
             "lon": 121.2187,
             "lon": 121.442,
             "lon": 121.4581,
+            "lon": 121.4737,
             "lon": 121.474,
             "lon": 121.5324,
             "lon": 121.614,
@@ -5586,6 +5594,7 @@
             "org": "Hosting Services, Inc.",
             "org": "Hostinger International Limited",
             "org": "Hostwinds LLC",
+            "org": "Huawei Cloud Service",
             "org": "IFTNET Telecomunicacoes Ltda",
             "org": "IFX Networks Argentina S.R.L",
             "org": "IFX Networks Venezuela C.A",
@@ -6750,6 +6759,7 @@
             "query": "119.18.149.147"
             "query": "119.199.139.221"
             "query": "119.2.53.145"
+            "query": "119.3.147.8"
             "query": "119.39.109.233"
             "query": "119.76.142.154"
             "query": "119.92.75.48"
@@ -7290,6 +7300,7 @@
             "query": "185.108.140.69"
             "query": "185.108.141.114"
             "query": "185.110.246.94"
+            "query": "185.111.156.170"
             "query": "185.125.169.24"
             "query": "185.128.153.10"
             "query": "185.128.240.77"
@@ -7747,6 +7758,7 @@
             "query": "210.247.252.194"
             "query": "210.247.252.242"
             "query": "210.247.252.75"
+            "query": "210.247.253.174"
             "query": "210.247.253.213"
             "query": "210.247.253.218"
             "query": "210.247.253.82"
@@ -9335,6 +9347,7 @@
             "zip": "10804",
             "zip": "109004",
             "zip": "10940",
+            "zip": "10962",
             "zip": "1098",
             "zip": "110 00",
             "zip": "11000",
@@ -10527,6 +10540,7 @@
         "ip": "119.18.149.147",
         "ip": "119.199.139.221",
         "ip": "119.2.53.145",
+        "ip": "119.3.147.8",
         "ip": "119.39.109.233",
         "ip": "119.76.142.154",
         "ip": "119.92.75.48",
@@ -11067,6 +11081,7 @@
         "ip": "185.108.140.69",
         "ip": "185.108.141.114",
         "ip": "185.110.246.94",
+        "ip": "185.111.156.170",
         "ip": "185.125.169.24",
         "ip": "185.128.153.10",
         "ip": "185.128.240.77",
@@ -11524,6 +11539,7 @@
         "ip": "210.247.252.194",
         "ip": "210.247.252.242",
         "ip": "210.247.252.75",
+        "ip": "210.247.253.174",
         "ip": "210.247.253.213",
         "ip": "210.247.253.218",
         "ip": "210.247.253.82",
@@ -13099,6 +13115,7 @@
         "port": 63123,
         "port": 6317,
         "port": 6359,
+        "port": 6387,
         "port": 6409,
         "port": 6429,
         "port": 64351,
