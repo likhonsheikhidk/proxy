@@ -342,6 +342,7 @@
             "as": "AS23470 ReliableSite.Net LLC",
             "as": "AS23520 Columbus Networks USA, Inc.",
             "as": "AS23671 PT. Sarana InsanMuda Selaras",
+            "as": "AS23673 Cogetel Online, Cambodia, ISP",
             "as": "AS23674 Nayatel (Pvt) Ltd",
             "as": "AS23679 PT. Media Antar Nusa",
             "as": "AS23688 Link3 Technologies Ltd.",
@@ -2006,6 +2007,7 @@
             "isp": "CNC Group CHINA169 Jilin Province Network",
             "isp": "CNC Group CHINA169 Neimeng Province Network",
             "isp": "CNTC",
+            "isp": "COGETEL Co",
             "isp": "COLT Technology Services Group Limited",
             "isp": "CORPORACION FIBEX TELECOM, C.A.",
             "isp": "CPS",
@@ -6266,6 +6268,7 @@
             "query": "109.86.182.203"
             "query": "110.232.66.30"
             "query": "110.232.67.44"
+            "query": "110.235.250.77"
             "query": "110.238.59.220"
             "query": "110.34.1.178"
             "query": "110.49.110.45"
@@ -6669,6 +6672,7 @@
             "query": "171.228.89.97"
             "query": "171.232.79.226"
             "query": "171.233.151.214"
+            "query": "171.239.182.117"
             "query": "171.240.181.189"
             "query": "171.244.60.55"
             "query": "171.248.176.139"
@@ -9827,6 +9831,7 @@
         "ip": "109.86.182.203",
         "ip": "110.232.66.30",
         "ip": "110.232.67.44",
+        "ip": "110.235.250.77",
         "ip": "110.238.59.220",
         "ip": "110.34.1.178",
         "ip": "110.49.110.45",
@@ -10230,6 +10235,7 @@
         "ip": "171.228.89.97",
         "ip": "171.232.79.226",
         "ip": "171.233.151.214",
+        "ip": "171.239.182.117",
         "ip": "171.240.181.189",
         "ip": "171.244.60.55",
         "ip": "171.248.176.139",
