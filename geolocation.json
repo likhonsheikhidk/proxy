@@ -217,6 +217,7 @@
             "as": "AS16276 OVH SAS",
             "as": "AS16342 Toya sp.z.o.o",
             "as": "AS16509 Amazon.com, Inc.",
+            "as": "AS16591 Google Fiber Inc.",
             "as": "AS16629 CTC. CORP S.A. (TELEFONICA EMPRESAS)",
             "as": "AS16841 GLOBAL IT",
             "as": "AS174 Cogent Communications",
@@ -684,6 +685,7 @@
             "as": "AS52904 Multpontos Telecomunica\u00e7\u00f5es Ltda - ME",
             "as": "AS52965 1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA",
             "as": "AS53013 W I X NET DO BRASIL LTDA - ME",
+            "as": "AS53048 CELANTE SERVICOS DE TELECOMUNICACOES LTDA - EPP",
             "as": "AS53075 Holistica Provedor Internet Ltda",
             "as": "AS53813 ZSCALER, INC.",
             "as": "AS53989 Swayzee Telephone Company, Inc.",
@@ -849,6 +851,7 @@
             "city": "Asunci\u00f3n",
             "city": "Atotonilco el Alto",
             "city": "Attica",
+            "city": "Austin",
             "city": "Autlan de Navarro",
             "city": "Azle",
             "city": "B\u0101bolsar",
@@ -1377,6 +1380,7 @@
             "city": "Santa Barbara",
             "city": "Santa Clara",
             "city": "Santa Cruz",
+            "city": "Santa Marta",
             "city": "Santa Rosa de Cop\u00e1n",
             "city": "Santa Rosa del Sur",
             "city": "Santiago Suchilquitongo",
@@ -1440,6 +1444,7 @@
             "city": "Tacna",
             "city": "Taguig",
             "city": "Taichung",
+            "city": "Tail\u00e2ndia",
             "city": "Taipei",
             "city": "Tak Fa",
             "city": "Takasago",
@@ -1840,6 +1845,7 @@
             "isp": "Carnaubanet Ltda",
             "isp": "Carnival Internet",
             "isp": "Caucasus Online Ltd.",
+            "isp": "Celante Servicos De Telecomunicacoes Ltda - EPP",
             "isp": "CenterTelecom Voronezh ISP",
             "isp": "Central Solutions Technology S.R.L.",
             "isp": "Charter Communications Inc",
@@ -1999,6 +2005,7 @@
             "isp": "GoDaddy.com",
             "isp": "GoDaddy.com, LLC",
             "isp": "Gold Data USA Inc",
+            "isp": "Google Fiber Inc.",
             "isp": "Google LLC",
             "isp": "Gostaresh Ertebat Azin Kia Company PJSC",
             "isp": "Govista Telecomunicao Importacao Ltda",
@@ -2656,6 +2663,7 @@
             "lat": -2.20989,
             "lat": -2.4155,
             "lat": -2.6297,
+            "lat": -2.8743,
             "lat": -2.9146,
             "lat": -20.0272,
             "lat": -20.1879,
@@ -2891,6 +2899,7 @@
             "lat": 11.0237,
             "lat": 11.0842,
             "lat": 11.1424,
+            "lat": 11.2399,
             "lat": 11.3874,
             "lat": 11.5346,
             "lat": 11.5583,
@@ -3148,6 +3157,7 @@
             "lat": 30.0588,
             "lat": 30.16,
             "lat": 30.226,
+            "lat": 30.2672,
             "lat": 30.2742,
             "lat": 30.2839,
             "lat": 30.3574,
@@ -3650,6 +3660,7 @@
             "lon": -48.5196,
             "lon": -48.6591,
             "lon": -48.7034,
+            "lon": -48.7576,
             "lon": -49.0059,
             "lon": -49.0969,
             "lon": -49.2063,
@@ -3781,6 +3792,7 @@
             "lon": -74.1211,
             "lon": -74.1403,
             "lon": -74.1534,
+            "lon": -74.1951,
             "lon": -74.4229,
             "lon": -74.4606,
             "lon": -74.4869,
@@ -3879,6 +3891,7 @@
             "lon": -96.8784,
             "lon": -97.5322,
             "lon": -97.6858,
+            "lon": -97.7431,
             "lon": -97.7825,
             "lon": -98.3509,
             "lon": -98.3953,
@@ -4606,6 +4619,7 @@
             "org": "Carnival Care Limited",
             "org": "Caucasus",
             "org": "Cdn77 PRG POP",
+            "org": "Celante Servicos De Telecomunicacoes Ltda - EPP",
             "org": "Central De Redes Y Comunicaciones De Guatemala S.A",
             "org": "Central Solutions Technology S.R.L. (Heriberto Medrano holding group)",
             "org": "CenturyLink Communications",
@@ -4758,10 +4772,12 @@
             "org": "Gmedia ID Semarang",
             "org": "Gmedia ID Yogyakarta",
             "org": "GoDaddy.com, LLC",
+            "org": "Golden-Bridge Netcom communication Co., LTD.",
             "org": "Google Cloud (asia-east2)",
             "org": "Google Cloud (asia-northeast1)",
             "org": "Google Cloud (us-central1)",
             "org": "Google Cloud (us-west1)",
+            "org": "Google Fiber Inc",
             "org": "Gostaresh Ertebat Azin Kia Company PJSC",
             "org": "Govista Telecomunicao Importacao Ltda",
             "org": "Gstech Software Systems Pvt Ltd",
@@ -5794,6 +5810,7 @@
             "query": "131.100.48.105"
             "query": "131.100.48.123"
             "query": "131.100.51.252"
+            "query": "131.100.51.45"
             "query": "131.100.51.46"
             "query": "131.100.51.97"
             "query": "131.186.59.207"
@@ -5812,6 +5829,7 @@
             "query": "136.226.0.100"
             "query": "136.226.232.125"
             "query": "136.226.67.116"
+            "query": "136.60.0.212"
             "query": "137.59.48.226"
             "query": "138.118.106.237"
             "query": "138.118.200.49"
@@ -6043,6 +6061,7 @@
             "query": "175.100.91.80"
             "query": "175.106.10.226"
             "query": "175.106.10.227"
+            "query": "175.178.80.101"
             "query": "176.100.13.15"
             "query": "176.105.199.153"
             "query": "176.105.220.74"
@@ -6139,6 +6158,7 @@
             "query": "181.198.75.148"
             "query": "181.204.21.122"
             "query": "181.204.81.181"
+            "query": "181.205.251.115"
             "query": "181.205.28.66"
             "query": "181.205.28.69"
             "query": "181.205.74.98"
@@ -6247,6 +6267,7 @@
             "query": "187.251.222.69"
             "query": "187.49.124.10"
             "query": "187.62.191.3"
+            "query": "187.73.102.70"
             "query": "187.87.206.97"
             "query": "187.94.16.59"
             "query": "188.125.167.66"
@@ -6680,6 +6701,7 @@
             "query": "37.26.86.206"
             "query": "37.32.15.125"
             "query": "38.10.69.106"
+            "query": "38.10.69.107"
             "query": "38.10.69.110"
             "query": "38.123.79.3"
             "query": "38.156.233.132"
@@ -7238,6 +7260,7 @@
             "region": "LMA",
             "region": "M",
             "region": "MA",
+            "region": "MAG",
             "region": "MD",
             "region": "MET",
             "region": "MG",
@@ -7559,6 +7582,7 @@
             "regionName": "M\u0101zandar\u0101n",
             "regionName": "Madhya Pradesh",
             "regionName": "Madrid",
+            "regionName": "Magdalena Department",
             "regionName": "Maharashtra",
             "regionName": "Manab\u00ed",
             "regionName": "Maranh\u00e3o",
@@ -8256,6 +8280,7 @@
             "zip": "462",
             "zip": "46970",
             "zip": "46986",
+            "zip": "470004",
             "zip": "47750",
             "zip": "47803",
             "zip": "47910",
@@ -8389,6 +8414,7 @@
             "zip": "684031",
             "zip": "684511",
             "zip": "68515",
+            "zip": "68695",
             "zip": "687541",
             "zip": "68900",
             "zip": "69100",
@@ -8438,6 +8464,7 @@
             "zip": "78398",
             "zip": "78550",
             "zip": "78700",
+            "zip": "78713",
             "zip": "78834",
             "zip": "79000",
             "zip": "7945",
@@ -9006,6 +9033,7 @@
         "ip": "131.100.48.105",
         "ip": "131.100.48.123",
         "ip": "131.100.51.252",
+        "ip": "131.100.51.45",
         "ip": "131.100.51.46",
         "ip": "131.100.51.97",
         "ip": "131.186.59.207",
@@ -9024,6 +9052,7 @@
         "ip": "136.226.0.100",
         "ip": "136.226.232.125",
         "ip": "136.226.67.116",
+        "ip": "136.60.0.212",
         "ip": "137.59.48.226",
         "ip": "138.118.106.237",
         "ip": "138.118.200.49",
@@ -9255,6 +9284,7 @@
         "ip": "175.100.91.80",
         "ip": "175.106.10.226",
         "ip": "175.106.10.227",
+        "ip": "175.178.80.101",
         "ip": "176.100.13.15",
         "ip": "176.105.199.153",
         "ip": "176.105.220.74",
@@ -9351,6 +9381,7 @@
         "ip": "181.198.75.148",
         "ip": "181.204.21.122",
         "ip": "181.204.81.181",
+        "ip": "181.205.251.115",
         "ip": "181.205.28.66",
         "ip": "181.205.28.69",
         "ip": "181.205.74.98",
@@ -9459,6 +9490,7 @@
         "ip": "187.251.222.69",
         "ip": "187.49.124.10",
         "ip": "187.62.191.3",
+        "ip": "187.73.102.70",
         "ip": "187.87.206.97",
         "ip": "187.94.16.59",
         "ip": "188.125.167.66",
@@ -9892,6 +9924,7 @@
         "ip": "37.26.86.206",
         "ip": "37.32.15.125",
         "ip": "38.10.69.106",
+        "ip": "38.10.69.107",
         "ip": "38.10.69.110",
         "ip": "38.123.79.3",
         "ip": "38.156.233.132",
@@ -10462,6 +10495,7 @@
         "port": 18243,
         "port": 18261,
         "port": 18287,
+        "port": 18309,
         "port": 1833,
         "port": 18343,
         "port": 18345,
@@ -10474,6 +10508,7 @@
         "port": 18715,
         "port": 18775,
         "port": 1881,
+        "port": 18833,
         "port": 18903,
         "port": 18939,
         "port": 18963,
@@ -10572,6 +10607,7 @@
         "port": 22751,
         "port": 22800,
         "port": 22845,
+        "port": 22899,
         "port": 22969,
         "port": 22997,
         "port": 23021,
@@ -11015,6 +11051,7 @@
         "port": 7371,
         "port": 7379,
         "port": 7455,
+        "port": 7457,
         "port": 7481,
         "port": 7487,
         "port": 7631,
