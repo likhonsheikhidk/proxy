@@ -257,6 +257,7 @@
             "as": "AS151508 PT Terabyte Network Indonesia",
             "as": "AS151512 PT Jenius Lintas Nusantara",
             "as": "AS151555 PT Jawara Lintas Data Nusantara",
+            "as": "AS151576 PT Mahawira Nusantara Grup",
             "as": "AS15169 Google LLC",
             "as": "AS151993 PT Wifian Global Nusantara",
             "as": "AS152045 PT Petabyte Network Indonesia",
@@ -1397,6 +1398,7 @@
             "city": "Los Angeles",
             "city": "Lucknow",
             "city": "Lukovit",
+            "city": "Lumajang",
             "city": "Lusaka",
             "city": "Lushnj\u00eb",
             "city": "Lviv",
@@ -2730,6 +2732,7 @@
             "isp": "PT Lintas Jaringan Nusantara",
             "isp": "PT Lintas Network Solusi",
             "isp": "PT MITRA VISIONER PRATAMA",
+            "isp": "PT Mahawira Nusantara Grup",
             "isp": "PT Marva Global Telekomunikasi",
             "isp": "PT Master Star Network",
             "isp": "PT Maxindo Mitra Solusi",
@@ -3398,6 +3401,7 @@
             "lat": -8.0805,
             "lat": -8.0982,
             "lat": -8.1136,
+            "lat": -8.14308,
             "lat": -8.1716,
             "lat": -8.18556,
             "lat": -8.1995,
@@ -4844,6 +4848,7 @@
             "lon": 112.831,
             "lon": 112.9074,
             "lon": 112.9611,
+            "lon": 113.18,
             "lon": 113.2163,
             "lon": 113.2539,
             "lon": 113.3646,
@@ -6063,6 +6068,7 @@
             "org": "PT Lintas Jaringan Nusantara",
             "org": "PT Lintas Network Solusi",
             "org": "PT MITRA VISIONER PRATAMA",
+            "org": "PT Mahawira Nusantara Grup",
             "org": "PT Marva Global Telekomunikasi",
             "org": "PT Master Star Network",
             "org": "PT Maxindo Teknologi Solusi",
@@ -6502,6 +6508,7 @@
             "query": "103.137.218.166"
             "query": "103.137.218.209"
             "query": "103.137.83.120"
+            "query": "103.137.84.17"
             "query": "103.137.85.29"
             "query": "103.137.91.250"
             "query": "103.138.27.250"
@@ -6641,6 +6648,7 @@
             "query": "103.177.8.48"
             "query": "103.177.9.104"
             "query": "103.178.194.122"
+            "query": "103.178.194.52"
             "query": "103.178.42.241"
             "query": "103.178.42.29"
             "query": "103.179.182.155"
@@ -6805,6 +6813,7 @@
             "query": "103.69.21.192"
             "query": "103.74.229.133"
             "query": "103.75.85.115"
+            "query": "103.76.108.94"
             "query": "103.76.151.122"
             "query": "103.78.171.10"
             "query": "103.78.75.91"
@@ -6945,6 +6954,7 @@
             "query": "117.102.87.66"
             "query": "117.103.194.90"
             "query": "117.144.175.203"
+            "query": "117.68.38.149"
             "query": "117.68.38.159"
             "query": "117.68.38.170"
             "query": "117.68.38.184"
@@ -7449,6 +7459,7 @@
             "query": "181.129.251.188"
             "query": "181.129.35.130"
             "query": "181.129.74.58"
+            "query": "181.143.106.162"
             "query": "181.176.71.193"
             "query": "181.189.241.11"
             "query": "181.189.254.33"
@@ -10405,6 +10416,7 @@
         "ip": "103.137.218.166",
         "ip": "103.137.218.209",
         "ip": "103.137.83.120",
+        "ip": "103.137.84.17",
         "ip": "103.137.85.29",
         "ip": "103.137.91.250",
         "ip": "103.138.27.250",
@@ -10544,6 +10556,7 @@
         "ip": "103.177.8.48",
         "ip": "103.177.9.104",
         "ip": "103.178.194.122",
+        "ip": "103.178.194.52",
         "ip": "103.178.42.241",
         "ip": "103.178.42.29",
         "ip": "103.179.182.155",
@@ -10708,6 +10721,7 @@
         "ip": "103.69.21.192",
         "ip": "103.74.229.133",
         "ip": "103.75.85.115",
+        "ip": "103.76.108.94",
         "ip": "103.76.151.122",
         "ip": "103.78.171.10",
         "ip": "103.78.75.91",
@@ -10848,6 +10862,7 @@
         "ip": "117.102.87.66",
         "ip": "117.103.194.90",
         "ip": "117.144.175.203",
+        "ip": "117.68.38.149",
         "ip": "117.68.38.159",
         "ip": "117.68.38.170",
         "ip": "117.68.38.184",
@@ -11352,6 +11367,7 @@
         "ip": "181.129.251.188",
         "ip": "181.129.35.130",
         "ip": "181.129.74.58",
+        "ip": "181.143.106.162",
         "ip": "181.176.71.193",
         "ip": "181.189.241.11",
         "ip": "181.189.254.33",
@@ -13545,6 +13561,7 @@
         "port": 51630,
         "port": 5167,
         "port": 5211,
+        "port": 52151,
         "port": 5225,
         "port": 5247,
         "port": 5255,
