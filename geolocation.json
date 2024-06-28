@@ -342,6 +342,7 @@
             "as": "AS262210 VIETTEL PER\u00da S.A.C.",
             "as": "AS262215 ITELKOM",
             "as": "AS262234 ASOCIACION DE SERVICIO DE INTERNET S. DE RL.",
+            "as": "AS262391 ACESSOLINE TELECOMUNICA\u00c7\u00d5ES LTDA",
             "as": "AS262402 ZAP BL TELECOMUNICACOES LTDA",
             "as": "AS262430 DIGITAL DESIGN SERVI\u00c7OS DE TELECOMUNICA\u00c7\u00d5ES EIRELI",
             "as": "AS262462 Aranet Comunicacao Ltda",
@@ -387,6 +388,7 @@
             "as": "AS266105 RPNET INFORMATICA LTDA - ME",
             "as": "AS266208 Allfiber Telecom Servi\u00e7os de Telecomunica\u00e7\u00f5es",
             "as": "AS266337 MARLON LIMA GOMES ME",
+            "as": "AS266436 NETCENTER TELECOM",
             "as": "AS266475 SEM FRONTEIRAS TELECOMUNICACOES LTDA",
             "as": "AS266672 SYSNOVELLTEL S.A",
             "as": "AS266730 CENTRAL SOLUTIONS TECHNOLOGY S.R.L.",
@@ -945,6 +947,7 @@
             "city": "Changwon",
             "city": "Chaowai",
             "city": "Chapadao Do Sul",
+            "city": "Chapec\u00f3",
             "city": "Charlotte",
             "city": "Charlottesville",
             "city": "Chelyabinsk",
@@ -1021,6 +1024,7 @@
             "city": "Falkenstein",
             "city": "Feni",
             "city": "Florida",
+            "city": "Fonseca",
             "city": "Fort Collins",
             "city": "Fortaleza",
             "city": "Fortul",
@@ -1305,6 +1309,7 @@
             "city": "Port Blair",
             "city": "Portland",
             "city": "Porto Feliz",
+            "city": "Porto Seguro",
             "city": "Portoviejo",
             "city": "Prague",
             "city": "Presidente Bernardes",
@@ -1726,6 +1731,7 @@
             "isp": "Aamra Networks Limited",
             "isp": "Abissnet ISP",
             "isp": "Access AIR Sociedad Simple",
+            "isp": "Acessoline Telecom",
             "isp": "Advanced Solutions LLC",
             "isp": "Advanced Wireless Network Company Limited",
             "isp": "Afrihost (Pty) Ltd",
@@ -2193,6 +2199,7 @@
             "isp": "NetMagic Solutions Pvt Ltd",
             "isp": "NetX",
             "isp": "Netbone Telekomunikasyon A.S.",
+            "isp": "Netcenter Telecom",
             "isp": "Netdelsur Telecomunicaciones SPA",
             "isp": "Netgl?ria Servi?os de Internet Ltda",
             "isp": "Netrun Technologies PVT LTD",
@@ -2636,6 +2643,7 @@
             "lat": -16.4897,
             "lat": -16.561,
             "lat": -16.5879,
+            "lat": -16.6718,
             "lat": -17.1339,
             "lat": -17.5163,
             "lat": -17.7834,
@@ -2689,6 +2697,7 @@
             "lat": -26.4077,
             "lat": -26.4184,
             "lat": -26.8766,
+            "lat": -27.0953,
             "lat": -27.4519,
             "lat": -27.6987,
             "lat": -27.802,
@@ -2874,6 +2883,7 @@
             "lat": 10.8221,
             "lat": 10.8267,
             "lat": 10.8289,
+            "lat": 10.887,
             "lat": 10.9663,
             "lat": 10.9685,
             "lat": 11.0027,
@@ -3602,6 +3612,7 @@
             "lon": -38.5285,
             "lon": -38.5409,
             "lon": -39.2503,
+            "lon": -39.2642,
             "lon": -39.4514,
             "lon": -4.0012,
             "lon": -40.1296,
@@ -3653,6 +3664,7 @@
             "lon": -51.4608,
             "lon": -51.6428,
             "lon": -52.4437,
+            "lon": -52.617,
             "lon": -52.7406,
             "lon": -53.4528,
             "lon": -54.5242,
@@ -3738,6 +3750,7 @@
             "lon": -72.238,
             "lon": -72.5018,
             "lon": -72.5471,
+            "lon": -72.8479,
             "lon": -73.1222,
             "lon": -73.1378,
             "lon": -73.1439,
@@ -4477,6 +4490,7 @@
             "org": "365 Group LLC",
             "org": "A1 Bulgaria EAD",
             "org": "A2 TELECOM PROVEDOR DE INTERNET LTDA",
+            "org": "ACESSOLINE TELECOMUNICA\u00c7\u00d5ES LTDA",
             "org": "ADSL Gall West",
             "org": "AGIS",
             "org": "ALICLOUD-HK",
@@ -4944,6 +4958,7 @@
             "org": "Negocios Y Telefonia Nedetel S.A",
             "org": "NetActuate, Inc",
             "org": "NetMagic Solutions Pvt Ltd",
+            "org": "Netcenter Telecom",
             "org": "Netdelsur Telecomunicaciones SPA",
             "org": "Netgl\u00f3ria Servi\u00e7os de Internet Ltda",
             "org": "Netrun Technologies PVT LTD",
@@ -5996,6 +6011,7 @@
             "query": "170.78.61.26"
             "query": "170.80.203.46"
             "query": "170.81.131.70"
+            "query": "170.82.13.121"
             "query": "170.83.76.22"
             "query": "170.83.79.206"
             "query": "171.102.10.74"
@@ -6147,6 +6163,7 @@
             "query": "181.78.19.242"
             "query": "181.78.64.172"
             "query": "181.78.77.229"
+            "query": "181.78.8.215"
             "query": "181.78.82.211"
             "query": "181.78.85.45"
             "query": "181.78.94.158"
@@ -6775,6 +6792,7 @@
             "query": "45.232.79.0"
             "query": "45.234.60.2"
             "query": "45.234.61.4"
+            "query": "45.235.16.121"
             "query": "45.235.200.32"
             "query": "45.236.106.244"
             "query": "45.236.162.115"
@@ -8221,6 +8239,7 @@
             "zip": "442001",
             "zip": "4421",
             "zip": "4427",
+            "zip": "444010",
             "zip": "44900",
             "zip": "450000",
             "zip": "45127",
@@ -8230,6 +8249,7 @@
             "zip": "45640",
             "zip": "456940",
             "zip": "45770",
+            "zip": "45810",
             "zip": "46000",
             "zip": "46001",
             "zip": "46044",
@@ -8458,6 +8478,7 @@
             "zip": "88715",
             "zip": "89000",
             "zip": "8957",
+            "zip": "89800-000",
             "zip": "90-519",
             "zip": "900-0021",
             "zip": "9000",
@@ -9202,6 +9223,7 @@
         "ip": "170.78.61.26",
         "ip": "170.80.203.46",
         "ip": "170.81.131.70",
+        "ip": "170.82.13.121",
         "ip": "170.83.76.22",
         "ip": "170.83.79.206",
         "ip": "171.102.10.74",
@@ -9353,6 +9375,7 @@
         "ip": "181.78.19.242",
         "ip": "181.78.64.172",
         "ip": "181.78.77.229",
+        "ip": "181.78.8.215",
         "ip": "181.78.82.211",
         "ip": "181.78.85.45",
         "ip": "181.78.94.158",
@@ -9981,6 +10004,7 @@
         "ip": "45.232.79.0",
         "ip": "45.234.60.2",
         "ip": "45.234.61.4",
+        "ip": "45.235.16.121",
         "ip": "45.235.200.32",
         "ip": "45.236.106.244",
         "ip": "45.236.162.115",
@@ -10747,6 +10771,7 @@
         "port": 31383,
         "port": 3141,
         "port": 31437,
+        "port": 31441,
         "port": 31473,
         "port": 31481,
         "port": 31511,
@@ -10769,6 +10794,7 @@
         "port": 32137,
         "port": 32185,
         "port": 32223,
+        "port": 32285,
         "port": 3229,
         "port": 32304,
         "port": 32307,
@@ -10804,6 +10830,7 @@
         "port": 34599,
         "port": 34688,
         "port": 3533,
+        "port": 3600,
         "port": 3627,
         "port": 3647,
         "port": 36666,
@@ -10988,6 +11015,7 @@
         "port": 7371,
         "port": 7379,
         "port": 7455,
+        "port": 7481,
         "port": 7487,
         "port": 7631,
         "port": 7654,
