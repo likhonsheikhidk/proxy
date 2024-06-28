@@ -11,6 +11,7 @@
             "as": "AS11432 Telium Telecomunica\u00e7\u00f5es Ltda",
             "as": "AS11492 CABLE ONE, INC.",
             "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
+            "as": "AS11782 Perfecto Mobile Inc",
             "as": "AS11845 Vox Telecom Ltd",
             "as": "AS12066 ALTICE DOMINICANA S.A.",
             "as": "AS12322 Free SAS",
@@ -1101,6 +1102,7 @@
             "city": "Buritama",
             "city": "Buriti",
             "city": "Buritis",
+            "city": "Burlington",
             "city": "C\u00faa",
             "city": "C\u00facuta",
             "city": "Cabanatuan City",
@@ -2800,6 +2802,7 @@
             "isp": "Pegasuswave Private Limited",
             "isp": "Pemerintah Kota Surakarta",
             "isp": "Pentech Bilisim Teknolojileri",
+            "isp": "Perfecto Mobile Inc",
             "isp": "Philippine Long Distance Telephone Co.",
             "isp": "Pioneer Elabs Ltd",
             "isp": "Pioneer Elabs Ltd.",
@@ -3994,6 +3997,7 @@
             "lat": 42.2807,
             "lat": 42.2864,
             "lat": 42.2994,
+            "lat": 42.4883,
             "lat": 42.4963,
             "lat": 42.6592,
             "lat": 42.6951,
@@ -4453,6 +4457,7 @@
             "lon": -70.9303,
             "lon": -70.9787,
             "lon": -70.9811,
+            "lon": -71.1951,
             "lon": -71.2162,
             "lon": -71.2726,
             "lon": -71.2799,
@@ -6094,6 +6099,7 @@
             "org": "Pardazesh Argham Yasna Co",
             "org": "Pavutina.Net Ltd",
             "org": "Pegasuswave Private Limited",
+            "org": "Perfecto Mobile Inc",
             "org": "Peterstar at Kaliningrad",
             "org": "Philippine Long Distance Telephone Co",
             "org": "Philippine Long Distance Telephone Company",
@@ -7795,6 +7801,7 @@
             "query": "197.98.201.13"
             "query": "197.98.201.95"
             "query": "197.98.201.99"
+            "query": "198.160.7.15"
             "query": "198.199.70.20"
             "query": "198.52.241.2"
             "query": "198.99.81.198"
@@ -9169,6 +9176,7 @@
             "regionName": "Maharashtra",
             "regionName": "Manab\u00ed",
             "regionName": "Maranh\u00e3o",
+            "regionName": "Massachusetts",
             "regionName": "Mato Grosso do Sul",
             "regionName": "Mato Grosso",
             "regionName": "Maule Region",
@@ -9540,6 +9548,7 @@
             "zip": "01051",
             "zip": "01135",
             "zip": "01789",
+            "zip": "01803",
             "zip": "02-758",
             "zip": "02002",
             "zip": "0250",
@@ -11690,6 +11699,7 @@
         "ip": "197.98.201.13",
         "ip": "197.98.201.95",
         "ip": "197.98.201.99",
+        "ip": "198.160.7.15",
         "ip": "198.199.70.20",
         "ip": "198.52.241.2",
         "ip": "198.99.81.198",
@@ -13062,6 +13072,7 @@
         "port": 25075,
         "port": 25087,
         "port": 25100,
+        "port": 25103,
         "port": 25113,
         "port": 25124,
         "port": 2513,
