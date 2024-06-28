@@ -118,6 +118,7 @@
             "as": "AS138089 PT.Global Media Data Prima",
             "as": "AS138096 PT INFORMASI NUSANTARA TEKNOLOGI",
             "as": "AS138102 PT Baraya Telematika Nusantara",
+            "as": "AS138109 PT. Rasi Bintang Perkasa",
             "as": "AS138130 PT PHATRIA INTI PERSADA",
             "as": "AS138191 Weblink Communications Ltd",
             "as": "AS138225 One Eight Technologies Private Limited",
@@ -238,6 +239,7 @@
             "as": "AS149667 PT Gading Bhakti Utama",
             "as": "AS149707 PT Akses Data Internusa",
             "as": "AS149878 PT Callysta Total Solusindo",
+            "as": "AS149883 PT Tekling Media Telematika",
             "as": "AS149912 PT Graha Sumber Teknologi",
             "as": "AS149925 PT Sakti Wijaya Network",
             "as": "AS149926 PT Ilham Wifi Solution",
@@ -472,6 +474,8 @@
             "as": "AS265622 WISTARIP S DE RL DE CV",
             "as": "AS265627 NIDIX NETWORKS S.A. DE C.V.",
             "as": "AS265629 FIBERNET",
+            "as": "AS265684 INFINITUM S.A.",
+            "as": "AS265688 SINERGY SOLUCIONES INTEGRALES",
             "as": "AS265763 Interret Villa Angela SRL",
             "as": "AS265851 MJL NETWORK EIRL",
             "as": "AS265858 NETDELSUR TELECOMUNICACIONES SPA",
@@ -592,6 +596,7 @@
             "as": "AS28343 UNIFIQUE TELECOMUNICACOES S/A",
             "as": "AS28387 Computadoras y Servicios Especiales SA de CV",
             "as": "AS28424 DISTROKOM S DE RL DE CV",
+            "as": "AS28431 RAUL DUARTE URITA",
             "as": "AS28539 JOSE MIGUEL MACIAS CONTRERAS",
             "as": "AS28571 UNIVERSIDADE DE SAO PAULO",
             "as": "AS28573 Claro NXT Telecomunicacoes Ltda",
@@ -1141,6 +1146,7 @@
             "city": "Cherkasy",
             "city": "Chiang Mai",
             "city": "Chicago",
+            "city": "Chihuahua City",
             "city": "Chimbas",
             "city": "Chisinau",
             "city": "Chittagong",
@@ -1558,6 +1564,7 @@
             "city": "Pinellas Park",
             "city": "Pingzhen",
             "city": "Piscataway",
+            "city": "Pitalito",
             "city": "Placas",
             "city": "Plovdiv",
             "city": "Podolsk",
@@ -1589,6 +1596,7 @@
             "city": "Purbalingga",
             "city": "Puru\u00e1ndiro",
             "city": "Purwakarta",
+            "city": "Purworejo",
             "city": "Quezon City",
             "city": "Quibd\u00f3",
             "city": "Quinch\u00eda",
@@ -2441,6 +2449,7 @@
             "isp": "Iguana Network Services C.A.",
             "isp": "In2cable",
             "isp": "Indonesia Network Information Center",
+            "isp": "Infinitum S.A.",
             "isp": "Infinivan Incorporated",
             "isp": "Info-Gro (PTY) Ltd",
             "isp": "InfoSphere",
@@ -2768,6 +2777,7 @@
             "isp": "PT Solusi Infostruktur Nusantara",
             "isp": "PT Surya Global Teknologi",
             "isp": "PT TELIO INTI NUSA",
+            "isp": "PT Tekling Media Telematika",
             "isp": "PT Tele Globe Global",
             "isp": "PT Terabyte Network Indonesia",
             "isp": "PT Trika Global Media",
@@ -2797,6 +2807,7 @@
             "isp": "PT. Menaksopal Link Nusantara",
             "isp": "PT. Mora Telematika Indonesia",
             "isp": "PT. PRATAMA HASTA UTAMA SOLUSINDO",
+            "isp": "PT. Rasi Bintang Perkasa",
             "isp": "PT. TELKOM INDONESIA",
             "isp": "PT. Telekomunikasi Indonesia",
             "isp": "PT. Yasmin Amanah Media",
@@ -2848,6 +2859,7 @@
             "isp": "Rapeedo Telecom",
             "isp": "Rapid Network",
             "isp": "Rapid Networks Sub2",
+            "isp": "Raul Duarte Urita",
             "isp": "Rawafed",
             "isp": "Rayaneh Gostar Farzanegan Ahvaz LTD",
             "isp": "RazaoInfo Internet Ltda",
@@ -2900,6 +2912,7 @@
             "isp": "Shivansh Infotech pvt Ltd",
             "isp": "Silica Networks Argentina S.A",
             "isp": "SinergiNet",
+            "isp": "Sinergy Soluciones Integrales",
             "isp": "SingNet Pte Ltd",
             "isp": "Sistemas Avanzados EN Telecomunicaciones",
             "isp": "Sistemas Computarizados Del Huila S.A.S.",
@@ -2952,6 +2965,7 @@
             "isp": "TOT Public Company Limited",
             "isp": "TOV \"Telza\"",
             "isp": "TRANS-TELECOM",
+            "isp": "TRUEBB",
             "isp": "TTK-Retail",
             "isp": "TURBOTECH CO., LTD.",
             "isp": "TV AZTECA SUCURSAL COLOMBIA",
@@ -3392,6 +3406,7 @@
             "lat": -7.6302,
             "lat": -7.64331,
             "lat": -7.6459,
+            "lat": -7.7053,
             "lat": -7.7125,
             "lat": -7.7194,
             "lat": -7.73221,
@@ -3447,6 +3462,7 @@
             "lat": 1.33792,
             "lat": 1.35208,
             "lat": 1.35624,
+            "lat": 1.8529,
             "lat": 10.0127,
             "lat": 10.1182,
             "lat": 10.1624,
@@ -3764,6 +3780,7 @@
             "lat": 28.8395,
             "lat": 28.8411,
             "lat": 28.8417,
+            "lat": 28.85,
             "lat": 28.9834,
             "lat": 28.9933,
             "lat": 29.3885,
@@ -4285,6 +4302,7 @@
             "lon": -105.216,
             "lon": -105.227,
             "lon": -105.6662,
+            "lon": -106.2773,
             "lon": -106.3822,
             "lon": -107.2555,
             "lon": -111.0403,
@@ -4551,6 +4569,7 @@
             "lon": -75.7302,
             "lon": -75.8777,
             "lon": -75.8946,
+            "lon": -76.0546,
             "lon": -76.2313,
             "lon": -76.2368,
             "lon": -76.4162,
@@ -4813,6 +4832,7 @@
             "lon": 11.0767,
             "lon": 11.1617,
             "lon": 11.5154,
+            "lon": 110.0114,
             "lon": 110.1876,
             "lon": 110.2213,
             "lon": 110.3571,
@@ -5797,6 +5817,7 @@
             "org": "Iguana Network Services C.A",
             "org": "Indusind Media And Communication Ltd.",
             "org": "Inet Media",
+            "org": "Infinitum S.A",
             "org": "Infogro DSL",
             "org": "Information Technology Company",
             "org": "Insight Investment",
@@ -6103,6 +6124,7 @@
             "org": "PT Serayu Multi Connection",
             "org": "PT Singki Media Telekomunikasi",
             "org": "PT Sol One Indonesia",
+            "org": "PT Tekling Media Interkoneksi",
             "org": "PT Teknologi Bisnis Komunikasi",
             "org": "PT Terabyte Network Indonesia",
             "org": "PT Trika Global Media",
@@ -6151,6 +6173,7 @@
             "org": "Ranks ITT Ltd.",
             "org": "Rapeedo LTDA",
             "org": "Rapid Networks (Pty) Ltd",
+            "org": "Raul Duarte Urita",
             "org": "Rawafed Libya",
             "org": "Rawafed",
             "org": "RazaoInfo Internet Ltda",
@@ -6211,6 +6234,7 @@
             "org": "Shorkin RO",
             "org": "Shoro Closed Joint-Stock Company",
             "org": "Silica Networks Argentina S.A",
+            "org": "Sinergy Soluciones Integrales",
             "org": "Sistemas Avanzados EN Telecomunicaciones",
             "org": "Sky Cable Corporation",
             "org": "Sky Telecom Company Limited",
@@ -6502,6 +6526,7 @@
             "query": "103.125.50.223"
             "query": "103.125.51.25"
             "query": "103.126.219.37"
+            "query": "103.126.86.200"
             "query": "103.127.106.245"
             "query": "103.127.220.106"
             "query": "103.127.220.70"
@@ -6574,6 +6599,7 @@
             "query": "103.155.54.26"
             "query": "103.155.62.163"
             "query": "103.156.14.18"
+            "query": "103.156.140.239"
             "query": "103.156.15.240"
             "query": "103.156.16.227"
             "query": "103.156.16.236"
@@ -7045,6 +7071,7 @@
             "query": "124.105.186.206"
             "query": "124.105.24.80"
             "query": "124.105.79.237"
+            "query": "124.120.109.72"
             "query": "124.156.100.83"
             "query": "124.156.172.181"
             "query": "124.158.167.155"
@@ -7100,6 +7127,7 @@
             "query": "136.226.67.116"
             "query": "136.60.0.212"
             "query": "137.59.48.226"
+            "query": "138.117.84.203"
             "query": "138.118.106.237"
             "query": "138.118.200.49"
             "query": "138.121.161.86"
@@ -8283,6 +8311,7 @@
             "query": "45.174.176.161"
             "query": "45.174.191.19"
             "query": "45.174.57.22"
+            "query": "45.174.77.119"
             "query": "45.174.87.18"
             "query": "45.176.97.90"
             "query": "45.179.200.129"
@@ -8312,6 +8341,7 @@
             "query": "45.225.204.8"
             "query": "45.225.89.145"
             "query": "45.228.192.107"
+            "query": "45.228.233.94"
             "query": "45.229.10.100"
             "query": "45.230.169.6"
             "query": "45.230.48.131"
@@ -9875,6 +9905,7 @@
             "zip": "31030",
             "zip": "31141",
             "zip": "313001",
+            "zip": "31385",
             "zip": "31500",
             "zip": "32300",
             "zip": "3241",
@@ -9970,6 +10001,7 @@
             "zip": "411033",
             "zip": "4116",
             "zip": "415060",
+            "zip": "417030",
             "zip": "42010",
             "zip": "420111",
             "zip": "4214",
@@ -10419,6 +10451,7 @@
         "ip": "103.125.50.223",
         "ip": "103.125.51.25",
         "ip": "103.126.219.37",
+        "ip": "103.126.86.200",
         "ip": "103.127.106.245",
         "ip": "103.127.220.106",
         "ip": "103.127.220.70",
@@ -10491,6 +10524,7 @@
         "ip": "103.155.54.26",
         "ip": "103.155.62.163",
         "ip": "103.156.14.18",
+        "ip": "103.156.140.239",
         "ip": "103.156.15.240",
         "ip": "103.156.16.227",
         "ip": "103.156.16.236",
@@ -10962,6 +10996,7 @@
         "ip": "124.105.186.206",
         "ip": "124.105.24.80",
         "ip": "124.105.79.237",
+        "ip": "124.120.109.72",
         "ip": "124.156.100.83",
         "ip": "124.156.172.181",
         "ip": "124.158.167.155",
@@ -11017,6 +11052,7 @@
         "ip": "136.226.67.116",
         "ip": "136.60.0.212",
         "ip": "137.59.48.226",
+        "ip": "138.117.84.203",
         "ip": "138.118.106.237",
         "ip": "138.118.200.49",
         "ip": "138.121.161.86",
@@ -12200,6 +12236,7 @@
         "ip": "45.174.176.161",
         "ip": "45.174.191.19",
         "ip": "45.174.57.22",
+        "ip": "45.174.77.119",
         "ip": "45.174.87.18",
         "ip": "45.176.97.90",
         "ip": "45.179.200.129",
@@ -12229,6 +12266,7 @@
         "ip": "45.225.204.8",
         "ip": "45.225.89.145",
         "ip": "45.228.192.107",
+        "ip": "45.228.233.94",
         "ip": "45.229.10.100",
         "ip": "45.230.169.6",
         "ip": "45.230.48.131",
@@ -12864,6 +12902,7 @@
         "port": 17601,
         "port": 17635,
         "port": 17637,
+        "port": 17655,
         "port": 17667,
         "port": 17711,
         "port": 17721,
@@ -13378,6 +13417,7 @@
         "port": 3141,
         "port": 31417,
         "port": 31425,
+        "port": 31435,
         "port": 31437,
         "port": 31441,
         "port": 31447,
