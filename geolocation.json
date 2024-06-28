@@ -524,6 +524,7 @@
             "as": "AS270716 GOVISTA TELECOMUNICAO IMPORTACAO LTDA",
             "as": "AS270888 V8 Telecom LTDA",
             "as": "AS271113 CARNAUBANET LTDA",
+            "as": "AS271641 ANDERSON L. DA SILVA MULTIM\u00cdDIA - @NET",
             "as": "AS271779 FULLNET SOLUTIONS S.A.S.",
             "as": "AS271784 ACCESS AIR SOCIEDAD SIMPLE",
             "as": "AS271789 REGIONAL DE SERVICIOS DE TELECOMUNICACIONES ZOMAC S.A.S.",
@@ -639,6 +640,7 @@
             "as": "AS34636 Laser Company Ltd",
             "as": "AS34984 Superonline Iletisim Hizmetleri A.S.",
             "as": "AS35047 Abissnet sh.a.",
+            "as": "AS35179 Korbank S. A.",
             "as": "AS35297 Dataline LLC",
             "as": "AS35328 DSI DATA, a. s.",
             "as": "AS35425 IOMART MANAGED SERVICES LIMITED",
@@ -1002,6 +1004,7 @@
             "city": "Azle",
             "city": "B\u0101bolsar",
             "city": "B\u0101nka",
+            "city": "B\u0119dkowice",
             "city": "Babahoyo",
             "city": "Babakangarut",
             "city": "Bac Ninh",
@@ -1661,6 +1664,7 @@
             "city": "Sidoarjo",
             "city": "Singapore",
             "city": "Sinop",
+            "city": "Sirinha\u00e9m",
             "city": "Situbondo",
             "city": "Situsaeur",
             "city": "Siziano",
@@ -2005,6 +2009,7 @@
             "isp": "ALFATINDO",
             "isp": "ALLREDE TELECOM (LINKWAP PROVEDOR)",
             "isp": "ALTIUS Broadband, LLC",
+            "isp": "ANDERSON L. DA SILVA MULTIM\u00cdDIA - @NET",
             "isp": "ANGKOR E & C (CAMBODIA) Co., Ltd.",
             "isp": "APEX-CRIMEA Ltd.",
             "isp": "ARSAT - Empresa Argentina de Soluciones Satelitales S.A",
@@ -2453,6 +2458,7 @@
             "isp": "King Technologies Co",
             "isp": "Kings Network Indonesia, PT",
             "isp": "Komputersat sc",
+            "isp": "Korbank S. A.",
             "isp": "Korea Telecom",
             "isp": "Kronospan Riga SIA",
             "isp": "Kyiv National Taras Shevchenko University",
@@ -3362,6 +3368,7 @@
             "lat": -8.5425,
             "lat": -8.54333,
             "lat": -8.5842,
+            "lat": -8.6037,
             "lat": -8.6507,
             "lat": -9.575,
             "lat": -9.97403,
@@ -4065,6 +4072,7 @@
             "lat": 50.6165,
             "lat": 50.6584,
             "lat": 50.6916,
+            "lat": 50.8654,
             "lat": 50.9871,
             "lat": 51.1878,
             "lat": 51.192,
@@ -4251,6 +4259,7 @@
             "lon": -3.6934,
             "lon": -3.701,
             "lon": -35.0145,
+            "lon": -35.1383,
             "lon": -35.1995,
             "lon": -35.6908,
             "lon": -37.5367,
@@ -4903,6 +4912,7 @@
             "lon": 151.1364,
             "lon": 152.8306,
             "lon": 16.2324,
+            "lon": 16.7559,
             "lon": 16.9225,
             "lon": 17.0334,
             "lon": 17.8362,
@@ -5320,6 +5330,7 @@
             "org": "ALICLOUD-US",
             "org": "ALTIUS Broadband, LLC",
             "org": "AMX Argentina S.A",
+            "org": "ANDERSON L. DA SILVA MULTIM\u00cdDIA - @NET",
             "org": "ANGKOR E & C (CAMBODIA) Co., Ltd",
             "org": "APEX-CRIMEA Ltd",
             "org": "APOL",
@@ -5755,6 +5766,7 @@
             "org": "King Netsol Private Limited",
             "org": "Kings",
             "org": "Komputersat S.C. J.Kowalski, T. Janaszkiwewicz",
+            "org": "Korbank S. A.",
             "org": "Korea Telecom",
             "org": "Kornet",
             "org": "Kostroma-SVEN Networks",
@@ -6460,6 +6472,7 @@
             "query": "103.156.15.240"
             "query": "103.156.16.227"
             "query": "103.156.16.236"
+            "query": "103.156.17.41"
             "query": "103.156.17.52"
             "query": "103.156.17.63"
             "query": "103.156.17.83"
@@ -7732,6 +7745,7 @@
             "query": "200.155.142.96"
             "query": "200.155.142.99"
             "query": "200.174.198.86"
+            "query": "200.194.191.4"
             "query": "200.215.248.114"
             "query": "200.229.80.5"
             "query": "200.24.131.125"
@@ -7781,6 +7795,7 @@
             "query": "202.138.240.9"
             "query": "202.152.24.50"
             "query": "202.154.18.148"
+            "query": "202.154.18.69"
             "query": "202.154.36.21"
             "query": "202.154.36.33"
             "query": "202.159.37.74"
@@ -7899,6 +7914,7 @@
             "query": "212.112.120.252"
             "query": "212.112.125.44"
             "query": "212.115.232.79"
+            "query": "212.127.78.23"
             "query": "212.128.70.78"
             "query": "212.132.68.226"
             "query": "212.174.15.142"
@@ -9035,6 +9051,7 @@
             "regionName": "Los R\u00edos",
             "regionName": "Louisiana",
             "regionName": "Lovech",
+            "regionName": "Lower Silesia",
             "regionName": "Lubusz",
             "regionName": "Lusaka Province",
             "regionName": "Lviv",
@@ -9890,7 +9907,9 @@
             "zip": "541-0051",
             "zip": "5413",
             "zip": "547000",
+            "zip": "55-050",
             "zip": "55319",
+            "zip": "55580",
             "zip": "560002",
             "zip": "560006",
             "zip": "560008",
@@ -10304,6 +10323,7 @@
         "ip": "103.156.15.240",
         "ip": "103.156.16.227",
         "ip": "103.156.16.236",
+        "ip": "103.156.17.41",
         "ip": "103.156.17.52",
         "ip": "103.156.17.63",
         "ip": "103.156.17.83",
@@ -11576,6 +11596,7 @@
         "ip": "200.155.142.96",
         "ip": "200.155.142.99",
         "ip": "200.174.198.86",
+        "ip": "200.194.191.4",
         "ip": "200.215.248.114",
         "ip": "200.229.80.5",
         "ip": "200.24.131.125",
@@ -11625,6 +11646,7 @@
         "ip": "202.138.240.9",
         "ip": "202.152.24.50",
         "ip": "202.154.18.148",
+        "ip": "202.154.18.69",
         "ip": "202.154.36.21",
         "ip": "202.154.36.33",
         "ip": "202.159.37.74",
@@ -11743,6 +11765,7 @@
         "ip": "212.112.120.252",
         "ip": "212.112.125.44",
         "ip": "212.115.232.79",
+        "ip": "212.127.78.23",
         "ip": "212.128.70.78",
         "ip": "212.132.68.226",
         "ip": "212.174.15.142",
@@ -12433,6 +12456,7 @@
         "port": 1243,
         "port": 12437,
         "port": 12555,
+        "port": 12573,
         "port": 12657,
         "port": 12689,
         "port": 12717,
@@ -12797,6 +12821,7 @@
         "port": 22939,
         "port": 22969,
         "port": 22997,
+        "port": 22999,
         "port": 23021,
         "port": 2305,
         "port": 23121,
@@ -13072,6 +13097,7 @@
         "port": 3124,
         "port": 3125,
         "port": 3127,
+        "port": 31279,
         "port": 3128,
         "port": 31280,
         "port": 31288,
@@ -13189,7 +13215,9 @@
         "port": 39151,
         "port": 3925,
         "port": 39665,
+        "port": 39811,
         "port": 39888,
+        "port": 3995,
         "port": 4000,
         "port": 4001,
         "port": 4002,
@@ -13522,6 +13550,7 @@
         "port": 8735,
         "port": 8759,
         "port": 8800,
+        "port": 8818,
         "port": 8833,
         "port": 8850,
         "port": 8885,
