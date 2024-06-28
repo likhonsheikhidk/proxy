@@ -612,6 +612,7 @@
             "as": "AS42337 Respina Networks & Beyond PJSC",
             "as": "AS42610 PJSC Rostelecom",
             "as": "AS42673 Skyware Sp. z o.o.",
+            "as": "AS42708 GleSYS AB",
             "as": "AS42730 EVANZO e-commerce GmbH",
             "as": "AS42892 PE Filimonov Boris Yurievich",
             "as": "AS43350 NForce Entertainment B.V.",
@@ -662,6 +663,7 @@
             "as": "AS4766 Korea Telecom",
             "as": "AS47692 Nessus GmbH",
             "as": "AS4775 Globe Telecoms",
+            "as": "AS4787 PT Cyberindo Aditama",
             "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
             "as": "AS47881 One Crna Gora DOO",
             "as": "AS4800 PT Aplikanusa Lintasarta",
@@ -2128,6 +2130,7 @@
             "isp": "Jamii Telecommunications Limited",
             "isp": "Jogja Medianet",
             "isp": "Jose Miguel Macias Contreras",
+            "isp": "Juweriyah Networks Private Limited",
             "isp": "KIRZ Company Limited",
             "isp": "KK Networks (Pvt) Ltd.",
             "isp": "KS Network",
@@ -2367,6 +2370,7 @@
             "isp": "PT Uliz Netmedia Solusindo",
             "isp": "PT Wadma Berkah Sedaya",
             "isp": "PT Wifian Global Nusantara",
+            "isp": "PT iForte Global Internet",
             "isp": "PT wifian Solution",
             "isp": "PT. ADAU PUTRA NETWORK",
             "isp": "PT. ARTHA LINTAS DATA MANDIRI",
@@ -2402,6 +2406,7 @@
             "isp": "Pioneer Elabs Ltd",
             "isp": "Pioneer Elabs Ltd.",
             "isp": "Pirmam For Information Technology Ltd",
+            "isp": "Portlane Network",
             "isp": "PrJSC \"VF UKRAINE\"",
             "isp": "Precious netcom pvt ltd",
             "isp": "Prisac Aviation Technologies Private Limited",
@@ -3583,6 +3588,7 @@
             "lat": 58.0575,
             "lat": 58.6062,
             "lat": 59.1728,
+            "lat": 59.3098,
             "lat": 59.3293,
             "lat": 59.8983,
             "lat": 59.9016,
@@ -4228,6 +4234,7 @@
             "lon": 16.2324,
             "lon": 16.9225,
             "lon": 17.8362,
+            "lon": 17.9796,
             "lon": 18.0685,
             "lon": 18.4231,
             "lon": 18.4241,
@@ -4830,6 +4837,7 @@
             "org": "Foxtel Telecommunications Pvt. Ltd.",
             "org": "FreeBit Co., Ltd.",
             "org": "Friendhosting LTD",
+            "org": "Frootynet",
             "org": "Fttx Service",
             "org": "Fullerton",
             "org": "Fullnet Solutions",
@@ -5236,6 +5244,7 @@
             "org": "Sajid Trading Limited",
             "org": "Sakura Network Limited",
             "org": "SamsungSDS Inc",
+            "org": "Samtech01",
             "org": "Sanjeevan Networks Services Pvt Ltd",
             "org": "Sari System-e Jonoub Co (Ltd.)",
             "org": "Screen Saver Inform\u00e1tica LTDA",
@@ -5469,6 +5478,7 @@
             "query": "103.110.10.69"
             "query": "103.112.149.41"
             "query": "103.112.54.21"
+            "query": "103.113.79.124"
             "query": "103.115.20.26"
             "query": "103.115.20.79"
             "query": "103.115.227.198"
@@ -5580,6 +5590,7 @@
             "query": "103.172.42.17"
             "query": "103.172.42.81"
             "query": "103.172.71.15"
+            "query": "103.172.87.9"
             "query": "103.173.128.50"
             "query": "103.174.236.52"
             "query": "103.174.238.98"
@@ -6306,6 +6317,7 @@
             "query": "181.78.94.158"
             "query": "181.78.94.169"
             "query": "181.78.94.238"
+            "query": "182.16.171.65"
             "query": "182.160.100.156"
             "query": "182.160.103.220"
             "query": "182.160.105.46"
@@ -6760,6 +6772,7 @@
             "query": "221.226.75.86"
             "query": "223.135.156.183"
             "query": "223.205.72.24"
+            "query": "223.244.226.26"
             "query": "223.25.110.227"
             "query": "223.27.144.34"
             "query": "23.122.184.9"
@@ -6974,6 +6987,7 @@
             "query": "46.19.112.62"
             "query": "46.209.217.108"
             "query": "46.219.8.201"
+            "query": "46.246.14.6"
             "query": "46.249.122.1"
             "query": "46.29.237.14"
             "query": "46.32.25.18"
@@ -7846,6 +7860,7 @@
             "regionName": "South Sumatra",
             "regionName": "South West",
             "regionName": "St.-Petersburg",
+            "regionName": "Stockholm County",
             "regionName": "Stockholm",
             "regionName": "Subcarpathia",
             "regionName": "Sucumb\u00edos",
@@ -8178,6 +8193,7 @@
             "zip": "1230",
             "zip": "1250",
             "zip": "125222",
+            "zip": "126 30",
             "zip": "12710",
             "zip": "1298",
             "zip": "130001",
@@ -8376,6 +8392,7 @@
             "zip": "40000",
             "zip": "400000",
             "zip": "400001",
+            "zip": "400037",
             "zip": "400042",
             "zip": "400051",
             "zip": "400070",
@@ -8755,6 +8772,7 @@
         "ip": "103.110.10.69",
         "ip": "103.112.149.41",
         "ip": "103.112.54.21",
+        "ip": "103.113.79.124",
         "ip": "103.115.20.26",
         "ip": "103.115.20.79",
         "ip": "103.115.227.198",
@@ -8866,6 +8884,7 @@
         "ip": "103.172.42.17",
         "ip": "103.172.42.81",
         "ip": "103.172.71.15",
+        "ip": "103.172.87.9",
         "ip": "103.173.128.50",
         "ip": "103.174.236.52",
         "ip": "103.174.238.98",
@@ -9592,6 +9611,7 @@
         "ip": "181.78.94.158",
         "ip": "181.78.94.169",
         "ip": "181.78.94.238",
+        "ip": "182.16.171.65",
         "ip": "182.160.100.156",
         "ip": "182.160.103.220",
         "ip": "182.160.105.46",
@@ -10046,6 +10066,7 @@
         "ip": "221.226.75.86",
         "ip": "223.135.156.183",
         "ip": "223.205.72.24",
+        "ip": "223.244.226.26",
         "ip": "223.25.110.227",
         "ip": "223.27.144.34",
         "ip": "23.122.184.9",
@@ -10260,6 +10281,7 @@
         "ip": "46.19.112.62",
         "ip": "46.209.217.108",
         "ip": "46.219.8.201",
+        "ip": "46.246.14.6",
         "ip": "46.249.122.1",
         "ip": "46.29.237.14",
         "ip": "46.32.25.18",
@@ -10507,6 +10529,7 @@
         "port": 10039,
         "port": 10079,
         "port": 10089,
+        "port": 10091,
         "port": 10092,
         "port": 10095,
         "port": 10101,
@@ -10671,6 +10694,7 @@
         "port": 17423,
         "port": 17435,
         "port": 17443,
+        "port": 17491,
         "port": 17521,
         "port": 17523,
         "port": 17533,
@@ -10802,6 +10826,7 @@
         "port": 22669,
         "port": 22700,
         "port": 22709,
+        "port": 22715,
         "port": 22749,
         "port": 22751,
         "port": 22800,
@@ -10966,6 +10991,7 @@
         "port": 29813,
         "port": 29819,
         "port": 29953,
+        "port": 30015,
         "port": 30025,
         "port": 30041,
         "port": 30061,
@@ -11124,6 +11150,7 @@
         "port": 4289,
         "port": 4299,
         "port": 43045,
+        "port": 43188,
         "port": 43241,
         "port": 4343,
         "port": 4363,
@@ -11362,6 +11389,7 @@
         "port": 9010,
         "port": 9037,
         "port": 9041,
+        "port": 9080,
         "port": 9090,
         "port": 9091,
         "port": 9093,
