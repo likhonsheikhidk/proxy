@@ -23955,6 +23955,7 @@
 23.106.249.52:425:Singapore
 23.106.249.52:443:Singapore
 23.106.249.53:425:Singapore
+23.106.249.54:425:Singapore
 23.106.249.54:443:Singapore
 23.106.56.11:443:United Kingdom
 23.106.56.12:443:United Kingdom

@@ -198,6 +198,7 @@
             "as": "AS141978 PT Akses Bersama Sedaya",
             "as": "AS141982 PT Kataji Nukami Indonesia",
             "as": "AS141983 PT Rajeg Media Telekomunikasi",
+            "as": "AS142307 PT CYB Media Group",
             "as": "AS142323 PT Jaringan Cepat Indonesia",
             "as": "AS142326 PT Fahasa Tri Data",
             "as": "AS142352 PT. PRATAMA HASTA UTAMA SOLUSINDO",
@@ -367,6 +368,7 @@
             "as": "AS22869 CABLECOLOR S.A.",
             "as": "AS22884 TOTAL PLAY TELECOMUNICACIONES SA DE CV",
             "as": "AS23201 Telecel S.A.",
+            "as": "AS23383 METRORED S.A. DE C.V.",
             "as": "AS23470 ReliableSite.Net LLC",
             "as": "AS23520 Columbus Networks USA, Inc.",
             "as": "AS23671 PT. Sarana InsanMuda Selaras",
@@ -1061,6 +1063,7 @@
             "city": "Bojonegoro",
             "city": "Borzna",
             "city": "Boydton",
+            "city": "Boyolali",
             "city": "Brahmapur",
             "city": "Bras\u00edlia",
             "city": "Bratislava",
@@ -1720,6 +1723,7 @@
             "city": "Tokyo",
             "city": "Tongi",
             "city": "Toshima",
+            "city": "Trenggalek",
             "city": "Tripoli",
             "city": "Tuapse",
             "city": "Tubar\u00e3o",
@@ -2516,6 +2520,7 @@
             "isp": "Megatelecom Telecomunicacoes Ltda",
             "isp": "Menaksopal Link Nusantara",
             "isp": "Metaphor Digital Media",
+            "isp": "Metrored S.a. De C.V.",
             "isp": "Micronet It Services Private Limited",
             "isp": "Microsoft Corporation",
             "isp": "Microsoft",
@@ -2634,6 +2639,7 @@
             "isp": "PT BUANA VISUALNET SENTRA",
             "isp": "PT Baraya Telematika Nusantara",
             "isp": "PT Bintang Teknologi Sejahtera",
+            "isp": "PT CYB Media Group",
             "isp": "PT Cahaya Solusindo Internusa",
             "isp": "PT Callysta Total Solusindo",
             "isp": "PT Citra Jelajah Informatika",
@@ -3306,6 +3312,7 @@
             "lat": -7.409,
             "lat": -7.41723,
             "lat": -7.4469,
+            "lat": -7.45789,
             "lat": -7.4604,
             "lat": -7.4702,
             "lat": -7.5123,
@@ -3328,6 +3335,7 @@
             "lat": -7.9826,
             "lat": -8.0061,
             "lat": -8.0366,
+            "lat": -8.0805,
             "lat": -8.0982,
             "lat": -8.1136,
             "lat": -8.1716,
@@ -3435,6 +3443,7 @@
             "lat": 13.9009,
             "lat": 13.9083,
             "lat": 14.0727,
+            "lat": 14.0807,
             "lat": 14.0828,
             "lat": 14.0862,
             "lat": 14.2269,
@@ -4508,6 +4517,7 @@
             "lon": -86.0689,
             "lon": -86.8114,
             "lon": -86.8816,
+            "lon": -87.168,
             "lon": -87.1829,
             "lon": -87.2041,
             "lon": -87.2266,
@@ -4710,6 +4720,7 @@
             "lon": 110.4215,
             "lon": 110.438,
             "lon": 110.445,
+            "lon": 110.579,
             "lon": 110.6434,
             "lon": 110.6729,
             "lon": 110.829,
@@ -4722,6 +4733,7 @@
             "lon": 111.38,
             "lon": 111.4622,
             "lon": 111.5266,
+            "lon": 111.7051,
             "lon": 111.8815,
             "lon": 112.019,
             "lon": 112.107,
@@ -5331,6 +5343,7 @@
             "org": "Altice Dominicana S.A",
             "org": "Always On Network Bangladesh Ltd",
             "org": "Americatel Peru S.A",
+            "org": "Amnet Datos Tegucigalpa",
             "org": "Andinet ON Line",
             "org": "Ankhnet Informations Pvt. Ltd.",
             "org": "Apmt",
@@ -5400,6 +5413,7 @@
             "org": "CV Sinar Kencana",
             "org": "CV. CAHAYA WIJAYA LESTARI",
             "org": "CV. MEDIA COMPUTINDO",
+            "org": "CYB",
             "org": "Cable Onda Oriental, SRL",
             "org": "Canal Antigua S.A",
             "org": "Canon Singapore PTE LTD",
@@ -5951,6 +5965,7 @@
             "org": "PT Pratama Hasta Utama Solusindo",
             "org": "PT Pricom Media Solusi",
             "org": "PT Rajeg Media Telekomunikasi",
+            "org": "PT Ring Media Nusantara",
             "org": "PT SOLUSI TRIMEGAH PERSADA",
             "org": "PT Sarana Intimedia Telematika",
             "org": "PT Serayu Multi Connection",
@@ -6387,6 +6402,7 @@
             "query": "103.148.129.177"
             "query": "103.148.195.22"
             "query": "103.148.24.234"
+            "query": "103.148.25.201"
             "query": "103.148.44.101"
             "query": "103.148.48.97"
             "query": "103.148.49.243"
@@ -6433,6 +6449,7 @@
             "query": "103.161.130.153"
             "query": "103.161.30.29"
             "query": "103.162.154.3"
+            "query": "103.162.62.92"
             "query": "103.162.63.121"
             "query": "103.162.63.65"
             "query": "103.163.175.28"
@@ -6459,6 +6476,7 @@
             "query": "103.167.68.77"
             "query": "103.168.123.2"
             "query": "103.168.254.62"
+            "query": "103.168.44.210"
             "query": "103.169.186.153"
             "query": "103.169.254.186"
             "query": "103.169.254.9"
@@ -7122,6 +7140,7 @@
             "query": "167.249.29.214"
             "query": "167.249.29.218"
             "query": "167.99.219.173"
+            "query": "168.119.212.35"
             "query": "168.126.74.132"
             "query": "168.138.211.5"
             "query": "168.194.169.108"
@@ -7660,6 +7679,7 @@
             "query": "200.10.31.221"
             "query": "200.101.150.202"
             "query": "200.106.184.97"
+            "query": "200.106.236.142"
             "query": "200.108.190.110"
             "query": "200.108.190.185"
             "query": "200.108.190.38"
@@ -8010,6 +8030,7 @@
             "query": "38.91.101.96"
             "query": "38.91.106.214"
             "query": "39.129.73.6"
+            "query": "39.191.223.109"
             "query": "39.191.223.9"
             "query": "41.111.167.61"
             "query": "41.111.187.214"
@@ -8219,6 +8240,7 @@
             "query": "62.33.53.248"
             "query": "63.151.67.7"
             "query": "63.209.32.128"
+            "query": "63.250.52.82"
             "query": "64.157.16.84"
             "query": "64.227.6.0"
             "query": "64.23.153.213"
@@ -10208,6 +10230,7 @@
         "ip": "103.148.129.177",
         "ip": "103.148.195.22",
         "ip": "103.148.24.234",
+        "ip": "103.148.25.201",
         "ip": "103.148.44.101",
         "ip": "103.148.48.97",
         "ip": "103.148.49.243",
@@ -10254,6 +10277,7 @@
         "ip": "103.161.130.153",
         "ip": "103.161.30.29",
         "ip": "103.162.154.3",
+        "ip": "103.162.62.92",
         "ip": "103.162.63.121",
         "ip": "103.162.63.65",
         "ip": "103.163.175.28",
@@ -10280,6 +10304,7 @@
         "ip": "103.167.68.77",
         "ip": "103.168.123.2",
         "ip": "103.168.254.62",
+        "ip": "103.168.44.210",
         "ip": "103.169.186.153",
         "ip": "103.169.254.186",
         "ip": "103.169.254.9",
@@ -10943,6 +10968,7 @@
         "ip": "167.249.29.214",
         "ip": "167.249.29.218",
         "ip": "167.99.219.173",
+        "ip": "168.119.212.35",
         "ip": "168.126.74.132",
         "ip": "168.138.211.5",
         "ip": "168.194.169.108",
@@ -11481,6 +11507,7 @@
         "ip": "200.10.31.221",
         "ip": "200.101.150.202",
         "ip": "200.106.184.97",
+        "ip": "200.106.236.142",
         "ip": "200.108.190.110",
         "ip": "200.108.190.185",
         "ip": "200.108.190.38",
@@ -11831,6 +11858,7 @@
         "ip": "38.91.101.96",
         "ip": "38.91.106.214",
         "ip": "39.129.73.6",
+        "ip": "39.191.223.109",
         "ip": "39.191.223.9",
         "ip": "41.111.167.61",
         "ip": "41.111.187.214",
@@ -12040,6 +12068,7 @@
         "ip": "62.33.53.248",
         "ip": "63.151.67.7",
         "ip": "63.209.32.128",
+        "ip": "63.250.52.82",
         "ip": "64.157.16.84",
         "ip": "64.227.6.0",
         "ip": "64.23.153.213",
@@ -12339,9 +12368,11 @@
         "port": 1213,
         "port": 12167,
         "port": 1221,
+        "port": 12283,
         "port": 12405,
         "port": 12409,
         "port": 1243,
+        "port": 12437,
         "port": 12555,
         "port": 12657,
         "port": 12689,
@@ -12470,6 +12501,7 @@
         "port": 16377,
         "port": 16401,
         "port": 16435,
+        "port": 16513,
         "port": 16597,
         "port": 1661,
         "port": 16641,
@@ -12604,6 +12636,7 @@
         "port": 20147,
         "port": 20149,
         "port": 2016,
+        "port": 20179,
         "port": 20183,
         "port": 20185,
         "port": 2020,
@@ -12611,6 +12644,7 @@
         "port": 20239,
         "port": 20261,
         "port": 2028,
+        "port": 20281,
         "port": 20293,
         "port": 20311,
         "port": 20317,
@@ -12641,6 +12675,8 @@
         "port": 21141,
         "port": 21149,
         "port": 21151,
+        "port": 2119,
+        "port": 21197,
         "port": 21231,
         "port": 21255,
         "port": 21277,
@@ -12726,6 +12762,7 @@
         "port": 23525,
         "port": 23543,
         "port": 23545,
+        "port": 23559,
         "port": 23579,
         "port": 23591,
         "port": 23661,
@@ -12788,6 +12825,7 @@
         "port": 25697,
         "port": 25757,
         "port": 25799,
+        "port": 25827,
         "port": 25833,
         "port": 25863,
         "port": 25909,
@@ -12810,6 +12848,7 @@
         "port": 26499,
         "port": 2651,
         "port": 26519,
+        "port": 26555,
         "port": 26577,
         "port": 26659,
         "port": 26679,
@@ -12916,6 +12955,7 @@
         "port": 29843,
         "port": 29953,
         "port": 30015,
+        "port": 30020,
         "port": 30025,
         "port": 30041,
         "port": 30061,
@@ -13007,6 +13047,7 @@
         "port": 3197,
         "port": 31973,
         "port": 31993,
+        "port": 32015,
         "port": 32083,
         "port": 3212,
         "port": 32137,
@@ -13077,6 +13118,7 @@
         "port": 38157,
         "port": 38226,
         "port": 3863,
+        "port": 3865,
         "port": 3888,
         "port": 3899,
         "port": 3901,
@@ -13106,6 +13148,7 @@
         "port": 4077,
         "port": 40881,
         "port": 4095,
+        "port": 4096,
         "port": 4115,
         "port": 41200,
         "port": 41209,
@@ -13209,6 +13252,7 @@
         "port": 5443,
         "port": 5445,
         "port": 5485,
+        "port": 5537,
         "port": 55443,
         "port": 55555,
         "port": 5559,
@@ -13275,6 +13319,7 @@
         "port": 65535,
         "port": 66,
         "port": 6633,
+        "port": 6655,
         "port": 6657,
         "port": 666,
         "port": 6666,
@@ -13305,6 +13350,7 @@
         "port": 7247,
         "port": 7265,
         "port": 7287,
+        "port": 7311,
         "port": 7371,
         "port": 7379,
         "port": 7455,
@@ -13373,6 +13419,7 @@
         "port": 82,
         "port": 8204,
         "port": 8209,
+        "port": 8221,
         "port": 8231,
         "port": 8235,
         "port": 8241,
