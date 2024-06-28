@@ -182,6 +182,7 @@
             "as": "AS141262 King Netsol Private Limited",
             "as": "AS141310 Nt Cybronet Pvt Ltd",
             "as": "AS141329 Udupi Fastnet Private Limited",
+            "as": "AS141595 PT Akbar Prima Media",
             "as": "AS141607 PT Gayatri Lintas Nusantara",
             "as": "AS141613 PT Jaringan Internet Nusantara",
             "as": "AS141642 PT Ring Media Nusantara",
@@ -1387,6 +1388,7 @@
             "city": "Mariana",
             "city": "Marikina City",
             "city": "Martins",
+            "city": "Mataram",
             "city": "Mayiladuthurai",
             "city": "Maykop",
             "city": "Medan",
@@ -2592,6 +2594,7 @@
             "isp": "PJSC Rostelecom",
             "isp": "PLBNET",
             "isp": "PMYNET",
+            "isp": "PRIME",
             "isp": "PRIVATE JOINT STOCK COMPANY \"DATAGROUP\"",
             "isp": "PS Internet Company LLP",
             "isp": "PT Agung Barokah Network",
@@ -3298,6 +3301,7 @@
             "lat": -8.5399,
             "lat": -8.5425,
             "lat": -8.54333,
+            "lat": -8.5842,
             "lat": -8.6507,
             "lat": -9.575,
             "lat": -9.97403,
@@ -4701,6 +4705,7 @@
             "lon": 115.132,
             "lon": 115.2124,
             "lon": 115.3296,
+            "lon": 116.1187,
             "lon": 116.289,
             "lon": 116.31,
             "lon": 116.36,
@@ -6339,6 +6344,7 @@
             "query": "103.159.46.2"
             "query": "103.159.90.14"
             "query": "103.160.184.158"
+            "query": "103.160.205.86"
             "query": "103.160.207.49"
             "query": "103.160.207.53"
             "query": "103.161.130.153"
@@ -9035,6 +9041,7 @@
             "regionName": "West Coast",
             "regionName": "West Java",
             "regionName": "West Kalimantan",
+            "regionName": "West Nusa Tenggara",
             "regionName": "Western Cape",
             "regionName": "Western Visayas",
             "regionName": "Yangon",
@@ -10094,6 +10101,7 @@
         "ip": "103.159.46.2",
         "ip": "103.159.90.14",
         "ip": "103.160.184.158",
+        "ip": "103.160.205.86",
         "ip": "103.160.207.49",
         "ip": "103.160.207.53",
         "ip": "103.161.130.153",
@@ -12411,6 +12419,7 @@
         "port": 20603,
         "port": 20618,
         "port": 20619,
+        "port": 2063,
         "port": 20763,
         "port": 2086,
         "port": 20941,
@@ -12765,6 +12774,7 @@
         "port": 31631,
         "port": 3165,
         "port": 31667,
+        "port": 31707,
         "port": 3177,
         "port": 3181,
         "port": 31823,
@@ -13151,6 +13161,7 @@
         "port": 8543,
         "port": 8585,
         "port": 8591,
+        "port": 8617,
         "port": 8651,
         "port": 8674,
         "port": 8689,
