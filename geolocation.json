@@ -674,6 +674,7 @@
             "as": "AS51034 JSC \"ER-Telecom Holding\"",
             "as": "AS51167 Contabo GmbH",
             "as": "AS51604 JSC \"ER-Telecom Holding\"",
+            "as": "AS51645 JSC \"ER-Telecom Holding\"",
             "as": "AS52043 LLC \"Multiservice\"",
             "as": "AS52361 ARSAT - Empresa Argentina de Soluciones Satelitales S.A.",
             "as": "AS52373 ECOM CHACO S.A.",
@@ -1133,6 +1134,7 @@
             "city": "Kerch",
             "city": "Kerman",
             "city": "Kharkiv",
+            "city": "Khomutovo",
             "city": "Khulna",
             "city": "Khwaeng Thung Song Hong",
             "city": "Kilis",
@@ -1824,6 +1826,7 @@
             "isp": "CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
             "isp": "CHINANET jiangsu province network",
             "isp": "CHINANET",
+            "isp": "CJSC \"ER-Telecom Holding\" Irkutsk branch",
             "isp": "CJSC \"ER-Telecom Holding\" Rostov-na-Donu branch",
             "isp": "CJSC \"ER-Telecom Holding\" Volgograd branch",
             "isp": "CJSC \"ER-Telecom Holding\" Yekaterinburg branch",
@@ -3487,6 +3490,7 @@
             "lat": 52.3667,
             "lat": 52.3676,
             "lat": 52.3759,
+            "lat": 52.4626,
             "lat": 52.5233,
             "lat": 52.5275,
             "lat": 53.195,
@@ -3947,6 +3951,7 @@
             "lon": 104.047,
             "lon": 104.276,
             "lon": 104.2903,
+            "lon": 104.4029,
             "lon": 104.7219,
             "lon": 104.7535,
             "lon": 104.888,
@@ -4852,6 +4857,7 @@
             "org": "JSC Russian Company.",
             "org": "JSC Ufanet",
             "org": "JSC Zap-SibTranstelecom",
+            "org": "JSC \"ER-Telecom Holding\" Irkutsk Branch",
             "org": "JSC \"ER-Telecom Holding\" Rostov-na-Donu Branch",
             "org": "JSC \"ER-Telecom Holding\" Saratov Branch",
             "org": "JSC \"ER-Telecom Holding\" Volgograd Branch",
@@ -5652,6 +5658,7 @@
             "query": "107.178.9.186"
             "query": "109.120.246.80"
             "query": "109.175.9.203"
+            "query": "109.194.22.112"
             "query": "109.195.23.223"
             "query": "109.200.160.157"
             "query": "109.201.13.187"
@@ -6349,6 +6356,7 @@
             "query": "190.61.84.166"
             "query": "190.69.157.213"
             "query": "190.69.157.215"
+            "query": "190.7.138.78"
             "query": "190.72.102.42"
             "query": "190.8.164.25"
             "query": "190.83.15.241"
@@ -8401,6 +8409,7 @@
             "zip": "664000",
             "zip": "664001",
             "zip": "664056",
+            "zip": "664540",
             "zip": "66614",
             "zip": "67025",
             "zip": "674676",
@@ -8875,6 +8884,7 @@
         "ip": "107.178.9.186",
         "ip": "109.120.246.80",
         "ip": "109.175.9.203",
+        "ip": "109.194.22.112",
         "ip": "109.195.23.223",
         "ip": "109.200.160.157",
         "ip": "109.201.13.187",
@@ -9572,6 +9582,7 @@
         "ip": "190.61.84.166",
         "ip": "190.69.157.213",
         "ip": "190.69.157.215",
+        "ip": "190.7.138.78",
         "ip": "190.72.102.42",
         "ip": "190.8.164.25",
         "ip": "190.83.15.241",
@@ -10400,6 +10411,7 @@
         "port": 1369,
         "port": 13699,
         "port": 13731,
+        "port": 13783,
         "port": 13843,
         "port": 13857,
         "port": 13875,
@@ -10746,6 +10758,7 @@
         "port": 29241,
         "port": 29357,
         "port": 29451,
+        "port": 29503,
         "port": 29547,
         "port": 29627,
         "port": 29667,
