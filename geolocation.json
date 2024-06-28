@@ -104,6 +104,7 @@
             "as": "AS13760 Uniti Fiber Holdings Inc.",
             "as": "AS137952 ANGKOR E & C (CAMBODIA) Co.,Ltd.",
             "as": "AS138089 PT.Global Media Data Prima",
+            "as": "AS138096 PT INFORMASI NUSANTARA TEKNOLOGI",
             "as": "AS138102 PT Baraya Telematika Nusantara",
             "as": "AS138191 Weblink Communications Ltd",
             "as": "AS138225 One Eight Technologies Private Limited",
@@ -329,6 +330,7 @@
             "as": "AS21127 Joint Stock Company TransTeleCom",
             "as": "AS211407 PT Perwira Media Solusi",
             "as": "AS2116 GLOBALCONNECT AS",
+            "as": "AS212442 Mechmet CHATIP MEMET trading as SpeedNet",
             "as": "AS21246 IPKO Telecommunications LLC",
             "as": "AS213098 Pirmam For Information Technology Ltd",
             "as": "AS21334 Vodafone Hungary Ltd.",
@@ -617,6 +619,7 @@
             "as": "AS36947 Telecom Algeria",
             "as": "AS36992 ETISALAT MISR",
             "as": "AS37061 Safaricom Limited",
+            "as": "AS37148 Globacom Limited",
             "as": "AS37284 Aljeel Aljadeed For Technology",
             "as": "AS37403 Info-Gro (PTY) Ltd",
             "as": "AS3741 Dimension Data",
@@ -1274,6 +1277,7 @@
             "city": "Klaip\u0117da",
             "city": "Kochi",
             "city": "Kolkata",
+            "city": "Komotini",
             "city": "Kondagaon",
             "city": "Konya",
             "city": "Kowloon",
@@ -1744,6 +1748,7 @@
             "country": "Gambia",
             "country": "Georgia",
             "country": "Germany",
+            "country": "Greece",
             "country": "Guatemala",
             "country": "Honduras",
             "country": "Hong Kong",
@@ -1837,6 +1842,7 @@
             "countryCode": "GB",
             "countryCode": "GE",
             "countryCode": "GM",
+            "countryCode": "GR",
             "countryCode": "GT",
             "countryCode": "HK",
             "countryCode": "HN",
@@ -2218,6 +2224,7 @@
             "isp": "Gerrys Information Technology (PVT) Ltd",
             "isp": "Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi",
             "isp": "Gigabit Hosting Sdn Bhd",
+            "isp": "Globacom Limited",
             "isp": "Global Media Data Prima",
             "isp": "Global Raices",
             "isp": "Globe Telecom",
@@ -2405,6 +2412,7 @@
             "isp": "Marlon Lima Gomes - ME",
             "isp": "Maxindo",
             "isp": "Maysnet SA De CV",
+            "isp": "Mechmet CHATIP MEMET trading as SpeedNet",
             "isp": "Media Commerce Partners S.A",
             "isp": "Mediatech Communication Pvt.ltd",
             "isp": "Mega Cable, S.A. de C.V.",
@@ -2545,6 +2553,7 @@
             "isp": "PT Helium Sinergi Telekomunikasi",
             "isp": "PT INDONESIA COMNETS PLUS",
             "isp": "PT INDONESIA TRANS NETWORK",
+            "isp": "PT INFORMASI NUSANTARA TEKNOLOGI",
             "isp": "PT Ikhlas Cipta Teknologi",
             "isp": "PT Ilham Wifi Solution",
             "isp": "PT Indo Access Semesta",
@@ -3724,6 +3733,7 @@
             "lat": 41.0551,
             "lat": 41.1122,
             "lat": 41.113,
+            "lat": 41.1228,
             "lat": 41.2619,
             "lat": 41.3253,
             "lat": 41.3275,
@@ -3943,6 +3953,7 @@
             "lat": 6.2529,
             "lat": 6.43327,
             "lat": 6.4474,
+            "lat": 6.52438,
             "lat": 6.5557,
             "lat": 6.6965,
             "lat": 6.9641,
@@ -4688,6 +4699,7 @@
             "lon": 24.7158,
             "lon": 24.7518,
             "lon": 24.9347,
+            "lon": 25.3964,
             "lon": 25.5947,
             "lon": 25.6606,
             "lon": 25.9077,
@@ -4719,6 +4731,7 @@
             "lon": 29.1873,
             "lon": 29.209,
             "lon": 3.20151,
+            "lon": 3.37921,
             "lon": 3.3903,
             "lon": 3.42939,
             "lon": 30.2258,
@@ -5268,6 +5281,7 @@
             "org": "Enbinet Ltd",
             "org": "Ensup",
             "org": "Entel Chile S.A",
+            "org": "Enterpise Lagos1",
             "org": "Equinix Services, Inc",
             "org": "Evolucao Telecom Ltda",
             "org": "Exa Internet",
@@ -5792,6 +5806,7 @@
             "org": "Spectrum",
             "org": "Speed Fiber Band Company Trading Ltd",
             "org": "Speed Infotech Solutions",
+            "org": "SpeedNet",
             "org": "Speedonlinebd",
             "org": "Sreebb",
             "org": "Sri Krishna  Private Limited",
@@ -6033,6 +6048,7 @@
             "query": "103.122.60.241"
             "query": "103.124.137.150"
             "query": "103.124.175.2"
+            "query": "103.124.196.130"
             "query": "103.125.117.50"
             "query": "103.125.136.83"
             "query": "103.125.138.202"
@@ -6270,6 +6286,7 @@
             "query": "103.48.68.220"
             "query": "103.48.68.6"
             "query": "103.48.68.98"
+            "query": "103.48.69.105"
             "query": "103.48.69.121"
             "query": "103.48.69.225"
             "query": "103.48.70.185"
@@ -6518,6 +6535,7 @@
             "query": "128.92.239.190"
             "query": "128.95.53.237"
             "query": "129.152.20.44"
+            "query": "129.205.127.30"
             "query": "13.126.184.76"
             "query": "13.228.77.12"
             "query": "13.234.24.116"
@@ -6543,6 +6561,7 @@
             "query": "134.35.21.86"
             "query": "134.35.213.197"
             "query": "134.35.216.169"
+            "query": "134.35.243.52"
             "query": "134.35.251.9"
             "query": "134.35.41.118"
             "query": "135.125.225.75"
@@ -7403,6 +7422,7 @@
             "query": "209.121.164.50"
             "query": "209.14.115.33"
             "query": "210.201.86.72"
+            "query": "210.247.252.101"
             "query": "210.247.252.16"
             "query": "210.247.252.184"
             "query": "210.247.252.194"
@@ -7472,6 +7492,7 @@
             "query": "27.116.21.46"
             "query": "27.121.82.54"
             "query": "27.123.1.46"
+            "query": "27.147.128.26"
             "query": "27.147.129.26"
             "query": "27.147.131.122"
             "query": "27.147.131.41"
@@ -7941,6 +7962,7 @@
             "query": "91.215.136.107"
             "query": "91.228.239.216"
             "query": "91.228.53.239"
+            "query": "91.236.74.5"
             "query": "91.241.21.17"
             "query": "92.207.253.226"
             "query": "92.242.212.50"
@@ -8405,6 +8427,7 @@
             "regionName": "Duhok",
             "regionName": "East Java",
             "regionName": "East Kalimantan",
+            "regionName": "East Macedonia and Thrace",
             "regionName": "Eastern Visayas",
             "regionName": "Eastern",
             "regionName": "Elbasan County",
@@ -8828,6 +8851,7 @@
             "timezone": "Australia/Melbourne",
             "timezone": "Australia/Sydney",
             "timezone": "Europe/Amsterdam",
+            "timezone": "Europe/Athens",
             "timezone": "Europe/Belgrade",
             "timezone": "Europe/Berlin",
             "timezone": "Europe/Bratislava",
@@ -9650,6 +9674,7 @@
         "ip": "103.122.60.241",
         "ip": "103.124.137.150",
         "ip": "103.124.175.2",
+        "ip": "103.124.196.130",
         "ip": "103.125.117.50",
         "ip": "103.125.136.83",
         "ip": "103.125.138.202",
@@ -9887,6 +9912,7 @@
         "ip": "103.48.68.220",
         "ip": "103.48.68.6",
         "ip": "103.48.68.98",
+        "ip": "103.48.69.105",
         "ip": "103.48.69.121",
         "ip": "103.48.69.225",
         "ip": "103.48.70.185",
@@ -10135,6 +10161,7 @@
         "ip": "128.92.239.190",
         "ip": "128.95.53.237",
         "ip": "129.152.20.44",
+        "ip": "129.205.127.30",
         "ip": "13.126.184.76",
         "ip": "13.228.77.12",
         "ip": "13.234.24.116",
@@ -10160,6 +10187,7 @@
         "ip": "134.35.21.86",
         "ip": "134.35.213.197",
         "ip": "134.35.216.169",
+        "ip": "134.35.243.52",
         "ip": "134.35.251.9",
         "ip": "134.35.41.118",
         "ip": "135.125.225.75",
@@ -11020,6 +11048,7 @@
         "ip": "209.121.164.50",
         "ip": "209.14.115.33",
         "ip": "210.201.86.72",
+        "ip": "210.247.252.101",
         "ip": "210.247.252.16",
         "ip": "210.247.252.184",
         "ip": "210.247.252.194",
@@ -11089,6 +11118,7 @@
         "ip": "27.116.21.46",
         "ip": "27.121.82.54",
         "ip": "27.123.1.46",
+        "ip": "27.147.128.26",
         "ip": "27.147.129.26",
         "ip": "27.147.131.122",
         "ip": "27.147.131.41",
@@ -11558,6 +11588,7 @@
         "ip": "91.215.136.107",
         "ip": "91.228.239.216",
         "ip": "91.228.53.239",
+        "ip": "91.236.74.5",
         "ip": "91.241.21.17",
         "ip": "92.207.253.226",
         "ip": "92.242.212.50",
