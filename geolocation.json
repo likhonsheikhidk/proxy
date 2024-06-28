@@ -131,6 +131,7 @@
             "as": "AS139646 HONG KONG Megalayer Technology Co.,Limited",
             "as": "AS139941 RIYAD NETWORK",
             "as": "AS139951 PT Alfatih Indo Teknologi",
+            "as": "AS139952 PT Trisari Data Indonusa",
             "as": "AS139962 PT.Bestcamp Prima Data",
             "as": "AS139972 PT. Putra Lebak Banten",
             "as": "AS139981 PT. Menaksopal Link Nusantara",
@@ -810,6 +811,7 @@
             "as": "AS60800 Netwise Hosting Ltd",
             "as": "AS61461 Airtek Solutions C.A.",
             "as": "AS6147 Telefonica del Peru S.A.A.",
+            "as": "AS61512 GIG@NET SOCIEDAD ANONIMA",
             "as": "AS61633 ALLREDE TELECOM (LINKWAP PROVEDOR)",
             "as": "AS61922 CNT TELECOMUNICACOES",
             "as": "AS63023 GTHost",
@@ -1054,6 +1056,7 @@
             "city": "Cirebon",
             "city": "City of Westminster",
             "city": "Ciudad Ju\u00e1rez",
+            "city": "Ciudad del Este",
             "city": "Clear Lake",
             "city": "Clifton",
             "city": "Cogua",
@@ -1385,6 +1388,7 @@
             "city": "Ouagadougou",
             "city": "Ouricuri",
             "city": "Pabuaran",
+            "city": "Pacitan",
             "city": "Pakenham",
             "city": "Palembang",
             "city": "Palho\u00e7a",
@@ -2152,6 +2156,7 @@
             "isp": "G COM Ltd.",
             "isp": "G3 TELECOM",
             "isp": "GARUDA",
+            "isp": "GIG@NET SOCIEDAD ANONIMA",
             "isp": "GIGAPOP, C.A.",
             "isp": "GLOBAL IT",
             "isp": "GMO Internet, Inc",
@@ -2526,6 +2531,7 @@
             "isp": "PT TELIO INTI NUSA",
             "isp": "PT Tele Globe Global",
             "isp": "PT Terabyte Network Indonesia",
+            "isp": "PT Trisari Data Indonusa",
             "isp": "PT Uliz Netmedia Solusindo",
             "isp": "PT Wadma Berkah Sedaya",
             "isp": "PT Wifian Global Nusantara",
@@ -2929,6 +2935,7 @@
             "lat": -25.3042,
             "lat": -25.3178,
             "lat": -25.5026,
+            "lat": -25.5125,
             "lat": -25.5657,
             "lat": -25.5952,
             "lat": -25.6333,
@@ -3097,6 +3104,7 @@
             "lat": -8.1136,
             "lat": -8.1716,
             "lat": -8.18556,
+            "lat": -8.1995,
             "lat": -8.2471,
             "lat": -8.5399,
             "lat": -8.6507,
@@ -3454,6 +3462,7 @@
             "lat": 32.6533,
             "lat": 32.7519,
             "lat": 32.767,
+            "lat": 32.7767,
             "lat": 32.7899,
             "lat": 32.8329,
             "lat": 32.8379,
@@ -4001,6 +4010,7 @@
             "lon": -53.4528,
             "lon": -54.5242,
             "lon": -54.6047,
+            "lon": -54.6187,
             "lon": -54.6332,
             "lon": -54.6464,
             "lon": -54.6972,
@@ -4220,6 +4230,7 @@
             "lon": -95.785,
             "lon": -95.8608,
             "lon": -96.7005,
+            "lon": -96.797,
             "lon": -96.854,
             "lon": -96.8784,
             "lon": -97.5322,
@@ -4381,6 +4392,7 @@
             "lon": 110.8374,
             "lon": 110.84,
             "lon": 111.038,
+            "lon": 111.1129,
             "lon": 111.38,
             "lon": 111.4622,
             "lon": 111.8815,
@@ -5179,6 +5191,7 @@
             "org": "G COM Ltd",
             "org": "G3 TELECOM",
             "org": "GEDATECU SA",
+            "org": "GIG@NET SOCIEDAD ANONIMA",
             "org": "GIGAPOP, C.A",
             "org": "GLB Bulut Teknolojisi Limited Sirketi",
             "org": "GMO Internet, Inc.",
@@ -5569,6 +5582,7 @@
             "org": "RIDUCO SA",
             "org": "RODRIGUES & SARMENTO LTDA",
             "org": "RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L",
+            "org": "Rackspace Cloud Servers",
             "org": "Ramnet",
             "org": "Ranks ITT Ltd.",
             "org": "Rapeedo LTDA",
@@ -5954,6 +5968,7 @@
             "query": "103.159.46.10"
             "query": "103.159.46.2"
             "query": "103.159.90.14"
+            "query": "103.160.184.158"
             "query": "103.160.207.49"
             "query": "103.160.207.53"
             "query": "103.161.130.153"
@@ -7265,6 +7280,7 @@
             "query": "23.122.184.9"
             "query": "23.143.160.193"
             "query": "23.237.145.36"
+            "query": "23.253.80.88"
             "query": "24.124.46.18"
             "query": "24.152.50.130"
             "query": "24.152.58.132"
@@ -7409,6 +7425,7 @@
             "query": "45.136.197.46"
             "query": "45.143.108.11"
             "query": "45.143.108.114"
+            "query": "45.161.236.98"
             "query": "45.170.102.225"
             "query": "45.170.102.81"
             "query": "45.170.102.89"
@@ -8171,6 +8188,7 @@
             "regionName": "Departamento de Bolivar",
             "regionName": "Departamento de Cordoba",
             "regionName": "Departamento de Narino",
+            "regionName": "Departamento del Alto Parana",
             "regionName": "Departamento del Choco",
             "regionName": "Dhaka Division",
             "regionName": "Dham\u0101r",
@@ -9213,6 +9231,7 @@
             "zip": "752054",
             "zip": "752115",
             "zip": "75247",
+            "zip": "75270",
             "zip": "75300",
             "zip": "75500",
             "zip": "7550000",
@@ -9476,6 +9495,7 @@
         "ip": "103.159.46.10",
         "ip": "103.159.46.2",
         "ip": "103.159.90.14",
+        "ip": "103.160.184.158",
         "ip": "103.160.207.49",
         "ip": "103.160.207.53",
         "ip": "103.161.130.153",
@@ -10787,6 +10807,7 @@
         "ip": "23.122.184.9",
         "ip": "23.143.160.193",
         "ip": "23.237.145.36",
+        "ip": "23.253.80.88",
         "ip": "24.124.46.18",
         "ip": "24.152.50.130",
         "ip": "24.152.58.132",
@@ -10931,6 +10952,7 @@
         "ip": "45.136.197.46",
         "ip": "45.143.108.11",
         "ip": "45.143.108.114",
+        "ip": "45.161.236.98",
         "ip": "45.170.102.225",
         "ip": "45.170.102.81",
         "ip": "45.170.102.89",
@@ -11790,6 +11812,7 @@
         "port": 2847,
         "port": 28489,
         "port": 28573,
+        "port": 28601,
         "port": 28605,
         "port": 2861,
         "port": 28625,
@@ -11799,6 +11822,7 @@
         "port": 28685,
         "port": 28721,
         "port": 28739,
+        "port": 28789,
         "port": 28813,
         "port": 28821,
         "port": 28839,
@@ -11859,6 +11883,7 @@
         "port": 3050,
         "port": 30503,
         "port": 30517,
+        "port": 30595,
         "port": 30677,
         "port": 30679,
         "port": 30721,
