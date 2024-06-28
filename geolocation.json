@@ -104,6 +104,7 @@
             "as": "AS137098 Delix Net Solution Pvt. Ltd",
             "as": "AS137236 TURBOTECH CO., LTD.",
             "as": "AS137329 PT. ARTHA LINTAS DATA MANDIRI",
+            "as": "AS137352 PT. Cloudata Indonesia",
             "as": "AS137362 Pemerintah Kota Surakarta",
             "as": "AS137385 Saddam Hossain t/a Asian Network",
             "as": "AS137541 Royalnet",
@@ -2611,6 +2612,7 @@
             "isp": "PT Cahaya Solusindo Internusa",
             "isp": "PT Callysta Total Solusindo",
             "isp": "PT Citra Jelajah Informatika",
+            "isp": "PT Cloudata Indonesia",
             "isp": "PT Cyber Network Indonesia",
             "isp": "PT Cyberplus Media Pratama",
             "isp": "PT Cybertechtonic Pratama",
@@ -3211,6 +3213,7 @@
             "lat": -6.2352,
             "lat": -6.2377,
             "lat": -6.23812,
+            "lat": -6.23849,
             "lat": -6.2387,
             "lat": -6.2454,
             "lat": -6.24693,
@@ -4598,6 +4601,7 @@
             "lon": 106.823,
             "lon": 106.8231,
             "lon": 106.824,
+            "lon": 106.825,
             "lon": 106.826,
             "lon": 106.827,
             "lon": 106.833,
@@ -6243,6 +6247,7 @@
             "query": "103.112.149.41"
             "query": "103.112.45.46"
             "query": "103.112.54.21"
+            "query": "103.113.170.230"
             "query": "103.113.79.124"
             "query": "103.115.20.26"
             "query": "103.115.20.79"
@@ -6578,6 +6583,7 @@
             "query": "103.87.169.160"
             "query": "103.87.169.199"
             "query": "103.87.169.203"
+            "query": "103.87.169.204"
             "query": "103.87.169.207"
             "query": "103.87.212.140"
             "query": "103.88.113.202"
@@ -10000,6 +10006,7 @@
         "ip": "103.112.149.41",
         "ip": "103.112.45.46",
         "ip": "103.112.54.21",
+        "ip": "103.113.170.230",
         "ip": "103.113.79.124",
         "ip": "103.115.20.26",
         "ip": "103.115.20.79",
@@ -10335,6 +10342,7 @@
         "ip": "103.87.169.160",
         "ip": "103.87.169.199",
         "ip": "103.87.169.203",
+        "ip": "103.87.169.204",
         "ip": "103.87.169.207",
         "ip": "103.87.212.140",
         "ip": "103.88.113.202",
@@ -12612,6 +12620,7 @@
         "port": 27267,
         "port": 27285,
         "port": 27301,
+        "port": 2731,
         "port": 2735,
         "port": 27353,
         "port": 27481,
@@ -12987,6 +12996,7 @@
         "port": 5621,
         "port": 5643,
         "port": 5656,
+        "port": 56642,
         "port": 56789,
         "port": 5741,
         "port": 57812,
@@ -13159,6 +13169,7 @@
         "port": 8503,
         "port": 8513,
         "port": 8543,
+        "port": 8549,
         "port": 8585,
         "port": 8591,
         "port": 8617,
