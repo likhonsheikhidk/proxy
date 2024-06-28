@@ -1307,6 +1307,7 @@
             "city": "Laren",
             "city": "Las Cabras",
             "city": "Las Condes",
+            "city": "Lilancun",
             "city": "Lima",
             "city": "Limburg an der Lahn",
             "city": "Lishui",
@@ -1691,6 +1692,7 @@
             "city": "Weatherford",
             "city": "Wenzhou",
             "city": "West Columbia",
+            "city": "Winnsboro",
             "city": "Wojnowo",
             "city": "Wonosobo",
             "city": "Xapuri",
@@ -3422,6 +3424,7 @@
             "lat": 23.7104,
             "lat": 23.7121,
             "lat": 23.7167,
+            "lat": 23.7248,
             "lat": 23.7263,
             "lat": 23.7272,
             "lat": 23.7326,
@@ -3550,6 +3553,7 @@
             "lat": 32.0607,
             "lat": 32.1149,
             "lat": 32.1194,
+            "lat": 32.1579,
             "lat": 32.3798,
             "lat": 32.4282,
             "lat": 32.6211,
@@ -4333,6 +4337,7 @@
             "lon": -90.512,
             "lon": -90.5133,
             "lon": -90.5155,
+            "lon": -91.7111,
             "lon": -92.1498,
             "lon": -92.5153,
             "lon": -92.9205,
@@ -4479,6 +4484,7 @@
             "lon": 108.489,
             "lon": 108.5267,
             "lon": 108.552,
+            "lon": 108.808,
             "lon": 109.3003,
             "lon": 109.3257,
             "lon": 109.332,
@@ -5053,6 +5059,7 @@
             "org": "ART",
             "org": "ARTERIA Networks Corporation",
             "org": "AS30873 annoucement YemenNet",
+            "org": "AT&T Corp",
             "org": "AT&T Services",
             "org": "ATI - Agence Tunisienne Internet",
             "org": "ATM S.A.",
@@ -5177,6 +5184,7 @@
             "org": "Chinanet AH",
             "org": "Chinanet FJ",
             "org": "Chinanet GD",
+            "org": "Chinanet GX",
             "org": "Chinanet HE",
             "org": "Chinanet JS",
             "org": "Chinanet SD",
@@ -6370,6 +6378,7 @@
             "query": "109.195.23.223"
             "query": "109.200.160.157"
             "query": "109.201.13.187"
+            "query": "109.201.14.82"
             "query": "109.201.233.219"
             "query": "109.230.89.126"
             "query": "109.230.92.50"
@@ -6532,6 +6541,7 @@
             "query": "125.25.82.190"
             "query": "125.26.165.245"
             "query": "125.26.5.140"
+            "query": "128.140.51.69"
             "query": "128.92.239.190"
             "query": "128.95.53.237"
             "query": "129.152.20.44"
@@ -7474,6 +7484,7 @@
             "query": "221.152.121.218"
             "query": "221.219.102.153"
             "query": "221.226.75.86"
+            "query": "222.216.37.138"
             "query": "223.135.156.183"
             "query": "223.204.48.171"
             "query": "223.205.72.24"
@@ -7522,6 +7533,7 @@
             "query": "31.3.26.51"
             "query": "31.40.154.223"
             "query": "31.45.237.146"
+            "query": "32.142.206.26"
             "query": "34.146.221.23"
             "query": "34.172.92.211"
             "query": "34.215.74.117"
@@ -8145,6 +8157,7 @@
             "region": "GP",
             "region": "GU",
             "region": "GUA",
+            "region": "GX",
             "region": "GZ",
             "region": "H",
             "region": "HCW",
@@ -8454,6 +8467,7 @@
             "regionName": "Greater Poland",
             "regionName": "Guanajuato",
             "regionName": "Guangdong",
+            "regionName": "Guangxi",
             "regionName": "Guatemala",
             "regionName": "Guayas",
             "regionName": "Guizhou",
@@ -8529,6 +8543,7 @@
             "regionName": "Lombardy",
             "regionName": "Los Lagos Region",
             "regionName": "Los R\u00edos",
+            "regionName": "Louisiana",
             "regionName": "Lovech",
             "regionName": "Lubusz",
             "regionName": "Lusaka Province",
@@ -9465,6 +9480,7 @@
             "zip": "705030",
             "zip": "70640",
             "zip": "7100",
+            "zip": "71295",
             "zip": "713325",
             "zip": "721602",
             "zip": "730001",
@@ -9996,6 +10012,7 @@
         "ip": "109.195.23.223",
         "ip": "109.200.160.157",
         "ip": "109.201.13.187",
+        "ip": "109.201.14.82",
         "ip": "109.201.233.219",
         "ip": "109.230.89.126",
         "ip": "109.230.92.50",
@@ -10158,6 +10175,7 @@
         "ip": "125.25.82.190",
         "ip": "125.26.165.245",
         "ip": "125.26.5.140",
+        "ip": "128.140.51.69",
         "ip": "128.92.239.190",
         "ip": "128.95.53.237",
         "ip": "129.152.20.44",
@@ -11100,6 +11118,7 @@
         "ip": "221.152.121.218",
         "ip": "221.219.102.153",
         "ip": "221.226.75.86",
+        "ip": "222.216.37.138",
         "ip": "223.135.156.183",
         "ip": "223.204.48.171",
         "ip": "223.205.72.24",
@@ -11148,6 +11167,7 @@
         "ip": "31.3.26.51",
         "ip": "31.40.154.223",
         "ip": "31.45.237.146",
+        "ip": "32.142.206.26",
         "ip": "34.146.221.23",
         "ip": "34.172.92.211",
         "ip": "34.215.74.117",
@@ -12693,6 +12713,7 @@
         "port": 9041,
         "port": 9049,
         "port": 9080,
+        "port": 9081,
         "port": 9090,
         "port": 9091,
         "port": 9093,
