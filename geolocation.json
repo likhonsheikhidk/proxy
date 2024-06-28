@@ -831,6 +831,7 @@
             "as": "AS6147 Telefonica del Peru S.A.A.",
             "as": "AS61512 GIG@NET SOCIEDAD ANONIMA",
             "as": "AS61633 ALLREDE TELECOM (LINKWAP PROVEDOR)",
+            "as": "AS61798 HIGH TECH TELECOM LTDA",
             "as": "AS61922 CNT TELECOMUNICACOES",
             "as": "AS63023 GTHost",
             "as": "AS6306 TELEFONICA VENEZOLANA, C.A.",
@@ -1138,6 +1139,7 @@
             "city": "Essen",
             "city": "Falkenstein",
             "city": "Feni",
+            "city": "Floresta Azul",
             "city": "Florida",
             "city": "Fonseca",
             "city": "Fort Collins",
@@ -2236,6 +2238,7 @@
             "isp": "HelloTech Limited",
             "isp": "Hetzner Online GmbH",
             "isp": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.",
+            "isp": "High Tech Telecom Ltda",
             "isp": "HighSpeed Office Limited",
             "isp": "Hipernet Indodata",
             "isp": "Holistica Provedor Internet Ltda",
@@ -2936,6 +2939,7 @@
             "lat": -12.5036,
             "lat": -12.8671,
             "lat": -12.9756,
+            "lat": -14.842,
             "lat": -14.9216,
             "lat": -15.4183,
             "lat": -15.699,
@@ -4030,6 +4034,7 @@
             "lon": -39.2503,
             "lon": -39.2642,
             "lon": -39.4514,
+            "lon": -39.7543,
             "lon": -4.0012,
             "lon": -40.1296,
             "lon": -40.2641,
@@ -5331,6 +5336,7 @@
             "org": "High Speed Telekomunikasyon VE Haberlesme Hizmetleri Ltd. STI",
             "org": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti",
             "org": "High Speed Telekomunikasyon ve Haberlesme Hizmetleri Ltd Sti",
+            "org": "High Tech Telecom Ltda",
             "org": "Highspeed Fiber",
             "org": "Highspeed VAE",
             "org": "Highspeed",
@@ -6215,6 +6221,7 @@
             "query": "103.247.21.98"
             "query": "103.247.22.164"
             "query": "103.247.22.237"
+            "query": "103.247.23.189"
             "query": "103.247.23.201"
             "query": "103.248.120.5"
             "query": "103.250.130.106"
@@ -7239,6 +7246,7 @@
             "query": "200.155.142.96"
             "query": "200.155.142.99"
             "query": "200.174.198.86"
+            "query": "200.229.80.5"
             "query": "200.24.131.125"
             "query": "200.24.131.126"
             "query": "200.24.134.53"
@@ -7829,6 +7837,7 @@
             "query": "80.66.81.61"
             "query": "80.82.55.71"
             "query": "80.87.213.111"
+            "query": "80.91.116.129"
             "query": "80.91.27.209"
             "query": "81.162.210.81"
             "query": "81.163.56.104"
@@ -9224,6 +9233,7 @@
             "zip": "456390",
             "zip": "45640",
             "zip": "456940",
+            "zip": "45740",
             "zip": "45770",
             "zip": "45810",
             "zip": "46000",
@@ -9813,6 +9823,7 @@
         "ip": "103.247.21.98",
         "ip": "103.247.22.164",
         "ip": "103.247.22.237",
+        "ip": "103.247.23.189",
         "ip": "103.247.23.201",
         "ip": "103.248.120.5",
         "ip": "103.250.130.106",
@@ -10837,6 +10848,7 @@
         "ip": "200.155.142.96",
         "ip": "200.155.142.99",
         "ip": "200.174.198.86",
+        "ip": "200.229.80.5",
         "ip": "200.24.131.125",
         "ip": "200.24.131.126",
         "ip": "200.24.134.53",
@@ -11427,6 +11439,7 @@
         "ip": "80.66.81.61",
         "ip": "80.82.55.71",
         "ip": "80.87.213.111",
+        "ip": "80.91.116.129",
         "ip": "80.91.27.209",
         "ip": "81.162.210.81",
         "ip": "81.163.56.104",
@@ -11801,6 +11814,7 @@
         "port": 18499,
         "port": 18575,
         "port": 18631,
+        "port": 18639,
         "port": 1865,
         "port": 18687,
         "port": 1869,
@@ -11831,6 +11845,7 @@
         "port": 19475,
         "port": 19519,
         "port": 19599,
+        "port": 19637,
         "port": 19697,
         "port": 1971,
         "port": 1976,
@@ -12020,6 +12035,7 @@
         "port": 25799,
         "port": 25833,
         "port": 25863,
+        "port": 25909,
         "port": 2595,
         "port": 25989,
         "port": 26045,
@@ -12030,6 +12046,7 @@
         "port": 26191,
         "port": 26243,
         "port": 26363,
+        "port": 26365,
         "port": 26377,
         "port": 26421,
         "port": 2647,
@@ -12218,6 +12235,7 @@
         "port": 3212,
         "port": 32137,
         "port": 32185,
+        "port": 32195,
         "port": 32223,
         "port": 32285,
         "port": 3229,
@@ -12252,6 +12270,7 @@
         "port": 33267,
         "port": 3333,
         "port": 33333,
+        "port": 3355,
         "port": 3361,
         "port": 33812,
         "port": 3393,
@@ -12301,6 +12320,7 @@
         "port": 40667,
         "port": 40754,
         "port": 4077,
+        "port": 4095,
         "port": 4115,
         "port": 41200,
         "port": 41209,
