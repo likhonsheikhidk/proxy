@@ -165,6 +165,7 @@
             "as": "AS142465 AMIGOS BROADBAND PVT LTD",
             "as": "AS14282 PERSIS TELECOM",
             "as": "AS14534 UNONET CORP",
+            "as": "AS146904 MICRONET GIGAFIBER PRIVATE LIMITED",
             "as": "AS146932 SCC NETWORK PVT LTD",
             "as": "AS147106 PT Global Erasiber Teknologi",
             "as": "AS147121 PT Marva Global Telekomunikasi",
@@ -219,6 +220,7 @@
             "as": "AS16629 CTC. CORP S.A. (TELEFONICA EMPRESAS)",
             "as": "AS16841 GLOBAL IT",
             "as": "AS174 Cogent Communications",
+            "as": "AS17439 Netmagic Datacenter Mumbai",
             "as": "AS17451 BIZNET NETWORKS",
             "as": "AS17465 Cable ISP in India",
             "as": "AS17483 CityOnline Services Ltd",
@@ -884,6 +886,7 @@
             "city": "Beylikduzu",
             "city": "Bh\u0101t\u0101ra",
             "city": "Bhagw\u0101ngola",
+            "city": "Bhiwadi",
             "city": "Bhubaneswar",
             "city": "Birjand",
             "city": "Bishkek",
@@ -917,6 +920,7 @@
             "city": "Cabimas",
             "city": "Cagayan de Oro",
             "city": "Cairo",
+            "city": "Calceta",
             "city": "Campo Grande",
             "city": "Campo Maior",
             "city": "Cape Town",
@@ -1284,6 +1288,7 @@
             "city": "Piscataway",
             "city": "Placas",
             "city": "Plovdiv",
+            "city": "Pondok Bambu",
             "city": "Ponorogo",
             "city": "Pontianak",
             "city": "Porlamar",
@@ -2129,6 +2134,7 @@
             "isp": "Meganet Telecon Ltda",
             "isp": "Menaksopal Link Nusantara",
             "isp": "Metaphor Digital Media",
+            "isp": "Micronet It Services Private Limited",
             "isp": "Microsoft Corporation",
             "isp": "Microsoft",
             "isp": "Microturbo Telecomunicacoes Ltda-me",
@@ -2164,6 +2170,7 @@
             "isp": "Negocios Y Telefonia Nedetel S.A",
             "isp": "NetActuate, Inc",
             "isp": "NetGloria Telecom",
+            "isp": "NetMagic Solutions Pvt Ltd",
             "isp": "NetX",
             "isp": "Netbone Telekomunikasyon A.S.",
             "isp": "Netdelsur Telecomunicaciones SPA",
@@ -2572,6 +2579,7 @@
             "lat": -0.2309,
             "lat": -0.4931,
             "lat": -0.699,
+            "lat": -0.8531,
             "lat": -0.8921,
             "lat": -1.0535,
             "lat": -1.27299,
@@ -2736,6 +2744,7 @@
             "lat": -6.2377,
             "lat": -6.23812,
             "lat": -6.2387,
+            "lat": -6.2454,
             "lat": -6.2483,
             "lat": -6.25603,
             "lat": -6.27868,
@@ -3076,6 +3085,7 @@
             "lat": 27.9938,
             "lat": 28.0002,
             "lat": 28.2014,
+            "lat": 28.2081,
             "lat": 28.4634,
             "lat": 28.5316,
             "lat": 28.5473,
@@ -3776,6 +3786,7 @@
             "lon": -79.8985,
             "lon": -80.0966,
             "lon": -80.162,
+            "lon": -80.167,
             "lon": -80.1899,
             "lon": -80.1917,
             "lon": -80.2952,
@@ -3918,6 +3929,7 @@
             "lon": 106.846,
             "lon": 106.861,
             "lon": 106.882,
+            "lon": 106.8953,
             "lon": 106.9259,
             "lon": 106.9922,
             "lon": 107.2811,
@@ -4311,6 +4323,7 @@
             "lon": 75.8337,
             "lon": 76.2558,
             "lon": 76.2752,
+            "lon": 76.8626,
             "lon": 76.8646,
             "lon": 76.9669,
             "lon": 77.0044,
@@ -4840,6 +4853,7 @@
             "org": "Mesna Industrija Braca Pivac",
             "org": "Metaphor Digital Media",
             "org": "Metronet",
+            "org": "Micronet It Services Private Limited",
             "org": "Microsense Wireless Pvt. Limited",
             "org": "Microsoft Azure Cloud (centralindia)",
             "org": "Microsoft Azure Cloud (eastasia)",
@@ -4878,6 +4892,7 @@
             "org": "Nedetel S.A",
             "org": "Negocios Y Telefonia Nedetel S.A",
             "org": "NetActuate, Inc",
+            "org": "NetMagic Solutions Pvt Ltd",
             "org": "Netdelsur Telecomunicaciones SPA",
             "org": "Netgl\u00f3ria Servi\u00e7os de Internet Ltda",
             "org": "Netrun Technologies PVT LTD",
@@ -5289,6 +5304,7 @@
             "query": "103.125.136.83"
             "query": "103.125.138.202"
             "query": "103.125.154.233"
+            "query": "103.125.50.223"
             "query": "103.126.219.37"
             "query": "103.127.106.245"
             "query": "103.127.220.106"
@@ -5301,6 +5317,7 @@
             "query": "103.131.18.183"
             "query": "103.131.19.43"
             "query": "103.134.220.128"
+            "query": "103.134.251.203"
             "query": "103.135.5.142"
             "query": "103.137.111.231"
             "query": "103.137.218.166"
@@ -5729,6 +5746,7 @@
             "query": "138.121.161.86"
             "query": "138.197.25.111"
             "query": "138.201.139.121"
+            "query": "138.201.199.62"
             "query": "138.201.21.228"
             "query": "138.204.95.166"
             "query": "138.59.151.162"
@@ -6018,6 +6036,7 @@
             "query": "18.135.211.182"
             "query": "18.169.83.87"
             "query": "180.148.4.74"
+            "query": "180.179.35.244"
             "query": "180.180.218.250"
             "query": "180.190.200.24"
             "query": "180.191.16.254"
@@ -6040,6 +6059,7 @@
             "query": "181.189.254.33"
             "query": "181.196.254.201"
             "query": "181.198.1.82"
+            "query": "181.198.53.6"
             "query": "181.198.75.148"
             "query": "181.204.21.122"
             "query": "181.204.81.181"
@@ -8013,6 +8033,7 @@
             "zip": "2951",
             "zip": "3000",
             "zip": "30000",
+            "zip": "301019",
             "zip": "301701",
             "zip": "302001",
             "zip": "302002",
@@ -8087,6 +8108,7 @@
             "zip": "40000",
             "zip": "400000",
             "zip": "400001",
+            "zip": "400051",
             "zip": "400070",
             "zip": "400078",
             "zip": "400079",
@@ -8141,6 +8163,7 @@
             "zip": "48870",
             "zip": "48900",
             "zip": "49000",
+            "zip": "49040",
             "zip": "492015",
             "zip": "49680",
             "zip": "5000",
@@ -8455,6 +8478,7 @@
         "ip": "103.125.136.83",
         "ip": "103.125.138.202",
         "ip": "103.125.154.233",
+        "ip": "103.125.50.223",
         "ip": "103.126.219.37",
         "ip": "103.127.106.245",
         "ip": "103.127.220.106",
@@ -8467,6 +8491,7 @@
         "ip": "103.131.18.183",
         "ip": "103.131.19.43",
         "ip": "103.134.220.128",
+        "ip": "103.134.251.203",
         "ip": "103.135.5.142",
         "ip": "103.137.111.231",
         "ip": "103.137.218.166",
@@ -8895,6 +8920,7 @@
         "ip": "138.121.161.86",
         "ip": "138.197.25.111",
         "ip": "138.201.139.121",
+        "ip": "138.201.199.62",
         "ip": "138.201.21.228",
         "ip": "138.204.95.166",
         "ip": "138.59.151.162",
@@ -9184,6 +9210,7 @@
         "ip": "18.135.211.182",
         "ip": "18.169.83.87",
         "ip": "180.148.4.74",
+        "ip": "180.179.35.244",
         "ip": "180.180.218.250",
         "ip": "180.190.200.24",
         "ip": "180.191.16.254",
@@ -9206,6 +9233,7 @@
         "ip": "181.189.254.33",
         "ip": "181.196.254.201",
         "ip": "181.198.1.82",
+        "ip": "181.198.53.6",
         "ip": "181.198.75.148",
         "ip": "181.204.21.122",
         "ip": "181.204.81.181",
@@ -10214,6 +10242,7 @@
         "port": 13731,
         "port": 13843,
         "port": 13857,
+        "port": 13875,
         "port": 13939,
         "port": 13945,
         "port": 1397,
@@ -10959,6 +10988,7 @@
         "port": 9793,
         "port": 9797,
         "port": 9812,
+        "port": 9889,
         "port": 9896,
         "port": 9898,
         "port": 9947,
