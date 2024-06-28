@@ -600,6 +600,7 @@
             "as": "AS30992 MTN Network Solutions (Cameroon)",
             "as": "AS31148 Freenet LTD",
             "as": "AS31200 Novotelecom Ltd",
+            "as": "AS31213 PJSC MegaFon",
             "as": "AS3132 Red Cientifica Peruana",
             "as": "AS31370 OOO \"Gruppa MosLine\"",
             "as": "AS31376 Smart Telecom Limited",
@@ -1704,6 +1705,7 @@
             "city": "Ternopil",
             "city": "Th\u00e0nh Ph\u1ed1 Tam K\u1ef3",
             "city": "Th\u0101ne",
+            "city": "Th\u1ecb Tr\u1ea5n Ph\u01b0\u1edbc B\u1eedu",
             "city": "Thai Nguyen",
             "city": "The Dalles",
             "city": "Theni",
@@ -2575,6 +2577,7 @@
             "isp": "Nidix Networks S.a. De C.V.",
             "isp": "Niss Networks",
             "isp": "Nordic Telecom Regional s.r.o.",
+            "isp": "North-West Branch of OJSC MegaFon Network",
             "isp": "Novaquadri",
             "isp": "Novotelecom Ltd",
             "isp": "Novotelecom Ltd.",
@@ -3374,6 +3377,7 @@
             "lat": 10.4873,
             "lat": 10.488,
             "lat": 10.498,
+            "lat": 10.5347,
             "lat": 10.5998,
             "lat": 10.6039,
             "lat": 10.6658,
@@ -4122,6 +4126,7 @@
             "lat": 59.8983,
             "lat": 59.9016,
             "lat": 59.9343,
+            "lat": 59.9365,
             "lat": 59.9385,
             "lat": 59.9417,
             "lat": 59.9472,
@@ -4666,6 +4671,7 @@
             "lon": 107.2811,
             "lon": 107.294,
             "lon": 107.316,
+            "lon": 107.402,
             "lon": 107.429,
             "lon": 107.4397,
             "lon": 107.4831,
@@ -4963,6 +4969,7 @@
             "lon": 30.2618,
             "lon": 30.3096,
             "lon": 30.3351,
+            "lon": 30.3418,
             "lon": 30.3603,
             "lon": 30.4245,
             "lon": 30.4454,
@@ -5851,6 +5858,7 @@
             "org": "Nt Cybronet Pvt Ltd",
             "org": "Nusanet MDN",
             "org": "OBJX Networks",
+            "org": "OJSC MegaFon Network",
             "org": "OJSC Rostelecom Macroregional Branch South",
             "org": "OJSC Rostelecom Voronezh branch Network Operation Center",
             "org": "ONLINE",
@@ -6762,6 +6770,7 @@
             "query": "115.223.31.90"
             "query": "115.247.98.14"
             "query": "115.72.35.29"
+            "query": "115.77.128.58"
             "query": "115.78.15.45"
             "query": "115.79.27.106"
             "query": "115.97.103.72"
@@ -7429,6 +7438,7 @@
             "query": "188.125.167.66"
             "query": "188.125.169.10"
             "query": "188.125.169.11"
+            "query": "188.125.169.17"
             "query": "188.130.240.136"
             "query": "188.132.150.199"
             "query": "188.132.150.42"
@@ -7969,6 +7979,7 @@
             "query": "38.183.145.126"
             "query": "38.183.152.250"
             "query": "38.188.203.9"
+            "query": "38.188.248.17"
             "query": "38.188.248.34"
             "query": "38.188.249.104"
             "query": "38.188.249.41"
@@ -8328,6 +8339,7 @@
             "query": "85.196.179.34"
             "query": "85.232.243.235"
             "query": "85.237.46.168"
+            "query": "85.26.218.76"
             "query": "85.94.24.29"
             "query": "86.101.159.147"
             "query": "86.101.159.229"
@@ -8754,6 +8766,7 @@
             "regionName": "Arizona",
             "regionName": "Asunci\u00f3n",
             "regionName": "Atl\u00e1ntico",
+            "regionName": "B\u00e0 R\u1ecba\u2013V\u0169ng T\u00e0u Province",
             "regionName": "B\u00e1cs-Kiskun",
             "regionName": "B\u00ecnh D\u01b0\u01a1ng Province",
             "regionName": "B\u1eafc Ninh Province",
@@ -10574,6 +10587,7 @@
         "ip": "115.223.31.90",
         "ip": "115.247.98.14",
         "ip": "115.72.35.29",
+        "ip": "115.77.128.58",
         "ip": "115.78.15.45",
         "ip": "115.79.27.106",
         "ip": "115.97.103.72",
@@ -11241,6 +11255,7 @@
         "ip": "188.125.167.66",
         "ip": "188.125.169.10",
         "ip": "188.125.169.11",
+        "ip": "188.125.169.17",
         "ip": "188.130.240.136",
         "ip": "188.132.150.199",
         "ip": "188.132.150.42",
@@ -11781,6 +11796,7 @@
         "ip": "38.183.145.126",
         "ip": "38.183.152.250",
         "ip": "38.188.203.9",
+        "ip": "38.188.248.17",
         "ip": "38.188.248.34",
         "ip": "38.188.249.104",
         "ip": "38.188.249.41",
@@ -12140,6 +12156,7 @@
         "ip": "85.196.179.34",
         "ip": "85.232.243.235",
         "ip": "85.237.46.168",
+        "ip": "85.26.218.76",
         "ip": "85.94.24.29",
         "ip": "86.101.159.147",
         "ip": "86.101.159.229",
@@ -12304,6 +12321,7 @@
         "port": 1200,
         "port": 12002,
         "port": 12005,
+        "port": 12010,
         "port": 12025,
         "port": 12045,
         "port": 12049,
@@ -13053,6 +13071,7 @@
         "port": 3888,
         "port": 3899,
         "port": 3901,
+        "port": 39151,
         "port": 3925,
         "port": 39665,
         "port": 39888,
