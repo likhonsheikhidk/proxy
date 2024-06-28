@@ -30,6 +30,7 @@
             "as": "AS131464 Digi Jadoo Broadband Ltd",
             "as": "AS131717 PT Citra Jelajah Informatika",
             "as": "AS131745 PT. Cybertechtonic Pratama",
+            "as": "AS13178 LLC \"Real-net\"",
             "as": "AS13188 CONTENT DELIVERY NETWORK LTD",
             "as": "AS13213 UK-2 Limited",
             "as": "AS132199 Globe Telecom Inc.",
@@ -2483,6 +2484,7 @@
             "isp": "L GONZAGA JUNIOR SERVICOS DE INTERNET - ME",
             "isp": "LINKdotNET AS number",
             "isp": "LINTASARTA",
+            "isp": "LLC Real",
             "isp": "LLC \"Multiservice\"",
             "isp": "LLC \"Nauka-Svyaz\"",
             "isp": "LLP \"Kompaniya Hoster.KZ\"",
@@ -4118,6 +4120,7 @@
             "lat": 51.5222,
             "lat": 51.5654,
             "lat": 51.6518,
+            "lat": 51.6684,
             "lat": 51.6755,
             "lat": 51.7325,
             "lat": 51.7568,
@@ -5113,6 +5116,7 @@
             "lon": 38.975,
             "lon": 39.0799,
             "lon": 39.0988,
+            "lon": 39.1919,
             "lon": 39.2089,
             "lon": 39.2241,
             "lon": 39.2686,
@@ -5815,6 +5819,7 @@
             "org": "L GONZAGA JUNIOR SERVICOS DE INTERNET - ME",
             "org": "LLC ?Zebra Pavlodar",
             "org": "LLC EDN Sovintel Krasnoyarsk branch",
+            "org": "LLC Real-net",
             "org": "LLC",
             "org": "LTK KE SME",
             "org": "Lagonet-tv Cia. Ltda",
@@ -7510,6 +7515,7 @@
             "query": "185.32.5.130"
             "query": "185.32.6.131"
             "query": "185.49.170.20"
+            "query": "185.55.40.196"
             "query": "185.57.237.32"
             "query": "185.64.208.108"
             "query": "185.64.208.26"
@@ -11391,6 +11397,7 @@
         "ip": "185.32.5.130",
         "ip": "185.32.6.131",
         "ip": "185.49.170.20",
+        "ip": "185.55.40.196",
         "ip": "185.57.237.32",
         "ip": "185.64.208.108",
         "ip": "185.64.208.26",
@@ -12569,6 +12576,7 @@
         "port": 12988,
         "port": 13001,
         "port": 13065,
+        "port": 13085,
         "port": 13087,
         "port": 13107,
         "port": 1313,
