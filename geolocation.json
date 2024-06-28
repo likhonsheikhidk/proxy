@@ -289,6 +289,7 @@
             "as": "AS201150 Didehban Net Company PJS",
             "as": "AS201746 Olivenet Network S.L.",
             "as": "AS201952 LTD AtelRybinsk",
+            "as": "AS202448 MVPS LTD",
             "as": "AS202468 Noyan Abr Arvan Co. ( Private Joint Stock)",
             "as": "AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.",
             "as": "AS202602 365 Online Technology Joint Stock Company",
@@ -707,6 +708,7 @@
             "as": "AS4713 NTT Communications Corporation",
             "as": "AS47165 Omskie kabelnye seti Ltd.",
             "as": "AS47232 ISP Alliance a.s.",
+            "as": "AS47253 BCI Telecommunication & Advanced Technology Company",
             "as": "AS47331 TTNet A.S.",
             "as": "AS47335 ABN LTD",
             "as": "AS47438 Pskovline Ltd.",
@@ -1150,6 +1152,7 @@
             "city": "Getengan",
             "city": "Geumjeong-gu",
             "city": "Gioia del Colle",
+            "city": "Giv'on HaHadasha",
             "city": "Giza",
             "city": "Gobernador Crespo",
             "city": "Goi\u00e2nia",
@@ -1733,6 +1736,7 @@
             "country": "Iran",
             "country": "Iraq",
             "country": "Ireland",
+            "country": "Israel",
             "country": "Italy",
             "country": "Ivory Coast",
             "country": "Japan",
@@ -1823,6 +1827,7 @@
             "countryCode": "HU",
             "countryCode": "ID",
             "countryCode": "IE",
+            "countryCode": "IL",
             "countryCode": "IN",
             "countryCode": "IQ",
             "countryCode": "IR",
@@ -1957,6 +1962,7 @@
             "isp": "AzerSat",
             "isp": "BBTS Network",
             "isp": "BBTS-NEW",
+            "isp": "BCI Telecommunication & Advanced Technology Company",
             "isp": "BCMEDIA",
             "isp": "BH Telecom d.d. Sarajevo",
             "isp": "BITNET DOMINICANA, S.R.L.",
@@ -2401,6 +2407,7 @@
             "isp": "Multicable De Honduras",
             "isp": "Multinet 125-88/24",
             "isp": "Multpontos Telecomunica\u00d4\u00d4es Ltda - ME",
+            "isp": "Mvps LTD",
             "isp": "Myanma Post & Telecommunication",
             "isp": "N3 SOLUCOES TECNOLOGICAS LTDA",
             "isp": "NAP.Net.id - Network Access Point",
@@ -3496,6 +3503,7 @@
             "lat": 31.5061,
             "lat": 31.5826,
             "lat": 31.6182,
+            "lat": 31.9038,
             "lat": 32.0589,
             "lat": 32.0607,
             "lat": 32.1149,
@@ -4696,6 +4704,7 @@
             "lon": 33.8995,
             "lon": 35.033,
             "lon": 35.0489,
+            "lon": 35.2034,
             "lon": 35.3308,
             "lon": 36.1282,
             "lon": 36.1619,
@@ -5053,6 +5062,7 @@
             "org": "Best Line Ltd",
             "org": "Bharti Airtel Limited",
             "org": "Bijoy",
+            "org": "Bnet Network",
             "org": "Boomerang Rayaneh",
             "org": "Borusan Telekom",
             "org": "Brisanet Servicos De Telecomunicacoes S.A",
@@ -5475,6 +5485,7 @@
             "org": "Mrkr Communications Private Limited",
             "org": "Multinet Pakistan Pvt. Ltd.",
             "org": "Multpontos Telecomunica\u00e7\u00f5es Ltda - ME",
+            "org": "Mvps LTD",
             "org": "Myrepublic",
             "org": "NET&COM LTDA",
             "org": "NEXTELECOM, S.R.L",
@@ -5945,6 +5956,7 @@
             "query": "103.106.219.132"
             "query": "103.107.84.177"
             "query": "103.108.156.38"
+            "query": "103.110.10.132"
             "query": "103.110.10.69"
             "query": "103.110.36.18"
             "query": "103.112.149.41"
@@ -7464,6 +7476,7 @@
             "query": "38.188.249.104"
             "query": "38.188.249.41"
             "query": "38.253.88.242"
+            "query": "38.41.0.62"
             "query": "38.41.27.150"
             "query": "38.41.5.107"
             "query": "38.41.5.85"
@@ -7847,13 +7860,16 @@
             "query": "91.241.21.17"
             "query": "92.207.253.226"
             "query": "92.242.212.50"
+            "query": "92.247.12.139"
             "query": "92.247.2.26"
             "query": "92.249.113.194"
             "query": "92.253.235.170"
             "query": "92.255.232.231"
+            "query": "93.115.18.235"
             "query": "93.123.16.188"
             "query": "93.157.196.58"
             "query": "93.177.126.101"
+            "query": "93.184.7.54"
             "query": "94.101.185.188"
             "query": "94.102.228.1"
             "query": "94.130.177.190"
@@ -8364,6 +8380,7 @@
             "regionName": "Jambi",
             "regionName": "Jiangsu",
             "regionName": "Jilin",
+            "regionName": "Judea and Samaria Area",
             "regionName": "Kanagawa",
             "regionName": "Kansas",
             "regionName": "Karnataka",
@@ -8692,6 +8709,7 @@
             "timezone": "Asia/Colombo",
             "timezone": "Asia/Damascus",
             "timezone": "Asia/Dhaka",
+            "timezone": "Asia/Hebron",
             "timezone": "Asia/Ho_Chi_Minh",
             "timezone": "Asia/Hong_Kong",
             "timezone": "Asia/Irkutsk",
@@ -9517,6 +9535,7 @@
         "ip": "103.106.219.132",
         "ip": "103.107.84.177",
         "ip": "103.108.156.38",
+        "ip": "103.110.10.132",
         "ip": "103.110.10.69",
         "ip": "103.110.36.18",
         "ip": "103.112.149.41",
@@ -11036,6 +11055,7 @@
         "ip": "38.188.249.104",
         "ip": "38.188.249.41",
         "ip": "38.253.88.242",
+        "ip": "38.41.0.62",
         "ip": "38.41.27.150",
         "ip": "38.41.5.107",
         "ip": "38.41.5.85",
@@ -11419,13 +11439,16 @@
         "ip": "91.241.21.17",
         "ip": "92.207.253.226",
         "ip": "92.242.212.50",
+        "ip": "92.247.12.139",
         "ip": "92.247.2.26",
         "ip": "92.249.113.194",
         "ip": "92.253.235.170",
         "ip": "92.255.232.231",
+        "ip": "93.115.18.235",
         "ip": "93.123.16.188",
         "ip": "93.157.196.58",
         "ip": "93.177.126.101",
+        "ip": "93.184.7.54",
         "ip": "94.101.185.188",
         "ip": "94.102.228.1",
         "ip": "94.130.177.190",
@@ -11516,6 +11539,7 @@
         "port": 11763,
         "port": 11785,
         "port": 1193,
+        "port": 11933,
         "port": 1200,
         "port": 12025,
         "port": 12085,
@@ -11563,6 +11587,7 @@
         "port": 13613,
         "port": 1363,
         "port": 13651,
+        "port": 13675,
         "port": 1369,
         "port": 13699,
         "port": 13731,
@@ -11612,6 +11637,7 @@
         "port": 15093,
         "port": 15109,
         "port": 15125,
+        "port": 15177,
         "port": 15265,
         "port": 15325,
         "port": 15423,
@@ -11641,6 +11667,7 @@
         "port": 16667,
         "port": 16709,
         "port": 16729,
+        "port": 16757,
         "port": 16779,
         "port": 16807,
         "port": 16843,
@@ -12036,6 +12063,7 @@
         "port": 30175,
         "port": 30209,
         "port": 30215,
+        "port": 30253,
         "port": 30279,
         "port": 3030,
         "port": 3033,
@@ -12049,6 +12077,7 @@
         "port": 30503,
         "port": 30517,
         "port": 30595,
+        "port": 30649,
         "port": 30677,
         "port": 30679,
         "port": 30721,
@@ -12222,6 +12251,7 @@
         "port": 44749,
         "port": 44759,
         "port": 4481,
+        "port": 4507,
         "port": 45212,
         "port": 4545,
         "port": 4551,
@@ -12499,6 +12529,7 @@
         "port": 9437,
         "port": 9443,
         "port": 9491,
+        "port": 9510,
         "port": 9625,
         "port": 9649,
         "port": 9765,
