@@ -373,6 +373,7 @@
             "as": "AS24961 WIIT AG",
             "as": "AS2514 NTT PC Communications, Inc.",
             "as": "AS2519 ARTERIA Networks Corporation",
+            "as": "AS25229 Limited Liability Company \"KYIVSKI TELEKOMUNIKATSIYNI MEREZHI\"",
             "as": "AS2527 Sony Network Communications Inc.",
             "as": "AS25490 PJSC Rostelecom",
             "as": "AS25514 Modus-Global LLC",
@@ -2350,6 +2351,7 @@
             "isp": "Liberty Networks Honduras",
             "isp": "Lightwave S.R.L",
             "isp": "Limited Liability Company Radio Network",
+            "isp": "Limited Liability Company \"KYIVSKI TELEKOMUNIKATSIYNI MEREZHI\"",
             "isp": "Link Barato.com Telecomunicacoes Eireli",
             "isp": "Link3 Technologies Limited",
             "isp": "Lintas Data Prima, PT",
@@ -5888,6 +5890,7 @@
             "org": "Voafibra Comunicacao",
             "org": "Vodafone Hungary Ltd",
             "org": "Vodafone NET Iletisim Hizmetleri Anonim Sirketi",
+            "org": "Volia Dnipro",
             "org": "Vox Telecom",
             "org": "Vultr Holdings, LLC",
             "org": "W I X NET DO BRASIL LTDA - ME",
@@ -6307,6 +6310,7 @@
             "query": "109.195.23.223"
             "query": "109.200.160.157"
             "query": "109.201.13.187"
+            "query": "109.201.233.219"
             "query": "109.230.89.126"
             "query": "109.230.92.50"
             "query": "109.234.38.27"
@@ -7455,6 +7459,7 @@
             "query": "36.255.86.113"
             "query": "36.64.162.194"
             "query": "36.66.123.193"
+            "query": "36.67.123.173"
             "query": "36.73.93.227"
             "query": "36.88.13.186"
             "query": "36.93.130.218"
@@ -9895,6 +9900,7 @@
         "ip": "109.195.23.223",
         "ip": "109.200.160.157",
         "ip": "109.201.13.187",
+        "ip": "109.201.233.219",
         "ip": "109.230.89.126",
         "ip": "109.230.92.50",
         "ip": "109.234.38.27",
@@ -11043,6 +11049,7 @@
         "ip": "36.255.86.113",
         "ip": "36.64.162.194",
         "ip": "36.66.123.193",
+        "ip": "36.67.123.173",
         "ip": "36.73.93.227",
         "ip": "36.88.13.186",
         "ip": "36.93.130.218",
@@ -11974,6 +11981,7 @@
         "port": 2567,
         "port": 25697,
         "port": 25757,
+        "port": 25799,
         "port": 25833,
         "port": 25863,
         "port": 2595,
