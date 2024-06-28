@@ -633,6 +633,7 @@
             "as": "AS35328 DSI DATA, a. s.",
             "as": "AS35425 IOMART MANAGED SERVICES LIMITED",
             "as": "AS3549 Level 3 Parent, LLC",
+            "as": "AS3561 CenturyLink Communications, LLC",
             "as": "AS35805 JSC \"Silknet\"",
             "as": "AS36007 Kamatera, Inc.",
             "as": "AS36236 NetActuate, Inc",
@@ -2119,6 +2120,7 @@
             "isp": "CenterTelecom Voronezh ISP",
             "isp": "Central Solutions Technology S.R.L.",
             "isp": "Centric Mobility",
+            "isp": "CenturyLink Communications, LLC",
             "isp": "Champaran Internet Private Limited",
             "isp": "Charter Communications Inc",
             "isp": "Charter Communications",
@@ -3699,6 +3701,7 @@
             "lat": 33.4475,
             "lat": 33.4483,
             "lat": 33.4484,
+            "lat": 33.5065,
             "lat": 33.5138,
             "lat": 33.6054,
             "lat": 33.6648,
@@ -4147,6 +4150,7 @@
             "lon": -107.2555,
             "lon": -111.0403,
             "lon": -111.5139,
+            "lon": -112.0664,
             "lon": -112.074,
             "lon": -112.0866,
             "lon": -116.5247,
@@ -5352,6 +5356,7 @@
             "org": "Central De Redes Y Comunicaciones De Guatemala S.A",
             "org": "Central Solutions Technology S.R.L. (Heriberto Medrano holding group)",
             "org": "CenturyLink Communications",
+            "org": "CenturyLink Communications, LLC",
             "org": "Cerebra.ai Ltd",
             "org": "Champaran Internet Private Limited",
             "org": "China Mobile Communications Corporation - shanghai company",
@@ -7060,6 +7065,7 @@
             "query": "171.228.89.97"
             "query": "171.232.79.226"
             "query": "171.233.151.214"
+            "query": "171.239.138.216"
             "query": "171.239.182.117"
             "query": "171.240.181.189"
             "query": "171.244.60.55"
@@ -7700,6 +7706,7 @@
             "query": "205.164.84.247"
             "query": "206.201.3.83"
             "query": "206.233.170.83"
+            "query": "206.27.173.58"
             "query": "206.42.27.113"
             "query": "206.42.28.150"
             "query": "206.42.56.195"
@@ -9887,6 +9894,7 @@
             "zip": "845438",
             "zip": "84900",
             "zip": "85001",
+            "zip": "85012",
             "zip": "85036",
             "zip": "851050",
             "zip": "856010",
@@ -10827,6 +10835,7 @@
         "ip": "171.228.89.97",
         "ip": "171.232.79.226",
         "ip": "171.233.151.214",
+        "ip": "171.239.138.216",
         "ip": "171.239.182.117",
         "ip": "171.240.181.189",
         "ip": "171.244.60.55",
@@ -11467,6 +11476,7 @@
         "ip": "205.164.84.247",
         "ip": "206.201.3.83",
         "ip": "206.233.170.83",
+        "ip": "206.27.173.58",
         "ip": "206.42.27.113",
         "ip": "206.42.28.150",
         "ip": "206.42.56.195",
@@ -12311,6 +12321,7 @@
         "port": 16807,
         "port": 16843,
         "port": 16855,
+        "port": 16921,
         "port": 16939,
         "port": 16993,
         "port": 16995,
@@ -12833,6 +12844,7 @@
         "port": 32307,
         "port": 32323,
         "port": 32335,
+        "port": 32401,
         "port": 32509,
         "port": 32559,
         "port": 32585,
@@ -12979,6 +12991,7 @@
         "port": 48612,
         "port": 48824,
         "port": 48888,
+        "port": 4889,
         "port": 4925,
         "port": 49784,
         "port": 49920,
