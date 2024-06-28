@@ -368,6 +368,7 @@
             "as": "AS23688 Link3 Technologies Ltd.",
             "as": "AS23750 GERRYS INFORMATION TECHNOLOGY PVT LTD.",
             "as": "AS23923 Agni Systems Limited",
+            "as": "AS23956 AmberIT Limited",
             "as": "AS23969 TOT Public Company Limited",
             "as": "AS23991 Ranks ITT Ltd.",
             "as": "AS24088 Hanoi Telecom Joint Stock Company - HCMC Branch",
@@ -1449,6 +1450,7 @@
             "city": "Odesa",
             "city": "Omsk",
             "city": "Oran",
+            "city": "Orito",
             "city": "Ormoc City",
             "city": "Orsk",
             "city": "Osaka",
@@ -2183,6 +2185,7 @@
             "isp": "Deltakon Kft.",
             "isp": "Deutsche Glasfaser Business GmbH",
             "isp": "Dhaka University",
+            "isp": "Dhakacom Limited",
             "isp": "Didehban Net Company",
             "isp": "Digi Jadoo Broadband Ltd",
             "isp": "Diginet",
@@ -2788,6 +2791,7 @@
             "isp": "Silica Networks Argentina S.A",
             "isp": "SinergiNet",
             "isp": "SingNet Pte Ltd",
+            "isp": "Sistemas Avanzados EN Telecomunicaciones",
             "isp": "Sistemas Computarizados Del Huila S.A.S.",
             "isp": "Sistemas Telecomunicaciones Y Biomedicos De Colombia SAS",
             "isp": "Sky Cable Corporation",
@@ -3286,6 +3290,7 @@
             "lat": 0.321,
             "lat": 0.5024,
             "lat": 0.5395,
+            "lat": 0.6707,
             "lat": 0.80471,
             "lat": 0.8319,
             "lat": 0.9591,
@@ -4374,6 +4379,7 @@
             "lon": -76.6623,
             "lon": -76.6802,
             "lon": -76.8167,
+            "lon": -76.868,
             "lon": -76.8788,
             "lon": -76.9862,
             "lon": -76.9908,
@@ -5380,6 +5386,7 @@
             "org": "Days Inn - Galleria",
             "org": "Delix Net Solution Pvt. Ltd",
             "org": "Deltanet Internet",
+            "org": "Dhakacom Limited",
             "org": "Digit1 Arctel",
             "org": "Digital Era Group",
             "org": "Digital Ocean",
@@ -5945,6 +5952,7 @@
             "org": "Shorkin RO",
             "org": "Shoro Closed Joint-Stock Company",
             "org": "Silica Networks Argentina S.A",
+            "org": "Sistemas Avanzados EN Telecomunicaciones",
             "org": "Sky Cable Corporation",
             "org": "Sky Telecom Company Limited",
             "org": "Skynetwork LLC",
@@ -7575,6 +7583,7 @@
             "query": "202.191.125.147"
             "query": "202.29.215.78"
             "query": "202.29.222.254"
+            "query": "202.4.119.97"
             "query": "202.47.188.132"
             "query": "202.47.88.6"
             "query": "202.5.36.152"
@@ -7905,6 +7914,7 @@
             "query": "45.189.252.193"
             "query": "45.189.252.81"
             "query": "45.190.52.24"
+            "query": "45.191.47.1"
             "query": "45.191.75.188"
             "query": "45.201.136.117"
             "query": "45.225.184.145"
@@ -9814,6 +9824,7 @@
             "zip": "856010",
             "zip": "858877",
             "zip": "86-014",
+            "zip": "862001",
             "zip": "862060",
             "zip": "86444",
             "zip": "86726",
@@ -11313,6 +11324,7 @@
         "ip": "202.191.125.147",
         "ip": "202.29.215.78",
         "ip": "202.29.222.254",
+        "ip": "202.4.119.97",
         "ip": "202.47.188.132",
         "ip": "202.47.88.6",
         "ip": "202.5.36.152",
@@ -11643,6 +11655,7 @@
         "ip": "45.189.252.193",
         "ip": "45.189.252.81",
         "ip": "45.190.52.24",
+        "ip": "45.191.47.1",
         "ip": "45.191.75.188",
         "ip": "45.201.136.117",
         "ip": "45.225.184.145",
@@ -12716,6 +12729,7 @@
         "port": 32323,
         "port": 32335,
         "port": 32509,
+        "port": 32559,
         "port": 32585,
         "port": 32637,
         "port": 32650,
