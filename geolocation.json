@@ -67,6 +67,7 @@
             "as": "AS134771 WENZHOU, ZHEJIANG Province, P.R.China.",
             "as": "AS134806 Skyview Online Ltd",
             "as": "AS13489 EPM Telecomunicaciones S.A. E.S.P.",
+            "as": "AS135098 Bright Star Network",
             "as": "AS135182 MORADABAD INTERNET SERVICES PRIVATE LIMITED",
             "as": "AS135341 Orange Communication",
             "as": "AS135353 MD SHIRAJUL HAIDER T/A Cue Club Technology",
@@ -699,6 +700,7 @@
             "as": "AS397142 City of Fort Collins",
             "as": "AS398101 GoDaddy.com, LLC",
             "as": "AS398395 Dot-Tech LLC",
+            "as": "AS39855 Mod Mission Critical LLC",
             "as": "AS40021 Nubes, LLC",
             "as": "AS40065 CNSERVERS LLC",
             "as": "AS4007 Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
@@ -2109,6 +2111,7 @@
             "isp": "Biznet Metronet",
             "isp": "Biznet Networks",
             "isp": "Boomerang",
+            "isp": "Bright Star Network",
             "isp": "Brisanet Prestacao De Servicos De Internet Ltda",
             "isp": "Brisanet Servicos De Telecomunicacoes Ltda",
             "isp": "Brisanet Servicos De Telecomunicacoes S.A",
@@ -2551,6 +2554,7 @@
             "isp": "Mis70 LTD",
             "isp": "Mobiltel BNG",
             "isp": "Mobiltel EAD",
+            "isp": "Mod Mission Critical LLC",
             "isp": "Modus-Global LLC",
             "isp": "Moradabad Internet Services Private Limited",
             "isp": "Mrkr Communications Private Limited",
@@ -3402,6 +3406,7 @@
             "lat": 1.33679,
             "lat": 1.33792,
             "lat": 1.35208,
+            "lat": 1.35624,
             "lat": 10.0127,
             "lat": 10.1182,
             "lat": 10.1624,
@@ -3651,6 +3656,7 @@
             "lat": 23.8672,
             "lat": 23.8865,
             "lat": 23.8915,
+            "lat": 23.901,
             "lat": 23.9267,
             "lat": 23.9992,
             "lat": 24.0696,
@@ -4641,6 +4647,7 @@
             "lon": 102.6513,
             "lon": 103.6196,
             "lon": 103.695,
+            "lon": 103.802,
             "lon": 103.808,
             "lon": 103.82,
             "lon": 103.85,
@@ -5286,6 +5293,7 @@
             "lon": 90.4074,
             "lon": 90.4079,
             "lon": 90.4082,
+            "lon": 90.4088,
             "lon": 90.4093,
             "lon": 90.4096,
             "lon": 90.4109,
@@ -6156,6 +6164,7 @@
             "org": "Sreebb",
             "org": "Sri Krishna  Private Limited",
             "org": "Sriyaan technology",
+            "org": "Stackster LLC",
             "org": "Star Industria e Com\u00e9rcio Ltda",
             "org": "Starcloud Global Pte. LTD",
             "org": "Stark Industries Solutions LTD",
@@ -6470,6 +6479,7 @@
             "query": "103.149.194.222"
             "query": "103.15.140.177"
             "query": "103.151.223.209"
+            "query": "103.151.30.17"
             "query": "103.151.46.101"
             "query": "103.152.116.82"
             "query": "103.152.93.158"
@@ -7700,6 +7710,7 @@
             "query": "194.31.108.52"
             "query": "194.31.173.79"
             "query": "194.4.57.152"
+            "query": "194.5.25.34"
             "query": "194.87.97.50"
             "query": "194.9.80.1"
             "query": "195.128.96.213"
@@ -8172,6 +8183,7 @@
             "query": "45.181.205.138"
             "query": "45.182.176.38"
             "query": "45.184.152.145"
+            "query": "45.184.152.97"
             "query": "45.184.155.238"
             "query": "45.184.73.114"
             "query": "45.185.163.111"
@@ -9634,6 +9646,7 @@
             "zip": "1685",
             "zip": "170001",
             "zip": "170002",
+            "zip": "1702",
             "zip": "1722",
             "zip": "17250",
             "zip": "1772",
@@ -10333,6 +10346,7 @@
         "ip": "103.149.194.222",
         "ip": "103.15.140.177",
         "ip": "103.151.223.209",
+        "ip": "103.151.30.17",
         "ip": "103.151.46.101",
         "ip": "103.152.116.82",
         "ip": "103.152.93.158",
@@ -11563,6 +11577,7 @@
         "ip": "194.31.108.52",
         "ip": "194.31.173.79",
         "ip": "194.4.57.152",
+        "ip": "194.5.25.34",
         "ip": "194.87.97.50",
         "ip": "194.9.80.1",
         "ip": "195.128.96.213",
@@ -12035,6 +12050,7 @@
         "ip": "45.181.205.138",
         "ip": "45.182.176.38",
         "ip": "45.184.152.145",
+        "ip": "45.184.152.97",
         "ip": "45.184.155.238",
         "ip": "45.184.73.114",
         "ip": "45.185.163.111",
@@ -12426,6 +12442,7 @@
         "port": 10551,
         "port": 10555,
         "port": 10617,
+        "port": 1065,
         "port": 10653,
         "port": 10672,
         "port": 10689,
@@ -12616,6 +12633,7 @@
         "port": 1625,
         "port": 1627,
         "port": 16319,
+        "port": 16327,
         "port": 16345,
         "port": 1637,
         "port": 16377,
@@ -12690,6 +12708,7 @@
         "port": 18343,
         "port": 18345,
         "port": 18421,
+        "port": 18431,
         "port": 18441,
         "port": 18449,
         "port": 18483,
@@ -12754,6 +12773,7 @@
         "port": 20060,
         "port": 2009,
         "port": 20109,
+        "port": 20126,
         "port": 20135,
         "port": 20147,
         "port": 20149,
@@ -12825,6 +12845,7 @@
         "port": 21901,
         "port": 21973,
         "port": 22037,
+        "port": 22059,
         "port": 22077,
         "port": 22081,
         "port": 22135,
@@ -12837,6 +12858,7 @@
         "port": 22337,
         "port": 22407,
         "port": 22423,
+        "port": 22425,
         "port": 22431,
         "port": 22467,
         "port": 2251,
@@ -13096,6 +13118,7 @@
         "port": 30127,
         "port": 30139,
         "port": 30175,
+        "port": 30187,
         "port": 30209,
         "port": 30215,
         "port": 30253,
@@ -13119,8 +13142,10 @@
         "port": 30649,
         "port": 30677,
         "port": 30679,
+        "port": 30685,
         "port": 30721,
         "port": 30753,
+        "port": 30759,
         "port": 30769,
         "port": 30883,
         "port": 30903,
@@ -13384,6 +13409,7 @@
         "port": 53468,
         "port": 5347,
         "port": 53583,
+        "port": 5409,
         "port": 5423,
         "port": 54240,
         "port": 5443,
