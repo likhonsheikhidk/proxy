@@ -495,6 +495,7 @@
             "as": "AS269931 WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L",
             "as": "AS269935 TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)",
             "as": "AS269965 LIGHTWAVE S.R.L",
+            "as": "AS269981 COMPUNETWORK S.A.C.",
             "as": "AS270004 CRETTON LISANDRO MAXIMILIANO (MISIOTECH)",
             "as": "AS270024 ICONEX SPA",
             "as": "AS270026 RED SERVITEL, CA",
@@ -1949,6 +1950,7 @@
             "isp": "ACCESSKENYA",
             "isp": "AGIS",
             "isp": "AIRESPRING-ADT SYSTEMS, INC.",
+            "isp": "AIS-Fibre",
             "isp": "AKNET Ltd.",
             "isp": "ALFATINDO",
             "isp": "ALLREDE TELECOM (LINKWAP PROVEDOR)",
@@ -2136,6 +2138,7 @@
             "isp": "Comcast Cable Communications, LLC",
             "isp": "Compa\u00f1ia de Comunicaciones Coyhaique Ltda.",
             "isp": "Companhia Itabirana Telecomunica??es Ltda",
+            "isp": "Compunetwork S.A.C.",
             "isp": "Computadoras y Servicios Especiales SA de CV",
             "isp": "Comunicaciones Metropolitanas Cablecolor",
             "isp": "Conecta Ltda.",
@@ -5333,6 +5336,7 @@
             "org": "Comnet Bulgaria Holding Ltd.",
             "org": "Compa\u00f1ia de Comunicaciones Coyhaique Ltda",
             "org": "Companhia Itabirana Telecomunica\u00e7\u00f5es Ltda",
+            "org": "Compunetwork S.A.C",
             "org": "Conecta Ltda",
             "org": "Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Construccion De Redes HFC Del SUR Colombia",
             "org": "Confedera\u00e7\u00e3o Nacional Trabalhadores No Comercio",
@@ -6595,6 +6599,7 @@
             "query": "114.239.144.191"
             "query": "114.5.97.150"
             "query": "114.79.146.166"
+            "query": "114.79.148.218"
             "query": "114.9.19.66"
             "query": "114.9.24.198"
             "query": "114.9.26.110"
@@ -7177,6 +7182,7 @@
             "query": "183.88.231.188"
             "query": "183.89.205.173"
             "query": "184.82.130.44"
+            "query": "184.82.147.226"
             "query": "185.108.140.69"
             "query": "185.108.141.114"
             "query": "185.110.246.94"
@@ -7485,6 +7491,7 @@
             "query": "200.155.142.96"
             "query": "200.155.142.99"
             "query": "200.174.198.86"
+            "query": "200.215.248.114"
             "query": "200.229.80.5"
             "query": "200.24.131.125"
             "query": "200.24.131.126"
@@ -10322,6 +10329,7 @@
         "ip": "114.239.144.191",
         "ip": "114.5.97.150",
         "ip": "114.79.146.166",
+        "ip": "114.79.148.218",
         "ip": "114.9.19.66",
         "ip": "114.9.24.198",
         "ip": "114.9.26.110",
@@ -10904,6 +10912,7 @@
         "ip": "183.88.231.188",
         "ip": "183.89.205.173",
         "ip": "184.82.130.44",
+        "ip": "184.82.147.226",
         "ip": "185.108.140.69",
         "ip": "185.108.141.114",
         "ip": "185.110.246.94",
@@ -11212,6 +11221,7 @@
         "ip": "200.155.142.96",
         "ip": "200.155.142.99",
         "ip": "200.174.198.86",
+        "ip": "200.215.248.114",
         "ip": "200.229.80.5",
         "ip": "200.24.131.125",
         "ip": "200.24.131.126",
@@ -12050,6 +12060,7 @@
         "port": 1315,
         "port": 13159,
         "port": 13163,
+        "port": 13191,
         "port": 13199,
         "port": 13239,
         "port": 13241,
@@ -12142,6 +12153,7 @@
         "port": 1607,
         "port": 16231,
         "port": 1625,
+        "port": 1627,
         "port": 16319,
         "port": 16345,
         "port": 1637,
@@ -12361,6 +12373,7 @@
         "port": 22751,
         "port": 22800,
         "port": 22845,
+        "port": 22849,
         "port": 22851,
         "port": 22863,
         "port": 22899,
@@ -12382,6 +12395,7 @@
         "port": 23409,
         "port": 23429,
         "port": 23461,
+        "port": 23465,
         "port": 23471,
         "port": 23495,
         "port": 23500,
@@ -12436,6 +12450,7 @@
         "port": 25203,
         "port": 25251,
         "port": 25261,
+        "port": 25359,
         "port": 25405,
         "port": 25423,
         "port": 25489,
