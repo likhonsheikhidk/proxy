@@ -198,6 +198,7 @@
             "as": "AS151508 PT Terabyte Network Indonesia",
             "as": "AS151512 PT Jenius Lintas Nusantara",
             "as": "AS151555 PT Jawara Lintas Data Nusantara",
+            "as": "AS15169 Google LLC",
             "as": "AS151993 PT Wifian Global Nusantara",
             "as": "AS152089 PT Singki Media Telekomunikasi",
             "as": "AS152384 PT Digitama Network Indonesia",
@@ -1015,6 +1016,7 @@
             "city": "Frankton",
             "city": "Fresno",
             "city": "G\u00e1rdony",
+            "city": "G\u00f6rwihl",
             "city": "Gaborone",
             "city": "Gafargaon",
             "city": "Gandul",
@@ -1479,6 +1481,7 @@
             "city": "Washington",
             "city": "Weatherford",
             "city": "Wenzhou",
+            "city": "West Columbia",
             "city": "Wojnowo",
             "city": "Xapuri",
             "city": "Xebat",
@@ -1811,6 +1814,7 @@
             "isp": "Caucasus Online Ltd.",
             "isp": "CenterTelecom Voronezh ISP",
             "isp": "Central Solutions Technology S.R.L.",
+            "isp": "Charter Communications Inc",
             "isp": "Charter Communications",
             "isp": "China Mobile Communications Corporation",
             "isp": "China Mobile communications corporation",
@@ -1981,6 +1985,7 @@
             "isp": "HelloTech Limited",
             "isp": "Hetzner Online GmbH",
             "isp": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.",
+            "isp": "Hipernet Indodata",
             "isp": "Holistica Provedor Internet Ltda",
             "isp": "HomeNet LTDA",
             "isp": "Hong Kong Broadband Network Ltd",
@@ -2669,6 +2674,7 @@
             "lat": -33.0156,
             "lat": -33.0348,
             "lat": -33.4132,
+            "lat": -33.4155,
             "lat": -33.4521,
             "lat": -33.6645,
             "lat": -33.7004,
@@ -3126,6 +3132,7 @@
             "lat": 33.5138,
             "lat": 33.6054,
             "lat": 33.7256,
+            "lat": 34.0095,
             "lat": 34.0431,
             "lat": 34.0479,
             "lat": 34.0484,
@@ -3149,6 +3156,7 @@
             "lat": 35.6018,
             "lat": 35.6673,
             "lat": 35.6702,
+            "lat": 35.6761,
             "lat": 35.68,
             "lat": 35.6824,
             "lat": 35.6837,
@@ -3321,6 +3329,7 @@
             "lat": 47.4203,
             "lat": 47.4941,
             "lat": 47.5636,
+            "lat": 47.6397,
             "lat": 47.7178,
             "lat": 47.7957,
             "lat": 48.0159,
@@ -3650,6 +3659,7 @@
             "lon": -70.2489,
             "lon": -70.5135,
             "lon": -70.5702,
+            "lon": -70.6056,
             "lon": -70.6313,
             "lon": -70.6536,
             "lon": -70.7041,
@@ -3768,6 +3778,7 @@
             "lon": -80.7108,
             "lon": -80.8512,
             "lon": -80.8688,
+            "lon": -81.0819,
             "lon": -82.7155,
             "lon": -83.7801,
             "lon": -84.0707,
@@ -4045,6 +4056,7 @@
             "lon": 139.574,
             "lon": 139.644,
             "lon": 139.6483,
+            "lon": 139.6503,
             "lon": 139.6582,
             "lon": 139.6805,
             "lon": 139.6899,
@@ -4310,6 +4322,7 @@
             "lon": 78.7699,
             "lon": 78.7812,
             "lon": 79.8191,
+            "lon": 8.0716,
             "lon": 8.07958,
             "lon": 8.3572,
             "lon": 8.40221,
@@ -4664,6 +4677,7 @@
             "org": "Gmedia ID Yogyakarta",
             "org": "GoDaddy.com, LLC",
             "org": "Google Cloud (asia-east2)",
+            "org": "Google Cloud (asia-northeast1)",
             "org": "Google Cloud (us-central1)",
             "org": "Google Cloud (us-west1)",
             "org": "Gostaresh Ertebat Azin Kia Company PJSC",
@@ -5339,6 +5353,7 @@
             "query": "103.165.155.226"
             "query": "103.165.156.148"
             "query": "103.165.156.171"
+            "query": "103.166.194.114"
             "query": "103.166.253.57"
             "query": "103.166.8.234"
             "query": "103.167.170.202"
@@ -5728,11 +5743,13 @@
             "query": "143.198.194.227"
             "query": "143.198.83.74"
             "query": "143.208.59.2"
+            "query": "144.76.42.215"
             "query": "144.91.111.4"
             "query": "145.255.30.241"
             "query": "146.190.101.222"
             "query": "147.135.54.182"
             "query": "147.28.145.212"
+            "query": "147.28.145.213"
             "query": "148.251.5.30"
             "query": "148.72.140.24"
             "query": "148.72.165.7"
@@ -5856,6 +5873,7 @@
             "query": "161.34.40.36"
             "query": "161.34.40.37"
             "query": "161.34.40.38"
+            "query": "161.49.87.222"
             "query": "161.97.132.227"
             "query": "162.0.220.217"
             "query": "162.0.220.218"
@@ -6489,6 +6507,7 @@
             "query": "24.124.46.18"
             "query": "24.152.50.130"
             "query": "24.152.58.132"
+            "query": "24.172.34.114"
             "query": "24.172.82.94"
             "query": "27.121.82.54"
             "query": "27.123.1.46"
@@ -6516,6 +6535,7 @@
             "query": "31.3.26.51"
             "query": "31.40.154.223"
             "query": "31.45.237.146"
+            "query": "34.146.221.23"
             "query": "34.172.92.211"
             "query": "34.215.74.117"
             "query": "34.92.88.81"
@@ -7528,6 +7548,7 @@
             "regionName": "Smolensk Oblast",
             "regionName": "Sofia-Capital",
             "regionName": "Sonora",
+            "regionName": "South Carolina",
             "regionName": "South East",
             "regionName": "South Holland",
             "regionName": "South Khorasan Province",
@@ -7972,6 +7993,7 @@
             "zip": "28082",
             "zip": "28203",
             "zip": "28800",
+            "zip": "29169",
             "zip": "2951",
             "zip": "3000",
             "zip": "30000",
@@ -8253,6 +8275,7 @@
             "zip": "75247",
             "zip": "75300",
             "zip": "75500",
+            "zip": "7550000",
             "zip": "75600",
             "zip": "758002",
             "zip": "760001",
@@ -8276,6 +8299,7 @@
             "zip": "79000",
             "zip": "7945",
             "zip": "79560",
+            "zip": "79733",
             "zip": "8000",
             "zip": "80000",
             "zip": "800020",
@@ -8488,6 +8512,7 @@
         "ip": "103.165.155.226",
         "ip": "103.165.156.148",
         "ip": "103.165.156.171",
+        "ip": "103.166.194.114",
         "ip": "103.166.253.57",
         "ip": "103.166.8.234",
         "ip": "103.167.170.202",
@@ -8877,11 +8902,13 @@
         "ip": "143.198.194.227",
         "ip": "143.198.83.74",
         "ip": "143.208.59.2",
+        "ip": "144.76.42.215",
         "ip": "144.91.111.4",
         "ip": "145.255.30.241",
         "ip": "146.190.101.222",
         "ip": "147.135.54.182",
         "ip": "147.28.145.212",
+        "ip": "147.28.145.213",
         "ip": "148.251.5.30",
         "ip": "148.72.140.24",
         "ip": "148.72.165.7",
@@ -9005,6 +9032,7 @@
         "ip": "161.34.40.36",
         "ip": "161.34.40.37",
         "ip": "161.34.40.38",
+        "ip": "161.49.87.222",
         "ip": "161.97.132.227",
         "ip": "162.0.220.217",
         "ip": "162.0.220.218",
@@ -9638,6 +9666,7 @@
         "ip": "24.124.46.18",
         "ip": "24.152.50.130",
         "ip": "24.152.58.132",
+        "ip": "24.172.34.114",
         "ip": "24.172.82.94",
         "ip": "27.121.82.54",
         "ip": "27.123.1.46",
@@ -9665,6 +9694,7 @@
         "ip": "31.3.26.51",
         "ip": "31.40.154.223",
         "ip": "31.45.237.146",
+        "ip": "34.146.221.23",
         "ip": "34.172.92.211",
         "ip": "34.215.74.117",
         "ip": "34.92.88.81",
@@ -10110,11 +10140,14 @@
         "port": 11302,
         "port": 11303,
         "port": 11339,
+        "port": 1141,
         "port": 11463,
+        "port": 11489,
         "port": 11491,
         "port": 11505,
         "port": 11529,
         "port": 11563,
+        "port": 11591,
         "port": 11689,
         "port": 11763,
         "port": 1193,
@@ -10126,6 +10159,7 @@
         "port": 12405,
         "port": 12409,
         "port": 1243,
+        "port": 12657,
         "port": 12689,
         "port": 12741,
         "port": 1281,
@@ -10142,6 +10176,7 @@
         "port": 13163,
         "port": 13199,
         "port": 13239,
+        "port": 13241,
         "port": 1327,
         "port": 1333,
         "port": 13335,
@@ -10224,6 +10259,7 @@
         "port": 17227,
         "port": 17231,
         "port": 17233,
+        "port": 17419,
         "port": 17423,
         "port": 17435,
         "port": 17521,
@@ -10327,6 +10363,7 @@
         "port": 21776,
         "port": 21791,
         "port": 2187,
+        "port": 21873,
         "port": 21901,
         "port": 22037,
         "port": 22077,
@@ -10351,6 +10388,7 @@
         "port": 22969,
         "port": 22997,
         "port": 23021,
+        "port": 2305,
         "port": 23121,
         "port": 2325,
         "port": 23253,
@@ -10378,6 +10416,7 @@
         "port": 24279,
         "port": 2457,
         "port": 24607,
+        "port": 24691,
         "port": 24723,
         "port": 24739,
         "port": 24909,
@@ -10462,6 +10501,7 @@
         "port": 28685,
         "port": 28721,
         "port": 28739,
+        "port": 28839,
         "port": 28843,
         "port": 28867,
         "port": 28871,
@@ -10483,6 +10523,7 @@
         "port": 29667,
         "port": 2967,
         "port": 2969,
+        "port": 29707,
         "port": 29709,
         "port": 29777,
         "port": 29801,
@@ -10531,6 +10572,7 @@
         "port": 3130,
         "port": 31300,
         "port": 3131,
+        "port": 31319,
         "port": 31365,
         "port": 31383,
         "port": 3141,
@@ -10544,6 +10586,7 @@
         "port": 31631,
         "port": 3165,
         "port": 3177,
+        "port": 3181,
         "port": 3189,
         "port": 31901,
         "port": 31967,
@@ -10668,6 +10711,7 @@
         "port": 48888,
         "port": 4925,
         "port": 49784,
+        "port": 49920,
         "port": 4995,
         "port": 4999,
         "port": 49999,
@@ -10729,6 +10773,7 @@
         "port": 6359,
         "port": 6409,
         "port": 6503,
+        "port": 6505,
         "port": 65056,
         "port": 6509,
         "port": 65110,
@@ -10801,6 +10846,7 @@
         "port": 8090,
         "port": 8091,
         "port": 8094,
+        "port": 8095,
         "port": 8096,
         "port": 8099,
         "port": 81,
