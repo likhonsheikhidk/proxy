@@ -107,6 +107,7 @@
             "as": "AS138225 One Eight Technologies Private Limited",
             "as": "AS138296 Juweriyah Networks Private Limited",
             "as": "AS138300 Opticom Networks Private Limited",
+            "as": "AS138343 Cyber Net Communications",
             "as": "AS138346 Sajid Trading Ltd.",
             "as": "AS138443 Rupali Bank Limited",
             "as": "AS138640 HelloTech Limited",
@@ -280,6 +281,7 @@
             "as": "AS201069 APEX-CRIMEA Ltd.",
             "as": "AS20115 Charter Communications",
             "as": "AS201150 Didehban Net Company PJS",
+            "as": "AS201746 Olivenet Network S.L.",
             "as": "AS201952 LTD AtelRybinsk",
             "as": "AS202468 Noyan Abr Arvan Co. ( Private Joint Stock)",
             "as": "AS202561 High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.",
@@ -762,6 +764,7 @@
             "as": "AS55685 PT Jala Lintas Media",
             "as": "AS55699 PT. Cemerlang Multimedia",
             "as": "AS55701 PT. Usaha Adisanggoro",
+            "as": "AS55714 Fiberlink Pvt.Ltd",
             "as": "AS55720 Gigabit Hosting Sdn Bhd",
             "as": "AS55836 Reliance Jio Infocomm Limited",
             "as": "AS55839 Microsense Private Limited",
@@ -2059,6 +2062,7 @@
             "isp": "CrystalNET Plus",
             "isp": "CtrlS",
             "isp": "Cue Club Technology",
+            "isp": "Cyber Net Communications",
             "isp": "D-VoiS Broadband Private Limited",
             "isp": "D. A. F. BANSI & CIA LTDA",
             "isp": "DATAUTAMANET",
@@ -2136,6 +2140,7 @@
             "isp": "FR OCB HONEY AS2280",
             "isp": "Fanava Group",
             "isp": "Fast Byte Fast Data Company Limited",
+            "isp": "Fiberlink Pvt.Ltd",
             "isp": "Fibernet SPA",
             "isp": "Fibernet TV SAS",
             "isp": "Flexential Colorado Corp.",
@@ -2413,6 +2418,7 @@
             "isp": "Nt Cybronet Pvt Ltd",
             "isp": "OJSC Vimpelcom HQ",
             "isp": "OJSC uralsvyazinform",
+            "isp": "OLIVE",
             "isp": "ONE ALBANIA SH.A.",
             "isp": "ONNO NETWORKS, SOCIEDAD AN\u00d3NIMA",
             "isp": "ONT NETWORKS SA de CV",
@@ -3361,6 +3367,7 @@
             "lat": 24.8309,
             "lat": 24.8591,
             "lat": 24.8608,
+            "lat": 24.8622,
             "lat": 24.8773,
             "lat": 24.9126,
             "lat": 24.9241,
@@ -4737,6 +4744,7 @@
             "lon": 66.9983,
             "lon": 67.0104,
             "lon": 67.0665,
+            "lon": 67.0702,
             "lon": 67.0986,
             "lon": 69.606,
             "lon": 7.01156,
@@ -5006,6 +5014,7 @@
             "org": "CV Sampurno",
             "org": "CV Sinar Kencana",
             "org": "CV. CAHAYA WIJAYA LESTARI",
+            "org": "CV. MEDIA COMPUTINDO",
             "org": "Cable Onda Oriental, SRL",
             "org": "Canal Antigua S.A",
             "org": "Canon Singapore PTE LTD",
@@ -5152,6 +5161,7 @@
             "org": "Fiber Digital S.R.L",
             "org": "FiberComm",
             "org": "Fibercli",
+            "org": "Fiberlink Pvt. Ltd.",
             "org": "Firefly Digital Technology Company Limited",
             "org": "First Root Vps2",
             "org": "Fixed Wimax Nairobi",
@@ -5357,6 +5367,7 @@
             "org": "Md Ibrahim",
             "org": "Md Kadiruzzaman",
             "org": "Md Mokbul Hossain",
+            "org": "Md. Rashed Harun-Or",
             "org": "Mega Cable, S.A. de C.V",
             "org": "Meganet Telecon Ltda",
             "org": "Megatelecom Telecomunicacoes Ltda",
@@ -5880,6 +5891,7 @@
             "query": "103.129.3.246"
             "query": "103.13.204.24"
             "query": "103.130.106.65"
+            "query": "103.130.175.169"
             "query": "103.131.18.183"
             "query": "103.131.19.43"
             "query": "103.133.68.151"
@@ -6108,6 +6120,7 @@
             "query": "103.52.36.49"
             "query": "103.53.170.199"
             "query": "103.53.78.26"
+            "query": "103.54.80.193"
             "query": "103.56.205.84"
             "query": "103.56.206.65"
             "query": "103.57.39.54"
@@ -6305,6 +6318,7 @@
             "query": "122.3.41.154"
             "query": "122.54.105.109"
             "query": "122.54.135.155"
+            "query": "123.112.213.89"
             "query": "123.126.158.50"
             "query": "123.127.94.83"
             "query": "123.200.14.194"
@@ -6801,6 +6815,7 @@
             "query": "185.233.247.186"
             "query": "185.238.72.222"
             "query": "185.32.6.131"
+            "query": "185.49.170.20"
             "query": "185.57.237.32"
             "query": "185.65.247.133"
             "query": "185.85.161.214"
@@ -6987,6 +7002,7 @@
             "query": "191.97.19.14"
             "query": "191.97.19.89"
             "query": "191.97.6.149"
+            "query": "192.135.91.6"
             "query": "192.140.42.83"
             "query": "192.141.196.129"
             "query": "192.169.179.253"
@@ -7316,6 +7332,7 @@
             "query": "38.10.69.107"
             "query": "38.10.69.109"
             "query": "38.10.69.110"
+            "query": "38.10.69.98"
             "query": "38.123.79.3"
             "query": "38.156.233.132"
             "query": "38.156.235.36"
@@ -7541,6 +7558,7 @@
             "query": "61.7.191.11"
             "query": "61.74.186.71"
             "query": "61.9.32.194"
+            "query": "61.9.32.58"
             "query": "61.9.34.118"
             "query": "61.9.34.82"
             "query": "62.176.12.111"
@@ -8868,6 +8886,7 @@
             "zip": "2770",
             "zip": "27713",
             "zip": "28010",
+            "zip": "28013",
             "zip": "28022",
             "zip": "28027",
             "zip": "28078",
@@ -9394,6 +9413,7 @@
         "ip": "103.129.3.246",
         "ip": "103.13.204.24",
         "ip": "103.130.106.65",
+        "ip": "103.130.175.169",
         "ip": "103.131.18.183",
         "ip": "103.131.19.43",
         "ip": "103.133.68.151",
@@ -9622,6 +9642,7 @@
         "ip": "103.52.36.49",
         "ip": "103.53.170.199",
         "ip": "103.53.78.26",
+        "ip": "103.54.80.193",
         "ip": "103.56.205.84",
         "ip": "103.56.206.65",
         "ip": "103.57.39.54",
@@ -9819,6 +9840,7 @@
         "ip": "122.3.41.154",
         "ip": "122.54.105.109",
         "ip": "122.54.135.155",
+        "ip": "123.112.213.89",
         "ip": "123.126.158.50",
         "ip": "123.127.94.83",
         "ip": "123.200.14.194",
@@ -10315,6 +10337,7 @@
         "ip": "185.233.247.186",
         "ip": "185.238.72.222",
         "ip": "185.32.6.131",
+        "ip": "185.49.170.20",
         "ip": "185.57.237.32",
         "ip": "185.65.247.133",
         "ip": "185.85.161.214",
@@ -10501,6 +10524,7 @@
         "ip": "191.97.19.14",
         "ip": "191.97.19.89",
         "ip": "191.97.6.149",
+        "ip": "192.135.91.6",
         "ip": "192.140.42.83",
         "ip": "192.141.196.129",
         "ip": "192.169.179.253",
@@ -10830,6 +10854,7 @@
         "ip": "38.10.69.107",
         "ip": "38.10.69.109",
         "ip": "38.10.69.110",
+        "ip": "38.10.69.98",
         "ip": "38.123.79.3",
         "ip": "38.156.233.132",
         "ip": "38.156.235.36",
@@ -11055,6 +11080,7 @@
         "ip": "61.7.191.11",
         "ip": "61.74.186.71",
         "ip": "61.9.32.194",
+        "ip": "61.9.32.58",
         "ip": "61.9.34.118",
         "ip": "61.9.34.82",
         "ip": "62.176.12.111",
@@ -11448,6 +11474,7 @@
         "port": 17041,
         "port": 17053,
         "port": 17085,
+        "port": 17109,
         "port": 17113,
         "port": 17123,
         "port": 17133,
@@ -11992,6 +12019,7 @@
         "port": 43188,
         "port": 43241,
         "port": 4343,
+        "port": 43626,
         "port": 4363,
         "port": 4377,
         "port": 43801,
