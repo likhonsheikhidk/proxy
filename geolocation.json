@@ -103,6 +103,7 @@
             "as": "AS136627 CHAMPARAN INTERNET PRIVATE LIMITED",
             "as": "AS136652 Bytel TraNet Private Limited",
             "as": "AS136699 Mediatech Communication Pvt.ltd.",
+            "as": "AS13682 TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
             "as": "AS136873 MEGADATA-ISP",
             "as": "AS136874 PT. Garuda Media Telematika",
             "as": "AS136879 DELAPAN BIT",
@@ -274,6 +275,7 @@
             "as": "AS15169 Google LLC",
             "as": "AS151993 PT Wifian Global Nusantara",
             "as": "AS152045 PT Petabyte Network Indonesia",
+            "as": "AS152059 CV Brawijaya Giga Network",
             "as": "AS152089 PT Singki Media Telekomunikasi",
             "as": "AS152384 PT Digitama Network Indonesia",
             "as": "AS152494 SHRIKSHETRA NETWORKS PRIVATE LIMITED",
@@ -2259,6 +2261,7 @@
             "isp": "CTC. CORP S.A. (TELEFONICA EMPRESAS)",
             "isp": "CTL Colombia",
             "isp": "CUSTOMPUBLISHCOLO",
+            "isp": "CV Brawijaya Giga Network",
             "isp": "Cable Onda Oriental, SRL",
             "isp": "Calltopbx S.A.S.",
             "isp": "Carnaubanet Ltda",
@@ -2292,6 +2295,7 @@
             "isp": "Claro S.A",
             "isp": "Claro S.A.",
             "isp": "Cloud Computing Corporation",
+            "isp": "CloudVsp.Inc",
             "isp": "Cnservers LLC",
             "isp": "Coastal Live Channel",
             "isp": "Codgrec S.A.",
@@ -3035,6 +3039,7 @@
             "isp": "Sony Network Communications Inc",
             "isp": "Sotoon Cloud Infrastracuture",
             "isp": "Southen Telecommunication Maintainer",
+            "isp": "Sovam Teleport",
             "isp": "Spectrum",
             "isp": "Speed Fiber Band Company Trading Ltd",
             "isp": "Speed Online",
@@ -3100,6 +3105,7 @@
             "isp": "Telekomunikasi Indonesia",
             "isp": "Telemedia Dinamika Sarana, PT",
             "isp": "Telesat d.o.o.",
+            "isp": "Telgua",
             "isp": "Telia Lietuva",
             "isp": "Telium Telecomunica\u00d4\u00d4es Ltda",
             "isp": "Telium Telecomunica\u00e7\u00f5es Ltda",
@@ -5750,6 +5756,7 @@
             "org": "CTL LATAM, CTL Chile",
             "org": "CTL LATAM, CTL Colombia",
             "org": "CV Bilqis Network",
+            "org": "CV Brawijaya Giga Network",
             "org": "CV Gisting Trans Network",
             "org": "CV Sampurno",
             "org": "CV Sinar Kencana",
@@ -6528,6 +6535,7 @@
             "org": "TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)",
             "org": "TDS JMB",
             "org": "TE Data",
+            "org": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
             "org": "TELECOMUNICACIONES RHJ, C. A",
             "org": "TELEFONICA VENEZOLANA, C.A",
             "org": "TELEF\ufffdNICA BRASIL S.A",
@@ -6807,6 +6815,7 @@
             "query": "103.138.27.250"
             "query": "103.139.126.230"
             "query": "103.139.126.30"
+            "query": "103.14.111.146"
             "query": "103.141.109.219"
             "query": "103.141.109.237"
             "query": "103.141.51.212"
@@ -7308,6 +7317,7 @@
             "query": "119.96.113.193"
             "query": "12.218.209.130"
             "query": "12.7.109.1"
+            "query": "120.132.52.172"
             "query": "120.143.15.137"
             "query": "120.196.207.10"
             "query": "120.28.195.40"
@@ -7657,6 +7667,7 @@
             "query": "171.239.182.117"
             "query": "171.240.16.36"
             "query": "171.240.181.189"
+            "query": "171.240.181.206"
             "query": "171.240.41.51"
             "query": "171.244.60.55"
             "query": "171.247.167.133"
@@ -8100,6 +8111,7 @@
             "query": "190.97.238.81"
             "query": "190.97.238.82"
             "query": "191.102.123.196"
+            "query": "191.102.248.5"
             "query": "191.102.248.6"
             "query": "191.102.248.9"
             "query": "191.102.254.10"
@@ -8168,6 +8180,7 @@
             "query": "195.178.56.33"
             "query": "195.178.56.37"
             "query": "195.201.34.206"
+            "query": "195.239.134.57"
             "query": "195.34.91.67"
             "query": "195.87.136.2"
             "query": "196.216.65.57"
@@ -8224,6 +8237,7 @@
             "query": "200.111.232.94"
             "query": "200.111.249.197"
             "query": "200.116.198.222"
+            "query": "200.119.141.114"
             "query": "200.125.168.56"
             "query": "200.155.142.96"
             "query": "200.155.142.99"
@@ -8399,6 +8413,7 @@
             "query": "210.73.75.166"
             "query": "210.79.146.131"
             "query": "210.79.146.222"
+            "query": "210.87.125.150"
             "query": "211.22.151.163"
             "query": "211.222.177.81"
             "query": "211.253.36.172"
@@ -8520,6 +8535,7 @@
             "query": "35.154.71.72"
             "query": "35.154.78.253"
             "query": "35.161.172.205"
+            "query": "35.178.104.4"
             "query": "35.185.196.38"
             "query": "36.255.86.113"
             "query": "36.64.132.91"
@@ -10001,6 +10017,7 @@
             "zip": "01000",
             "zip": "01000-000",
             "zip": "01001",
+            "zip": "01007",
             "zip": "01009",
             "zip": "01010",
             "zip": "01011",
@@ -10898,6 +10915,7 @@
         "ip": "103.138.27.250",
         "ip": "103.139.126.230",
         "ip": "103.139.126.30",
+        "ip": "103.14.111.146",
         "ip": "103.141.109.219",
         "ip": "103.141.109.237",
         "ip": "103.141.51.212",
@@ -11399,6 +11417,7 @@
         "ip": "119.96.113.193",
         "ip": "12.218.209.130",
         "ip": "12.7.109.1",
+        "ip": "120.132.52.172",
         "ip": "120.143.15.137",
         "ip": "120.196.207.10",
         "ip": "120.28.195.40",
@@ -11748,6 +11767,7 @@
         "ip": "171.239.182.117",
         "ip": "171.240.16.36",
         "ip": "171.240.181.189",
+        "ip": "171.240.181.206",
         "ip": "171.240.41.51",
         "ip": "171.244.60.55",
         "ip": "171.247.167.133",
@@ -12191,6 +12211,7 @@
         "ip": "190.97.238.81",
         "ip": "190.97.238.82",
         "ip": "191.102.123.196",
+        "ip": "191.102.248.5",
         "ip": "191.102.248.6",
         "ip": "191.102.248.9",
         "ip": "191.102.254.10",
@@ -12259,6 +12280,7 @@
         "ip": "195.178.56.33",
         "ip": "195.178.56.37",
         "ip": "195.201.34.206",
+        "ip": "195.239.134.57",
         "ip": "195.34.91.67",
         "ip": "195.87.136.2",
         "ip": "196.216.65.57",
@@ -12315,6 +12337,7 @@
         "ip": "200.111.232.94",
         "ip": "200.111.249.197",
         "ip": "200.116.198.222",
+        "ip": "200.119.141.114",
         "ip": "200.125.168.56",
         "ip": "200.155.142.96",
         "ip": "200.155.142.99",
@@ -12490,6 +12513,7 @@
         "ip": "210.73.75.166",
         "ip": "210.79.146.131",
         "ip": "210.79.146.222",
+        "ip": "210.87.125.150",
         "ip": "211.22.151.163",
         "ip": "211.222.177.81",
         "ip": "211.253.36.172",
@@ -12611,6 +12635,7 @@
         "ip": "35.154.71.72",
         "ip": "35.154.78.253",
         "ip": "35.161.172.205",
+        "ip": "35.178.104.4",
         "ip": "35.185.196.38",
         "ip": "36.255.86.113",
         "ip": "36.64.132.91",
@@ -13185,6 +13210,7 @@
         "port": 10617,
         "port": 10625,
         "port": 10627,
+        "port": 10641,
         "port": 1065,
         "port": 10653,
         "port": 10672,
@@ -13283,6 +13309,7 @@
         "port": 13085,
         "port": 13087,
         "port": 13107,
+        "port": 13109,
         "port": 1313,
         "port": 13131,
         "port": 1315,
@@ -13417,6 +13444,7 @@
         "port": 16647,
         "port": 16667,
         "port": 16709,
+        "port": 16711,
         "port": 16729,
         "port": 16757,
         "port": 16779,
@@ -13480,6 +13508,7 @@
         "port": 1833,
         "port": 18343,
         "port": 18345,
+        "port": 18401,
         "port": 18421,
         "port": 18431,
         "port": 18441,
@@ -13587,6 +13616,7 @@
         "port": 20618,
         "port": 20619,
         "port": 2063,
+        "port": 20687,
         "port": 20735,
         "port": 20763,
         "port": 20765,
@@ -13678,6 +13708,7 @@
         "port": 22997,
         "port": 22999,
         "port": 23021,
+        "port": 23037,
         "port": 2305,
         "port": 23121,
         "port": 23128,
@@ -13910,6 +13941,7 @@
         "port": 29241,
         "port": 29339,
         "port": 29357,
+        "port": 29411,
         "port": 29451,
         "port": 29503,
         "port": 29547,
@@ -13978,6 +14010,7 @@
         "port": 30721,
         "port": 30753,
         "port": 30759,
+        "port": 30761,
         "port": 30769,
         "port": 30883,
         "port": 30903,
@@ -14154,6 +14187,7 @@
         "port": 40302,
         "port": 4037,
         "port": 4046,
+        "port": 4048,
         "port": 40667,
         "port": 40754,
         "port": 4077,
@@ -14182,6 +14216,7 @@
         "port": 43045,
         "port": 43188,
         "port": 43241,
+        "port": 4337,
         "port": 4343,
         "port": 43468,
         "port": 43626,
