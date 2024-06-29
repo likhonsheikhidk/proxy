@@ -3185,6 +3185,7 @@
             "isp": "Videomar Rede Nordeste S/A",
             "isp": "VietNam Post and Telecom Corporation",
             "isp": "Vietnam Internet Network Information Center",
+            "isp": "Vietnam Posts and Telecommunications Group",
             "isp": "Viettel Corporation",
             "isp": "Viettel Group",
             "isp": "Viginet C.A",
@@ -6634,6 +6635,7 @@
             "org": "VIETTEL",
             "org": "VIPRede Telecomunica\u00e7\u00f5es Ltda",
             "org": "VNET-org",
+            "org": "VNPT",
             "org": "VPS",
             "org": "VTC - Multimedia Corporation",
             "org": "VTS",
@@ -7447,6 +7449,7 @@
             "query": "14.143.172.238"
             "query": "14.170.154.193"
             "query": "14.190.96.175"
+            "query": "14.225.3.194"
             "query": "14.34.180.21"
             "query": "140.227.204.70"
             "query": "140.227.228.202"
@@ -11547,6 +11550,7 @@
         "ip": "14.143.172.238",
         "ip": "14.170.154.193",
         "ip": "14.190.96.175",
+        "ip": "14.225.3.194",
         "ip": "14.34.180.21",
         "ip": "140.227.204.70",
         "ip": "140.227.228.202",
@@ -13194,6 +13198,7 @@
         "port": 10095,
         "port": 10101,
         "port": 10111,
+        "port": 10129,
         "port": 10231,
         "port": 10257,
         "port": 10297,
@@ -13349,6 +13354,7 @@
         "port": 13843,
         "port": 13857,
         "port": 13875,
+        "port": 13889,
         "port": 13939,
         "port": 13945,
         "port": 13955,
