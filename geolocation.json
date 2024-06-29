@@ -220,6 +220,7 @@
             "as": "AS142398 PT Digital Akses Nusantara",
             "as": "AS142449 DREAM CABLES",
             "as": "AS142465 AMIGOS BROADBAND PVT LTD",
+            "as": "AS14259 Gtd Internet S.A.",
             "as": "AS14282 PERSIS TELECOM",
             "as": "AS14534 UNONET CORP",
             "as": "AS146904 MICRONET GIGAFIBER PRIVATE LIMITED",
@@ -1212,6 +1213,7 @@
             "city": "Council Bluffs",
             "city": "Couto Fernandes / Favela do Oito",
             "city": "Creston",
+            "city": "Cuenca",
             "city": "Cuit\u00e9",
             "city": "Curitiba",
             "city": "D\u00fcsseldorf",
@@ -2467,6 +2469,7 @@
             "isp": "Govista Telecomunicao Importacao Ltda",
             "isp": "Green Floid LLC",
             "isp": "Grupo Metrowan Telecom SPA",
+            "isp": "Gtd Internet S.A.",
             "isp": "Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.",
             "isp": "HIVELOCITY, Inc.",
             "isp": "HKBN Enterprise Solutions HK Limited",
@@ -3298,6 +3301,7 @@
             "lat": -2.6297,
             "lat": -2.79739,
             "lat": -2.8743,
+            "lat": -2.8976,
             "lat": -2.9146,
             "lat": -20.0272,
             "lat": -20.1879,
@@ -4765,6 +4769,7 @@
             "lon": -78.8736,
             "lon": -78.9225,
             "lon": -79.0013,
+            "lon": -79.0045,
             "lon": -79.3363,
             "lon": -79.4769,
             "lon": -79.4861,
@@ -5958,6 +5963,7 @@
             "org": "Gostaresh Ertebat Azin Kia Company PJSC",
             "org": "Govista Telecomunicao Importacao Ltda",
             "org": "Gstech Software Systems Pvt Ltd",
+            "org": "Gtd Internet S.A",
             "org": "Guneydogu Telekom Int. Bil. VE Ilt. Hiz. Tic. Ltd. STI",
             "org": "Guneydogu Telekom Internet Bilisim VE Iletisim HIZ TIC LTD",
             "org": "Gurudev Communication",
@@ -6829,6 +6835,7 @@
             "query": "103.153.62.158"
             "query": "103.154.120.147"
             "query": "103.154.230.130"
+            "query": "103.154.230.58"
             "query": "103.154.77.204"
             "query": "103.155.191.60"
             "query": "103.155.196.65"
@@ -8030,6 +8037,7 @@
             "query": "190.144.238.66"
             "query": "190.145.227.114"
             "query": "190.152.5.17"
+            "query": "190.153.237.2"
             "query": "190.181.59.212"
             "query": "190.187.163.2"
             "query": "190.187.201.26"
@@ -8213,6 +8221,7 @@
             "query": "200.24.131.125"
             "query": "200.24.131.126"
             "query": "200.24.134.53"
+            "query": "200.24.157.122"
             "query": "200.25.254.193"
             "query": "200.252.32.40"
             "query": "200.26.232.90"
@@ -8905,6 +8914,7 @@
             "query": "80.66.81.61"
             "query": "80.82.55.71"
             "query": "80.87.213.111"
+            "query": "80.87.213.45"
             "query": "80.91.116.129"
             "query": "80.91.27.209"
             "query": "81.16.1.188"
@@ -9383,6 +9393,7 @@
             "regionName": "Asunci\u00f3n",
             "regionName": "Atl\u00e1ntico",
             "regionName": "Attica",
+            "regionName": "Azuay",
             "regionName": "B\u00e0 R\u1ecba\u2013V\u0169ng T\u00e0u Province",
             "regionName": "B\u00e1cs-Kiskun",
             "regionName": "B\u00ecnh D\u01b0\u01a1ng Province",
@@ -10907,6 +10918,7 @@
         "ip": "103.153.62.158",
         "ip": "103.154.120.147",
         "ip": "103.154.230.130",
+        "ip": "103.154.230.58",
         "ip": "103.154.77.204",
         "ip": "103.155.191.60",
         "ip": "103.155.196.65",
@@ -12108,6 +12120,7 @@
         "ip": "190.144.238.66",
         "ip": "190.145.227.114",
         "ip": "190.152.5.17",
+        "ip": "190.153.237.2",
         "ip": "190.181.59.212",
         "ip": "190.187.163.2",
         "ip": "190.187.201.26",
@@ -12291,6 +12304,7 @@
         "ip": "200.24.131.125",
         "ip": "200.24.131.126",
         "ip": "200.24.134.53",
+        "ip": "200.24.157.122",
         "ip": "200.25.254.193",
         "ip": "200.252.32.40",
         "ip": "200.26.232.90",
@@ -12983,6 +12997,7 @@
         "ip": "80.66.81.61",
         "ip": "80.82.55.71",
         "ip": "80.87.213.111",
+        "ip": "80.87.213.45",
         "ip": "80.91.116.129",
         "ip": "80.91.27.209",
         "ip": "81.16.1.188",
@@ -13229,6 +13244,7 @@
         "port": 12689,
         "port": 12717,
         "port": 12731,
+        "port": 12735,
         "port": 12741,
         "port": 12777,
         "port": 1281,
@@ -13307,6 +13323,7 @@
         "port": 14505,
         "port": 14521,
         "port": 14537,
+        "port": 14553,
         "port": 14561,
         "port": 14585,
         "port": 14617,
@@ -14068,6 +14085,7 @@
         "port": 3647,
         "port": 36666,
         "port": 3685,
+        "port": 37453,
         "port": 3763,
         "port": 37647,
         "port": 37793,
