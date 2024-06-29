@@ -494,6 +494,7 @@
             "as": "AS265629 FIBERNET",
             "as": "AS265684 INFINITUM S.A.",
             "as": "AS265688 SINERGY SOLUCIONES INTEGRALES",
+            "as": "AS265711 KOLVECH S.A. (TELECOMVAS)",
             "as": "AS265763 Interret Villa Angela SRL",
             "as": "AS265851 MJL NETWORK EIRL",
             "as": "AS265858 NETDELSUR TELECOMUNICACIONES SPA",
@@ -1615,6 +1616,7 @@
             "city": "Phuong Lam",
             "city": "Pinellas Park",
             "city": "Pingzhen",
+            "city": "Pisangan",
             "city": "Piscataway",
             "city": "Pitalito",
             "city": "Placas",
@@ -1786,6 +1788,7 @@
             "city": "Taichung",
             "city": "Tail\u00e2ndia",
             "city": "Taipei",
+            "city": "Taiyuan",
             "city": "Tak Fa",
             "city": "Takasago",
             "city": "Talagante",
@@ -2223,6 +2226,7 @@
             "isp": "CAT-BB",
             "isp": "CATBB",
             "isp": "CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+            "isp": "CEPATNET",
             "isp": "CHINANET Hubei province network",
             "isp": "CHINANET jiangsu province network",
             "isp": "CHINANET",
@@ -2579,6 +2583,7 @@
             "isp": "King Netsol Private Limited",
             "isp": "King Technologies Co",
             "isp": "Kings Network Indonesia, PT",
+            "isp": "Kolvech S.A.",
             "isp": "Komputersat sc",
             "isp": "Korbank S. A.",
             "isp": "Korea Telecom",
@@ -3434,6 +3439,7 @@
             "lat": -6.20309,
             "lat": -6.20323,
             "lat": -6.205,
+            "lat": -6.2052,
             "lat": -6.20876,
             "lat": -6.20933,
             "lat": -6.21027,
@@ -4067,6 +4073,7 @@
             "lat": 37.6799,
             "lat": 37.7809,
             "lat": 37.783,
+            "lat": 37.8706,
             "lat": 37.9842,
             "lat": 38.016,
             "lat": 38.036,
@@ -4958,6 +4965,7 @@
             "lon": 106.845,
             "lon": 106.846,
             "lon": 106.861,
+            "lon": 106.8694,
             "lon": 106.882,
             "lon": 106.8953,
             "lon": 106.9259,
@@ -5036,6 +5044,7 @@
             "lon": 112.372,
             "lon": 112.401,
             "lon": 112.4325,
+            "lon": 112.549,
             "lon": 112.6308,
             "lon": 112.7181,
             "lon": 112.724,
@@ -6072,6 +6081,7 @@
             "org": "Kavya  Pvt Ltd",
             "org": "King Netsol Private Limited",
             "org": "Kings",
+            "org": "Kolvech S.A.",
             "org": "Komputersat S.C. J.Kowalski, T. Janaszkiwewicz",
             "org": "Korbank S. A.",
             "org": "Korea Telecom",
@@ -6493,6 +6503,7 @@
             "org": "Sustenta Telecom Ltda",
             "org": "Sv Tel",
             "org": "Swisscom (Schweiz) AG",
+            "org": "Sxdtbas",
             "org": "Symphony Communication Plc.",
             "org": "Syntego Technologies India Private Limited",
             "org": "Sysnovelltel S.A",
@@ -7371,6 +7382,7 @@
             "query": "134.35.216.169"
             "query": "134.35.243.52"
             "query": "134.35.251.9"
+            "query": "134.35.254.207"
             "query": "134.35.41.118"
             "query": "135.125.225.75"
             "query": "136.226.0.100"
@@ -8098,6 +8110,7 @@
             "query": "191.97.6.149"
             "query": "192.135.91.6"
             "query": "192.140.42.83"
+            "query": "192.140.93.6"
             "query": "192.141.196.129"
             "query": "192.145.205.97"
             "query": "192.169.179.253"
@@ -8589,6 +8602,7 @@
             "query": "42.112.21.207"
             "query": "42.112.97.60"
             "query": "43.132.124.11"
+            "query": "43.243.141.12"
             "query": "43.249.224.174"
             "query": "43.252.236.157"
             "query": "44.226.167.102"
@@ -8769,6 +8783,7 @@
             "query": "59.124.62.9"
             "query": "59.152.14.217"
             "query": "59.157.2.63"
+            "query": "59.48.23.26"
             "query": "59.98.151.201"
             "query": "59.98.4.70"
             "query": "61.129.2.212"
@@ -9972,6 +9987,7 @@
             "zip": "02002",
             "zip": "0250",
             "zip": "029 01",
+            "zip": "030000",
             "zip": "03020",
             "zip": "03026",
             "zip": "03582",
@@ -11444,6 +11460,7 @@
         "ip": "134.35.216.169",
         "ip": "134.35.243.52",
         "ip": "134.35.251.9",
+        "ip": "134.35.254.207",
         "ip": "134.35.41.118",
         "ip": "135.125.225.75",
         "ip": "136.226.0.100",
@@ -12171,6 +12188,7 @@
         "ip": "191.97.6.149",
         "ip": "192.135.91.6",
         "ip": "192.140.42.83",
+        "ip": "192.140.93.6",
         "ip": "192.141.196.129",
         "ip": "192.145.205.97",
         "ip": "192.169.179.253",
@@ -12662,6 +12680,7 @@
         "ip": "42.112.21.207",
         "ip": "42.112.97.60",
         "ip": "43.132.124.11",
+        "ip": "43.243.141.12",
         "ip": "43.249.224.174",
         "ip": "43.252.236.157",
         "ip": "44.226.167.102",
@@ -12842,6 +12861,7 @@
         "ip": "59.124.62.9",
         "ip": "59.152.14.217",
         "ip": "59.157.2.63",
+        "ip": "59.48.23.26",
         "ip": "59.98.151.201",
         "ip": "59.98.4.70",
         "ip": "61.129.2.212",
@@ -13593,6 +13613,7 @@
         "port": 2251,
         "port": 22517,
         "port": 22521,
+        "port": 22523,
         "port": 22549,
         "port": 22605,
         "port": 22613,
@@ -13874,6 +13895,7 @@
         "port": 30113,
         "port": 30118,
         "port": 30127,
+        "port": 30135,
         "port": 30139,
         "port": 30175,
         "port": 30187,
@@ -13965,6 +13987,7 @@
         "port": 31823,
         "port": 3189,
         "port": 31901,
+        "port": 31909,
         "port": 31949,
         "port": 31967,
         "port": 3197,
